@@ -1,0 +1,37 @@
+
+const header
+
+header {
+    font-family: comic sans-serif;
+    font-size: 1.5em;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: lime;
+    font-family: Arial, sans-serif;
+}
+
+foot {
+    background-color: black;
+    color: lime;
+    font-family: Arial, sans-serif;
+}
+
+search {
+    background-color: black;
+    color: lime;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    background-color: black;
+    color: lime;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    border: 2px solid gray;
+    padding: 10px;
+}
