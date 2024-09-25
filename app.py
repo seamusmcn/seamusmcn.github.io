@@ -13,7 +13,7 @@ def home():
 def pull_text():
     # Add your script logic here
     # Example: You can pull data from GitHub and then process it.
-    response = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.gitgub.io/main/README.md')
+    response = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/README.md')
     data = response.text
     return data
 
