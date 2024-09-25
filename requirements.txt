@@ -1,3 +1,7 @@
 gunicorn
 Flask
 requests
+spotipy
+pandas
+numpy
+astropy
