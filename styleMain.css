@@ -38,11 +38,11 @@ img {
 
 .arcade-button {
     display: inline-block;
-    padding: 15px 30px;
+    padding: 15px 15px;
     background-color: red;
-    border: 4px solid black;
+    border: 10px solid black;
     border-radius: 50%;
-    box-shadow: 0 5px black;
+    box-shadow: 0 15px black;
     color: white;
     font-size: 20px;
     font-family: 'Press Start 2P', cursive; /* Use a retro font like this */
@@ -53,11 +53,11 @@ img {
 
 /* Add the "pressed" effect when clicked */
 .arcade-button:active {
-    box-shadow: 0 2px black;
-    transform: translateY(3px);
+    box-shadow: 0 5px black;
+    transform: translateY(6px);
 }
 
 /* Hover effect */
 .arcade-button:hover {
-    background-color: darkred;
+    background-color: rgb(71, 0, 0);
 }
