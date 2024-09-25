@@ -11,10 +11,24 @@
     <link rel="stylesheet" href="styleMain.css"> <!-- This is the CSS file that defines our style -->
 
 </head>
+
+<h1>Enter Your Spotify Credentials</h1>
+
+<!-- Form to collect Spotify credentials -->
+<form id="spotify-form" action="/submit_credentials" method="POST"> <!-- Sends the credentials using the /submit_credentials post method going to app.py which receives with this @app route --> 
+    <label for="client_id">Client ID:</label><br>
+    <input type="text" id="client_id" name="client_id" required><br><br>
+
+    <label for="client_secret">Client Secret:</label><br>
+    <input type="text" id="client_secret" name="client_secret" required><br><br>
+
+    <label for="redirect_uri">Redirect URI:</label><br>
+    <input type="text" id="redirect_uri" name="redirect_uri" required><br><br>
+
+    <input type="submit" value="Submit">
+</form>
  
 <body>
-
-    <h1>Test these out!</h1>
     <!-- <p></p> -->
     <br><br>
     <button onclick="window.location.href='https://seamusmcn-github-io.onrender.com/pull_text'">Get Read me</button>
@@ -22,8 +36,9 @@
 
     <p id="status"></p>  <!-- This will show the status of the request -->
 
+    <h2>Get Most Similar Song!</h2>
     <!-- Button to trigger the Flask route without navigating away -->
-    <button class="arcade-button" onclick="getMostSimilarSong()">Get Most Similar Song</button>
+    <button class="arcade-button" onclick="getMostSimilarSong()"></button>
 
     <script>
         function getMostSimilarSong() {

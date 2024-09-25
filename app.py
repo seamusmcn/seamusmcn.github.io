@@ -1,12 +1,5 @@
 app = Flask(__name__)
 
-# Function to prompt user for their Spotify API credentials
-def get_user_credentials():
-    client_id = input("Enter your Spotify Client ID: ")
-    client_secret = input("Enter your Spotify Client Secret: ")
-    redirect_uri = input("Enter your Redirect URI: ")
-    return client_id, client_secret, redirect_uri
-
 # Function to authenticate using the user-provided credentials
 def authenticate_spotify(client_id, client_secret, redirect_uri):
     sp_oauth = SpotifyOAuth(client_id=client_id, 
@@ -133,13 +126,25 @@ def pull_text():
     data = response.text
     return data
 
+# Route to handle form submission
+@app.route('/submit_credentials', methods=['POST'])
+def submit_credentials():
+    client_id = request.form['client_id']
+    client_secret = request.form['client_secret']
+    redirect_uri = request.form['redirect_uri']
+
+    # Now you can pass these credentials to the function that uses them
+    sp = authenticate_spotify(client_id, client_secret, redirect_uri)
+    print("We're in")
+
+    return sp
+
 # Play the most similar song from the Master Catalog
 @app.route('/most_similar_song')
 def most_similar_song():
     response = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Master_Catalog.csv')
 
-    client_id, client_secret, redirect_uri = get_user_credentials()
-    sp = authenticate_spotify(client_id, client_secret, redirect_uri)
+    sp = submit_credentials()
 
     song_name = best_next_song(sp, response.text)
 
