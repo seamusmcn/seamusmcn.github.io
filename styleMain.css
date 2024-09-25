@@ -40,9 +40,9 @@ img {
     display: inline-block;
     padding: 15px 15px;
     background-color: red;
-    border: 10px solid black;
+    border: 10px solid rgb(255, 255, 255);
     border-radius: 50%;
-    box-shadow: 0 15px black;
+    box-shadow: 0 15px rgb(247, 163, 163);
     color: white;
     font-size: 20px;
     font-family: 'Press Start 2P', cursive; /* Use a retro font like this */
@@ -53,7 +53,7 @@ img {
 
 /* Add the "pressed" effect when clicked */
 .arcade-button:active {
-    box-shadow: 0 5px black;
+    box-shadow: 0 5px rgb(243, 164, 164);
     transform: translateY(6px);
 }
 
