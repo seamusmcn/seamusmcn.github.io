@@ -4,4 +4,4 @@ requests
 spotipy
 pandas
 numpy
-astropy
+astropy>=6.1.3
