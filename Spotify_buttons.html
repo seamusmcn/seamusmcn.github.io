@@ -22,9 +22,6 @@
     <label for="client_secret">Client Secret:</label><br>
     <input type="text" id="client_secret" name="client_secret" required><br><br>
 
-    <label for="redirect_uri">Redirect URI:</label><br>
-    <input type="text" id="redirect_uri" name="redirect_uri" required><br><br>
-
     <input type="submit" value="Submit">
 </form>
  
@@ -36,25 +33,46 @@
 
     <p id="status"></p>  <!-- This will show the status of the request -->
 
-    <h2>Get Most Similar Song!</h2>
-    <!-- Button to trigger the Flask route without navigating away -->
-    <button class="arcade-button" onclick="getMostSimilarSong()"></button>
+    <h1>Add the next 5 most similar songs from what catalog? (Either 'Liked' or 'Master'!)</h1>
+
+    <!-- Form to select Catalog Type -->
+    <form id="spotify-form" onsubmit="return getMostSimilarSong()">
+        <label for="Catalog">Catalog Type:</label><br>
+        <input type="text" id="Catalog" name="Catalog" required><br><br>
+        <input type="submit" value="Submit">
+    </form>
 
     <script>
         function getMostSimilarSong() {
+            // Prevent the form from submitting normally
+            event.preventDefault();
+
+            // Get the catalog type from the input field
+            let catalog = document.getElementById('Catalog').value;
+
             // Make an AJAX request to the Flask route
-            fetch('https://smcn-github-io.onrender.com/most_similar_song')
-                .then(response => response.text())
-                .then(data => {
-                    // Display the response in the 'status' paragraph
-                    document.getElementById('status').innerText = data;
+            fetch('https://smcn-github-io.onrender.com/most_similar_song', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams({
+                    'Catalog': catalog
                 })
-                .catch(error => {
-                    document.getElementById('status').innerText = 'Error occurred!';
-                    console.error('Error:', error);
-                });
+            })
+            .then(response => response.text())
+            .then(data => {
+                // Display the response in the 'status' paragraph
+                document.getElementById('status').innerText = data;
+            })
+            .catch(error => {
+                document.getElementById('status').innerText = 'Error occurred!';
+                console.error('Error:', error);
+            });
+
+            return false; // Prevent form submission from reloading the page
         }
-    </script> 
+    </script>  
     
 
 </body>
