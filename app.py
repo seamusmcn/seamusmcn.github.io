@@ -1,5 +1,6 @@
-from flask import Flask, request, render_template  # Ensure Flask is imported correctly
-import requests  # Optional, for making HTTP requests
+from flask import Flask, request, render_template, session
+from flask_session import Session
+import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
@@ -13,6 +14,17 @@ import glob
 
 app = Flask(__name__)
 
+# Initialize Flask app
+app = Flask(__name__)
+
+# Configure session to use filesystem (instead of signed cookies)
+app.config['SESSION_TYPE'] = 'filesystem'
+app.config['SECRET_KEY'] = 'your_secret_key_here'  # Replace with a strong secret key
+Session(app)
+
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+
 # Function to authenticate using the user-provided credentials
 def authenticate_spotify(client_id, client_secret):
     sp_oauth = SpotifyOAuth(client_id=client_id, 
@@ -20,7 +32,26 @@ def authenticate_spotify(client_id, client_secret):
                             redirect_uri='http://localhost:8888/callback', 
                             scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public')
     token_info = sp_oauth.get_access_token(as_dict=True)
-    return spotipy.Spotify(auth=token_info['access_token'])
+    return token_info
+
+# Function to ensure the token is valid and refresh if necessary
+def ensure_token():
+    token_info = {
+        'access_token': session.get('access_token'),
+        'refresh_token': session.get('refresh_token'),
+        'expires_at': session.get('token_expires')
+    }
+    if not token_info['access_token'] or time.time() > token_info['expires_at']:
+        sp_oauth = SpotifyOAuth(
+            client_id=session.get('client_id'),
+            client_secret=session.get('client_secret'),
+            redirect_uri=session.get('redirect_uri')
+        )
+        token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
+        session['access_token'] = token_info['access_token']
+        session['refresh_token'] = token_info['refresh_token']
+        session['token_expires'] = token_info['expires_at']
+    return token_info['access_token']
 
 # Function to get the current playing track
 def get_current_playing_track(sp):
@@ -109,6 +140,8 @@ def best_next_songs(sp, Catalog, response_master, response_liked, n_songs=5):
             sp.add_to_queue(song_uri)
             print(f"Added {song_name} to queue.")
 
+        return closest_songs[0][0] if closest_songs else "No similar song found."
+
 # makes a playlist from the master catalog based on artist you are listening to and most similar song.
 def artist_cat(sp, response_master):
     # Read the master catalog
@@ -177,9 +210,31 @@ def artist_cat(sp, response_master):
         print(f"Playlist '{playlist_name}' created and now playing!")
 
 # Route to your homepage
+# Route to render the HTML form
 @app.route('/')
-def home():
-    return "Hello, this is your Flask app!"
+def index():
+    return render_template('index.html')  # Ensure you have an 'index.html' in your 'templates' folder
+
+# Route to handle Spotify credentials submission
+@app.route('/submit_credentials', methods=['POST'])
+def submit_credentials():
+    client_id = request.form['client_id']
+    client_secret = request.form['client_secret']
+    redirect_uri = request.form['redirect_uri']
+
+    # Store credentials in session
+    session['client_id'] = client_id
+    session['client_secret'] = client_secret
+    session['redirect_uri'] = redirect_uri
+
+    # Authenticate with Spotify and store tokens in session
+    token_info = authenticate_spotify(client_id, client_secret, redirect_uri)
+    session['access_token'] = token_info['access_token']
+    session['refresh_token'] = token_info['refresh_token']
+    session['token_expires'] = token_info['expires_at']  # Timestamp when the access token expires
+
+    logging.info("Spotify credentials received and authenticated.")
+    return "We're in"
 
 # Route to execute your first Python script
 @app.route('/pull_text')
@@ -189,24 +244,6 @@ def pull_text():
     response = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/README.md')
     data = response.text
     return data
-
-# Route to handle Spotify credentials submission
-@app.route('/submit_credentials', methods=['POST'])
-def submit_credentials():
-    client_id = request.form['client_id']
-    client_secret = request.form['client_secret']
-    redirect_uri = request.form['redirect_uri']
-
-    # Authenticate with Spotify
-    sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri=redirect_uri)
-    token_info = sp_oauth.get_access_token()
-
-    # Store access and refresh tokens in the session (or use a database)
-    session['access_token'] = token_info['access_token']
-    session['refresh_token'] = token_info['refresh_token']
-    session['token_expires'] = token_info['expires_at']  # Timestamp when the access token expires
-
-    return "We're in"
 
 def ensure_token():
     token_expires = session.get('token_expires')
@@ -228,16 +265,16 @@ def most_similar_song():
     access_token = ensure_token()
 
     # Use the access token to authenticate Spotify requests
-    sp = authenticate_spotify_with_token(access_token)
+    sp = authenticate_spotify_with_token(auth=access_token)
 
     # Fetch catalog data and find the best next song
-    Catalog = request.form['Catalog']
+    Catalog = request.form.get('Catalog')
     response_master = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Master_Catalog.csv')
     response_liked = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Liked_Songs.csv')
 
     song_name = best_next_songs(sp, Catalog, response_master, response_liked)
 
-    return
+    return f"Added {song_name} to queue."
 
 @app.route('/artist_playlist', methods=['POST'])
 def make_artist_playlist():
@@ -245,13 +282,13 @@ def make_artist_playlist():
     access_token = ensure_token()
 
     # Use the access token to authenticate Spotify requests
-    sp = authenticate_spotify_with_token(access_token)
+    sp = spotipy.Spotify(auth=access_token)
 
     response_master = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Master_Catalog.csv')
 
     artist_cat(sp, response_master)
 
-    return 
+    return "Playlist created"
 
 
 if __name__ == '__main__':
