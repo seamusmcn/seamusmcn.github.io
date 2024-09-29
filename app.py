@@ -4,6 +4,7 @@ from flask_cors import CORS
 import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+from uuid import uuid4
 import pandas as pd
 import numpy as np
 from astropy.table import Table, vstack, Column
