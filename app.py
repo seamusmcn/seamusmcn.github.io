@@ -16,7 +16,7 @@ import glob
 
 # Initialize Flask app
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}}, methods=['POST', 'GET'], allow_headers=['Content-Type']) # This will allow all CORS requests - with security - saying only through the github can people access the server / backend
+CORS(app, resources={r"/*": {"origins": "https://seamusmcn.github.io"}}, methods=['POST', 'GET'], allow_headers=['Content-Type']) # This will allow all CORS requests - with security - saying only through the github can people access the server / backend
 
 
 # Configure session to use filesystem (instead of signed cookies)
