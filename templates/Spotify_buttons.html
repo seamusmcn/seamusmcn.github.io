@@ -17,7 +17,7 @@
     <h1>Enter Your Spotify Credentials</h1>
 
     <!-- Form to collect Spotify credentials -->
-    <form id="spotify-form"> <!-- Sends the credentials - need to directly put in web connection url to get to server to /submit_credentials --> 
+    <form id="spotify-credentials-form"> <!-- Sends the credentials - need to directly put in web connection url to get to server to /submit_credentials --> 
         <label for="client_id">Client ID:</label><br>
         <input type="text" id="client_id" name="client_id" required><br><br>
 
@@ -28,7 +28,7 @@
     </form>
 
     <script>
-        document.getElementById('spotify-form').addEventListener('submit', function(event) {
+        document.getElementById('spotify-credentials-form').addEventListener('submit', function(event) {
             event.preventDefault(); // Prevent the default form submission
 
             // Collect form data
@@ -76,7 +76,7 @@
     <h1>Add the next 5 most similar songs from what catalog? (Either 'Liked' or 'Master'!)</h1>
 
     <!-- Form to select Catalog Type -->
-    <form id="spotify-form" onsubmit="return getMostSimilarSong()">
+    <form id="catalog-form" onsubmit="return getMostSimilarSong()">
         <label for="Catalog">Catalog Type:</label><br>
         <input type="text" id="Catalog" name="Catalog" required><br><br>
         <input type="submit" value="Submit">
