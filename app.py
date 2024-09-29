@@ -212,11 +212,11 @@ def artist_cat(sp, response_master):
         sp.start_playback(context_uri=new_playlist['uri'])
         print(f"Playlist '{playlist_name}' created and now playing!")
 
-# Route to your homepage
-# Route to render the HTML form
-@app.route('/')
-def index():
-    return render_template('index.html')  # Ensure you have an 'index.html' in your 'templates' folder
+# # Route to your homepage
+# # Route to render the HTML form
+# @app.route('/')
+# def index():
+#     return render_template('index.html')  # Ensure you have an 'index.html' in your 'templates' folder
 
 # Route to handle Spotify credentials submission
 @app.route('/submit_credentials', methods=['POST'])
