@@ -36,25 +36,6 @@ def authenticate_spotify(client_id, client_secret, redirect_uri):
     auth_url = sp_oauth.get_authorize_url()
     return auth_url
 
-# Function to ensure the token is valid and refresh if necessary
-def ensure_token():
-    token_info = {
-        'access_token': session.get('access_token'),
-        'refresh_token': session.get('refresh_token'),
-        'expires_at': session.get('token_expires')
-    }
-    if not token_info['access_token'] or time.time() > token_info['expires_at']:
-        sp_oauth = SpotifyOAuth(
-            client_id=session.get('client_id'),
-            client_secret=session.get('client_secret'),
-            redirect_uri=session.get('redirect_uri')
-        )
-        token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
-        session['access_token'] = token_info['access_token']
-        session['refresh_token'] = token_info['refresh_token']
-        session['token_expires'] = token_info['expires_at']
-    return token_info['access_token']
-
 # Function to get the current playing track
 def get_current_playing_track(sp):
     current_track = sp.current_playback()
@@ -222,12 +203,12 @@ def artist_cat(sp, response_master):
 def submit_credentials():
     client_id = request.form['client_id']
     client_secret = request.form['client_secret']
-    redirect_uri = 'http://localhost:8888/callback'
+    redirect_uri = 'https://seamusmcn-github-io.onrender.com/callback'
 
     # Store credentials in session
     session['client_id'] = client_id
     session['client_secret'] = client_secret
-    session['redirect_uri'] = 'http://localhost:8888/callback' # change to spotify buttons redirect url?
+    session['redirect_uri'] = 'https://seamusmcn-github-io.onrender.com/callback' # make it callback from my server
 
     if not client_id or not client_secret:
         return jsonify({"error": "Missing credentials."}), 400
@@ -290,6 +271,7 @@ def pull_text():
     data = response.text
     return data
 
+# Function to ensure the token is valid and refresh if necessary
 def ensure_token():
     token_info = {
         'access_token': session.get('access_token'),
