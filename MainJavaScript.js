@@ -19,7 +19,7 @@ form.addEventListener('submit', function(event) {
             'Content-Type': 'application/x-www-form-urlencoded',
         },
         body: formData.toString(),
-        credentials: 'include'  // Add this line to include cookies
+        credentials: 'include'  // Include cookies
     })
     .then(response => {
         if (!response.ok) {

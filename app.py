@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template, session, redirect, jsonify
-from flask_session import Session
+# from flask_session import Session
 from flask_cors import CORS
 import requests
 import spotipy
@@ -24,10 +24,13 @@ CORS(app,
      allow_headers=['Content-Type']
 )
 
+# remove becauase render may not use Session correctly here 
 # Configure session to use filesystem (instead of signed cookies)
-app.config['SESSION_TYPE'] = 'filesystem'
+# app.config['SESSION_TYPE'] = 'filesystem'
+# Session(app)
+
+# grab secret key from my server
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default_secret_key')
-Session(app)
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -214,6 +217,8 @@ def submit_credentials():
     session['redirect_uri'] = redirect_uri
 
     logging.info(f"Spotify credentials received for client_id: {client_id}")
+    logging.info(f"Session ID after setting data: {session.sid if hasattr(session, 'sid') else 'No SID'}")
+    logging.info(f"Session contents after setting data: {dict(session)}")
 
     try:
         # Use client_secret directly without storing it in session
@@ -230,6 +235,8 @@ def callback():
     redirect_uri = session.get('redirect_uri')
 
     logging.info(f"Callback invoked with session data: client_id={client_id}, redirect_uri={redirect_uri}")
+    logging.info(f"Session ID in callback: {session.sid if hasattr(session, 'sid') else 'No SID'}")
+    logging.info(f"Session contents in callback: {dict(session)}")
 
     if not client_id or not redirect_uri:
         logging.warning("Missing credentials in session.")
