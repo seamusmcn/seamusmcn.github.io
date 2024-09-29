@@ -6,3 +6,4 @@ pandas
 numpy
 astropy>=6.1.3
 flask-session
+flask-cors
