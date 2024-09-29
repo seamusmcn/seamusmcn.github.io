@@ -21,50 +21,9 @@
         <label for="client_id">Client ID:</label><br>
         <input type="text" id="client_id" name="client_id" required><br><br>
 
-        <label for="client_secret">Client Secret:</label><br>
-        <input type="text" id="client_secret" name="client_secret" required><br><br>
-
         <input type="submit" value="Submit">
     </form>
 
-    <script>
-        document.getElementById('spotify-credentials-form').addEventListener('submit', function(event) {
-            event.preventDefault(); // Prevent the default form submission
-
-            // Collect form data
-            const client_id = document.getElementById('client_id').value;
-            const client_secret = document.getElementById('client_secret').value;
-
-            // Prepare the data to be sent
-            const formData = new URLSearchParams();
-            formData.append('client_id', client_id);
-            formData.append('client_secret', client_secret);
-
-            // Make a POST request to the Flask backend
-            fetch('https://seamusmcn-github-io.onrender.com/submit_credentials', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/x-www-form-urlencoded',
-                },
-                body: formData.toString()
-            })
-            .then(response => response.json())
-            .then(data => {
-                if (data.auth_url) {
-                    // Redirect the user to Spotify's authorization page
-                    window.location.href = data.auth_url;
-                } else if (data.error) {
-                    document.getElementById('status').innerText = `Error: ${data.error}`;
-                } else {
-                    document.getElementById('status').innerText = 'Unexpected response from server.';
-                }
-            })
-            .catch(error => {
-                document.getElementById('status').innerText = 'An error occurred during submission.';
-                console.error('Error:', error);
-            });
-        });
-    </script>
  
     <!-- <p></p> -->
     <br><br>
@@ -83,14 +42,59 @@
     </form>
 
     <script>
-        function getMostSimilarSong() {
-            // Prevent the form from submitting normally
-            event.preventDefault();
+        // Handle Credentials Form Submission
+        document.getElementById('spotify-credentials-form').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent the default form submission
+
+            // Collect form data
+            const client_id = document.getElementById('client_id').value;
+            const client_secret = document.getElementById('client_secret').value;
+
+            // Prepare the data to be sent
+            const formData = new URLSearchParams();
+            formData.append('client_id', client_id);
+            formData.append('client_secret', client_secret);
+
+            // Make a POST request to the Flask backend with credentials included
+            fetch('https://seamusmcn-github-io.onrender.com/submit_credentials', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: formData.toString(),
+                credentials: 'include'  // Ensure cookies are sent
+            })
+            .then(response => {
+                if (!response.ok) {
+                    // Attempt to parse error message
+                    return response.json().then(err => { throw err; });
+                }
+                return response.json();
+            })
+            .then(data => {
+                if (data.auth_url) {
+                    // Redirect the user to Spotify's authorization page
+                    window.location.href = data.auth_url;
+                } else if (data.error) {
+                    document.getElementById('status').innerText = `Error: ${data.error}`;
+                } else {
+                    document.getElementById('status').innerText = 'Unexpected response from server.';
+                }
+            })
+            .catch(error => {
+                document.getElementById('status').innerText = `An error occurred: ${error.error || 'Unknown error'}`;
+                console.error('Error:', error);
+            });
+        });
+
+        // Handle Catalog Form Submission
+        document.getElementById('catalog-form').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent the default form submission
 
             // Get the catalog type from the input field
             let catalog = document.getElementById('Catalog').value;
 
-            // Make an AJAX request to the Flask route
+            // Make an AJAX request to the Flask route with credentials included
             fetch('https://seamusmcn-github-io.onrender.com/most_similar_song', {
                 method: 'POST',
                 headers: {
@@ -98,21 +102,25 @@
                 },
                 body: new URLSearchParams({
                     'Catalog': catalog
-                })
+                }),
+                credentials: 'include'  // Ensure cookies are sent
             })
-            .then(response => response.text())
+            .then(response => {
+                if (!response.ok) {
+                    return response.json().then(err => { throw err; });
+                }
+                return response.text();
+            })
             .then(data => {
                 // Display the response in the 'status' paragraph
                 document.getElementById('status').innerText = data;
             })
             .catch(error => {
-                document.getElementById('status').innerText = 'Error occurred!';
+                document.getElementById('status').innerText = `An error occurred: ${error.error || 'Unknown error'}`;
                 console.error('Error:', error);
             });
-
-            return false; // Prevent form submission from reloading the page
-        }
-    </script>  
+        });
+    </script>
 
     <br><br>
     
