@@ -1,25 +1,23 @@
 // JAVASCRIPT FILE!!
 
-// Ensure formData is correctly defined
-const form = document.getElementById('spotify-credentials-form'); // Update with your actual form ID
-form.addEventListener('submit', function(event) {
+// Handle Credentials Form Submission
+document.getElementById('spotify-credentials-form').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent the default form submission
 
     // Collect form data
     const client_id = document.getElementById('client_id').value;
 
-    // Prepare the data to be sent
+    // Prepare the data to be sent as URL-encoded form data
     const formData = new URLSearchParams();
     formData.append('client_id', client_id);
 
-    // Make a POST request to the Flask backend with credentials included
+    // Make a POST request to the Flask backend
     fetch('https://seamusmcn-github-io.onrender.com/submit_credentials', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/x-www-form-urlencoded',
         },
         body: formData.toString(),
-        credentials: 'include'  // Include cookies
     })
     .then(response => {
         if (!response.ok) {

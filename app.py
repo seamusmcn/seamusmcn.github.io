@@ -35,14 +35,20 @@ app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default_secret_key')
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 
-def authenticate_spotify(client_id, client_secret, redirect_uri):
+# Temporary in-memory store for state data
+state_data_store = {}
+
+def authenticate_spotify(client_id, client_secret, redirect_uri, state):
     sp_oauth = SpotifyOAuth(
         client_id=client_id,
         client_secret=client_secret,
-        redirect_uri=redirect_uri, # IF CHANGING THIS to back to git hub have to change in spotify developer
-        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public')
+        redirect_uri=redirect_uri,
+        state=state,
+        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public'
+    )
     auth_url = sp_oauth.get_authorize_url()
     return auth_url
+
 
 # Function to get the current playing track
 def get_current_playing_track(sp):
@@ -203,44 +209,54 @@ def artist_cat(sp, response_master):
 # Route to handle Spotify credentials submission
 @app.route('/submit_credentials', methods=['POST'])
 def submit_credentials():
+    # Parse form data
     client_id = request.form.get('client_id')
-    # Retrieve client_secret from environment variables
     client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
-    redirect_uri = 'https://seamusmcn-github-io.onrender.com/callback'  # Updated to deployed URL
+    redirect_uri = 'https://seamusmcn-github-io.onrender.com/callback'  # Deployed URL
 
     if not client_id or not client_secret:
         logging.error("Missing credentials in form submission.")
         return jsonify({"error": "Missing credentials."}), 400
 
-    # Store only non-sensitive data in session
-    session['client_id'] = client_id
-    session['redirect_uri'] = redirect_uri
+    # Generate a unique state string
+    state = str(uuid4())
 
-    logging.info(f"Spotify credentials received for client_id: {client_id}")
-    logging.info(f"Session ID after setting data: {session.sid if hasattr(session, 'sid') else 'No SID'}")
-    logging.info(f"Session contents after setting data: {dict(session)}")
+    # Store client_id associated with this state
+    state_data_store[state] = {
+        'client_id': client_id,
+        'redirect_uri': redirect_uri
+        # You can add a timestamp here to expire old states
+    }
+
+    logging.info(f"Generated state {state} for client_id: {client_id}")
 
     try:
-        # Use client_secret directly without storing it in session
-        auth_url = authenticate_spotify(client_id, client_secret, redirect_uri)
+        # Use the state parameter in the auth URL
+        auth_url = authenticate_spotify(client_id, client_secret, redirect_uri, state)
         return jsonify({"auth_url": auth_url}), 200
     except Exception as e:
         logging.error(f"Error during Spotify authentication: {e}")
         return jsonify({"error": "Internal Server Error"}), 500
 
 
+
 @app.route('/callback')
 def callback():
-    client_id = session.get('client_id')
-    redirect_uri = session.get('redirect_uri')
+    code = request.args.get('code')
+    state = request.args.get('state')
 
-    logging.info(f"Callback invoked with session data: client_id={client_id}, redirect_uri={redirect_uri}")
-    logging.info(f"Session ID in callback: {session.sid if hasattr(session, 'sid') else 'No SID'}")
-    logging.info(f"Session contents in callback: {dict(session)}")
+    logging.info(f"Callback received with state: {state}")
 
-    if not client_id or not redirect_uri:
-        logging.warning("Missing credentials in session.")
-        return jsonify({"error": "Missing credentials in session."}), 400
+    if not state or state not in state_data_store:
+        logging.warning("Invalid or missing state parameter.")
+        return jsonify({"error": "Invalid or missing state parameter."}), 400
+
+    # Retrieve stored data using state
+    client_id = state_data_store[state]['client_id']
+    redirect_uri = state_data_store[state]['redirect_uri']
+
+    # Optionally, remove the state from the store
+    del state_data_store[state]
 
     # Retrieve client_secret from environment variables
     client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
@@ -252,24 +268,27 @@ def callback():
         client_id=client_id,
         client_secret=client_secret,
         redirect_uri=redirect_uri,
+        state=state,
         scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public'
     )
 
-    code = request.args.get('code')
     if code:
         try:
             token_info = sp_oauth.get_access_token(code, as_dict=True)
-            session['access_token'] = token_info['access_token']
-            session['refresh_token'] = token_info['refresh_token']
-            session['token_expires'] = token_info['expires_at']
+            # Store tokens associated with client_id or another identifier
+            # For simplicity, we'll add it to state_data_store
+            state_data_store[state] = {
+                'client_id': client_id,
+                'access_token': token_info['access_token'],
+                'refresh_token': token_info['refresh_token'],
+                'expires_at': token_info['expires_at']
+            }
             logging.info("Spotify authentication successful.")
             return jsonify({"message": "Authentication successful!"}), 200
         except Exception as e:
             logging.error(f"Error obtaining access token: {e}")
             return jsonify({"error": "Failed to obtain access token."}), 500
-    else:
-        logging.warning("Authorization code not found in callback.")
-        return jsonify({"error": "Authorization failed."}), 400
+
 
 # Route to execute your first Python script
 @app.route('/pull_text')
