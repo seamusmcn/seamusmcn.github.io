@@ -17,7 +17,7 @@
     <h1>Enter Your Spotify Credentials</h1>
 
     <!-- Form to collect Spotify credentials -->
-    <form id="spotify-form" action="https://seamusmcn-github-io.onrender.com/submit_credentials" method="POST"> <!-- Sends the credentials - need to directly put in web connection url to get to server to /submit_credentials --> 
+    <form id="spotify-form"> <!-- Sends the credentials - need to directly put in web connection url to get to server to /submit_credentials --> 
         <label for="client_id">Client ID:</label><br>
         <input type="text" id="client_id" name="client_id" required><br><br>
 
@@ -39,7 +39,6 @@
             const formData = new URLSearchParams();
             formData.append('client_id', client_id);
             formData.append('client_secret', client_secret);
-            formData.append('redirect_uri', 'http://localhost:8888/callback');
 
             // Make a POST request to the Flask backend
             fetch('https://seamusmcn-github-io.onrender.com/submit_credentials', {
