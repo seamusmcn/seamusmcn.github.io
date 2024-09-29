@@ -55,6 +55,17 @@
             formData.append('client_id', client_id);
             formData.append('client_secret', client_secret);
 
+            // Check URL parameters for authentication success
+            const urlParams = new URLSearchParams(window.location.search);
+            const authSuccess = urlParams.get('auth_success');
+            const userId = urlParams.get('user_id');
+
+            if (authSuccess === 'true') {
+                document.getElementById('status').innerText = 'Authentication successful!';
+                // Store userId in localStorage for subsequent requests
+                localStorage.setItem('user_id', userId);
+            }
+
             // Make a POST request to the Flask backend with credentials included
             fetch('https://seamusmcn-github-io.onrender.com/submit_credentials', {
                 method: 'POST',
@@ -94,20 +105,23 @@
             // Get the catalog type from the input field
             let catalog = document.getElementById('Catalog').value;
 
-            // Make an AJAX request to the Flask route with credentials included
-            fetch('https://seamusmcn-github-io.onrender.com/most_similar_song', {
+            // Get userId from localStorage
+            const userId = localStorage.getItem('user_id');
+
+            // Make an AJAX request to the Flask route
+            fetch(`https://seamusmcn-github-io.onrender.com/most_similar_song`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/x-www-form-urlencoded',
                 },
                 body: new URLSearchParams({
-                    'Catalog': catalog
-                }),
-                credentials: 'include'  // Ensure cookies are sent
+                    'Catalog': catalog,
+                    'user_id': userId
+                }).toString(),
             })
             .then(response => {
                 if (!response.ok) {
-                    return response.json().then(err => { throw err; });
+                    return response.text().then(err => { throw err; });
                 }
                 return response.text();
             })
@@ -116,7 +130,7 @@
                 document.getElementById('status').innerText = data;
             })
             .catch(error => {
-                document.getElementById('status').innerText = `An error occurred: ${error.error || 'Unknown error'}`;
+                document.getElementById('status').innerText = `An error occurred: ${error}`;
                 console.error('Error:', error);
             });
         });
