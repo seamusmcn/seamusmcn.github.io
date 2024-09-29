@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template, session
+from flask import Flask, request, render_template, session, redirect
 from flask_session import Session
 from flask_cors import CORS
 import requests
@@ -223,12 +223,14 @@ def index():
 def submit_credentials():
     client_id = request.form['client_id']
     client_secret = request.form['client_secret']
-    redirect_uri = request.form['redirect_uri']
 
     # Store credentials in session
     session['client_id'] = client_id
     session['client_secret'] = client_secret
-    session['redirect_uri'] = redirect_uri
+    session['redirect_uri'] = 'http://localhost:8888/callback' # change to spotify buttons redirect url?
+
+    if not client_id or not client_secret:
+        return "Missing credentials.", 400
 
     # Authenticate with Spotify and store tokens in session
     token_info = authenticate_spotify(client_id, client_secret, redirect_uri)
@@ -239,28 +241,27 @@ def submit_credentials():
     logging.info("Spotify credentials received and authenticated.")
 
     # Redirect user to Spotify's authorization page
-    auth_url = authenticate_spotify(client_id, client_secret, redirect_uri)
+    auth_url = authenticate_spotify(client_id, client_secret)
     return "We're in", redirect(auth_url)
 
 @app.route('/callback')
 def callback():
-    # Retrieve the code from the URL parameters
-    code = request.args.get('code')
-
-    # Use the code to get the access token
     sp_oauth = SpotifyOAuth(
         client_id=session.get('client_id'),
         client_secret=session.get('client_secret'),
-        redirect_uri=session.get('redirect_uri')
+        redirect_uri=session.get('redirect_uri'),
+        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public'
     )
-    token_info = sp_oauth.get_access_token(code)
-
-    # Store the access token in session
-    session['access_token'] = token_info['access_token']
-    session['refresh_token'] = token_info['refresh_token']
-    session['token_expires'] = token_info['expires_at']
-
-    return "Authentication successful!"
+    session.clear()
+    code = request.args.get('code')
+    if code:
+        token_info = sp_oauth.get_access_token(code, as_dict=True)
+        session['access_token'] = token_info['access_token']
+        session['refresh_token'] = token_info['refresh_token']
+        session['token_expires'] = token_info['expires_at']
+        return "Authentication successful!"
+    else:
+        return "Authorization failed.", 400
 
 
 # Route to execute your first Python script
