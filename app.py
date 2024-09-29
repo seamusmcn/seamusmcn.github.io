@@ -3,15 +3,14 @@ from flask import Flask, request, render_template, session, redirect, jsonify
 from flask_cors import CORS
 import requests
 import spotipy
-from spotipy.oauth2 import SpotifyOAuth
 from uuid import uuid4
+from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
 import numpy as np
 from astropy.table import Table, vstack, Column
 import logging
 import time
 import re
-
 import os
 import glob
 
@@ -239,8 +238,6 @@ def submit_credentials():
         logging.error(f"Error during Spotify authentication: {e}")
         return jsonify({"error": "Internal Server Error"}), 500
 
-
-
 @app.route('/callback')
 def callback():
     code = request.args.get('code')
@@ -276,19 +273,28 @@ def callback():
     if code:
         try:
             token_info = sp_oauth.get_access_token(code, as_dict=True)
-            # Store tokens associated with client_id or another identifier
-            # For simplicity, we'll add it to state_data_store
-            state_data_store[state] = {
-                'client_id': client_id,
+            # Generate a unique user identifier
+            user_id = str(uuid4())
+
+            # Store the access token associated with this user_id
+            user_tokens[user_id] = {
                 'access_token': token_info['access_token'],
                 'refresh_token': token_info['refresh_token'],
                 'expires_at': token_info['expires_at']
             }
+
             logging.info("Spotify authentication successful.")
-            return jsonify({"message": "Authentication successful!"}), 200
+
+            # Redirect back to the main HTML page with user_id as a query parameter
+            redirect_url = f"https://seamusmcn.github.io/templates/Spotify_buttons.html?user_id={user_id}&auth_success=true"
+            return redirect(redirect_url)
         except Exception as e:
             logging.error(f"Error obtaining access token: {e}")
             return jsonify({"error": "Failed to obtain access token."}), 500
+    else:
+        logging.warning("Authorization code not found in callback.")
+        return jsonify({"error": "Authorization failed."}), 400
+
 
 
 # Route to execute your first Python script
@@ -322,8 +328,25 @@ def ensure_token():
 
 @app.route('/most_similar_song', methods=['POST'])
 def most_similar_song():
-    # Ensure the token is valid
-    access_token = ensure_token()
+    # Get user_id from the request
+    user_id = request.form.get('user_id')
+
+    if not user_id or user_id not in user_tokens:
+        return "User not authenticated. Please authenticate first.", 401
+
+    # Retrieve the access token
+    token_info = user_tokens[user_id]
+    access_token = token_info['access_token']
+
+    # Optionally refresh the token if expired
+    if time.time() > token_info['expires_at']:
+        # Refresh the token
+        client_id = os.environ.get('SPOTIFY_CLIENT_ID')
+        client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
+        sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
+        token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
+        user_tokens[user_id] = token_info
+        access_token = token_info['access_token']
 
     # Use the access token to authenticate Spotify requests
     sp = spotipy.Spotify(auth=access_token)
@@ -336,6 +359,7 @@ def most_similar_song():
     song_name = best_next_songs(sp, Catalog, response_master, response_liked)
 
     return f"Added {song_name} to queue."
+
 
 @app.route('/artist_playlist', methods=['POST'])
 def make_artist_playlist():
