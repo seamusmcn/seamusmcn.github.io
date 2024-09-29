@@ -12,20 +12,60 @@
 
 </head>
 
-<h1>Enter Your Spotify Credentials</h1>
-
-<!-- Form to collect Spotify credentials -->
-<form id="spotify-form" action="https://seamusmcn-github-io.onrender.com/submit_credentials" method="POST"> <!-- Sends the credentials - need to directly put in web connection url to get to server to /submit_credentials --> 
-    <label for="client_id">Client ID:</label><br>
-    <input type="text" id="client_id" name="client_id" required><br><br>
-
-    <label for="client_secret">Client Secret:</label><br>
-    <input type="text" id="client_secret" name="client_secret" required><br><br>
-
-    <input type="submit" value="Submit">
-</form>
- 
 <body>
+
+    <h1>Enter Your Spotify Credentials</h1>
+
+    <!-- Form to collect Spotify credentials -->
+    <form id="spotify-form" action="https://seamusmcn-github-io.onrender.com/submit_credentials" method="POST"> <!-- Sends the credentials - need to directly put in web connection url to get to server to /submit_credentials --> 
+        <label for="client_id">Client ID:</label><br>
+        <input type="text" id="client_id" name="client_id" required><br><br>
+
+        <label for="client_secret">Client Secret:</label><br>
+        <input type="text" id="client_secret" name="client_secret" required><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <script>
+        document.getElementById('spotify-form').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent the default form submission
+
+            // Collect form data
+            const client_id = document.getElementById('client_id').value;
+            const client_secret = document.getElementById('client_secret').value;
+
+            // Prepare the data to be sent
+            const formData = new URLSearchParams();
+            formData.append('client_id', client_id);
+            formData.append('client_secret', client_secret);
+
+            // Make a POST request to the Flask backend
+            fetch('https://seamusmcn-github-io.onrender.com/submit_credentials', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: formData.toString()
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.auth_url) {
+                    // Redirect the user to Spotify's authorization page
+                    window.location.href = data.auth_url;
+                } else if (data.error) {
+                    document.getElementById('status').innerText = `Error: ${data.error}`;
+                } else {
+                    document.getElementById('status').innerText = 'Unexpected response from server.';
+                }
+            })
+            .catch(error => {
+                document.getElementById('status').innerText = 'An error occurred during submission.';
+                console.error('Error:', error);
+            });
+        });
+    </script>
+ 
     <!-- <p></p> -->
     <br><br>
     <button onclick="window.location.href='https://seamusmcn-github-io.onrender.com/pull_text'">Get Read me</button>
@@ -74,6 +114,8 @@
         }
     </script>  
     
+        <!-- Link back to Home -->
+    <a href="../index.html">Back to Home</a>
 
 </body>
 
