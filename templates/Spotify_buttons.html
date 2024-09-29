@@ -34,13 +34,12 @@
             // Collect form data
             const client_id = document.getElementById('client_id').value;
             const client_secret = document.getElementById('client_secret').value;
-            const redirect_uri = document.getElementById('redirect_uri').value;
 
             // Prepare the data to be sent
             const formData = new URLSearchParams();
             formData.append('client_id', client_id);
             formData.append('client_secret', client_secret);
-            formData.append('redirect_uri', redirect_uri);
+            formData.append('redirect_uri', 'http://localhost:8888/callback');
 
             // Make a POST request to the Flask backend
             fetch('https://seamusmcn-github-io.onrender.com/submit_credentials', {
