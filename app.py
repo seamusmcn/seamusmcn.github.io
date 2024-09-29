@@ -287,7 +287,7 @@ def callback():
             logging.info("Spotify authentication successful.")
 
             # Redirect back to the main HTML page with user_id as a query parameter
-            redirect_url = f"https://seamusmcn.github.io/templates/Spotify_buttons.html?user_id={user_id}&auth_success=true"
+            redirect_url = f"https://seamusmcn.github.io/Spotify_buttons.html?user_id={user_id}&auth_success=true"
             return redirect(redirect_url)
         except Exception as e:
             logging.error(f"Error obtaining access token: {e}")
