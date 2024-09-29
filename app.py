@@ -1,5 +1,6 @@
 from flask import Flask, request, render_template, session
 from flask_session import Session
+from flask_cors import CORS
 import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
@@ -12,10 +13,11 @@ import re
 import os
 import glob
 
-app = Flask(__name__)
 
 # Initialize Flask app
 app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": "https://seamusmcn.github.io"}}) # This will allow all CORS requests - with security - saying only through the github can people access the server / backend
+
 
 # Configure session to use filesystem (instead of signed cookies)
 app.config['SESSION_TYPE'] = 'filesystem'
@@ -29,9 +31,10 @@ logging.basicConfig(level=logging.INFO)
 def authenticate_spotify(client_id, client_secret):
     sp_oauth = SpotifyOAuth(client_id=client_id, 
                             client_secret=client_secret, 
-                            redirect_uri='http://localhost:8888/callback', 
+                            redirect_uri='http://localhost:8888/callback',  # change to spotify buttons redirect url?
                             scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public')
     token_info = sp_oauth.get_access_token(as_dict=True)
+
     return token_info
 
 # Function to ensure the token is valid and refresh if necessary
@@ -234,7 +237,31 @@ def submit_credentials():
     session['token_expires'] = token_info['expires_at']  # Timestamp when the access token expires
 
     logging.info("Spotify credentials received and authenticated.")
-    return "We're in"
+
+    # Redirect user to Spotify's authorization page
+    auth_url = authenticate_spotify(client_id, client_secret, redirect_uri)
+    return "We're in", redirect(auth_url)
+
+@app.route('/callback')
+def callback():
+    # Retrieve the code from the URL parameters
+    code = request.args.get('code')
+
+    # Use the code to get the access token
+    sp_oauth = SpotifyOAuth(
+        client_id=session.get('client_id'),
+        client_secret=session.get('client_secret'),
+        redirect_uri=session.get('redirect_uri')
+    )
+    token_info = sp_oauth.get_access_token(code)
+
+    # Store the access token in session
+    session['access_token'] = token_info['access_token']
+    session['refresh_token'] = token_info['refresh_token']
+    session['token_expires'] = token_info['expires_at']
+
+    return "Authentication successful!"
+
 
 # Route to execute your first Python script
 @app.route('/pull_text')
@@ -246,17 +273,23 @@ def pull_text():
     return data
 
 def ensure_token():
-    token_expires = session.get('token_expires')
-    if time.time() > token_expires:
-        # Token expired, refresh it
-        sp_oauth = SpotifyOAuth(client_id=session.get('client_id'),
-                                client_secret=session.get('client_secret'),
-                                redirect_uri=session.get('redirect_uri'))
-        token_info = sp_oauth.refresh_access_token(session.get('refresh_token'))
+    token_info = {
+        'access_token': session.get('access_token'),
+        'refresh_token': session.get('refresh_token'),
+        'expires_at': session.get('token_expires')
+    }
+    if not token_info['access_token'] or time.time() > token_info['expires_at']:
+        sp_oauth = SpotifyOAuth(
+            client_id=session.get('client_id'),
+            client_secret=session.get('client_secret'),
+            redirect_uri=session.get('redirect_uri')
+        )
+        token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
         session['access_token'] = token_info['access_token']
+        session['refresh_token'] = token_info['refresh_token']
         session['token_expires'] = token_info['expires_at']
+    return token_info['access_token']
 
-    return session['access_token']
 
 
 @app.route('/most_similar_song', methods=['POST'])
