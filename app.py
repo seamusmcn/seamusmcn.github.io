@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template, session, redirect, jsonify
-from flask_session import Session
+# from flask_session import Session
 from flask_cors import CORS
 import requests
 import spotipy
@@ -25,9 +25,9 @@ CORS(app,
 )
 
 # Configure session to use filesystem (instead of signed cookies)
-app.config['SESSION_TYPE'] = 'filesystem'
+# app.config['SESSION_TYPE'] = 'filesystem'
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default_secret_key')
-Session(app)
+# Session(app)
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -241,7 +241,7 @@ def callback():
 
     if not client_id or not client_secret or not redirect_uri:
         logging.warning("Missing credentials in session.")
-        return jsonify({"error": "Missing credentials in session."}), 400
+        return jsonify({"error": "Missing credentials in session."}), 400, client_id, client_secret, redirect_uri
 
     sp_oauth = SpotifyOAuth(
         client_id=client_id,
