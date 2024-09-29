@@ -15,7 +15,7 @@
 <h1>Enter Your Spotify Credentials</h1>
 
 <!-- Form to collect Spotify credentials -->
-<form id="spotify-form" action="/submit_credentials" method="POST"> <!-- Sends the credentials using the /submit_credentials post method going to app.py which receives with this @app route --> 
+<form id="spotify-form" action="https://seamusmcn-github-io.onrender.com/submit_credentials" method="POST"> <!-- Sends the credentials - need to directly put in web connection url to get to server to /submit_credentials --> 
     <label for="client_id">Client ID:</label><br>
     <input type="text" id="client_id" name="client_id" required><br><br>
 
@@ -51,7 +51,7 @@
             let catalog = document.getElementById('Catalog').value;
 
             // Make an AJAX request to the Flask route
-            fetch('https://smcn-github-io.onrender.com/most_similar_song', {
+            fetch('https://seamusmcn-github-io.onrender.com/most_similar_song', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/x-www-form-urlencoded',
