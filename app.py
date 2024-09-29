@@ -21,7 +21,7 @@ CORS(app, resources={r"/*": {"origins": "*"}}, methods=['POST', 'GET'], allow_he
 
 # Configure session to use filesystem (instead of signed cookies)
 app.config['SESSION_TYPE'] = 'filesystem'
-app.config['SECRET_KEY'] = 'your_secret_key_here'  # Replace with a strong secret key
+app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default_secret_key')
 Session(app)
 
 # Configure logging
@@ -31,7 +31,7 @@ def authenticate_spotify(client_id, client_secret, redirect_uri):
     sp_oauth = SpotifyOAuth(
         client_id=client_id,
         client_secret=client_secret,
-        redirect_uri='http://localhost:8888/callback',  # change to spotify buttons redirect url?
+        redirect_uri=redirect_uri, # IF CHANGING THIS to back to git hub have to change in spotify developer
         scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public')
     auth_url = sp_oauth.get_authorize_url()
     return auth_url
@@ -222,6 +222,7 @@ def artist_cat(sp, response_master):
 def submit_credentials():
     client_id = request.form['client_id']
     client_secret = request.form['client_secret']
+    redirect_uri = 'http://localhost:8888/callback'
 
     # Store credentials in session
     session['client_id'] = client_id
@@ -229,12 +230,12 @@ def submit_credentials():
     session['redirect_uri'] = 'http://localhost:8888/callback' # change to spotify buttons redirect url?
 
     if not client_id or not client_secret:
-        return "Missing credentials.", 400
+        return jsonify({"error": "Missing credentials."}), 400
 
     logging.info("Spotify credentials received and authenticated.")
     try:
         # Redirect user to Spotify's authorization page
-        auth_url = authenticate_spotify(client_id, client_secret)
+        auth_url = authenticate_spotify(client_id, client_secret, redirect_uri)
         return jsonify({"auth_url": auth_url}), 200
     except Exception as e:
         logging.error(f"Error during Spotify authentication: {e}")
@@ -259,7 +260,9 @@ def callback():
     sp_oauth = SpotifyOAuth(
         client_id=client_id,
         client_secret=client_secret,
-        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public')
+        redirect_uri=redirect_uri,
+        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public'
+    )
 
     code = request.args.get('code')
     if code:
@@ -306,14 +309,13 @@ def ensure_token():
     return token_info['access_token']
 
 
-
 @app.route('/most_similar_song', methods=['POST'])
 def most_similar_song():
     # Ensure the token is valid
     access_token = ensure_token()
 
     # Use the access token to authenticate Spotify requests
-    sp = authenticate_spotify_with_token(auth=access_token)
+    sp = spotipy.Spotify(auth=access_token)
 
     # Fetch catalog data and find the best next song
     Catalog = request.form.get('Catalog')
