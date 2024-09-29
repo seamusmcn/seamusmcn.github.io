@@ -233,7 +233,7 @@ def submit_credentials():
         return "Missing credentials.", 400
 
     # Authenticate with Spotify and store tokens in session
-    token_info = authenticate_spotify(client_id, client_secret, redirect_uri)
+    token_info = authenticate_spotify(client_id, client_secret)
     session['access_token'] = token_info['access_token']
     session['refresh_token'] = token_info['refresh_token']
     session['token_expires'] = token_info['expires_at']  # Timestamp when the access token expires
