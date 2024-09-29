@@ -37,6 +37,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Temporary in-memory store for state data
 state_data_store = {}
+user_tokens = {}
 
 def authenticate_spotify(client_id, client_secret, redirect_uri, state):
     sp_oauth = SpotifyOAuth(
@@ -294,8 +295,6 @@ def callback():
     else:
         logging.warning("Authorization code not found in callback.")
         return jsonify({"error": "Authorization failed."}), 400
-
-
 
 # Route to execute your first Python script
 @app.route('/pull_text')
