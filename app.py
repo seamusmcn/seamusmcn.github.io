@@ -16,7 +16,7 @@ import glob
 
 # Initialize Flask app
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "https://seamusmcn.github.io"}}) # This will allow all CORS requests - with security - saying only through the github can people access the server / backend
+CORS(app, resources={r"/*": {"origins": "*"}}, methods=['POST', 'GET'], allow_headers=['Content-Type']) # This will allow all CORS requests - with security - saying only through the github can people access the server / backend
 
 
 # Configure session to use filesystem (instead of signed cookies)
@@ -27,15 +27,14 @@ Session(app)
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 
-# Function to authenticate using the user-provided credentials
-def authenticate_spotify(client_id, client_secret):
-    sp_oauth = SpotifyOAuth(client_id=client_id, 
-                            client_secret=client_secret, 
-                            redirect_uri='http://localhost:8888/callback',  # change to spotify buttons redirect url?
-                            scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public')
-    token_info = sp_oauth.get_access_token(as_dict=True)
-
-    return token_info
+def authenticate_spotify(client_id, client_secret, redirect_uri):
+    sp_oauth = SpotifyOAuth(
+        client_id=client_id,
+        client_secret=client_secret,
+        redirect_uri='http://localhost:8888/callback',  # change to spotify buttons redirect url?
+        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public')
+    auth_url = sp_oauth.get_authorize_url()
+    return auth_url
 
 # Function to ensure the token is valid and refresh if necessary
 def ensure_token():
@@ -232,36 +231,51 @@ def submit_credentials():
     if not client_id or not client_secret:
         return "Missing credentials.", 400
 
-    # Authenticate with Spotify and store tokens in session
-    token_info = authenticate_spotify(client_id, client_secret)
-    session['access_token'] = token_info['access_token']
-    session['refresh_token'] = token_info['refresh_token']
-    session['token_expires'] = token_info['expires_at']  # Timestamp when the access token expires
-
     logging.info("Spotify credentials received and authenticated.")
+    try:
+        # Redirect user to Spotify's authorization page
+        auth_url = authenticate_spotify(client_id, client_secret)
+        return jsonify({"auth_url": auth_url}), 200
+    except Exception as e:
+        logging.error(f"Error during Spotify authentication: {e}")
+        return jsonify({"error": "Internal Server Error"}), 500
+    
+    # session['access_token'] = token_info['access_token']
+    # session['refresh_token'] = token_info['refresh_token']
+    # session['token_expires'] = token_info['expires_at']  # Timestamp when the access token expires
 
-    # Redirect user to Spotify's authorization page
-    auth_url = authenticate_spotify(client_id, client_secret)
-    return "We're in", redirect(auth_url)
+    # return "We're in", redirect(auth_url)
 
 @app.route('/callback')
 def callback():
+    client_id = session.get('client_id')
+    client_secret = session.get('client_secret')
+    redirect_uri = session.get('redirect_uri')
+
+    if not client_id or not client_secret or not redirect_uri:
+        logging.warning("Missing credentials in session.")
+        return jsonify({"error": "Missing credentials in session."}), 400
+
     sp_oauth = SpotifyOAuth(
-        client_id=session.get('client_id'),
-        client_secret=session.get('client_secret'),
-        redirect_uri=session.get('redirect_uri'),
-        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public'
-    )
-    session.clear()
+        client_id=client_id,
+        client_secret=client_secret,
+        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public')
+
     code = request.args.get('code')
     if code:
-        token_info = sp_oauth.get_access_token(code, as_dict=True)
-        session['access_token'] = token_info['access_token']
-        session['refresh_token'] = token_info['refresh_token']
-        session['token_expires'] = token_info['expires_at']
-        return "Authentication successful!"
+        try:
+            token_info = sp_oauth.get_access_token(code, as_dict=True)
+            session['access_token'] = token_info['access_token']
+            session['refresh_token'] = token_info['refresh_token']
+            session['token_expires'] = token_info['expires_at']
+            logging.info("Spotify authentication successful.")
+            return jsonify({"message": "Authentication successful!"}), 200
+        except Exception as e:
+            logging.error(f"Error obtaining access token: {e}")
+            return jsonify({"error": "Failed to obtain access token."}), 500
     else:
-        return "Authorization failed.", 400
+        logging.warning("Authorization code not found in callback.")
+        return jsonify({"error": "Authorization failed."}), 400
 
 
 # Route to execute your first Python script
