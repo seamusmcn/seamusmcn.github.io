@@ -25,9 +25,9 @@ CORS(app,
 )
 
 # Configure session to use filesystem (instead of signed cookies)
-# app.config['SESSION_TYPE'] = 'filesystem'
+app.config['SESSION_TYPE'] = 'filesystem'
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default_secret_key')
-# Session(app)
+Session(app)
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -196,12 +196,6 @@ def artist_cat(sp, response_master):
         # Play the new playlist
         sp.start_playback(context_uri=new_playlist['uri'])
         print(f"Playlist '{playlist_name}' created and now playing!")
-
-# # Route to your homepage
-# # Route to render the HTML form
-# @app.route('/')
-# def index():
-#     return render_template('index.html')  # Ensure you have an 'index.html' in your 'templates' folder
 
 # Route to handle Spotify credentials submission
 @app.route('/submit_credentials', methods=['POST'])
