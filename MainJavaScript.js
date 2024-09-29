@@ -4,7 +4,6 @@
 
 // Check URL parameters for authentication success
 console.log("Checking URL parameters...");
-
 const urlParams = new URLSearchParams(window.location.search);
 const authSuccess = urlParams.get('auth_success');
 const userId = urlParams.get('user_id');

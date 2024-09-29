@@ -1,5 +1,4 @@
 from flask import Flask, request, render_template, session, redirect, jsonify
-# from flask_session import Session
 from flask_cors import CORS
 import requests
 import spotipy
@@ -8,12 +7,12 @@ from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
 import numpy as np
 from astropy.table import Table, vstack, Column
+from io import StringIO
 import logging
 import time
 import re
 import os
 import glob
-
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -24,10 +23,8 @@ CORS(app,
      allow_headers=['Content-Type']
 )
 
-# remove becauase render may not use Session correctly here 
-# Configure session to use filesystem (instead of signed cookies)
-# app.config['SESSION_TYPE'] = 'filesystem'
-# Session(app)
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # grab secret key from my server
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default_secret_key')
@@ -50,6 +47,14 @@ def authenticate_spotify(client_id, client_secret, redirect_uri, state):
     auth_url = sp_oauth.get_authorize_url()
     return auth_url
 
+def read_csv_with_encoding(response):
+    # Decode the response content with 'utf-8' and replace errors
+    decoded_content = response.content.decode('utf-8', errors='replace')
+    # Use StringIO to create a file-like object from the decoded string
+    csv_data = StringIO(decoded_content)
+    # Read the CSV into a DataFrame
+    df = pd.read_csv(csv_data)
+    return df
 
 # Function to get the current playing track
 def get_current_playing_track(sp):
@@ -78,11 +83,11 @@ def add_song_to_queue(sp):
 def best_next_songs(sp, Catalog, response_master, response_liked, n_songs=5):
     # Read the master catalog
     if Catalog in ['Liked','liked','Liked Songs','liked songs', 'Liked Playlist', 'liked playlist']:
-        with open(pd.compat.StringIO(response_liked.text), mode='r', encoding='utf-8', errors='replace') as file:
-            MC = pd.read_csv(file)
+        logging.info("Using Liked Songs catalog.")
+        MC = read_csv_with_encoding(response_liked)
     else:
-        with open(pd.compat.StringIO(response_master.text), mode='r', encoding='utf-8', errors='replace') as file:
-            MC = pd.read_csv(file)
+        logging.info("Using Master catalog.")
+        MC = read_csv_with_encoding(response_master)
 
     # Ensure the columns are sanitized for easier access
     MC.columns = MC.columns.str.strip()
