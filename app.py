@@ -241,7 +241,7 @@ def callback():
 
     if not client_id or not client_secret or not redirect_uri:
         logging.warning("Missing credentials in session.")
-        return jsonify({"error": "Missing credentials in session."}), 400, client_id, client_secret, redirect_uri
+        return jsonify({"error": "Missing credentials in session."}), 400
 
     sp_oauth = SpotifyOAuth(
         client_id=client_id,
