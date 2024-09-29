@@ -10,14 +10,19 @@ from astropy.table import Table, vstack, Column
 import logging
 import time
 import re
+
 import os
 import glob
 
 
 # Initialize Flask app
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "https://seamusmcn.github.io"}}, methods=['POST', 'GET'], allow_headers=['Content-Type']) # This will allow all CORS requests - with security - saying only through the github can people access the server / backend
-
+CORS(app, 
+     resources={r"/*": {"origins": "https://seamusmcn.github.io"}},
+     supports_credentials=True,
+     methods=['POST', 'GET'],
+     allow_headers=['Content-Type']
+)
 
 # Configure session to use filesystem (instead of signed cookies)
 app.config['SESSION_TYPE'] = 'filesystem'
