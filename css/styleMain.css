@@ -1,4 +1,6 @@
 
+
+
 const header
 
 header {
@@ -61,3 +63,113 @@ img {
 .arcade-button:hover {
     background-color: rgb(71, 0, 0);
 }
+
+
+/* ARCADE BUTTONS */
+
+:root {
+    --push-size: 50px;
+  }
+  
+  body {
+    margin: 1em;
+    background: #333;
+    color: #ccc;
+    font: normal 3vw/1 'Montserrat', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  h1 {
+    font-size: 5vw;
+  }
+  
+  .push--skeuo {
+    position: relative;
+    display: inline-block;
+    width: var(--push-size);
+    height: var(--push-size);
+    border: 0;
+    margin: 1em;
+    outline: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: box-shadow 200ms;
+    background-color: var(--push-color);
+    box-shadow: 
+      inset 0 calc(var(--push-size) / 24) 0 lighten(var(--push-color), 5%),
+      inset 0 calc(-var(--push-size) / 24) calc(var(--push-size) / 60) darken(var(--push-color), 5%),
+      0 0 calc(var(--push-size) / 60) var(--push-color),
+      inset 0 0 calc(var(--push-size) / 30) darken(var(--push-color), 15%),
+      inset 0 0 calc(var(--push-size) / 30) transparentize(#333, 0.5),
+      inset 0 0 calc(var(--push-size) / 60) calc(var(--push-size) / 12) var(--push-color),
+      inset 0 calc(-var(--push-size) / 30) calc(var(--push-size) / 40) calc(var(--push-size) / 10) transparentize(#333, 0.3),
+      inset 0 0 calc(var(--push-size) / 60) calc(var(--push-size) / 10) darken(var(--push-color), 20%),
+      inset 0 0 calc(var(--push-size) / 120) calc(var(--push-size) / 9.2) darken(var(--push-color), 50%),
+      inset 0 calc(var(--push-size) / 20) 0 calc(var(--push-size) / 8.5) transparentize(lighten(var(--push-color), 15%), 0.3),
+      inset 0 calc(-var(--push-size) / 20) calc(var(--push-size) / 60) calc(var(--push-size) / 8.5) transparentize(darken(var(--push-color), 10%), 0.8),
+      inset 0 0 0 calc(var(--push-size) / 5.5) var(--push-color),
+      inset 0 calc(var(--push-size) / 2.5) calc(var(--push-size) / 7.5) darken(var(--push-color), 5%),
+      inset 0 0 calc(var(--push-size) / 10) calc(var(--push-size) / 6) darken(var(--push-color), 10%),
+      0 calc(var(--push-size) / 40) calc(var(--push-size) / 20) rgba(0, 0, 0, 0.5);
+  }
+  
+  .push--skeuo:before {
+    content: '';
+    position: absolute;
+    bottom: calc(var(--push-size) / 4.5);
+    left: calc(var(--push-size) / 3.6);
+    display: block;
+    width: calc(var(--push-size) / 2.2);
+    height: calc(var(--push-size) / 3.3);
+    background: linear-gradient(to top, transparentize(lighten(var(--push-color), 40%), 0.7) 0%, transparentize(var(--push-color), 0.9) 100%);
+    border-radius: 40% 40% 60% 60%;
+    transition: opacity 200ms;
+  }
+  
+  .push--skeuo:active {
+    box-shadow: 
+      inset 0 calc(var(--push-size) / 24) 0 lighten(var(--push-color), 5%),
+      inset 0 calc(-var(--push-size) / 24) calc(var(--push-size) / 60) darken(var(--push-color), 5%),
+      0 0 calc(var(--push-size) / 60) var(--push-color),
+      inset 0 0 calc(var(--push-size) / 30) darken(var(--push-color), 15%),
+      inset 0 0 calc(var(--push-size) / 60) calc(var(--push-size) / 12) var(--push-color),
+      inset 0 calc(-var(--push-size) / 30) calc(var(--push-size) / 40) calc(var(--push-size) / 10) transparentize(var(--push-color), 0.3),
+      inset 0 0 calc(var(--push-size) / 40) calc(var(--push-size) / 8.5) darken(var(--push-color), 40%),
+      inset 0 calc(var(--push-size) / 20) 0 28px transparentize(lighten(var(--push-color), 15%), 0.5),
+      inset 0 calc(-var(--push-size) / 20) calc(var(--push-size) / 60) 28px transparentize(darken(var(--push-color), 20%), 0.8),
+      inset 0 0 0 calc(var(--push-size) / 5.5) darken(var(--push-color), 3%),
+      inset 0 calc(var(--push-size) / 2.5) calc(var(--push-size) / 7.5) darken(var(--push-color), 8%),
+      inset 0 0 calc(var(--push-size) / 10) calc(var(--push-size) / 6) darken(var(--push-color), 15%),
+      0 calc(var(--push-size) / 40) calc(var(--push-size) / 20) rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Color Variations */
+  .push--red {
+    --push-color: hsla(0, 90%, 50%, 1);
+  }
+  
+  .push--blue {
+    --push-color: hsla(220, 90%, 50%, 1);
+  }
+  
+  .push--purple {
+    --push-color: hsla(270, 90%, 60%, 1);
+  }
+  
+  .push--green {
+    --push-color: hsla(120, 90%, 40%, 1);
+  }
+  
+  .push--yellow {
+    --push-color: hsla(50, 90%, 55%, 1);
+  }
+  
+  .push--orange {
+    --push-color: hsla(30, 90%, 60%, 1);
+  }
+  
+  .push--teal {
+    --push-color: hsla(180, 90%, 45%, 1);
+  }
+  
