@@ -383,34 +383,41 @@ def most_similar_song():
 
 @app.route('/artist_playlist', methods=['POST'])
 def make_artist_playlist():
-    # Get user_id from the request
-    user_id = request.form.get('user_id')
+    try:
+        # Get user_id from the request
+        user_id = request.form.get('user_id')
 
-    if not user_id or user_id not in user_tokens:
-        return "User not authenticated. Please authenticate first.", 401
+        if not user_id or user_id not in user_tokens:
+            return "User not authenticated. Please authenticate first.", 401
 
-    # Retrieve the access token
-    token_info = user_tokens[user_id]
-    access_token = token_info['access_token']
-
-    # Optionally refresh the token if expired
-    if time.time() > token_info['expires_at']:
-        # Refresh the token
-        client_id = os.environ.get('SPOTIFY_CLIENT_ID')
-        client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
-        sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
-        token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
-        user_tokens[user_id] = token_info
+        # Retrieve the access token
+        token_info = user_tokens[user_id]
         access_token = token_info['access_token']
 
-    # Use the access token to authenticate Spotify requests
-    sp = spotipy.Spotify(auth=access_token)
+        # Optionally refresh the token if expired
+        if time.time() > token_info['expires_at']:
+            # Refresh the token
+            client_id = os.environ.get('SPOTIFY_CLIENT_ID')
+            client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
+            sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
+            token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
+            user_tokens[user_id] = token_info
+            access_token = token_info['access_token']
 
-    response_master = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Master_Catalog.csv')
+        # Use the access token to authenticate Spotify requests
+        sp = spotipy.Spotify(auth=access_token)
 
-    playlist = artist_cat(sp, response_master)
+        response_master = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Master_Catalog.csv')
+        if response_master.status_code != 200:
+            return "Failed to fetch Master Catalog.", 500
 
-    return f"Now playing {playlist}"
+        playlist = artist_cat(sp, response_master)
+
+        return f"Now playing {playlist}"
+    except Exception as e:
+        logging.error(f"Error in make_artist_playlist: {e}")
+        return "Internal Server Error.", 500
+
 
 if __name__ == '__main__':
     app.run(debug=True)

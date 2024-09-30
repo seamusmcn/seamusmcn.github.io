@@ -103,3 +103,38 @@ document.getElementById('catalog-form').addEventListener('submit', function(even
     });
 });
 
+// Handle Artist.cat Button Click
+document.getElementById('artist-cat-button').addEventListener('click', function() {
+    // Get userId from localStorage
+    const userId = localStorage.getItem('user_id');
+
+    if (!userId) {
+        document.getElementById('status').innerText = 'Please authenticate first.';
+        return;
+    }
+
+    // Make a POST request to the Flask route
+    fetch('https://seamusmcn-github-io.onrender.com/artist_playlist', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+        },
+        body: new URLSearchParams({
+            'user_id': userId
+        }).toString(),
+    })
+    .then(response => {
+        if (!response.ok) {
+            return response.text().then(err => { throw err; });
+        }
+        return response.text();
+    })
+    .then(data => {
+        // Display the response in the 'status' paragraph
+        document.getElementById('status').innerText = data;
+    })
+    .catch(error => {
+        document.getElementById('status').innerText = `An error occurred: ${error}`;
+        console.error('Error:', error);
+    });
+});
