@@ -14,6 +14,22 @@ import re
 import os
 import glob
 
+"""
+List : 5 closest/similar to Song playing
+Chain: 5 closest (for loop), 1st closest to one playing, then 2nd closest to queue,... so on. 
+
+Spectrum: 6 bins of songs in the parameter 
+
+Key playlists: 12 small buttons for each key, 1 for each key.
+
+Document my favorite songs parameters as a scatter plot against the other parameters - look for trends with a specific number of that parameter
+BOAT: make a playlist of all the songs within that parameter space - one gaussian distribution around the mean of that parameter space
+"""
+
+
+
+
+
 # Initialize Flask app
 app = Flask(__name__)
 CORS(app, 
@@ -148,8 +164,7 @@ def best_next_songs(sp, Catalog, response_master, response_liked, n_songs=5):
 # makes a playlist from the master catalog based on artist you are listening to and most similar song.
 def artist_cat(sp, response_master):
     # Read the master catalog
-    with open(pd.compat.StringIO(response_master.text), mode='r', encoding='utf-8', errors='replace') as file:
-            MC = pd.read_csv(file)
+    MC = read_csv_with_encoding(response_master)
     # Get current playback information
     current_track = sp.current_playback()
     
@@ -210,7 +225,8 @@ def artist_cat(sp, response_master):
 
         # Play the new playlist
         sp.start_playback(context_uri=new_playlist['uri'])
-        print(f"Playlist '{playlist_name}' created and now playing!")
+
+        return playlist_name
 
 # Route to handle Spotify credentials submission
 @app.route('/submit_credentials', methods=['POST'])
@@ -367,18 +383,34 @@ def most_similar_song():
 
 @app.route('/artist_playlist', methods=['POST'])
 def make_artist_playlist():
-    # Ensure the token is valid
-    access_token = ensure_token()
+    # Get user_id from the request
+    user_id = request.form.get('user_id')
+
+    if not user_id or user_id not in user_tokens:
+        return "User not authenticated. Please authenticate first.", 401
+
+    # Retrieve the access token
+    token_info = user_tokens[user_id]
+    access_token = token_info['access_token']
+
+    # Optionally refresh the token if expired
+    if time.time() > token_info['expires_at']:
+        # Refresh the token
+        client_id = os.environ.get('SPOTIFY_CLIENT_ID')
+        client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
+        sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
+        token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
+        user_tokens[user_id] = token_info
+        access_token = token_info['access_token']
 
     # Use the access token to authenticate Spotify requests
     sp = spotipy.Spotify(auth=access_token)
 
     response_master = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Master_Catalog.csv')
 
-    artist_cat(sp, response_master)
+    playlist = artist_cat(sp, response_master)
 
-    return "Playlist created"
-
+    return f"Now playing {playlist}"
 
 if __name__ == '__main__':
     app.run(debug=True)
