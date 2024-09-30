@@ -1,87 +1,42 @@
-
-
-
-const header
-
+/* Original site styling */
 header {
     font-family: comic sans-serif;
     font-size: 1.5em;
     box-sizing: border-box;
-}
-
-body {
-    background-color: black;
-    color: lime;
-    font-family: Arial, sans-serif;
-}
-
-foot {
-    background-color: black;
-    color: lime;
-    font-family: Arial, sans-serif;
-}
-
-search {
-    background-color: black;
-    color: lime;
-    font-family: Arial, sans-serif;
-}
-
-button {
-    background-color: black;
-    color: lime;
-    font-family: Arial, sans-serif;
-}
-
-img {
-    border: 2px solid gray;
-    padding: 10px;
-}
-
-.arcade-button {
-    display: inline-block;
-    padding: 15px 15px;
-    background-color: red;
-    border: 10px solid rgb(255, 255, 255);
-    border-radius: 50%;
-    box-shadow: 0 15px rgb(247, 163, 163);
-    color: white;
-    font-size: 20px;
-    font-family: 'Press Start 2P', cursive; /* Use a retro font like this */
-    text-transform: uppercase;
-    cursor: pointer;
-    transition: all 0.1s ease-in-out;
-}
-
-/* Add the "pressed" effect when clicked */
-.arcade-button:active {
-    box-shadow: 0 5px rgb(243, 164, 164);
-    transform: translateY(6px);
-}
-
-/* Hover effect */
-.arcade-button:hover {
-    background-color: rgb(71, 0, 0);
-}
-
-
-/* ARCADE BUTTONS */
-
-:root {
-    --push-size: 50px;
   }
   
   body {
-    margin: 1em;
-    background: #333;
-    color: #ccc;
-    font: normal 3vw/1 'Montserrat', sans-serif;
-    text-align: center;
-    text-transform: uppercase;
+    background-color: black;
+    color: lime;
+    font-family: Arial, sans-serif;
   }
   
-  h1 {
-    font-size: 5vw;
+  foot {
+    background-color: black;
+    color: lime;
+    font-family: Arial, sans-serif;
+  }
+  
+  search {
+    background-color: black;
+    color: lime;
+    font-family: Arial, sans-serif;
+  }
+  
+  button {
+    background-color: black;
+    color: lime;
+    font-family: Arial, sans-serif;
+  }
+  
+  img {
+    border: 2px solid gray;
+    padding: 10px;
+  }
+  
+  /* ARCADE BUTTONS */
+  :root {
+    --push-size: 50px;
   }
   
   .push--skeuo {
