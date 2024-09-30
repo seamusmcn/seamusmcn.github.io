@@ -36,7 +36,7 @@ header {
   
   /* ARCADE BUTTONS */
   :root {
-    --push-size: 50px;
+    --push-size: 250px;
   }
   
   .push--skeuo {
@@ -47,7 +47,7 @@ header {
     border: 0;
     margin: 1em;
     outline: none;
-    border-radius: 50%;
+    border-radius: 15%;
     cursor: pointer;
     transition: box-shadow 200ms;
     background-color: var(--push-color);
