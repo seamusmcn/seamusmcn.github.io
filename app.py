@@ -83,6 +83,27 @@ def get_current_playing_track(sp):
         }
     return None
 
+def get_current_playlist(sp):
+    current_playback = sp.current_playback()
+
+    if current_playback is None or 'context' not in current_playback or current_playback['context'] is None:
+        return None
+
+    # Check if the current context is a playlist
+    if 'context' in current_playback and current_playback['context']['type'] == 'playlist':
+        # Get the playlist URI
+        playlist_uri = current_playback['context']['uri']
+
+        # Extract the playlist ID from the URI (format is spotify:playlist:<playlist_id>)
+        playlist_id = playlist_uri.split(':')[-1]
+
+        # Use the playlist ID to get the playlist name (or other details)
+        playlist_info = sp.playlist(playlist_id)
+        playlist_name = playlist_info['name']
+        
+        return playlist_name
+    return None
+
 # Add random song from Master Catalog
 def add_song_to_queue(sp):
     # add random song from Master_Catalog into the queue
@@ -93,14 +114,7 @@ def add_song_to_queue(sp):
     print(f"Added {song_uri} to queue.")
 
 # Function that adds to queue the most similar song from Master Catalog
-def best_next_songs(sp, Catalog, response_master, response_liked, n_songs=3):
-    # Read the master catalog
-    if Catalog in ['Liked','liked','Liked Songs','liked songs', 'Liked Playlist', 'liked playlist']:
-        logging.info("Using Liked Songs catalog.")
-        MC = read_csv_with_encoding(response_liked)
-    else:
-        logging.info("Using Master catalog.")
-        MC = read_csv_with_encoding(response_master)
+def best_next_songs(sp, MC, n_songs=3):
 
     # Ensure the columns are sanitized for easier access
     MC.columns = MC.columns.str.strip()
@@ -159,9 +173,7 @@ def best_next_songs(sp, Catalog, response_master, response_liked, n_songs=3):
         return closest_songs[0][0] if closest_songs else "No similar song found."
 
 # makes a playlist from the master catalog based on artist you are listening to and most similar song.
-def artist_cat(sp, response_master):
-    # Read the master catalog
-    MC = read_csv_with_encoding(response_master)
+def artist_cat(sp, MC):
     # Get current playback information
     current_track = sp.current_playback()
     
@@ -326,15 +338,6 @@ def callback():
         logging.warning("Authorization code not found in callback.")
         return jsonify({"error": "Authorization failed."}), 400
 
-# Route to execute your first Python script
-@app.route('/pull_text')
-def pull_text():
-    # Add your script logic here
-    # Example: You can pull data from GitHub and then process it.
-    response = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/README.md')
-    data = response.text
-    return data
-
 # Function to ensure the token is valid and refresh if necessary
 def ensure_token():
     token_info = {
@@ -383,10 +386,35 @@ def most_similar_song():
 
     # Fetch catalog data and find the best next song
     Catalog = request.form.get('Catalog')
-    response_master = requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Master_Catalog.csv')
-    response_liked = requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Liked_Songs.csv')
 
-    song_name = best_next_songs(sp, Catalog, response_master, response_liked)
+        # Read the master catalog
+    if Catalog == 'Liked':
+        logging.info("Using Liked Songs catalog.")
+        MC = read_csv_with_encoding(requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Liked_Songs.csv'))
+    elif Catalog == 'Master':
+        logging.info("Using Master catalog.")
+        MC = read_csv_with_encoding(requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Master_Catalog.csv'))
+    elif Catalog == 'Current':
+        # Get the currently playing playlist
+        current_playlist = get_current_playlist(sp)
+        
+        if current_playlist:
+            # Try to fetch the playlist CSV
+            try:
+                response_current = requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/{current_playlist}.csv')
+                if response_current.status_code == 200:
+                    MC = read_csv_with_encoding(response_current)
+                else:
+                    # If the playlist is not documented, use the master catalog
+                    MC = read_csv_with_encoding(requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Master_Catalog.csv'))
+                    return "Playlist not documented, Master instead.", 404
+
+            except Exception as e:
+                return f"Error fetching current playlist: {str(e)}", 500
+        else:
+            return "No playlist found", 404
+
+    song_name = best_next_songs(sp, MC)
 
     return f"Added {song_name} to queue."
 
@@ -421,6 +449,8 @@ def make_artist_playlist():
         response_master = requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Master_Catalog.csv')
         if response_master.status_code != 200:
             return "Failed to fetch Master Catalog.", 500
+        
+        MC = read_csv_with_encoding(response_master)
 
         playlist = artist_cat(sp, response_master)
 

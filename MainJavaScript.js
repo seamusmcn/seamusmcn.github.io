@@ -62,6 +62,7 @@ document.getElementById('spotify-credentials-form').addEventListener('submit', f
 });
 
 // Handle Catalog Form Submission
+// Handle Catalog Form Submission
 document.getElementById('catalog-form').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent the default form submission
 
