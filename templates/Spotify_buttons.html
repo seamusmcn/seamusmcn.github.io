@@ -23,20 +23,25 @@
 
         <input type="submit" value="Submit">
     </form>
- 
-    <!-- <p></p> -->
-    <br><br>
-    <button onclick="window.location.href='https://seamusmcn-github-io.onrender.com/pull_text'">Get Read me</button>
-    <br><br>
 
     <p id="status"></p>  <!-- This will show the status of the request -->
 
-    <h1>Add the next 5 most similar songs from what catalog? (Either 'Liked' or 'Master'!)</h1>
+    <h1>Queue 3 most similar songs from what catalog?</h1>
 
     <!-- Form to select Catalog Type -->
     <form id="catalog-form">
-        <label for="Catalog">Catalog Type:</label><br>
-        <input type="text" id="Catalog" name="Catalog" required><br><br>
+        <label>Catalog Type:</label><br>
+        <div class="radio-group">
+            <input type="radio" id="catalog-liked" name="Catalog" value="Liked" required>
+            <label for="catalog-liked">Liked</label>
+            
+            <input type="radio" id="catalog-master" name="Catalog" value="Master">
+            <label for="catalog-master">Master</label>
+
+            <input type="radio" id="catalog-current" name="Catalog" value="Current">
+            <label for="catalog-current">Current</label>
+        </div>
+        <br><br>
         <input type="submit" value="Submit">
     </form>
 
