@@ -62,12 +62,24 @@ document.getElementById('spotify-credentials-form').addEventListener('submit', f
 });
 
 // Handle Catalog Form Submission
-// Handle Catalog Form Submission
 document.getElementById('catalog-form').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent the default form submission
 
-    // Get the catalog type from the input field
-    let catalog = document.getElementById('Catalog').value;
+    // Get the selected catalog value from the radio buttons
+    const catalogInputs = document.getElementsByName('Catalog');
+    let selectedCatalog;
+    for (const input of catalogInputs) {
+        if (input.checked) {
+            selectedCatalog = input.value;
+            break;
+        }
+    }
+
+    // If no catalog is selected, show an error message
+    if (!selectedCatalog) {
+        document.getElementById('status').innerText = 'Please select a catalog type.';
+        return;
+    }
 
     // Get userId from localStorage
     const userId = localStorage.getItem('user_id');
@@ -84,7 +96,7 @@ document.getElementById('catalog-form').addEventListener('submit', function(even
             'Content-Type': 'application/x-www-form-urlencoded',
         },
         body: new URLSearchParams({
-            'Catalog': catalog,
+            'Catalog': selectedCatalog,
             'user_id': userId
         }).toString(),
     })
