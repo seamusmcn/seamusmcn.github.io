@@ -1,0 +1,375 @@
+Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
+5GFDrUTLGJix84sNhjCG0g,Caroline,Aminé,Caroline,0.945,0.394,10,-8.571,1,0.492,0.303,0.0,0.131,0.743,120.058
+4uQ7wYsuL0DryknoDc11Hk,Norf Norf,Vince Staples,Summertime '06,0.925,0.549,7,-6.572,1,0.0656,0.396,0.000154,0.11,0.0904,100.014
+0v9Wz8o0BT8DU38R4ddjeH,No Problem (feat. Lil Wayne & 2 Chainz),"Chance the Rapper, Lil Wayne, 2 Chainz",Coloring Book,0.652,0.795,11,-5.192,0,0.174,0.156,0.0,0.123,0.788,135.018
+60xaS8mYBKUW4VQQ666N0T,All Night (feat. Knox Fortune),"Chance the Rapper, Knox Fortune",Coloring Book,0.704,0.777,2,-5.729,1,0.195,0.0358,0.0,0.151,0.392,111.921
+3ZLyt2ndLFBh148XRYjYYZ,All We Got (feat. Kanye West & Chicago Children's Choir),"Chance the Rapper, Kanye West, Chicago Children's Choir",Coloring Book,0.531,0.544,0,-8.615,0,0.462,0.308,1.89e-06,0.0835,0.398,131.921
+2fl0B0OaXjWbjHCQFx2O8W,Summer Friends (feat. Jeremih & Francis & The Lights),"Chance the Rapper, Jeremih, Francis and the Lights",Coloring Book,0.693,0.426,8,-12.476,1,0.302,0.675,1.03e-05,0.115,0.477,144.796
+6VndlbaMjAscnEeqrVkMN2,D.R.A.M. Sings Special,Chance the Rapper,Coloring Book,0.404,0.206,3,-12.841,1,0.0409,0.939,0.075,0.138,0.214,148.005
+2VQc9orzwE6a5qFfy54P6e,Blessings (feat. Jamila Woods),"Chance the Rapper, Jamila Woods",Coloring Book,0.714,0.343,10,-7.641,1,0.38,0.723,5.48e-06,0.102,0.372,72.348
+6m9qPYXmhge2QhBLfFKnVF,Same Drugs,Chance the Rapper,Coloring Book,0.461,0.293,6,-9.52,1,0.0555,0.947,9.95e-06,0.0936,0.531,180.297
+0jx8zY5JQsS4YEQcfkoc5C,Angels (feat. Saba),"Chance the Rapper, Saba",Coloring Book,0.771,0.647,5,-5.127,0,0.376,0.294,0.0,0.37,0.678,155.914
+0OT0cCKbSmSMRvyWeqEFBq,How Great (feat. Jay Electronica & My cousin Nicole),"Chance the Rapper, Jay Electronica, My cousin Nicole",Coloring Book,0.439,0.483,2,-9.449,1,0.315,0.477,0.0,0.553,0.292,78.442
+2AgnbuzvnfPvq1sAYNB4pj,"Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname)","Chance the Rapper, T-Pain, Kirk Franklin, Eryn Allen Kane, Noname",Coloring Book,0.456,0.609,7,-6.439,0,0.377,0.617,0.0,0.0724,0.41,86.368
+5IdQEHgtmj9th3OkfQKhf8,"Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)","Chance the Rapper, Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury",Coloring Book,0.381,0.462,8,-8.014,1,0.124,0.891,0.0,0.199,0.542,80.08
+2nRYYK0k2xWA4m8Uq57pAJ,Ten Thousand Hours,Macklemore & Ryan Lewis,The Heist,0.374,0.758,3,-7.566,0,0.305,0.199,0.0,0.144,0.535,83.821
+56LYsQITV7nEggGBVuu846,Wing$,Macklemore & Ryan Lewis,The Heist,0.399,0.599,3,-6.987,1,0.204,0.362,0.0,0.188,0.0911,73.051
+5SNPmbE3OcIVUlzQj9M32N,Smile,Vince Staples,Prima Donna,0.672,0.689,4,-7.307,1,0.358,0.526,2.6e-05,0.335,0.524,116.099
+6C7RJEIUDqKkJRZVWdkfkH,Stronger,Kanye West,Graduation,0.625,0.726,10,-7.731,0,0.155,0.00728,0.0,0.318,0.483,103.98
+1PS1QMdUqOal0ai3Gt7sDQ,Gold Digger,"Kanye West, Jamie Foxx",Late Registration,0.629,0.696,1,-5.572,0,0.348,0.0195,0.0,0.0554,0.623,93.034
+19a3JfW8BQwqHWUMbcqSx8,Famous,Kanye West,The Life Of Pablo,0.465,0.735,6,-3.715,1,0.117,0.0711,0.0,0.0975,0.409,173.935
+49fT6owWuknekShh9utsjv,Feedback,Kanye West,The Life Of Pablo,0.811,0.566,8,-6.033,0,0.517,0.563,0.0,0.104,0.169,100.224
+2CHmgtK8OCL28WtIK96u4N,30 Hours,Kanye West,The Life Of Pablo,0.823,0.813,7,-6.71,1,0.288,0.0359,0.0,0.0886,0.373,95.012
+1o0kWPueYo94LIjPYOE5Nf,Saint Pablo,Kanye West,The Life Of Pablo,0.461,0.772,2,-3.98,0,0.375,0.282,0.0,0.178,0.414,167.018
+2EEeOnHehOozLq4aS0n6SL,iSpy (feat. Lil Yachty),"KYLE, Lil Yachty",iSpy (feat. Lil Yachty),0.746,0.653,7,-6.745,1,0.289,0.378,0.0,0.229,0.672,75.016
+3a1lNhkSLSkpJE4MSHpDu9,Congratulations,"Post Malone, Quavo",Stoney - Deluxe,0.63,0.804,6,-4.183,1,0.0364,0.215,0.0,0.253,0.492,123.146
+6AoYWCzsDls6c61Zp5qTuU,$ave Dat Money (feat. Fetty Wap & Rich Homie Quan),"Lil Dicky, Fetty Wap, Rich Homie Quan",Professional Rapper,0.858,0.697,2,-5.361,1,0.23,0.114,0.0,0.224,0.364,98.012
+4SZ3B3y1TbwTK4OIXMOVEy,Boyz-N-The-Hood,Eazy-E,The Best Of N.W.A: The Strength Of Street Knowledge,0.792,0.503,8,-8.359,1,0.276,0.0198,0.0,0.347,0.663,87.847
+3ODXRUPL44f04cCacwiCLC,i,Kendrick Lamar,To Pimp A Butterfly,0.541,0.809,8,-4.286,1,0.324,0.708,0.0,0.72,0.753,120.094
+7lQ8MOhq6IN2w8EYcFNSUk,Without Me,Eminem,The Eminem Show,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238
+15JINEqzVMv3SvJTAXAKED,Love The Way You Lie,"Eminem, Rihanna",Recovery,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989
+1qOIwyj41749bmOhdD09IS,Headlights,"Eminem, Nate Ruess",The Marshall Mathers LP2,0.688,0.782,11,-3.683,1,0.158,0.151,0.0,0.803,0.453,146.324
+0N3W5peJUQtI4eyR6GJT5O,King Kunta,Kendrick Lamar,To Pimp A Butterfly,0.884,0.657,6,-4.569,0,0.0977,0.00589,0.0,0.154,0.489,107.059
+7uWVT3UkCAZyANvv0bdyQn,These Walls,"Kendrick Lamar, Bilal, Anna Wise, Thundercat",To Pimp A Butterfly,0.752,0.489,1,-5.233,1,0.137,0.11,3.57e-06,0.202,0.373,108.005
+4KW1lqgSr8TKrvBII0Brf8,Father Stretch My Hands Pt. 1,Kanye West,The Life Of Pablo,0.724,0.573,7,-4.113,1,0.0549,0.118,0.0,0.538,0.438,113.088
+3cCxoOgfi6hgt8MNteuiiD,Fade,Kanye West,The Life Of Pablo,0.752,0.765,9,-5.805,0,0.0908,0.118,0.0,0.31,0.309,105.998
+2eMwDehkIC1j68U6FA3Eiq,XO TOUR Llif3,Lil Uzi Vert,XO TOUR Llif3,0.732,0.75,11,-6.366,0,0.231,0.00264,0.0,0.109,0.401,155.096
+7L9g4cPfohScjJ8mGwLQWr,TEMPTATION,Joey Bada$$,ALL-AMERIKKKAN BADA$$,0.775,0.707,10,-5.339,0,0.152,0.397,0.0,0.874,0.78,104.979
+0d0jsoba88SpOoFxCxA2rZ,The Art of Peer Pressure,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",0.555,0.611,10,-9.216,0,0.356,0.285,0.00106,0.273,0.409,94.939
+5vuJuBqwzHJgCA1ysRfwxZ,good kid,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",0.451,0.831,5,-8.641,0,0.308,0.0623,0.0,0.185,0.41,176.173
+4KjnaUNYPwGnJjoeTFlt91,Now Or Never - Bonus Track,"Kendrick Lamar, Mary J. Blige","good kid, m.A.A.d city (Deluxe)",0.535,0.707,7,-5.879,0,0.21,0.264,0.0,0.308,0.784,100.534
+46CA1H0T1r7u5lDUtVveAh,"FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)","Tyler, The Creator, Charlie Wilson, Chaz Bundick, Syd, Kali Uchis",Cherry Bomb,0.232,0.705,5,-6.928,1,0.0997,0.032,6.6e-05,0.185,0.352,74.28
+3rZhRBdVQ2fTEM2ULOAwUL,Broccoli,"DRAM, Lil Yachty",Big Baby DRAM,0.886,0.525,8,-7.39,1,0.132,0.236,0.0,0.057,0.708,145.99
+5Z3GHaZ6ec9bsiI5BenrbY,Young Dumb & Broke,Khalid,American Teen,0.799,0.539,1,-6.351,1,0.0421,0.199,1.66e-05,0.165,0.394,136.948
+5bgwqaRSS3M8WHWruHgSL5,8TEEN,Khalid,American Teen,0.83,0.585,1,-5.802,1,0.0366,0.225,0.00209,0.0576,0.642,105.03
+312WNtMs3F28cUukaPY9bo,American Teen,Khalid,American Teen,0.658,0.623,0,-6.934,1,0.0398,0.0683,0.0,0.321,0.207,100.436
+4EWCNWgDS8707fNSZ1oaA5,Heartless,Kanye West,808s & Heartbreak,0.79,0.647,10,-5.983,0,0.136,0.0515,0.0,0.248,0.654,87.999
+2KpCpk6HjXXLb7nnXoXA5O,Ni**as In Paris,"JAY-Z, Kanye West",Top Five (Music From And Inspired By The Motion Picture),0.758,0.871,1,-6.125,1,0.244,0.0773,0.0,0.251,0.724,140.058
+6rqj2zeKhLy3exkuFi6mSz,Answer,"Tyler, The Creator",Wolf,0.352,0.838,8,-6.465,0,0.0496,0.00329,5.74e-06,0.115,0.475,72.291
+5AnVuHLmgipXkFmBvj2Q6H,Colossus,"Tyler, The Creator",Wolf,0.442,0.6,2,-9.087,1,0.357,0.267,0.0,0.31,0.725,82.462
+6Nle9hKrkL1wQpwNfEkxjh,Chanel,Frank Ocean,Chanel,0.776,0.503,0,-5.732,0,0.237,0.874,0.0,0.112,0.473,110.134
+21yRtB6B8EMounImAfHRCP,Who Dat Boy (feat. A$AP Rocky),"Tyler, The Creator, A$AP Rocky",Flower Boy,0.706,0.485,8,-9.671,1,0.331,0.337,0.0,0.122,0.144,115.414
+4bEcoz1OcfMgUbp2ft8ieQ,911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),"Tyler, The Creator, Frank Ocean, Steve Lacy",Flower Boy,0.48,0.61,0,-7.042,1,0.305,0.0456,0.0,0.313,0.297,90.034
+5WNYg3usc6H8N3MBEp4zVk,Boredom (feat. Rex Orange County & Anna of the North),"Tyler, The Creator, Rex Orange County, Anna of the North",Flower Boy,0.559,0.578,8,-9.54,1,0.151,0.79,0.000522,0.324,0.239,79.938
+7KA4W4McWYRpgf0fWsJZWB,See You Again (feat. Kali Uchis),"Tyler, The Creator, Kali Uchis",Flower Boy,0.558,0.559,6,-9.222,1,0.0959,0.371,7.49e-06,0.109,0.62,78.558
+6KuXb26rHuRy3ZDse1VRmx,Where This Flower Blooms (feat. Frank Ocean),"Tyler, The Creator, Frank Ocean",Flower Boy,0.686,0.429,8,-10.402,0,0.15,0.71,3.41e-06,0.166,0.27,130.09
+2mH2U0HynFLxSTOrM7h3MP,My 2 Lovely Uncles,"Oney, SuperMega",My 2 Lovely Uncles,0.647,0.246,0,-10.959,1,0.0353,0.722,0.0,0.0747,0.26,89.977
+6tHWl8ows5JOZq9Yfaqn3M,Mine,Bazzi,Mine,0.716,0.805,4,-3.839,1,0.0856,0.014,3.1e-06,0.291,0.719,142.886
+4PpuH4mxL0rD35mOWaLoKS,Lemon,"N.E.R.D, Rihanna, Pharrell Williams",NO ONE EVER REALLY DIES,0.916,0.727,1,-6.556,1,0.0861,0.00214,0.000145,0.118,0.201,94.997
+10Igtw8bSDyyFs7KIsKngZ,Freaky Friday (feat. Chris Brown),"Lil Dicky, Chris Brown",Freaky Friday (feat. Chris Brown),0.755,0.599,8,-5.042,1,0.224,0.147,0.0,0.109,0.755,133.123
+1ACZpHI5vZ5Ea4xGlkdGWM,Crazy Rap (Colt 45 & 2 Zig Zags),Afroman,The Good Times,0.927,0.367,9,-7.797,1,0.382,0.325,0.0,0.132,0.576,99.053
+0rRboI6IRuGx56Dq3UdYY4,Because I Got High,Afroman,The Good Times,0.802,0.341,7,-8.56,1,0.488,0.169,0.0,0.0783,0.849,166.01
+0OAAAdiHJKa2wlCKqaYXV7,rockstar,"Post Malone, 21 Savage",rockstar (feat. 21 Savage),0.575,0.535,5,-6.637,0,0.0776,0.13,0.00013,0.143,0.127,159.764
+75ZvA4QfFiZvzhj2xkaWAh,I Fall Apart,Post Malone,Stoney - Deluxe,0.556,0.538,8,-5.408,0,0.0382,0.0689,0.0,0.196,0.291,143.946
+42CeaId2XNlxugDvyqHfDf,Candy Paint,Post Malone,Candy Paint,0.765,0.688,4,-5.566,1,0.0841,0.633,0.0,0.0734,0.434,90.013
+62vpWI1CHwFy7tMIcSStl8,No Role Modelz,J. Cole,2014 Forest Hills Drive,0.692,0.521,10,-8.465,0,0.33,0.301,0.0,0.0565,0.463,100.45
+6Ius4TC0L3cN74HT7ENE6e,Wet Dreamz,J. Cole,2014 Forest Hills Drive,0.517,0.705,6,-8.205,0,0.364,0.0751,0.0,0.128,0.584,175.906
+6rbeWjEavBHvX2kr6lSogS,Work Out,J. Cole,Cole World: The Sideline Story,0.831,0.427,2,-6.903,1,0.106,0.0531,0.0,0.316,0.216,93.004
+16qYlQ6koFxYVbiJbGHblz,G.O.M.D.,J. Cole,2014 Forest Hills Drive,0.89,0.393,4,-10.821,0,0.267,0.331,8.81e-06,0.283,0.304,128.084
+69b0SDYOymaqYwm3la237H,Ye vs. the People (starring TI as the People),Kanye West,Ye vs. the People (starring TI as the People),0.464,0.822,1,-1.881,1,0.294,0.0568,0.0,0.103,0.722,79.973
+3fpVWegR6YOS1Yk5HSMYIq,Paranoid,Post Malone,beerbongs & bentleys,0.62,0.535,0,-5.428,1,0.0775,0.038,2.46e-05,0.167,0.25,159.872
+3uYDO9dPLTVrgfwg7EYXSf,Lift Yourself,Kanye West,Lift Yourself,0.877,0.435,0,-8.131,1,0.136,0.0108,1.88e-06,0.115,0.589,98.008
+0b9oOr2ZgvyQu88wzixux9,This Is America,Childish Gambino,This Is America,0.854,0.463,5,-6.159,1,0.137,0.117,0.0,0.354,0.549,120.024
+1AT4xjNarTswd0UZ5FlmKF,Motiv8,J. Cole,KOD,0.869,0.385,4,-7.801,1,0.297,0.135,0.0,0.0931,0.596,149.897
+6olUplztLFFfU7fMYmFXOP,Sober,Childish Gambino,Kauai,0.699,0.601,0,-6.48,1,0.0304,0.0972,1.17e-05,0.562,0.434,98.04
+0X8DcetL926BYiPJYstJTc,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,0.511,0.566,6,-7.23,0,0.2,0.349,0.0,0.34,0.218,83.903
+3swc6WTsr7rl9DqQKQA55C,Psycho (feat. Ty Dolla $ign),"Post Malone, Ty Dolla $ign",beerbongs & bentleys,0.75,0.56,8,-8.094,1,0.105,0.546,0.0,0.111,0.459,140.06
+09IOPhEh1OMe0HD9b36FJk,Over Now,Post Malone,beerbongs & bentleys,0.569,0.777,4,-4.041,0,0.0834,0.137,0.0,0.132,0.181,164.029
+1D2L6MefbXon28PzIk9I3r,92 Explorer,Post Malone,beerbongs & bentleys,0.798,0.733,7,-4.811,0,0.0475,0.265,1.26e-06,0.114,0.862,146.047
+6tZ3b7ik1QDXFAZlXib0YZ,Kevin's Heart,J. Cole,KOD,0.829,0.527,6,-6.644,0,0.367,0.482,0.0,0.631,0.475,116.079
+2UciqgwVDwro0fev3MFbxJ,ATM,J. Cole,KOD,0.772,0.498,8,-7.661,1,0.649,0.115,0.0,0.0898,0.351,81.817
+22UDw8rSfLbUsaAGTXQ4Z8,American Boy,"Estelle, Kanye West",Shine,0.727,0.729,0,-2.99,1,0.326,0.171,0.0,0.07,0.512,117.932
+7dt6x5M1jzdTEt8oCbisTK,Better Now,Post Malone,beerbongs & bentleys,0.674,0.578,10,-5.804,1,0.0408,0.331,0.0,0.135,0.34,145.07
+4H7WNRErSbONkM06blBoGc,Stay,Post Malone,beerbongs & bentleys,0.506,0.48,5,-5.418,1,0.0266,0.449,0.0,0.147,0.351,86.042
+5VuxWXbt7XENQCtE9TzpTv,Spoil My Night (feat. Swae Lee),"Post Malone, Swae Lee",beerbongs & bentleys,0.671,0.716,1,-2.714,1,0.034,0.341,2.23e-05,0.106,0.238,160.986
+0OgGn1ofaj55l2PcihQQGV,Drew Barrymore,Bryce Vine,Drew Barrymore,0.758,0.574,11,-6.889,0,0.0572,0.46,0.00272,0.102,0.261,151.985
+2VdT56BGpdqNHUgOe1j5vc,Rich & Sad,Post Malone,beerbongs & bentleys,0.596,0.571,2,-4.997,1,0.0716,0.201,0.0,0.0969,0.282,152.132
+2rmq49FcJ4U3wh1Z7C9UxE,IV. Sweatpants,Childish Gambino,Because The Internet,0.644,0.479,4,-8.352,1,0.177,0.169,0.0,0.639,0.612,79.929
+3Z2sglqDj1rDRMF5x0Sz2R,3005,Childish Gambino,Because The Internet,0.473,0.461,6,-6.474,0,0.333,0.149,0.0,0.0973,0.615,165.985
+4zGvb8hxGLB2jEPRFiRRqw,Bonfire,Childish Gambino,Camp,0.508,0.763,1,-5.674,1,0.303,0.0627,0.0,0.347,0.275,161.59
+7xTY3rJMgj0nh6OOPHgsLw,Freaks And Geeks,Childish Gambino,EP (2011 Re-Release),0.667,0.873,10,-5.605,1,0.314,0.124,0.0,0.0725,0.799,81.052
+4r0GVpjSsKSR1biv4fOoa5,Me and Your Mama,Childish Gambino,"""Awaken, My Love!""",0.556,0.45,5,-11.874,1,0.0338,0.0105,0.0483,0.0707,0.25,117.99
+7pRcWov3NHxi0GDkKdbSb0,I. The Worst Guys,"Childish Gambino, Chance the Rapper",Because The Internet,0.613,0.684,5,-6.488,0,0.104,0.0534,0.0,0.0662,0.399,97.028
+3HooZZPp0evFShqaJ2Pwer,Heartbeat,Childish Gambino,Camp,0.8,0.569,1,-6.843,0,0.119,0.00545,0.000319,0.0542,0.325,119.954
+4oRqSiVyGrwb8dnJBO6FNu,II. Worldstar,Childish Gambino,Because The Internet,0.695,0.628,5,-8.627,1,0.145,0.337,0.219,0.143,0.21,119.949
+2ZBr6a8ecFqLJA0lcvFPCc,All The Shine,Childish Gambino,Camp,0.586,0.576,0,-7.732,0,0.133,0.0297,0.000171,0.16,0.307,79.986
+6O8iT490HuTFVjQo3eHdoi,That Power,Childish Gambino,Camp,0.413,0.675,4,-7.072,0,0.232,0.106,0.0,0.159,0.683,79.995
+4hZ9MbRJoxzDhx5WJlnDIA,III. Life: The Biggest Troll [Andrew Auernheimer],Childish Gambino,Because The Internet,0.597,0.629,1,-6.794,1,0.221,0.0184,0.0,0.127,0.485,80.124
+146EkdID2XSngct4gG8NQl,My Shine,Childish Gambino,EP (2011 Re-Release),0.435,0.872,0,-6.944,1,0.232,0.283,0.0,0.197,0.292,157.593
+7b9h63I7EafcW2pVS9pcUr,Retro [ROUGH],Childish Gambino,Kauai,0.868,0.636,5,-5.691,0,0.0391,0.233,0.0125,0.112,0.304,109.954
+03ImchswSXPA2KzLrc9hAL,Backpackers,Childish Gambino,Camp,0.547,0.865,5,-5.778,0,0.446,0.29,0.0,0.0874,0.528,170.651
+2VtpdevRsfoxtWlnVm1l8A,Outside,Childish Gambino,Camp,0.369,0.567,2,-7.227,0,0.137,0.424,0.0,0.113,0.197,74.848
+06WD650Zt5MQ55kFMP2f3r,Fire Fly,Childish Gambino,Camp,0.624,0.881,11,-3.696,0,0.282,0.16,0.0,0.27,0.529,87.268
+2KMCM2dirSnthfYKNjS8iT,LES,Childish Gambino,Camp,0.539,0.695,1,-6.8,0,0.113,0.00791,0.000228,0.199,0.139,103.094
+4wv0lOxuHGbnLXVBFmxfxy,Hold You Down,Childish Gambino,Camp,0.613,0.71,7,-7.539,1,0.102,0.243,1.42e-05,0.145,0.486,85.174
+3z1eL3iolJSdiYEEodX1k0,Kids,Childish Gambino,Camp,0.683,0.484,9,-10.922,1,0.113,0.0331,0.0,0.652,0.336,85.011
+1eEPKr5gzWVSZKiMWIMZYa,You See Me,Childish Gambino,Camp,0.677,0.806,2,-6.393,1,0.507,0.051,0.0,0.116,0.657,69.765
+5hMxgvMmI99alD8JJpjO0w,Sunrise,Childish Gambino,Camp,0.582,0.681,7,-6.131,1,0.0467,0.00982,0.0,0.0676,0.155,79.982
+3H2JThgdBxezwj1wwafQS8,All Girls Are The Same,Juice WRLD,Goodbye & Good Riddance,0.671,0.529,0,-7.226,1,0.307,0.0769,0.000335,0.0856,0.203,161.989
+3RWM7z6BF8C6z9ypLtxz4M,Lean Wit Me,Juice WRLD,Goodbye & Good Riddance,0.665,0.651,1,-5.515,1,0.156,0.0414,0.0,0.0896,0.237,163.935
+5xJeZ6tLPOXNIrrphEIuay,435,"Tyler, The Creator",435,0.539,0.804,10,-5.504,0,0.172,0.00247,0.000185,0.463,0.798,85.752
+5HQVUIKwCEXpe7JIHyY734,"Young, Wild & Free (feat. Bruno Mars)","Snoop Dogg, Wiz Khalifa, Bruno Mars","Young, Wild & Free (feat. Bruno Mars)",0.715,0.655,0,-6.425,1,0.137,0.0525,0.0,0.115,0.531,95.078
+3CNqo3gYrfexdrtjFmC9he,Where Is The Love_,Black Eyed Peas,Elephunk,0.834,0.696,5,-3.224,1,0.197,0.11,0.0,0.13,0.804,94.09
+1cTZMwcBJT0Ka3UJPXOeeN,Nice For What,Drake,Nice For What,0.567,0.913,8,-6.471,1,0.0736,0.0934,0.000124,0.114,0.792,93.35
+1sPLURKAosM3Jampgp9AWq,Sandra's Rose,Drake,Scorpion,0.487,0.85,1,-5.427,1,0.25,0.047,0.0,0.142,0.523,152.102
+6JyEh4kl9DLwmSAoNDRn5b,4th Dimension,"KIDS SEE GHOSTS, Louis Prima",KIDS SEE GHOSTS,0.765,0.542,1,-6.755,1,0.39,0.278,1.87e-05,0.609,0.734,171.945
+6lV2MSQmRIkycDScNtrBXO,Airplanes (feat. Hayley Williams of Paramore),"B.o.B, Hayley Williams",B.o.B Presents: The Adventures of Bobby Ray,0.66,0.867,6,-4.285,0,0.116,0.11,0.0,0.0368,0.377,93.033
+5uHYcK0nbEYgRaFTY5BqnP,Magic (feat. Rivers Cuomo),"B.o.B, Rivers Cuomo",B.o.B Presents: The Adventures of Bobby Ray,0.549,0.932,8,-4.11,0,0.343,0.0127,0.0,0.347,0.787,82.439
+28GUjBGqZVcAV4PHSYzkj2,So Good,B.o.B,Strange Clouds,0.66,0.9,7,-5.02,1,0.14,0.0403,0.0,0.219,0.591,85.51
+59dLtGBS26x7kc0rHbaPrq,Nothin' on You (feat. Bruno Mars),"B.o.B, Bruno Mars",B.o.B Presents: The Adventures of Bobby Ray,0.688,0.853,10,-5.814,1,0.0493,0.386,0.0,0.0862,0.743,103.993
+0qOnSQQF0yzuPWsXrQ9paz,Stereo Hearts (feat. Adam Levine),"Gym Class Heroes, Adam Levine",The Papercut Chronicles II,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99
+6ndmKwWqMozN2tcZqzCX4K,Remember the Name (feat. Styles of Beyond),"Fort Minor, Styles Of Beyond",The Rising Tied,0.688,0.835,8,-4.162,1,0.0911,0.0583,2.87e-06,0.0795,0.88,84.858
+1FgmP7AOTcn7MGYmImj0kn,Ain't Gonna Die Tonight (feat. Eric Nally),"Macklemore, Eric Nally",GEMINI,0.687,0.768,7,-5.579,0,0.14,0.232,0.0,0.118,0.865,81.977
+0CokSRCu5hZgPxcZBaEzVE,Glorious (feat. Skylar Grey),"Macklemore, Skylar Grey",GEMINI,0.731,0.794,0,-5.126,0,0.0522,0.0323,2.59e-05,0.112,0.356,139.994
+2Za1AlJNvksouPPWbXpR2X,Good Old Days (feat. Kesha),"Macklemore, Kesha",GEMINI,0.712,0.51,8,-8.162,1,0.0633,0.446,2.46e-05,0.112,0.268,122.964
+4m4aiyWCBH011DhxQeoWt1,Corner Store (feat. Dave B & Travis Thompson),"Macklemore, Dave B., Travis Thompson",GEMINI,0.845,0.425,11,-9.534,1,0.413,0.124,0.0,0.37,0.817,145.982
+5CLGzJsGqhCEECcpnFQA8x,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)","Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",0.653,0.809,0,-4.057,1,0.0474,0.194,0.0,0.165,0.55,92.213
+30ChdprG0UQB9pEnBxpZ3s,"Story of OJ, Pt. 2",T the Messenger,"Story of OJ, Pt. 2",0.632,0.573,5,-7.697,0,0.666,0.431,0.000521,0.139,0.683,166.484
+4z0PnuB07fxtVZZRWsCfxb,100 Grandkids,Mac Miller,GO:OD AM,0.735,0.749,10,-3.766,0,0.0874,0.371,0.0,0.47,0.373,93.718
+3woRy7uxzl1lO2XO99oHsN,The Man Who Has Everything,Chance the Rapper,The Man Who Has Everything,0.686,0.469,1,-9.065,1,0.291,0.612,0.0,0.121,0.156,72.998
+2ySRRtrAwDUF4FipiF1Djt,My Own Thing,"Chance the Rapper, Joey Purp",My Own Thing,0.879,0.457,0,-6.332,1,0.269,0.105,0.0,0.12,0.658,139.974
+3KkXRkHbMCARz0aVfEt68P,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),0.76,0.478,2,-5.574,1,0.0467,0.552,0.0,0.0703,0.913,89.908
+51RN0kzWd7xeR4th5HsEtW,IGOR'S THEME,"Tyler, The Creator",IGOR,0.467,0.672,10,-7.371,0,0.377,0.00559,0.243,0.607,0.0648,163.1
+5hVghJ4KaYES3BFUATCYn0,EARFQUAKE,"Tyler, The Creator",IGOR,0.554,0.498,9,-8.866,1,0.0685,0.23,5.98e-06,0.795,0.413,79.635
+4f8Mh5wuWHOsfXtzjrJB3t,I THINK,"Tyler, The Creator",IGOR,0.826,0.579,8,-8.241,0,0.0801,0.00881,0.0,0.129,0.431,121.075
+5QvBXUm5MglLJ3iBfTX2Wo,RUNNING OUT OF TIME,"Tyler, The Creator",IGOR,0.36,0.391,6,-10.6,1,0.0528,0.296,0.000406,0.129,0.162,84.281
+1nXZnTALNXiPlvXotqHm66,A BOY IS A GUN*,"Tyler, The Creator",IGOR,0.417,0.689,2,-8.302,0,0.178,0.575,0.0,0.496,0.505,79.568
+0wEC0GNF74lAqrEFZJMl1m,PUPPET,"Tyler, The Creator",IGOR,0.508,0.557,8,-8.967,0,0.0478,0.00235,0.0134,0.588,0.199,77.572
+6bOkaEXc5CopinGazSLokx,WHAT'S GOOD,"Tyler, The Creator",IGOR,0.458,0.909,1,-6.553,1,0.487,0.0567,4.26e-06,0.11,0.449,118.227
+1hz7SRTGUNAtIQ46qiNv2p,"GONE, GONE / THANK YOU","Tyler, The Creator",IGOR,0.518,0.492,10,-8.436,0,0.193,0.216,0.0012,0.146,0.471,78.848
+5A0M6B0RBSXSNWv0wcppZ9,I DON'T LOVE YOU ANYMORE,"Tyler, The Creator",IGOR,0.638,0.522,8,-9.814,1,0.0932,0.352,0.0663,0.165,0.584,142.952
+5TxRUOsGeWeRl3xOML59Ai,ARE WE STILL FRIENDS_,"Tyler, The Creator",IGOR,0.216,0.497,10,-8.025,1,0.0371,0.128,2.39e-06,0.111,0.313,187.308
+1jzIJcHCXneHw7ojC6LXiF,Potato Salad,"Tyler, The Creator, A$AP Rocky",Potato Salad,0.538,0.612,2,-6.02,1,0.424,0.308,0.0,0.213,0.684,168.197
+39NDBdU5Xkm5pCFGa5kZtI,Ladders,Mac Miller,Swimming,0.802,0.463,8,-8.379,1,0.162,0.236,0.00531,0.105,0.291,103.961
+5sCwso3aURYAdieWEFI1nE,Icy (feat. Gucci Mane),"Logic, Gucci Mane",Confessions of a Dangerous Mind,0.827,0.522,7,-4.866,1,0.0845,0.163,1.19e-06,0.109,0.477,151.99
+7er0EUMY653mxZ1NVD9mwQ,"FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)","Tyler, The Creator, Roy Ayers, Syd, Kali Uchis",Cherry Bomb,0.53,0.427,9,-7.338,0,0.0275,0.405,0.0832,0.0976,0.195,75.111
+078C2jXg7XsMgW78Gfx1JA,SMUCKERS (feat. Lil Wayne & Kanye West),"Tyler, The Creator, Lil Wayne, Kanye West",Cherry Bomb,0.427,0.849,7,-2.945,1,0.348,0.015,0.00373,0.153,0.55,79.155
+0aMHIW1lqrulVCx0LLlr6a,Cocoa Butter Kisses,"Chance the Rapper, VIC MENSA, Twista",Acid Rap,0.679,0.645,6,-7.777,0,0.222,0.0518,0.0,0.145,0.203,125.795
+1sFstGV1Z3Aw5TDFCiT7vK,Favorite Song,"Chance the Rapper, Childish Gambino",Acid Rap,0.725,0.601,1,-9.03,1,0.377,0.0321,0.0,0.0504,0.811,155.918
+333OkWOgbV6C8I5wRLfuSx,I Got You (Always and Forever),"Chance the Rapper, En Vogue, Ari Lennox, Kierra Sheard",The Big Day,0.751,0.856,7,-3.29,1,0.267,0.137,0.0,0.12,0.574,101.932
+1dXYBALYTj3AMxa8hgiQhA,DEATHCAMP (feat. Cole Alexander),"Tyler, The Creator, Cole Alexander",Cherry Bomb,0.581,0.746,10,-5.495,0,0.0422,0.0149,0.000276,0.594,0.455,101.881
+1kBbgxAUc4HQv7cgIayIDH,Ransom,Lil Tecca,Ransom,0.745,0.642,7,-6.257,0,0.287,0.0204,0.0,0.0658,0.226,179.974
+2M9ULmQwTaTGmAdXaXpfz5,Billionaire (feat. Bruno Mars),"Travie McCoy, Bruno Mars",Billionaire (feat. Bruno Mars),0.633,0.673,6,-6.403,0,0.258,0.297,0.0,0.206,0.659,86.776
+0QIjsbm2fh1cJ45XO9eGqq,Wake Up in the Sky,"Gucci Mane, Bruno Mars, Kodak Black",Wake Up in the Sky,0.8,0.578,4,-5.144,0,0.0485,0.00381,0.0,0.359,0.367,143.01
+2QpGZOhTCHHiKmpSO9FW4h,Follow God,Kanye West,JESUS IS KING,0.529,0.9,1,-3.503,1,0.418,0.000248,1.21e-05,0.0426,0.434,180.291
+2SasoXZyv82yYgHiVOvxQn,On God,Kanye West,JESUS IS KING,0.41,0.886,9,-4.413,0,0.155,0.0671,0.0,0.461,0.393,72.577
+6xRWoYwfwIKnT8bQGzKbxR,God Is,Kanye West,JESUS IS KING,0.656,0.637,1,-3.867,1,0.0256,0.34,0.0,0.187,0.267,105.037
+5CaXxLM568tBh1PwhXdciZ,Good Morning,Kanye West,Graduation,0.48,0.631,7,-5.488,1,0.116,0.0791,0.000105,0.149,0.515,84.164
+2ovQ5MCx91XVjgVWEPfvks,Homecoming,"Kanye West, Chris Martin",Graduation,0.667,0.747,1,-7.059,1,0.189,0.337,0.0,0.115,0.918,86.917
+2MIBAmYwiuGoKUlpq9B9sZ,Can't Tell Me Nothing,Kanye West,Graduation,0.596,0.62,5,-6.133,0,0.039,0.0122,0.0,0.82,0.102,80.029
+3JWiDGQX2eTlFvKj3Yssj3,Closed On Sunday,Kanye West,JESUS IS KING,0.799,0.291,11,-7.353,0,0.0318,0.873,0.000641,0.139,0.406,97.984
+2aHlRZIGUFThu3eQePm6yI,Champion,Kanye West,Graduation,0.693,0.504,6,-8.306,1,0.238,0.00299,0.0,0.695,0.723,102.139
+2gZUPNdnz5Y45eiGxpHGSc,POWER,Kanye West,My Beautiful Dark Twisted Fantasy,0.542,0.914,0,-4.747,0,0.113,0.0161,0.0,0.744,0.576,153.993
+23SZWX2IaDnxmhFsSLvkG2,Gorgeous,"Kanye West, Kid Cudi, Raekwon",My Beautiful Dark Twisted Fantasy,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964
+7yNK27ZTpHew0c55VvIJgm,Dark Fantasy,Kanye West,My Beautiful Dark Twisted Fantasy,0.599,0.587,5,-5.919,1,0.0423,0.274,0.0,0.167,0.373,87.998
+5FEXPoPnzueFJQCPRIrC3c,Day 'N' Nite (nightmare),Kid Cudi,Man On The Moon: The End Of Day,0.871,0.44,11,-6.25,0,0.0762,0.499,4.14e-06,0.114,0.798,137.996
+5iSEsR6NKjlC9SrIJkyL3k,Pursuit Of Happiness (Nightmare),"Kid Cudi, MGMT, Ratatat",Man On The Moon: The End Of Day,0.629,0.606,0,-8.951,1,0.0412,0.484,0.0001,0.298,0.288,115.275
+7GRTrWsP3yo2Fx8umJfA1X,Freeee (Ghost Town Pt. 2),"KIDS SEE GHOSTS, Ty Dolla $ign",KIDS SEE GHOSTS,0.334,0.81,9,-4.855,0,0.0632,0.00457,0.0,0.158,0.306,151.643
+6HSqyfGnsHYw9MmIpa9zlZ,Forever,"Drake, Kanye West, Lil Wayne, Eminem",More Than A Game,0.415,0.926,5,-1.304,0,0.374,0.253,0.0,0.256,0.542,158.423
+0m3Ze0cy8qBHSsV2exAfCw,Amazing,"Kanye West, Jeezy",808s & Heartbreak,0.588,0.554,8,-8.406,1,0.0545,0.216,0.118,0.0619,0.496,146.133
+31I3Rt1bPa2LrE74DdNizO,Flashing Lights,"Kanye West, Dwele",Graduation,0.639,0.628,6,-7.578,0,0.0399,0.0381,0.0,0.386,0.43,90.482
+22L7bfCiAkJo5xGSQgmiIO,All Of The Lights,Kanye West,My Beautiful Dark Twisted Fantasy,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113
+3DK6m7It6Pw857FcQftMds,Runaway,"Kanye West, Pusha T",My Beautiful Dark Twisted Fantasy,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733
+0oPOuDmmkVp3h6puekhs6P,Use This Gospel,"Kanye West, Clipse, Kenny G",JESUS IS KING,0.611,0.459,0,-3.926,0,0.0422,0.614,0.0,0.126,0.177,148.28
+1WnqWQcWcuQbVzgE7ecfCY,Every Hour,"Kanye West, Sunday Service Choir",JESUS IS KING,0.588,0.793,7,-6.23,1,0.0794,0.466,0.000647,0.913,0.694,76.997
+3sNVsP50132BTNlImLx70i,Bound 2,Kanye West,Yeezus,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913
+3f3HHRPF5vAo90GwdpDMaQ,Because I'm Me,The Avalanches,Wildflower,0.472,0.805,8,-5.793,1,0.086,0.0491,0.0162,0.337,0.512,94.922
+011ZwIM48eD8ee2UBpG8nK,"12.38 (feat. 21 Savage, Ink & Kadhja Bonet)","Childish Gambino, 21 Savage, Ink, Kadhja Bonet",3.15.20,0.691,0.524,5,-9.718,1,0.16,0.197,4.29e-05,0.488,0.41,164.047
+5X4R93Qcw54yp9Utwy7Mlr,19.10,Childish Gambino,3.15.20,0.715,0.597,0,-8.939,1,0.0749,0.012,0.00273,0.0925,0.186,114.98
+3IB89bAf5k60jLUFoWAmn1,24.19,Childish Gambino,3.15.20,0.538,0.463,0,-13.573,1,0.038,0.0946,0.000304,0.114,0.207,149.927
+4vS4FB3HXgOSmICeqEY0Gh,35.31,Childish Gambino,3.15.20,0.798,0.559,5,-10.868,1,0.0592,0.286,0.0,0.349,0.604,102.018
+7l8qR2ndOxgE9hbfQf6gxA,47.48,Childish Gambino,3.15.20,0.681,0.597,4,-12.623,0,0.0637,0.378,0.582,0.125,0.486,148.018
+2alJKJoqOOEPVU1Do3eIjJ,53.49,Childish Gambino,3.15.20,0.518,0.952,6,-5.274,0,0.198,0.0287,0.0,0.381,0.622,171.905
+7p4vHnYXkxlzvfePJVpcTr,Feels Like Summer,Childish Gambino,Summer Pack,0.55,0.596,7,-8.214,1,0.134,0.162,0.00481,0.0805,0.253,165.736
+2x5Frs6ts14U4MSLrQQlXg,Why iii Love The Moon.,Phony Ppl,Yesterday's Tomorrow,0.706,0.483,1,-7.929,1,0.0393,0.547,1.94e-06,0.136,0.663,92.002
+1eQBEelI2NCy7AUTerX0KS,Ultralight Beam,Kanye West,The Life Of Pablo,0.592,0.403,0,-8.768,0,0.414,0.62,0.0,0.54,0.391,105.169
+5CGS4UovzA7ftCJkLVXQju,I Love Kanye,Kanye West,The Life Of Pablo,0.756,0.374,5,-7.966,1,0.741,0.594,0.0,0.217,0.966,80.326
+6vegnfDS8DAEaCqWaPYGPy,Otis,"JAY-Z, Kanye West, Otis Redding",Watch The Throne (Deluxe),0.754,0.631,7,-4.751,0,0.307,0.552,0.0,0.5,0.432,94.577
+3Osd3Yf8K73aj4ySn6LrvK,No Church In The Wild,"JAY-Z, Kanye West, Frank Ocean, The-Dream",Watch The Throne (Deluxe),0.654,0.75,8,-7.509,0,0.105,0.246,0.0178,0.167,0.557,92.78
+5e7ldn9Kwo8Aw9Z8ql9cDj,All Eyez On Me (ft. Big Syke),"2Pac, Big Syke",All Eyez On Me,0.873,0.719,1,-5.948,1,0.248,0.03,0.0,0.333,0.858,93.281
+3ia3dJETSOllPsv3LJkE35,California Love - Original Version,"2Pac, Roger, Dr. Dre",Greatest Hits,0.763,0.85,7,-3.052,1,0.0417,0.0304,1.21e-06,0.371,0.761,91.519
+5oMkgWZqmKjaJHrsXcsZZy,Donald Trump,Mac Miller,Best Day Ever (5th Anniversary Remastered Edition),0.716,0.936,1,-4.968,0,0.123,0.0318,0.0,0.367,0.799,81.508
+0I3q5fE6wg7LIfHGngUTnV,Ms. Jackson,Outkast,Stankonia,0.843,0.806,4,-5.946,0,0.269,0.143,0.0,0.0771,0.613,94.948
+2d8JP84HNLKhmd6IYOoupQ,Trap Queen,Fetty Wap,Fetty Wap (Deluxe),0.746,0.873,7,-3.803,1,0.128,0.0244,0.0,0.354,0.817,148.075
+4ydmav4vl7hebadtfZtMrg,SIR BAUDELAIRE (feat. DJ Drama),"Tyler, The Creator, DJ Drama",CALL ME IF YOU GET LOST,0.467,0.635,7,-6.115,1,0.154,0.314,4.16e-06,0.844,0.51,127.596
+46oHvXwpEZOFX518we1nJD,CORSO,"Tyler, The Creator",CALL ME IF YOU GET LOST,0.703,0.845,10,-4.851,0,0.337,0.169,0.0,0.122,0.745,97.672
+5fbHRCsGpFIOLRtlhCRFDR,LEMONHEAD (feat. 42 Dugg),"Tyler, The Creator, 42 Dugg",CALL ME IF YOU GET LOST,0.62,0.586,1,-6.612,1,0.212,0.155,0.0,0.535,0.487,137.131
+5B0kgjHULYJhAQkK5XsMoC,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),"Tyler, The Creator, YoungBoy Never Broke Again, Ty Dolla $ign",CALL ME IF YOU GET LOST,0.493,0.653,0,-5.666,0,0.0466,0.269,0.0,0.511,0.852,142.347
+0BiK5BbYNFLb88CCOxBFJe,LUMBERJACK,"Tyler, The Creator",CALL ME IF YOU GET LOST,0.386,0.762,9,-6.341,1,0.564,0.122,0.0,0.527,0.433,170.691
+3JJL91ilRV6fXhKqu0FGXs,HOT WIND BLOWS (feat. Lil Wayne),"Tyler, The Creator, Lil Wayne",CALL ME IF YOU GET LOST,0.371,0.75,7,-5.382,0,0.402,0.601,0.0,0.482,0.729,173.456
+2goHCrsDJaflEwQ930ef0o,MASSA,"Tyler, The Creator",CALL ME IF YOU GET LOST,0.685,0.855,1,-6.724,0,0.438,0.329,8.9e-05,0.301,0.46,157.181
+13HsOwrwTA5HgLuoaDHncP,RUNITUP (feat. Teezo Touchdown),"Tyler, The Creator, Teezo Touchdown",CALL ME IF YOU GET LOST,0.665,0.469,10,-7.778,0,0.13,0.565,0.000317,0.219,0.142,115.852
+6qouBO0wJtYc3k7DfKRUBx,MANIFESTO (feat. Domo Genesis),"Tyler, The Creator, Domo Genesis",CALL ME IF YOU GET LOST,0.454,0.866,2,-5.348,1,0.391,0.121,0.0067,0.167,0.518,92.463
+3EG9FJ0ToLfgnc1IG2Z1wz,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),"Tyler, The Creator, Brent Faiyaz, Fana Hues",CALL ME IF YOU GET LOST,0.468,0.652,0,-4.912,1,0.0722,0.333,0.000318,0.55,0.39,140.223
+4Hta7Oy5W9HD0UgT1P8PPV,RISE! (feat. DAISY WORLD),"Tyler, The Creator, DAISY WORLD",CALL ME IF YOU GET LOST,0.766,0.814,2,-3.367,1,0.0733,0.044,1.08e-05,0.195,0.481,108.07
+2X5m6irq8boS50Efx4oWew,BLESSED,"Tyler, The Creator",CALL ME IF YOU GET LOST,0.336,0.613,8,-7.869,1,0.123,0.389,9.99e-05,0.765,0.741,40.319
+7z4xW9WY86uH3gd1V9pfCM,JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams),"Tyler, The Creator, Lil Uzi Vert, Pharrell Williams",CALL ME IF YOU GET LOST,0.827,0.571,11,-7.949,1,0.366,0.0195,0.0,0.166,0.62,142.034
+1pbbsI2KGPOMu0HmuGccBu,WILSHIRE,"Tyler, The Creator",CALL ME IF YOU GET LOST,0.555,0.712,1,-7.446,1,0.323,0.0451,5.14e-06,0.182,0.555,78.958
+09xpQPfKWdio1wx6v17dGa,SAFARI,"Tyler, The Creator",CALL ME IF YOU GET LOST,0.471,0.71,1,-6.462,0,0.213,0.0618,1.7e-06,0.338,0.599,80.453
+51pshtuYkgUQnt5huMPbKL,The Spins,Mac Miller,K.I.D.S.,0.794,0.766,9,-3.894,0,0.0377,0.0135,0.0,0.0785,0.55,127.007
+0PT7nlpo11hYYyfnBgtilT,Nasty Freestyle,T-Wayne,Nasty Freestyle,0.779,0.472,11,-7.116,1,0.218,0.0577,0.0,0.114,0.412,135.051
+19gEmPjfqSZT0ulDRfjl0m,Hot N*gga,Bobby Shmurda,Hot N*gga,0.794,0.51,9,-7.314,1,0.42,0.0505,1.81e-06,0.0562,0.18,167.879
+7d9x9mJPAruRZOieauLHrF,Stay High - Childish Gambino Version,"Brittany Howard, Childish Gambino",Stay High (Childish Gambino Version),0.839,0.655,9,-5.793,1,0.049,0.161,0.00026,0.153,0.754,123.004
+6JjEVlMkfHWMeYavkEYzNO,Gassed Up,Nebu Kiniza,Gassed Up,0.798,0.568,5,-9.072,0,0.135,0.0213,0.0,0.0586,0.45,148.88
+3nAq2hCr1oWsIU54tS98pL,Waves,Kanye West,The Life Of Pablo,0.557,0.586,10,-4.57,1,0.0382,0.0528,7.33e-06,0.339,0.0681,96.091
+2bjwRfXMk4uRgOD9IBYl9h,Portland,"Drake, Quavo, Travis Scott",More Life,0.925,0.443,1,-8.216,1,0.264,0.0172,0.0,0.276,0.35,136.078
+3baESV24ilV6meyqLUh0WU,Have Some Love,Childish Gambino,"""Awaken, My Love!""",0.783,0.782,9,-7.003,1,0.0854,0.0171,0.0261,0.682,0.934,148.214
+3YxunxpAExKBEvhuf7wQOK,Riot,Childish Gambino,"""Awaken, My Love!""",0.498,0.942,5,-6.664,1,0.0708,0.000225,8.7e-06,0.41,0.603,91.358
+0wXuerDYiBnERgIpbb3JBR,Redbone,Childish Gambino,"""Awaken, My Love!""",0.743,0.344,1,-11.174,1,0.118,0.169,0.00879,0.103,0.577,160.15
+6Ik9aiuaoEYxsEKGdQaEJB,California,Childish Gambino,"""Awaken, My Love!""",0.879,0.419,3,-11.932,1,0.588,0.315,0.0,0.118,0.847,148.953
+7vgTNTaEz3CsBZ1N4YQalM,Ghost Town,"Kanye West, PARTYNEXTDOOR",ye,0.573,0.545,7,-4.247,0,0.0288,0.0969,0.0,0.329,0.297,83.378
+3s7MCdXyWmwjdcWh7GWXas,Violent Crimes,Kanye West,ye,0.669,0.419,1,-6.724,0,0.522,0.376,0.0,0.187,0.0397,109.813
+35KV2Nuib6jPMVN00O8iba,No Mistakes,Kanye West,ye,0.643,0.646,10,-2.442,0,0.0629,0.0393,0.0,0.109,0.35,80.174
+0IW0qaeyxL5Et4UG2MrJKB,We Don't Care,Kanye West,The College Dropout,0.595,0.754,11,-5.827,0,0.181,0.0142,0.0,0.247,0.647,83.155
+5SkRLpaGtvYPhw02vZhQQ9,All Falls Down,"Kanye West, Syleena Johnson",The College Dropout,0.657,0.734,8,-4.832,0,0.484,0.149,0.0,0.139,0.434,91.03
+5g1vtHqi9uV7xtYeCcFOBx,Jesus Walks,Kanye West,The College Dropout,0.637,0.834,3,-4.686,0,0.323,0.614,0.0,0.317,0.715,87.312
+34j4OxJxKznBs88cjSL2j9,Never Let Me Down,"Kanye West, JAY-Z, J. Ivy",The College Dropout,0.459,0.816,11,-4.872,0,0.403,0.423,0.0,0.169,0.643,80.293
+1Vp4St7JcXaUoJcIahtf3L,The New Workout Plan,Kanye West,The College Dropout,0.704,0.792,2,-4.831,1,0.198,0.00981,0.0,0.365,0.646,118.022
+3A4cpTBPaIQdtPFb5JxtaX,Slow Jamz,"Twista, Kanye West, Jamie Foxx",The College Dropout,0.559,0.733,2,-5.659,0,0.171,0.314,0.0,0.284,0.611,145.115
+1th3G3okofWlvGWAAR7Y4V,School Spirit,Kanye West,The College Dropout,0.483,0.787,5,-5.422,0,0.21,0.339,0.0,0.236,0.592,84.81
+2dxjKgT0li4qBI3QwuN9Ih,Touch The Sky,"Kanye West, Lupe Fiasco",Late Registration,0.552,0.846,9,-4.912,1,0.342,0.0114,0.0,0.309,0.554,98.56
+1ko2NuvWlQdxtNRc8QQzmT,Spaceship,"Kanye West, GLC, Consequence",The College Dropout,0.507,0.753,5,-5.31,0,0.19,0.503,0.0,0.573,0.657,178.068
+2DHNCWZYmVr1Lv08q5b0kB,Roses,Kanye West,Late Registration,0.723,0.465,3,-6.454,0,0.0952,0.259,2.7e-05,0.108,0.513,97.702
+62cnlJ7kDMSm2B4bj4o9Oz,I Wonder,Kanye West,Graduation,0.542,0.466,0,-8.668,1,0.0824,0.141,0.000444,0.125,0.127,191.386
+46OFHBw45fNi7QNjSetITR,Hey Mama,Kanye West,Late Registration,0.583,0.754,7,-6.993,1,0.223,0.0593,0.0,0.113,0.347,95.784
+4R5bSS8yoCl2czeWLr61aO,Diamonds From Sierra Leone - Bonus Track,Kanye West,Late Registration,0.435,0.846,7,-3.458,1,0.263,0.148,0.0,0.306,0.57,100.771
+5RjbFGeWVsCpw8EcE8OrvZ,Gone,"Kanye West, Consequence, Cam'ron",Late Registration,0.842,0.668,1,-6.043,1,0.26,0.015,0.0,0.0699,0.345,92.703
+5e5MKPtJuFb8NaeSEyV5gD,Say You Will,Kanye West,808s & Heartbreak,0.603,0.401,0,-10.155,0,0.0306,0.542,0.225,0.103,0.347,172.633
+1kxeWHF9PrCVZHvVskv8lg,Love Lockdown,Kanye West,808s & Heartbreak,0.76,0.524,1,-7.67,0,0.0323,0.0542,0.5,0.112,0.112,119.603
+0w2piYWj1F2bzUftzGJgK9,Paranoid,"Kanye West, Mr Hudson",808s & Heartbreak,0.587,0.611,6,-7.408,1,0.106,0.114,9.83e-05,0.0765,0.464,114.991
+02LAK7qT1wya0klSeNO96f,RoboCop,Kanye West,808s & Heartbreak,0.698,0.447,5,-8.04,0,0.102,0.157,0.00564,0.405,0.407,133.776
+1ZHYJ2Wwgxes4m8Ba88PeK,Monster,"Kanye West, JAY-Z, Rick Ross, Nicki Minaj, Bon Iver",My Beautiful Dark Twisted Fantasy,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887
+1UGD3lW3tDmgZfAVDh6w7r,Devil In A New Dress,"Kanye West, Rick Ross",My Beautiful Dark Twisted Fantasy,0.435,0.76,8,-4.935,0,0.0721,0.0175,0.0,0.158,0.206,80.082
+3rCNmRonlHN1TXQLcG3dSk,Hell Of A Life,Kanye West,My Beautiful Dark Twisted Fantasy,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962
+2Im64pIz6m0EJKdUe6eZ8r,Lost In The World,"Kanye West, Bon Iver",My Beautiful Dark Twisted Fantasy,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072
+2igwFfvr1OAGX9SKDCPBwO,Empire State Of Mind,"JAY-Z, Alicia Keys",The Blueprint 3,0.491,0.956,11,-1.538,1,0.392,0.0295,0.0,0.46,0.811,173.585
+2eAZfqOm4EnOF9VvN50Tyc,The Way Life Goes (feat. Oh Wonder),"Lil Uzi Vert, Oh Wonder",Luv Is Rage 2,0.703,0.757,1,-3.612,1,0.05,0.617,0.0,0.106,0.696,82.008
+6Ozh9Ok6h4Oi1wUSLtBseN,BOP,DaBaby,KIRK,0.769,0.787,11,-3.909,1,0.367,0.189,0.0,0.129,0.836,126.77
+0uxSUdBrJy9Un0EYoBowng,20 Min,Lil Uzi Vert,Luv Is Rage 2 - Deluxe,0.773,0.75,8,-4.009,0,0.117,0.109,0.0,0.174,0.783,123.426
+6bj42Hzr3RErxhfgSTdSx6,Terry,Action Bronson,Mr. Wonderful,0.376,0.62,1,-5.84,1,0.367,0.707,0.0,0.107,0.0477,87.538
+7gDwRzJhLs0fFHaGtMDJVM,Baby Blue (feat. Chance the Rapper),"Action Bronson, Chance the Rapper",Mr. Wonderful,0.828,0.487,6,-6.142,0,0.0343,0.247,1.86e-05,0.136,0.761,85.027
+0yhxBvedRdGxsPZHJNI4VA,I Thought About Killing You,Kanye West,ye,0.752,0.396,2,-7.932,1,0.411,0.867,0.0,0.0486,0.417,116.016
+0zLClc0emc6qUeV1p5nc99,No More Parties In LA,Kanye West,The Life Of Pablo,0.508,0.921,5,-1.644,1,0.303,0.246,0.0,0.221,0.681,93.058
+6bUNEbXT7HovLW6BgPCBsb,Roses,Outkast,Speakerboxxx/The Love Below,0.751,0.708,0,-5.653,1,0.0545,0.0482,1.85e-05,0.107,0.509,108.97
+1Wsbr1d2BouNGk2q92mIj7,Pt. 2,Kanye West,The Life Of Pablo,0.674,0.752,11,-4.073,1,0.333,0.552,0.0,0.787,0.236,145.076
+4qYLPta5HZ36idWiXtqh7B,Highlights,Kanye West,The Life Of Pablo,0.547,0.626,2,-6.244,1,0.208,0.00572,0.0,0.313,0.346,101.971
+30Zcjs7pgEkmJA1lEbGSWT,FML,Kanye West,The Life Of Pablo,0.527,0.415,5,-7.184,1,0.131,0.329,0.0,0.195,0.12,125.357
+66Q3fAmSX5eHamgbKa9alP,Real Friends,Kanye West,The Life Of Pablo,0.441,0.744,6,-6.248,0,0.476,0.262,0.000382,0.138,0.124,81.396
+432hUIl3ISDeytYW5XBQ5h,Wolves,Kanye West,The Life Of Pablo,0.395,0.392,1,-8.034,1,0.0925,0.219,0.00173,0.134,0.103,155.856
+2Lshq8BN5gWL1YrQnAbyYL,Artistic or Autistic,Lil B,The Hunchback of BasedGod,0.894,0.843,8,-4.02,1,0.035,0.1,0.0,0.141,0.812,103.011
+3jHdKaLCkuNEkWcLVmQPCX,BEST INTEREST,"Tyler, The Creator",BEST INTEREST,0.596,0.575,11,-8.325,0,0.0514,0.0861,0.000153,0.334,0.34,98.265
+4osgfFTICMkcGbbigdsa53,Novacane,Frank Ocean,Novacane,0.762,0.508,3,-9.112,1,0.0919,0.0584,0.00126,0.16,0.37,93.51
+5x8NgG7Ya18m9wafOvvWYk,"Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)","A$AP Rocky, Tyler, The Creator, Nigo",I Know NIGO!,0.458,0.697,1,-5.02,1,0.325,0.0185,0.0,0.784,0.495,172.584
+6f44p3Kc4ayD9VtbC9Clkr,"Come On, Let's Go (with Nigo)","Tyler, The Creator, Nigo",I Know NIGO!,0.732,0.734,11,-7.968,1,0.0974,0.136,0.000901,0.165,0.488,145.722
+39w2YI59aWcTSzdqana42B,Heavy (with Nigo),"Nigo, Lil Uzi Vert",I Know NIGO!,0.668,0.584,8,-7.643,1,0.166,0.164,0.0,0.414,0.316,144.448
+712uvW1Vezq8WpQi38v2L9,"Bitch, Don't Kill My Vibe",Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",0.586,0.698,1,-8.948,1,0.0943,0.0151,0.0,0.443,0.098,133.954
+3aGibUHhQyBsyumYHylw0K,Backseat Freestyle,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",0.547,0.651,1,-7.601,1,0.3,0.000739,0.0,0.235,0.645,77.878
+0AOvNRgl0SMfOibWA5bP8o,Money Trees,"Kendrick Lamar, Jay Rock","good kid, m.A.A.d city (Deluxe)",0.716,0.531,7,-7.355,1,0.157,0.0709,0.0,0.22,0.335,71.972
+2cDCojn6uIBM6A5xTAbl3H,m.A.A.d city,"Kendrick Lamar, MC Eiht","good kid, m.A.A.d city (Deluxe)",0.487,0.729,2,-6.815,1,0.271,0.0538,4.09e-06,0.44,0.217,91.066
+5ujh1I7NZH5agbwf7Hp8Hc,Swimming Pools (Drank) - Extended Version,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",0.669,0.485,6,-7.744,0,0.417,0.123,2.68e-05,0.604,0.261,74.376
+1wf4LnpdAhLaoI2WwYDKAE,Compton,"Kendrick Lamar, Dr. Dre","good kid, m.A.A.d city (Deluxe)",0.341,0.907,1,-4.425,0,0.419,0.0815,0.0,0.383,0.224,170.757
+3iVcZ5G6tvkXZkZKlMpIUs,Alright,Kendrick Lamar,To Pimp A Butterfly,0.796,0.766,7,-5.974,1,0.238,0.0742,0.0,0.0827,0.558,110.034
+2UOYzhusMTypF7oAQwksCj,Hood Politics,Kendrick Lamar,To Pimp A Butterfly,0.731,0.661,6,-6.562,0,0.376,0.145,0.0,0.12,0.369,87.912
+4tQcyj5488alHT1ZgFduzn,How Much A Dollar Cost,"Kendrick Lamar, James Fauntleroy, Ronald Isley",To Pimp A Butterfly,0.624,0.729,1,-4.747,1,0.198,0.415,0.0,0.135,0.334,87.948
+6HZILIRieu8S0iqY8kIKhj,DNA.,Kendrick Lamar,DAMN.,0.638,0.523,1,-6.664,1,0.357,0.00454,0.0,0.0842,0.422,139.913
+7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.,Kendrick Lamar,DAMN.,0.908,0.621,1,-6.638,0,0.102,0.000282,5.39e-05,0.0958,0.421,150.011
+6PGoSes0D9eUDeeAafB2As,LOVE. FEAT. ZACARI.,"Kendrick Lamar, Zacari",DAMN.,0.8,0.585,10,-7.343,1,0.0924,0.264,0.0,0.153,0.779,126.058
+4iYRa2btalAzPZoSYfROqF,XXX. FEAT. U2.,"Kendrick Lamar, U2",DAMN.,0.568,0.619,1,-6.899,1,0.414,0.138,1.67e-06,0.11,0.293,170.115
+23luOrEVHMfoX0AhfbQuS6,FEAR.,Kendrick Lamar,DAMN.,0.588,0.479,1,-7.039,1,0.281,0.604,7.2e-06,0.527,0.434,150.414
+0y9uTzK9cNKSAEHnpeRG8C,DUCKWORTH.,Kendrick Lamar,DAMN.,0.552,0.731,7,-6.873,1,0.615,0.0536,0.0,0.258,0.632,174.516
+3I0FBDc1c1BLNtXWKVjmFg,untitled 02 | 06.23.2014.,Kendrick Lamar,untitled unmastered.,0.667,0.508,5,-10.337,1,0.451,0.341,0.0,0.644,0.093,89.436
+3V8vWoCbKbfjNrPaQ4YtSg,untitled 05 | 09.21.2014.,Kendrick Lamar,untitled unmastered.,0.461,0.62,0,-9.822,1,0.496,0.321,0.0,0.151,0.422,153.941
+4M2t7bP4Mq87mGMn0PObUX,untitled 06 | 06.30.2014.,Kendrick Lamar,untitled unmastered.,0.669,0.541,4,-11.291,0,0.0461,0.0992,7.69e-06,0.254,0.645,89.083
+34KUIBsIUiPV7oCIzSdDAU,Diamonds From Sierra Leone - Remix,"Kanye West, JAY-Z",Late Registration,0.672,0.814,7,-3.768,1,0.27,0.258,0.0,0.164,0.379,97.043
+1w5XWaqHAlgsZi7yXMm4Ee,Paper Route,"Mac Miller, Chevy Woods",K.I.D.S. (Deluxe),0.578,0.852,1,-5.059,1,0.29,0.0859,0.0,0.34,0.573,80.917
+3zF2iSkV74H1atcypcba96,Knock Knock,Mac Miller,K.I.D.S. (Deluxe),0.682,0.934,4,-2.527,0,0.151,0.107,0.0,0.749,0.484,109.029
+2GaqpscesOG7g4hlYUMVK7,Poppy,Mac Miller,K.I.D.S. (Deluxe),0.806,0.699,9,-5.791,1,0.291,0.508,0.0,0.105,0.459,94.618
+6Gt7FmKxjhcsoJphWnqmb9,Face In The Crowd,Mac Miller,K.I.D.S. (Deluxe),0.394,0.918,2,-5.941,0,0.499,0.23,0.0,0.254,0.178,94.295
+5dDawzcLA1fbW2WV0zB8gH,PA Nights,Mac Miller,Blue Slide Park,0.517,0.616,0,-6.848,0,0.231,0.409,0.0,0.101,0.235,88.932
+15NEIBMCFHg6UElFbxQuph,Under The Weather,Mac Miller,Blue Slide Park,0.715,0.794,10,-5.426,1,0.163,0.132,0.0,0.361,0.606,119.994
+5rR78hQAY0MZ0fdZBrgxU2,Up All Night,Mac Miller,Blue Slide Park,0.655,0.939,4,-4.787,0,0.136,0.0108,0.0,0.333,0.573,99.964
+0AYJ0EyS83IPvrPwuV7KoQ,Man In The Hat,Mac Miller,Blue Slide Park,0.777,0.788,7,-8.025,1,0.203,0.545,0.0,0.0997,0.546,128.218
+1RUgnEXt9V73IhtJhMI0CK,Senior Skip Day,Mac Miller,K.I.D.S. (Deluxe),0.522,0.725,5,-5.184,0,0.306,0.554,0.0,0.799,0.809,108.364
+6jkdt7GDct9kwhps4KGJr8,Blue Slide Park,Mac Miller,Blue Slide Park,0.628,0.858,0,-5.629,0,0.282,0.0571,0.0,0.276,0.16,95.515
+2Y0kKL90NsxMNAHqvTuhps,Frick Park Market,Mac Miller,Blue Slide Park,0.592,0.808,6,-5.643,1,0.0598,0.0225,0.0,0.293,0.227,156.125
+0Etjx0wbI3vCJAA054J5ZY,Diamonds & Gold,Mac Miller,Blue Slide Park,0.438,0.793,5,-6.883,0,0.346,0.109,0.0,0.241,0.462,175.876
+2dOFYqJnQXlllhzzIbQtUP,The Mourning After,Mac Miller,Macadelic (Remastered Edition),0.593,0.634,7,-9.726,1,0.302,0.872,0.000553,0.432,0.396,80.117
+4Vhq6lkvT1f9mna51yFdoj,Desperado,Mac Miller,Macadelic (Remastered Edition),0.378,0.903,8,-5.232,0,0.514,0.148,0.0,0.188,0.206,179.265
+05zd5Nv0e02ZqrlC8A2cwx,United In Grief,Kendrick Lamar,Mr. Morale & The Big Steppers,0.529,0.845,8,-8.142,1,0.404,0.244,0.0,0.143,0.331,85.63
+2FeBslNBMdR9V58uv6hd2t,N95,Kendrick Lamar,Mr. Morale & The Big Steppers,0.79,0.67,1,-5.527,1,0.105,0.377,2.32e-06,0.119,0.408,139.956
+6gI9b2VsoWhjhIuIeToDVs,Die Hard,"Kendrick Lamar, Blxst, Amanda Reifer",Mr. Morale & The Big Steppers,0.775,0.736,1,-8.072,0,0.247,0.319,0.00116,0.127,0.362,100.988
+4xIhSUJantE6BMl3u8dtCJ,Father Time (feat. Sampha),"Kendrick Lamar, Sampha",Mr. Morale & The Big Steppers,0.514,0.779,10,-4.365,0,0.344,0.181,0.0,0.099,0.517,152.869
+401160izncPtca3CmX3dvM,Purple Hearts,"Kendrick Lamar, Summer Walker, Ghostface Killah",Mr. Morale & The Big Steppers,0.567,0.824,3,-6.973,0,0.296,0.167,2.65e-06,0.149,0.737,138.202
+7pj6P5WnxkZsw3XRc8eMe1,Count Me Out,Kendrick Lamar,Mr. Morale & The Big Steppers,0.776,0.431,4,-7.544,0,0.091,0.671,0.0,0.153,0.495,133.999
+0RAvy97QRPzO2AfK5Dw6j3,We Cry Together,"Kendrick Lamar, Taylour Paige",Mr. Morale & The Big Steppers,0.648,0.68,11,-7.276,1,0.345,0.292,0.0,0.0808,0.504,106.89
+7zvfDihYiJ8RQ1nRcpKBF5,Mr. Morale,"Kendrick Lamar, Tanna Leone",Mr. Morale & The Big Steppers,0.727,0.53,9,-8.616,1,0.312,0.283,2.76e-05,0.392,0.258,174.025
+5LOiuvbH62YGtnwe6Ltt4T,Mirror,Kendrick Lamar,Mr. Morale & The Big Steppers,0.652,0.67,2,-8.766,1,0.0639,0.225,1.4e-05,0.0804,0.274,91.933
+7Ks4VCY1wFebnOdJrM13t6,Wesley's Theory,"Kendrick Lamar, George Clinton, Thundercat",To Pimp A Butterfly,0.509,0.787,7,-6.754,1,0.265,0.359,2.76e-05,0.26,0.507,114.449
+2w9htZtkcbR48NCWzXjfvb,Fight the Feeling,"Mac Miller, Kendrick Lamar, Iman Omari",Macadelic (Remastered Edition),0.569,0.881,11,-5.873,0,0.365,0.111,0.0,0.655,0.811,148.067
+2iBds1wVEnKKuvSTFzZd81,Bird Call,Mac Miller,Watching Movies with the Sound Off (Deluxe Edition),0.688,0.791,1,-8.626,1,0.267,0.225,0.00188,0.396,0.626,100.045
+64gyqTtDDel7B2NoEkOa0A,Objects in the Mirror,Mac Miller,Watching Movies with the Sound Off (Deluxe Edition),0.645,0.658,1,-6.625,1,0.0532,0.623,2.02e-05,0.107,0.19,77.021
+237B0GS3Y8VwGGD9bGl1vG,Red Dot Music,"Mac Miller, Action Bronson",Watching Movies with the Sound Off (Deluxe Edition),0.537,0.686,5,-6.734,0,0.459,0.156,0.0,0.158,0.284,148.757
+1l0zeniK8MayaQedrPUK9n,Watching Movies,Mac Miller,Watching Movies with the Sound Off (Deluxe Edition),0.509,0.764,10,-5.977,0,0.38,0.0936,0.0,0.397,0.296,135.062
+4WuITGWedQ4yMcxuAdR4VH,Suplexes Inside of Complexes and Duplexes,Mac Miller,Watching Movies with the Sound Off (Deluxe Edition),0.405,0.754,7,-6.687,0,0.498,0.82,0.000131,0.106,0.474,80.06
+0gN3t9TfN2UJrSO2lonWjw,Youforia,Mac Miller,Watching Movies with the Sound Off (Deluxe Edition),0.141,0.616,8,-6.234,1,0.0433,0.106,0.0,0.151,0.0871,180.696
+7yPGXCaeIr1ofJoqp3LeKF,Earth,"Mac Miller, Future",Live From Space,0.763,0.483,1,-8.251,1,0.118,0.111,1.29e-06,0.0996,0.641,84.011
+6ulzLZnp6Y2TVLh1inckeJ,Brand Name,Mac Miller,GO:OD AM,0.385,0.71,9,-5.158,0,0.0805,0.0565,7.24e-06,0.0632,0.398,148.385
+5dhYmSVGhAVVSf5uTwj7hv,Two Matches (feat. Ab-Soul),"Mac Miller, Ab-Soul",GO:OD AM,0.622,0.873,2,-4.995,1,0.298,0.204,0.0,0.572,0.492,79.715
+7qfur8OfEOABgenV3Wf0JK,Break the Law,Mac Miller,GO:OD AM,0.464,0.775,10,-5.374,0,0.263,0.193,0.0,0.155,0.438,148.442
+6GnhWMhgJb7uyiiPEiEkDA,Weekend (feat. Miguel),"Mac Miller, Miguel",GO:OD AM,0.843,0.435,8,-8.442,1,0.178,0.47,0.0,0.147,0.19,120.058
+7odIekt1GqLVEAAWdnd9mJ,In the Bag,Mac Miller,GO:OD AM,0.717,0.634,1,-6.887,1,0.409,0.301,0.0,0.396,0.564,143.812
+56XhZKFVFeylLeAELp6pdE,Best Day Ever,Mac Miller,Best Day Ever (5th Anniversary Remastered Edition),0.223,0.572,9,-4.531,1,0.0461,0.0401,0.0,0.216,0.0681,175.028
+3373WeDUgsfvochiRrV1OF,I'll Be There,"Mac Miller, Phonte",Best Day Ever (5th Anniversary Remastered Edition),0.771,0.748,8,-5.834,1,0.0574,0.154,0.0,0.0888,0.704,82.979
+3DORsoGpr8l2xsaZE9baq5,Wake Up,Mac Miller,Best Day Ever (5th Anniversary Remastered Edition),0.737,0.782,4,-5.057,0,0.141,0.0457,0.0,0.236,0.642,109.354
+6rv5csQ4fE8sYTpe4bAHVG,All Around the World,Mac Miller,Best Day Ever (5th Anniversary Remastered Edition),0.468,0.926,1,-4.191,1,0.207,0.00608,0.0,0.0749,0.403,150.777
+5iUQMwxUPdJBFeGkePtM66,Dang! (feat. Anderson .Paak),"Mac Miller, Anderson .Paak",The Divine Feminine,0.836,0.67,5,-6.907,0,0.23,0.00826,0.000355,0.0837,0.556,107.018
+4brX8MJs5hxErgq48f9REO,Stay,Mac Miller,The Divine Feminine,0.742,0.561,6,-7.017,1,0.139,0.566,0.000135,0.641,0.55,134.01
+2lpygKqzPFtItQ4ss3cgfb,Cinderella (feat. Ty Dolla $ign),"Mac Miller, Ty Dolla $ign",The Divine Feminine,0.545,0.534,8,-6.874,0,0.047,0.235,0.0,0.345,0.24,140.021
+2puHJmjL4jvO19aEA7kzcb,Soulmate,Mac Miller,The Divine Feminine,0.606,0.534,1,-6.904,1,0.512,0.132,1.1e-06,0.148,0.561,111.044
+01z2fBGB8Hl3Jd3zXe4IXR,Come Back to Earth,Mac Miller,Swimming,0.272,0.238,2,-12.148,0,0.0349,0.89,0.00925,0.275,0.119,83.507
+2dgrYdgguVZKeCsrVb9XEs,What's the Use_,Mac Miller,Swimming,0.759,0.492,1,-10.338,0,0.12,0.736,0.00989,0.107,0.561,104.974
+5bJ1DrEM4hNCafcDd1oxHx,Self Care,Mac Miller,Swimming,0.52,0.538,1,-8.109,1,0.206,0.367,0.00187,0.119,0.177,141.894
+4gT3mNJA8lnlkYFqGZ8IA2,Small Worlds,Mac Miller,Swimming,0.516,0.546,5,-9.105,1,0.249,0.814,4.5e-06,0.0995,0.515,78.267
+2Fii5F4XnVdWmWEVneqzLy,Blue World,Mac Miller,Circles (Deluxe),0.742,0.553,8,-8.98,1,0.419,0.389,0.0,0.0694,0.508,84.931
+40dlJFdqfm8CayhmmS9UB7,Here We Go,Mac Miller,Faces,0.489,0.867,6,-4.668,0,0.466,0.0205,0.0,0.353,0.55,75.1
+0rFpcfF0YfvFUYsl99Bw9d,Soundtrack 2 My Life,Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.484,0.755,9,-6.653,0,0.136,0.465,1.56e-05,0.375,0.441,86.496
+0RXspLL7GwiGm9KIDdT0ma,Simple As...,Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.802,0.742,1,-4.607,1,0.111,0.265,0.000281,0.63,0.512,95.0
+6xeTNdPnP5imNgDzFMfVfD,Solo Dolo (Nightmare),Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.767,0.448,7,-7.569,0,0.029,0.518,0.000479,0.136,0.604,79.124
+4FgcgJpZaKJRog2EISGWjN,Heart Of A Lion (Kid Cudi Theme Music),Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.723,0.452,11,-9.421,0,0.0329,0.307,0.0064,0.0923,0.375,125.015
+3Ygy1L8ABabUA7MwoOLiPM,Sky Might Fall,Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.564,0.722,10,-7.565,0,0.141,0.252,0.107,0.245,0.347,194.275
+0ujsBQIHVikzdQOekiu5gS,Enter Galactic (Love Connection Part I),Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.75,0.707,10,-7.936,0,0.0393,0.106,0.00102,0.449,0.794,120.004
+3HG3QFERdP3Q1b6VGahwWs,Alive (Nightmare),"Kid Cudi, Ratatat",Man On The Moon: The End Of Day (Deluxe),0.71,0.815,6,-4.869,0,0.0419,0.262,0.0,0.208,0.703,101.782
+03MWa1FMygR3RrQoQytsjS,Cudi Zone,Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.706,0.691,9,-5.86,0,0.0338,0.546,1.3e-06,0.366,0.599,134.751
+1RUTIdTnFs8lHSc0Zr4UJB,Up Up & Away,Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.66,0.881,10,-6.119,0,0.0849,0.0722,3.43e-05,0.362,0.586,120.018
+78T9DulqSBWqkaxczcGBfk,Man On The Moon,Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.649,0.659,0,-8.924,1,0.0662,0.637,2.71e-05,0.359,0.497,90.989
+7CZhfP2PiPC79NIAUTdkVp,Capoeira [Feat. Yung Mehico],"Action Bronson, Yung Mehico",Only For Dolphins,0.395,0.849,1,-4.211,1,0.482,0.0859,0.0,0.733,0.551,159.318
+1smcSwXObpmxcjCulmjMgy,Murder To Excellence,"JAY-Z, Kanye West",Watch The Throne (Deluxe),0.566,0.815,1,-4.741,1,0.321,0.0242,0.0,0.0804,0.576,87.353
+0j35X8cTq543QDYLOyqB8W,Only One,"Kanye West, Paul McCartney",Only One,0.732,0.243,0,-6.023,1,0.0435,0.939,0.0,0.111,0.106,102.087
+6j8gTlbhj9KJSeypNcNAS9,Street Lights,Kanye West,808s & Heartbreak,0.644,0.487,6,-9.654,1,0.034,0.0287,0.0166,0.206,0.467,125.528
+5DBmXF7QO43Cuy9yqva116,Family Business,Kanye West,The College Dropout,0.744,0.524,1,-7.452,1,0.21,0.139,0.0,0.392,0.606,93.691
+6XOlxdDpGxcxaSD834sTwJ,"Welcome Home Son (feat. Tyler, The Creator & Casey Veggies)","Jet Age of Tomorrow, Tyler, The Creator, Casey Veggies",12 Odd Future Songs,0.391,0.784,2,-8.626,1,0.37,0.0489,0.0,0.119,0.346,161.041
+2q35pHabpVH0UPBfDXskvP,"Rolling Papers (feat. Tyler, The Creator)","Domo Genesis, Tyler, The Creator",12 Odd Future Songs,0.669,0.795,1,-7.072,1,0.405,0.0819,0.0,0.114,0.654,82.057
+1lqAA96v6JBnkCBTPvY6pM,But She's Not My Lover,Jet Age of Tomorrow,12 Odd Future Songs,0.654,0.723,8,-9.534,1,0.082,0.439,0.0317,0.272,0.637,95.243
+0aDwwdroOgcUhywcxZUc89,They Say (feat. Tay Walker),"The Internet, Tay Walker",12 Odd Future Songs,0.622,0.41,0,-5.861,1,0.0322,0.735,2.25e-06,0.118,0.664,113.179
+5SpRuRFUJAOowRD1EUdzya,Ya Know (feat. The Internet),"Odd Future, The Internet",The OF Tape Vol. 2,0.657,0.76,7,-5.551,0,0.0352,0.0953,0.000386,0.414,0.558,110.018
+0d8ONGx43ZprlHlmLZODpD,"Analog 2 (feat. Tyler, The Creator, Frank Ocean & Sydney Bennett)","Odd Future, Tyler, The Creator, Frank Ocean, Syd",The OF Tape Vol. 2,0.599,0.673,1,-8.363,1,0.566,0.229,3.77e-05,0.066,0.262,148.044
+3v7GtykYEMuSg4dQyw4qZb,"Rella (feat. Hodgy, Domo Genesis & Tyler, The Creator)","Odd Future, Hodgy, Domo Genesis, Tyler, The Creator",The OF Tape Vol. 2,0.545,0.75,4,-6.485,0,0.312,0.159,0.0,0.147,0.881,138.768
+67nRofeeMvysUeO4FxB6tL,"Sam (Is Dead) (feat. Domo Genesis & Tyler, The Creator)","Odd Future, Domo Genesis, Tyler, The Creator",The OF Tape Vol. 2,0.504,0.634,5,-8.582,0,0.394,0.385,0.000396,0.151,0.463,80.996
+5bh0ZC4XO0VJuH0NPGkqlH,Put On,"Jeezy, Kanye West",The Recession,0.653,0.77,9,-6.091,0,0.0353,0.00342,0.0,0.0887,0.272,137.616
+1gT5TGwbkkkUliNzHRIGi1,4:44,JAY-Z,4:44,0.261,0.852,9,-4.965,1,0.158,0.139,4.26e-05,0.477,0.431,177.997
+1zX178V8sWozr96MrfmRun,Western Union,"Ecco2k, Thaiboy Digital, Bladee",Trash Island,0.705,0.659,9,-7.808,1,0.1,0.727,0.0727,0.148,0.584,147.963
+0u3gndpxkbtcHrxicoXJSZ,Rhode Island,Lil B,The Hunchback of BasedGod,0.644,0.477,5,-8.182,1,0.345,0.48,0.0,0.347,0.409,186.97
+08kB9HSfrcIi83rymwgjMz,Weapon of Choice,Fatboy Slim,The Greatest Hits: Why Try Harder,0.626,0.947,8,-4.608,0,0.057,0.136,0.78,0.209,0.959,195.972
+5TF8ilZCTU2PjKiZOYg4WX,The Nosebleed Section,Hilltop Hoods,RAP DNA,0.845,0.828,1,-5.447,1,0.164,0.513,1.35e-06,0.0906,0.909,97.45
+04S2P8Gey35cemIoXpm5dq,Hadley,"Papo2oo4, DJ Lucas, Subjxct 5, Finesse Fresco",Continuous Improvement,0.773,0.676,1,-3.898,0,0.26,0.238,0.0,0.144,0.745,143.233
+1wq1MOQLzKToYb6IjZb52G,Slither Conspiracy,RXKNephew,Slither Conspiracy,0.695,0.874,1,-9.435,1,0.449,0.61,0.0,0.358,0.559,139.554
+1jvbeXQgI7SA47MaXXGixh,Falling out the Sky,"Armand Hammer, The Alchemist, Earl Sweatshirt",Haram,0.426,0.667,1,-8.84,1,0.319,0.0742,0.00601,0.943,0.685,89.058
+4SN5Kkig8iJ8vdwsOoP7IO,Cataracts,"Freddie Gibbs, Madlib",Bandana,0.293,0.848,7,-6.832,1,0.334,0.149,0.0,0.504,0.617,171.264
+3djWekEDgbhAtkXGdFNbFt,BALD!,JPEGMAFIA,EP!,0.594,0.917,10,-2.382,1,0.3,0.0372,0.0,0.495,0.675,154.703
+3clX2NMmjaAHmBjeTSa9vV,Actin Crazy,Action Bronson,Mr. Wonderful,0.5,0.622,1,-7.282,1,0.619,0.197,0.0,0.116,0.252,165.503
+6QvxTX9zvo4u7XhP9vOP3n,untitled 07 | levitate,Kendrick Lamar,untitled 07 | levitate,0.79,0.47,1,-8.594,1,0.223,0.49,0.0,0.0884,0.53,126.992
+0WQcnrsEqrY2e5nexGe3HX,"Walk On Water (feat. A$AP Twelvyy, A$AP Ant, A$AP Nast, A$AP Ferg & Playboi Carti)","A$AP Mob, A$AP Twelvyy, A$AP ANT, A$AP NAST, A$AP Ferg, Playboi Carti",Cozy Tapes Vol. 2: Too Cozy,0.9,0.532,0,-5.516,1,0.0744,0.0889,0.0,0.0533,0.592,140.023
+1B1IJzZAACzLFDGxiRT22I,Trick or Treat,Yuno Miles,Trick Or Treat,0.819,0.477,1,-10.145,0,0.266,0.000819,7.83e-05,0.0895,0.156,153.959
+40IPlaLrR3YEPNkI7z3bYp,Never Get Ahead,Bobby Conn,Bobby Conn,0.524,0.851,10,-5.065,1,0.303,0.0476,0.0015,0.143,0.778,97.298
+00R0fEFZGb5hyTgF1nrRCq,Look Over Your Shoulder (feat. Kendrick Lamar),"Busta Rhymes, Kendrick Lamar",Extinction Level Event 2: The Wrath of God,0.6,0.887,0,-4.345,1,0.311,0.0438,0.0,0.68,0.681,77.896
+6vnfObZ4Ys70SBAtti1xZ9,COFFEE BEAN,Travis Scott,ASTROWORLD,0.81,0.582,5,-5.098,0,0.125,0.0862,0.00681,0.207,0.503,95.004

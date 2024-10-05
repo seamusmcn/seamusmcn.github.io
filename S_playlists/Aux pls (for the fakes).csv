@@ -1,0 +1,96 @@
+Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
+4jbmgIyjGoXjY01XxatOx6,Dark Horse,"Katy Perry, Juicy J",PRISM,0.647,0.585,6,-6.123,1,0.0512,0.00314,0.0,0.165,0.353,131.934
+2ZI18qoTqFdSftkjP1olVY,Last Friday Night (T.G.I.F.),Katy Perry,Teenage Dream,0.652,0.81,3,-3.789,0,0.0406,0.00129,2.91e-05,0.667,0.732,126.022
+3yCzLH2lQ8KknpvsqNCo35,California Gurls,"Katy Perry, Snoop Dogg",Teenage Dream,0.789,0.753,0,-3.71,1,0.0537,0.0038,0.0,0.18,0.403,125.007
+29192Seg7hQqLi5gW5eOBt,Firework,Katy Perry,Teenage Dream,0.638,0.831,8,-5.039,1,0.049,0.142,0.0,0.113,0.649,124.071
+4pHiSrrtHFlXH3DYACegi0,Hot N Cold,Katy Perry,One Of The Boys,0.706,0.842,7,-3.956,1,0.0417,7.73e-05,0.0,0.0688,0.861,132.032
+6lV2MSQmRIkycDScNtrBXO,Airplanes (feat. Hayley Williams of Paramore),"B.o.B, Hayley Williams",B.o.B Presents: The Adventures of Bobby Ray,0.66,0.867,6,-4.285,0,0.116,0.11,0.0,0.0368,0.377,93.033
+59dLtGBS26x7kc0rHbaPrq,Nothin' on You (feat. Bruno Mars),"B.o.B, Bruno Mars",B.o.B Presents: The Adventures of Bobby Ray,0.688,0.853,10,-5.814,1,0.0493,0.386,0.0,0.0862,0.743,103.993
+5uHYcK0nbEYgRaFTY5BqnP,Magic (feat. Rivers Cuomo),"B.o.B, Rivers Cuomo",B.o.B Presents: The Adventures of Bobby Ray,0.549,0.932,8,-4.11,0,0.343,0.0127,0.0,0.347,0.787,82.439
+28GUjBGqZVcAV4PHSYzkj2,So Good,B.o.B,Strange Clouds,0.66,0.9,7,-5.02,1,0.14,0.0403,0.0,0.219,0.591,85.51
+4Li2WHPkuyCdtmokzW2007,Ni**as In Paris,"JAY-Z, Kanye West",Watch The Throne (Deluxe),0.789,0.858,1,-5.542,1,0.311,0.129,0.0,0.349,0.776,140.022
+0qOnSQQF0yzuPWsXrQ9paz,Stereo Hearts (feat. Adam Levine),"Gym Class Heroes, Adam Levine",The Papercut Chronicles II,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99
+16Of7eeW44kt0a1M0nitHM,You Make Me Feel... (feat. Sabi),"Cobra Starship, Sabi",Night Shades,0.668,0.857,7,-2.944,0,0.0535,0.0191,6.71e-06,0.0385,0.748,131.959
+6ndmKwWqMozN2tcZqzCX4K,Remember the Name (feat. Styles of Beyond),"Fort Minor, Styles Of Beyond",The Rising Tied,0.688,0.835,8,-4.162,1,0.0911,0.0583,2.87e-06,0.0795,0.88,84.858
+1hGy2eLcmC8eKx7qr1tOqx,Beautiful Girls,Sean Kingston,Beautiful Girls,0.762,0.661,1,-6.075,0,0.0687,0.15,0.0,0.256,0.769,130.009
+2oENJa1T33GJ0w8dC167G4,Fire Burning,Sean Kingston,Tomorrow,0.839,0.804,1,-2.513,1,0.0329,0.0192,0.0,0.331,0.888,122.973
+0COqiPhxzoWICwFCS4eZcp,Bring Me To Life,Evanescence,Fallen,0.331,0.943,4,-3.188,0,0.0698,0.00721,2.06e-06,0.242,0.296,94.612
+7w87IxuO7BDcJ3YUqCyMTT,Pumped Up Kicks,Foster The People,Torches,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975
+2yAVzRiEQooPEJ9SYx11L3,Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio,"Eiffel 65, Gabry Ponte",Europop,0.822,0.969,7,-11.471,0,0.0582,0.259,0.000153,0.39,0.765,128.007
+2igwFfvr1OAGX9SKDCPBwO,Empire State Of Mind,"JAY-Z, Alicia Keys",The Blueprint 3,0.491,0.956,11,-1.538,1,0.392,0.0295,0.0,0.46,0.811,173.585
+37jTPJgwCCmIGMPB45jrPV,Holy Grail,"JAY-Z, Justin Timberlake",Magna Carta... Holy Grail,0.676,0.534,2,-6.901,0,0.0831,0.0594,8.59e-06,0.256,0.156,145.082
+0O45fw2L5vsWpdsOdXwNAR,SexyBack (feat. Timbaland),"Justin Timberlake, Timbaland",FutureSex/LoveSounds,0.967,0.583,7,-5.562,0,0.0789,0.0584,0.0,0.0519,0.964,117.0
+4Yaw2PmyOETOnEM3TCf98I,Eenie Meenie - Radio Version,"Sean Kingston, Justin Bieber",Eenie Meenie EP,0.718,0.638,1,-3.479,1,0.031,0.0412,0.0,0.169,0.835,121.242
+3E7ZwUMJFqpsDOJzEkBrQ7,Can't Get You out of My Head,Kylie Minogue,Fever,0.766,0.563,9,-7.516,0,0.0339,0.0263,0.683,0.115,0.964,126.007
+66ZcOcouenzZEnzTJvoFmH,The Sweet Escape,"Gwen Stefani, Akon",The Sweet Escape,0.756,0.769,1,-3.502,1,0.0344,0.191,0.0,0.178,0.73,119.961
+0LzrhCZFXW94Y8nwtTuRlw,Hollaback Girl,Gwen Stefani,Love Angel Music Baby (Deluxe Version),0.926,0.916,10,-2.221,0,0.0929,0.35,6.01e-06,0.0234,0.904,110.009
+1wgqttlPacpvmX5DKVboOa,Paper Planes,M.I.A.,Kala,0.447,0.848,2,-6.175,1,0.222,0.033,7.45e-05,0.65,0.485,172.247
+1Je1IMUlBXcx1Fz0WE7oPT,Wannabe,Spice Girls,Spice,0.768,0.864,11,-6.149,1,0.0324,0.101,0.0,0.162,0.891,110.009
+1D066zixBwqFYqBhKgdPzp,Fergalicious,"Fergie, will.i.am",The Dutchess,0.906,0.583,8,-7.721,0,0.317,0.0569,0.0,0.126,0.829,129.056
+6I9VzXrHxO9rA9A5euc8Ak,Toxic,Britney Spears,In The Zone,0.774,0.838,5,-3.914,0,0.114,0.0249,0.025,0.242,0.924,143.04
+6naxalmIoLFWR0siv8dnQQ,Oops!...I Did It Again,Britney Spears,Oops!... I Did It Again,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053
+3MjUtNVVq3C8Fn0MP3zhXa,...Baby One More Time,Britney Spears,...Baby One More Time (Digital Deluxe Version),0.759,0.699,0,-5.745,0,0.0307,0.202,0.000131,0.443,0.907,92.96
+6ic8OlLUNEATToEFU3xmaH,Gimme More,Britney Spears,Blackout,0.788,0.844,2,-3.131,1,0.0334,0.25,0.000678,0.0723,0.382,113.324
+6ToFxXRBtl5TJFEyIoYK3f,Mirrors - Radio Edit,Justin Timberlake,Mirrors (Radio Edit),0.578,0.6,8,-5.7,1,0.0455,0.144,0.0,0.426,0.646,76.999
+6vt0I1cw1YmAIKDJvHVIM5,Suit & Tie (feat. Jay-Z),"Justin Timberlake, JAY-Z",The 20/20 Experience (Deluxe Version),0.795,0.596,11,-3.799,0,0.219,0.103,0.0,0.164,0.357,101.985
+1AWQoqb9bSvzTjaLralEkT,Rock Your Body,Justin Timberlake,Justified,0.892,0.714,4,-6.055,0,0.141,0.201,0.000234,0.0521,0.817,100.972
+2PpruBYCo4H7WOBJ7Q2EwM,Hey Ya!,Outkast,Speakerboxxx/The Love Below,0.727,0.974,4,-2.261,0,0.0664,0.103,0.000532,0.174,0.965,79.526
+5IVuqXILoxVWvWEPm82Jxr,Crazy In Love (feat. Jay-Z),"Beyoncé, JAY-Z",Dangerously In Love,0.646,0.77,2,-6.596,0,0.226,0.00249,0.0,0.0715,0.681,99.165
+1uigwk5hNV84zRd5YQQRTk,Pocketful of Sunshine,Natasha Bedingfield,Pocketful Of Sunshine,0.721,0.88,9,-3.896,0,0.0454,0.191,0.0,0.0769,0.655,110.021
+4omisSlTk6Dsq2iQD7MA07,Sk8er Boi,Avril Lavigne,Let Go,0.487,0.9,0,-4.417,1,0.0482,6.79e-05,0.0,0.358,0.484,149.937
+1D1nixOVWOxvNfWi0UD7VX,Unwritten,Natasha Bedingfield,Unwritten,0.706,0.8,5,-6.333,1,0.0399,0.00584,0.0,0.0822,0.629,100.011
+62bOmKYxYg7dhrC6gH9vFn,Bye Bye Bye - From Deadpool and Wolverine Soundtrack,*NSYNC,No Strings Attached,0.61,0.926,8,-4.843,0,0.0479,0.031,0.0012,0.0821,0.861,172.638
+2AW37v0bDyuOzGP3XnmFuA,It's Gonna Be Me,*NSYNC,No Strings Attached,0.636,0.873,0,-4.672,0,0.071,0.0407,1.27e-06,0.0372,0.908,165.071
+68vgtRHr7iZHpzGpon6Jlo,My Boo,"USHER, Alicia Keys",Confessions (Expanded Edition),0.662,0.507,5,-8.238,1,0.118,0.257,0.0,0.0465,0.676,86.412
+0BRHnOFm6sjxN1i9LJrUDu,The Anthem,Good Charlotte,The Young and The Hopeless,0.494,0.939,1,-3.127,1,0.126,0.00666,0.0,0.139,0.893,177.751
+5oQcOu1omDykbIPSdSQQNJ,1985,Bowling For Soup,A Hangover You Don't Deserve,0.606,0.887,4,-4.404,1,0.0598,0.000242,0.0,0.337,0.903,119.974
+5rb9QrpfcKFHM1EUbSIurX,Yeah! (feat. Lil Jon & Ludacris),"USHER, Lil Jon, Ludacris",Confessions (Expanded Edition),0.894,0.791,2,-4.699,1,0.112,0.0183,0.0,0.0388,0.583,105.018
+0JiY190vktuhSGN6aqJdrt,So What,P!nk,Funhouse (Expanded Edition),0.534,0.87,11,-3.078,0,0.0425,0.000334,0.0,0.241,0.462,126.019
+5NLuC70kZQv8q34QyQa1DP,Fight For Your Right,Beastie Boys,Licensed To Ill,0.503,0.858,8,-6.296,1,0.0657,0.00757,0.00234,0.0803,0.419,133.615
+2tY1gxCKslfXLFpFofYmJQ,Brass Monkey,Beastie Boys,Licensed To Ill,0.914,0.586,6,-8.435,0,0.33,0.00203,1.58e-06,0.0992,0.655,116.371
+0Pu71wxadDlB8fJXfjIjeJ,Shoop,Salt-N-Pepa,Very Necessary,0.939,0.674,0,-7.232,1,0.212,0.091,0.0,0.0565,0.792,96.918
+6qspW4YKycviDFjHBOaqUY,Waterfalls,TLC,Crazysexycool,0.769,0.505,1,-7.345,1,0.0829,0.311,7.49e-05,0.0777,0.757,171.804
+1KGi9sZVMeszgZOWivFpxs,No Scrubs,TLC,Fanmail,0.743,0.675,8,-4.267,0,0.0953,0.0251,0.000717,0.0685,0.59,92.909
+3LklW07tvdx2AHsgfi1Mng,I Wish,Skee-Lo,I Wish,0.669,0.809,7,-7.146,1,0.147,0.00137,0.0,0.38,0.572,97.885
+0weAUscowxeqDtpCgtbpgp,Gettin' Jiggy Wit It,Will Smith,Big Willie Style,0.881,0.874,6,-4.505,1,0.139,0.0175,1.14e-06,0.154,0.858,107.891
+5n8Aro6j1bEGIy7Tpo7FV7,Fuck Tha Police,N.W.A.,Straight Outta Compton,0.859,0.75,8,-8.325,0,0.303,0.0193,0.0,0.0538,0.857,98.691
+0OaunKfsxkgBvPv68jBbmm,It Wasn't Me,"Shaggy, Rik Rok",The Boombastic Collection - Best of Shaggy,0.852,0.605,0,-4.569,1,0.0642,0.0514,0.0,0.327,0.669,94.762
+7A131DrpfbWAfNJLrxikwf,Top of the Stairs,Skee-Lo,I Wish,0.776,0.712,7,-8.308,1,0.192,0.0272,0.0,0.204,0.501,95.859
+5gJKsGij5oGt5H5RSFYXPa,Tequila,The Champs,Greatest Hits / Tequila,0.671,0.742,5,-9.912,1,0.0441,0.121,0.679,0.0601,0.897,89.748
+6t6oULCRS6hnI7rm0h5gwl,Some Nights,fun.,Some Nights,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938
+7a86XRg84qjasly9f6bPSD,We Are Young (feat. Janelle Monae),"fun., Janelle Monáe",Some Nights,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086
+7gpy7sfWPNuOKmUNs3XQYE,Carry On,fun.,Some Nights,0.388,0.694,5,-5.769,1,0.0735,0.118,0.000293,0.082,0.365,145.434
+0QIjsbm2fh1cJ45XO9eGqq,Wake Up in the Sky,"Gucci Mane, Bruno Mars, Kodak Black",Wake Up in the Sky,0.8,0.578,4,-5.144,0,0.0485,0.00381,0.0,0.359,0.367,143.01
+5OiLJ8tjUPFiPX2gVM8fxJ,Imma Be,Black Eyed Peas,THE E.N.D. (THE ENERGY NEVER DIES),0.597,0.517,0,-6.963,1,0.365,0.179,0.0,0.307,0.412,92.035
+4ycLiPVzE5KamivXrAzGFG,Fuck You,CeeLo Green,The Lady Killer,0.69,0.834,0,-5.79,1,0.0566,0.129,0.0,0.136,0.738,127.43
+0HPD5WQqrq7wPWR7P7Dw1i,TiK ToK,Kesha,Animal (Expanded Edition),0.755,0.837,2,-2.718,0,0.142,0.0991,0.0,0.289,0.714,120.028
+0CAfXk7DXMnon4gLudAp7J,Low (feat. T-Pain),"Flo Rida, T-Pain",Mail on Sunday,0.918,0.609,10,-5.64,0,0.0791,0.0928,0.0,0.139,0.304,128.008
+4356Typ82hUiFAynbLYbPn,DJ Got Us Fallin' In Love (feat. Pitbull),"USHER, Pitbull",Raymond v Raymond (Expanded Edition),0.663,0.861,7,-3.398,0,0.109,0.0338,0.0,0.082,0.654,119.963
+1oHNvJVbFkexQc0BpQp7Y4,Starships,Nicki Minaj,Pink Friday ... Roman Reloaded,0.747,0.716,11,-2.457,0,0.0751,0.135,0.0,0.251,0.751,125.006
+4DvhkX2ic4zWkQeWMwQ2qf,Like A G6,"Far East Movement, The Cataracs, DEV",Free Wired,0.355,0.838,7,-8.126,0,0.471,0.00682,0.0,0.117,0.783,165.457
+6BaxqcoEM9r3LXisTyJjST,Ridin' Solo,Jason Derulo,Jason Derulo,0.557,0.831,9,-4.02,1,0.132,0.13,0.0,0.129,0.586,89.677
+5BoIP8Eha5hwmRVURkC2Us,In My Head,Jason Derulo,Jason Derulo,0.762,0.733,0,-4.175,0,0.0326,0.027,0.0,0.498,0.849,110.001
+6ihL9TjfRjadfEePzXXyVF,Gives You Hell,The All-American Rejects,When The World Comes Down,0.718,0.691,4,-6.44,1,0.0387,0.0159,0.0,0.0627,0.552,100.008
+3NZJlJemX3mzjf56MqC5ML,Forever,Chris Brown,Forever,0.672,0.82,11,-4.456,1,0.0459,0.0368,0.000188,0.184,0.438,120.005
+4w1lzcaoZ1IC2K5TwjalRP,A Thousand Miles,Vanessa Carlton,Be Not Nobody,0.56,0.825,11,-3.862,1,0.0379,0.323,0.0,0.161,0.268,94.931
+1FsG4BnBKZSo5vuxsFXPX5,Pocketful of Sunshine,Remixed Hits Club,"Top 40 Hits Remixed, Vol. 1: Dance Hits",0.557,0.993,9,-2.953,0,0.168,0.068,0.0,0.278,0.287,129.904
+67T6l4q3zVjC5nZZPXByU8,Whatcha Say,Jason Derulo,Jason Derulo,0.615,0.711,11,-5.507,1,0.078,0.0444,0.0,0.145,0.711,144.034
+04KTF78FFg8sOHC1BADqbY,Hot In Herre,Nelly,Nellyville,0.956,0.741,11,-4.753,0,0.124,0.204,0.0,0.0615,0.911,107.075
+2q4rjDy9WhaN3o9MvDbO21,Kiss Me Thru The Phone,"Soulja Boy, Sammie",iSouljaBoyTellem,0.758,0.712,7,-3.781,1,0.112,0.0188,0.0,0.0677,0.794,150.001
+0I3q5fE6wg7LIfHGngUTnV,Ms. Jackson,Outkast,Stankonia,0.843,0.806,4,-5.946,0,0.269,0.143,0.0,0.0771,0.613,94.948
+0PT7nlpo11hYYyfnBgtilT,Nasty Freestyle,T-Wayne,Nasty Freestyle,0.779,0.472,11,-7.116,1,0.218,0.0577,0.0,0.114,0.412,135.051
+19gEmPjfqSZT0ulDRfjl0m,Hot N*gga,Bobby Shmurda,Hot N*gga,0.794,0.51,9,-7.314,1,0.42,0.0505,1.81e-06,0.0562,0.18,167.879
+6JjEVlMkfHWMeYavkEYzNO,Gassed Up,Nebu Kiniza,Gassed Up,0.798,0.568,5,-9.072,0,0.135,0.0213,0.0,0.0586,0.45,148.88
+7vgTNTaEz3CsBZ1N4YQalM,Ghost Town,"Kanye West, PARTYNEXTDOOR",ye,0.573,0.545,7,-4.247,0,0.0288,0.0969,0.0,0.329,0.297,83.378
+0wXuerDYiBnERgIpbb3JBR,Redbone,Childish Gambino,"""Awaken, My Love!""",0.743,0.344,1,-11.174,1,0.118,0.169,0.00879,0.103,0.577,160.15
+3s7MCdXyWmwjdcWh7GWXas,Violent Crimes,Kanye West,ye,0.669,0.419,1,-6.724,0,0.522,0.376,0.0,0.187,0.0397,109.813
+2dxjKgT0li4qBI3QwuN9Ih,Touch The Sky,"Kanye West, Lupe Fiasco",Late Registration,0.552,0.846,9,-4.912,1,0.342,0.0114,0.0,0.309,0.554,98.56
+0DBTrH6kBbF8CzNVcu5MQR,Pong Dance,Vigiland,Pong Dance,0.827,0.714,2,-7.751,1,0.0554,0.00643,4.52e-06,0.0783,0.122,128.03
+5oMkgWZqmKjaJHrsXcsZZy,Donald Trump,Mac Miller,Best Day Ever (5th Anniversary Remastered Edition),0.716,0.936,1,-4.968,0,0.123,0.0318,0.0,0.367,0.799,81.508
+2Foc5Q5nqNiosCNqttzHof,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],"Daft Punk, Pharrell Williams, Nile Rodgers",Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047
+12PNcnMsjsZ3eHm62t8hiy,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",DJ Khaled,Victory,0.545,0.781,10,-3.616,1,0.185,0.0139,0.0,0.161,0.277,150.097
+7n6ibfsRHhCb1Ccl9Fg2CZ,Scream & Shout,"will.i.am, Britney Spears",Scream & Shout,0.79,0.616,0,-7.443,1,0.0596,0.0589,6.55e-05,0.171,0.473,130.009
+1rS3J4u1G8f6hbmTosa8Nf,I Found A Way,Drake Bell,Drake & Josh: Songs From & Inspired By The Hit TV Series,0.531,0.766,8,-7.692,1,0.0582,0.0056,0.0,0.201,0.532,130.048
+4AYX69oFP3UOS1CFmV9UfO,Bottoms Up (feat. Nicki Minaj),"Trey Songz, Nicki Minaj","Passion, Pain & Pleasure (Deluxe Version)",0.844,0.601,1,-5.283,1,0.157,0.0205,0.0,0.385,0.331,73.989
+2tUBqZG2AbRi7Q0BIrVrEj,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,Whitney,0.709,0.824,1,-8.824,1,0.0453,0.207,0.000307,0.0888,0.867,118.818
+62zFEHfAYl5kdHYOivj4BC,International Love (feat. Chris Brown),"Pitbull, Chris Brown",Planet Pit (Deluxe Version),0.67,0.855,0,-3.035,0,0.0499,0.0124,0.0,0.335,0.648,120.05
