@@ -16,7 +16,7 @@ import glob
 
 """
 List : 5 closest/similar to Song playing
-Chain: 5 closest (for loop), 1st closest to one playing, then 2nd closest to queue,... so on. 
+Chain: 5 closest (for loop), 1st closest to one playing, then 2nd closest to queue,... so on. - might have a bunch of repeats
 
 Spectrum: 10 bins of songs in the parameter 
 
@@ -183,6 +183,18 @@ def artist_cat(sp, MC):
         current_artists = [artist['name'] for artist in track_info['artists']]
         current_features = sp.audio_features(track_info['id'])[0]  # Get features of current song
 
+        # Define playlist name based on the artist
+        playlist_name = current_artists[0] + ' .cat'
+        user_id = sp.current_user()['id']
+
+        # Check if the playlist already exists
+        playlists = sp.current_user_playlists()['items']
+        existing_playlist = next((pl for pl in playlists if pl['name'] == playlist_name), None)
+
+        if existing_playlist:
+            # Delete the existing playlist if it exists
+            sp.user_playlist_unfollow(user=user_id, playlist_id=existing_playlist['id'])
+
         # Filter Master Catalog for songs by the current artist(s)
         filtered_catalog = MC[MC['Artist(s)'].apply(lambda x: any(artist in x for artist in current_artists))]
 
@@ -214,8 +226,7 @@ def artist_cat(sp, MC):
         sorted_catalog = filtered_catalog.sort_values(by='Distance')
 
         # Create a new Spotify playlist
-        playlist_name = track_info['artists'][0]['name'] + ' .cat'
-        new_playlist = sp.user_playlist_create(user=sp.current_user()['id'], name=playlist_name)
+        new_playlist = sp.user_playlist_create(user=user_id, name=playlist_name)
 
         # Get sorted track URIs (excluding current song)
         track_uris = sorted_catalog['Track ID'].tolist()
@@ -230,12 +241,17 @@ def artist_cat(sp, MC):
 
         # Add sorted songs (including the current song at the end) to the new playlist in chunks
         for chunk in track_uri_chunks:
-            sp.user_playlist_add_tracks(user=sp.current_user()['id'], playlist_id=new_playlist['id'], tracks=chunk)
+            sp.user_playlist_add_tracks(user=user_id, playlist_id=new_playlist['id'], tracks=chunk)
+
+        # Turn off shuffle to ensure ordered playback (affects the current playback device)
+        sp.shuffle(state=False)
 
         # Play the new playlist
         sp.start_playback(context_uri=new_playlist['uri'])
+        print(f"Playing {playlist_name}")
 
         return playlist_name
+
 
 # Route to handle Spotify credentials submission
 @app.route('/submit_credentials', methods=['POST'])
