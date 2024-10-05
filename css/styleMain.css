@@ -33,7 +33,21 @@ header {
     border: 2px solid gray;
     padding: 10px;
   }
-  
+  /* FOR MY horizontal catalog radio buttons */
+  .radio-group {
+      display: flex;
+      align-items: center;
+  }
+
+  .radio-group input[type="radio"] {
+      margin-right: 5px;
+  }
+
+  .radio-group label {
+      margin-right: 15px; /* Adjust space between each option */
+  }
+  /*  */
+
   /* ARCADE BUTTONS */
   :root {
     --push-size: 250px;
