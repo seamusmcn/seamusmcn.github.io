@@ -287,7 +287,7 @@ def callback():
     del state_data_store[state]
 
     # Retrieve client_secret from environment variables
-    client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
+    client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
     if not client_secret:
         logging.error("Spotify client_secret not set in environment variables.")
         return jsonify({"error": "Server configuration error."}), 500
