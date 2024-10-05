@@ -24,11 +24,11 @@ document.getElementById('spotify-credentials-form').addEventListener('submit', f
     event.preventDefault(); // Prevent the default form submission
 
     // Collect form data
-    const client_id = document.getElementById('client_id').value;
+    const user_name = document.getElementById('user_name').value;
 
     // Prepare the data to be sent as URL-encoded form data
     const formData = new URLSearchParams();
-    formData.append('client_id', client_id);
+    formData.append('user_name', user_name);
 
     // Make a POST request to the Flask backend
     fetch('https://seamusmcn-github-io.onrender.com/submit_credentials', {

@@ -18,16 +18,13 @@ import glob
 List : 5 closest/similar to Song playing
 Chain: 5 closest (for loop), 1st closest to one playing, then 2nd closest to queue,... so on. 
 
-Spectrum: 6 bins of songs in the parameter 
+Spectrum: 10 bins of songs in the parameter 
 
 Key playlists: 12 small buttons for each key, 1 for each key.
 
 Document my favorite songs parameters as a scatter plot against the other parameters - look for trends with a specific number of that parameter
 BOAT: make a playlist of all the songs within that parameter space - one gaussian distribution around the mean of that parameter space
 """
-
-
-
 
 
 # Initialize Flask app
@@ -96,7 +93,7 @@ def add_song_to_queue(sp):
     print(f"Added {song_uri} to queue.")
 
 # Function that adds to queue the most similar song from Master Catalog
-def best_next_songs(sp, Catalog, response_master, response_liked, n_songs=5):
+def best_next_songs(sp, Catalog, response_master, response_liked, n_songs=3):
     # Read the master catalog
     if Catalog in ['Liked','liked','Liked Songs','liked songs', 'Liked Playlist', 'liked playlist']:
         logging.info("Using Liked Songs catalog.")
@@ -232,8 +229,17 @@ def artist_cat(sp, response_master):
 @app.route('/submit_credentials', methods=['POST'])
 def submit_credentials():
     # Parse form data
-    client_id = request.form.get('client_id')
-    client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
+    user_name = request.form.get('user_name')
+    if user_name == os.environ.get('USER_NAME_S'): # Make this so we only have to login a user name, and then it grabs our secret keys/user_id for spotify
+        user_abbrev = 'S'
+    elif user_name == os.environ.get('USER_NAME_C'):
+        user_abbrev = 'C'
+    else:
+        return jsonify({"error": "You're not in my system, bozo"}), 400
+    
+    client_id = os.environ.get(f'CLIENT_ID_{user_abbrev}')
+    client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
+
     redirect_uri = 'https://seamusmcn-github-io.onrender.com/callback'  # Deployed URL
 
     if not client_id or not client_secret:
@@ -246,7 +252,8 @@ def submit_credentials():
     # Store client_id associated with this state
     state_data_store[state] = {
         'client_id': client_id,
-        'redirect_uri': redirect_uri
+        'redirect_uri': redirect_uri,
+        'user_abbrev': user_abbrev
         # You can add a timestamp here to expire old states
     }
 
@@ -274,6 +281,7 @@ def callback():
     # Retrieve stored data using state
     client_id = state_data_store[state]['client_id']
     redirect_uri = state_data_store[state]['redirect_uri']
+    user_abbrev = state_data_store[state]['user_abbrev']
 
     # Optionally, remove the state from the store
     del state_data_store[state]
@@ -302,7 +310,8 @@ def callback():
             user_tokens[user_id] = {
                 'access_token': token_info['access_token'],
                 'refresh_token': token_info['refresh_token'],
-                'expires_at': token_info['expires_at']
+                'expires_at': token_info['expires_at'],
+                'user_abbrev': user_abbrev 
             }
 
             logging.info("Spotify authentication successful.")
@@ -357,12 +366,13 @@ def most_similar_song():
     # Retrieve the access token
     token_info = user_tokens[user_id]
     access_token = token_info['access_token']
+    user_abbrev = token_info['user_abbrev']
 
     # Optionally refresh the token if expired
     if time.time() > token_info['expires_at']:
         # Refresh the token
-        client_id = os.environ.get('SPOTIFY_CLIENT_ID')
-        client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
+        client_id = os.environ.get(f'SPOTIFY_CLIENT_ID_{user_abbrev}')
+        client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
         sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
         token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
         user_tokens[user_id] = token_info
@@ -373,8 +383,8 @@ def most_similar_song():
 
     # Fetch catalog data and find the best next song
     Catalog = request.form.get('Catalog')
-    response_master = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Master_Catalog.csv')
-    response_liked = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Liked_Songs.csv')
+    response_master = requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Master_Catalog.csv')
+    response_liked = requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Liked_Songs.csv')
 
     song_name = best_next_songs(sp, Catalog, response_master, response_liked)
 
@@ -393,12 +403,13 @@ def make_artist_playlist():
         # Retrieve the access token
         token_info = user_tokens[user_id]
         access_token = token_info['access_token']
+        user_abbrev = token_info['user_abbrev']
 
         # Optionally refresh the token if expired
         if time.time() > token_info['expires_at']:
             # Refresh the token
-            client_id = os.environ.get('SPOTIFY_CLIENT_ID')
-            client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
+            client_id = os.environ.get(f'SPOTIFY_CLIENT_ID_{user_abbrev}')
+            client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
             sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
             token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
             user_tokens[user_id] = token_info
@@ -407,7 +418,7 @@ def make_artist_playlist():
         # Use the access token to authenticate Spotify requests
         sp = spotipy.Spotify(auth=access_token)
 
-        response_master = requests.get('https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/Master_Catalog.csv')
+        response_master = requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Master_Catalog.csv')
         if response_master.status_code != 200:
             return "Failed to fetch Master Catalog.", 500
 
