@@ -468,7 +468,7 @@ def make_artist_playlist():
         
         MC = read_csv_with_encoding(response_master)
 
-        playlist = artist_cat(sp, response_master)
+        playlist = artist_cat(sp, MC)
 
         return f"Now playing {playlist}"
     except Exception as e:
