@@ -128,7 +128,7 @@ def best_next_songs(sp, MC, n_songs=3):
 
         # Convert the current track features into a NumPy array (excluding None values)
         current_values = np.array([current_features[param] for param in [
-            'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 
+            'danceability', 'energy', 'loudness', 'mode', 'speechiness', 
             'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo'
         ] if current_features[param] is not None])
 
@@ -142,7 +142,7 @@ def best_next_songs(sp, MC, n_songs=3):
             # Use a try-except block to ensure the correct column names are used
             try:
                 features = np.array([row[param] for param in [
-                    'Danceability Rating', 'Energy Rating', 'Key Rating', 'Loudness Rating', 'Mode Rating', 
+                    'Danceability Rating', 'Energy Rating', 'Loudness Rating', 'Mode Rating', 
                     'Speechiness Rating', 'Acousticness Rating', 'Instrumentalness Rating', 
                     'Liveness Rating', 'Valence Rating', 'Tempo Rating'
                 ] if pd.notna(row[param])])
@@ -205,13 +205,13 @@ def artist_cat(sp, MC):
         distances = []
         for _, row in filtered_catalog.iterrows():
             features = np.array([row[param] for param in [
-                'Danceability Rating', 'Energy Rating', 'Key Rating', 'Loudness Rating', 'Mode Rating', 
+                'Danceability Rating', 'Energy Rating', 'Loudness Rating', 'Mode Rating', 
                 'Speechiness Rating', 'Acousticness Rating', 'Instrumentalness Rating', 
                 'Liveness Rating', 'Valence Rating', 'Tempo Rating'
             ] if row[param] is not None])
             
             current_values = np.array([current_features[param] for param in [
-                'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 
+                'danceability', 'energy', 'loudness', 'mode', 'speechiness', 
                 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo'
             ] if current_features[param] is not None])
 
