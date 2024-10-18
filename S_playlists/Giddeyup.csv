@@ -1,4 +1,5 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
+00fQwAEaHcZDxMJAn3N0wl,He Was a Friend Of Mine,Dave Van Ronk,Hear Me Howl (Live 1964),0.445,0.036,9.0,-26.244,1.0,0.0384,0.932,0.765,0.519,0.372,130.914
 0AAsZvbbE1dGnveap3LJnz,One Day at a Time,Willie Nelson,Country Willie - His Own Songs,0.684,0.267,2.0,-11.032,1.0,0.0351,0.627,0.00117,0.117,0.497,116.122
 0D7qLnnev1iKpH5RNT7YsD,I Shall Be Free,Bob Dylan,The Freewheelin' Bob Dylan,0.64,0.314,2.0,-12.88,1.0,0.038,0.86,5.72e-06,0.0779,0.798,100.552
 0DSzSnUcIFJ7DRYzMxcCh9,Dust Bowl Blues,Woody Guthrie,Dust Bowl Ballads,0.673,0.181,9.0,-13.041,1.0,0.0357,0.792,1.29e-05,0.085,0.412,95.593
@@ -263,6 +264,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6tqYc9utjG6PCQ9eVTRQMx,I've Got a Home Up in Glory,Mother Maybelle and the Carter Sisters,The Trouble with the Truth,0.77,0.226,8.0,-12.076,1.0,0.0446,0.958,0.0,0.241,0.934,111.145
 6ttVYsAi2ndk3YngDxr904,What Will We Do with the Baby O,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.762,0.407,8.0,-7.682,1.0,0.0744,0.969,0.0,0.264,0.497,98.839
 6uMtl6JNV57oe7oU9DN3G4,Hard Travelin',Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,0.6,0.186,2.0,-16.821,1.0,0.0558,0.935,0.305,0.135,0.866,128.435
+6vlR7PnWlUVhqPYmuPR8kp,Buddy's Bolden Blues,Dave Van Ronk,Hear Me Howl (Live 1964),0.511,0.18,5.0,-23.659,0.0,0.128,0.937,0.606,0.966,0.613,124.961
 6wrEYf9IyrjaLccRBhrsCO,Highway 51 Blues,Bob Dylan,Bob Dylan,0.634,0.505,4.0,-9.703,1.0,0.0471,0.841,0.00554,0.0887,0.62,132.521
 6xZZcFtU450AfYxwIGSXL9,John Hardy,Lead Belly,Tradition Masters Series,0.609,0.159,7.0,-10.214,1.0,0.067,0.994,0.0453,0.0772,0.797,119.376
 6zD3VBPn2VNDdmLEg0coPt,Country Honk,The Rolling Stones,Let It Bleed,0.531,0.759,7.0,-10.992,1.0,0.0521,0.627,7.04e-06,0.351,0.888,120.96

@@ -38,6 +38,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0j35X8cTq543QDYLOyqB8W,Only One,"Kanye West, Paul McCartney",Only One,0.732,0.243,0.0,-6.023,1.0,0.0435,0.939,0.0,0.111,0.106,102.087
 0jx8zY5JQsS4YEQcfkoc5C,Angels (feat. Saba),"Chance the Rapper, Saba",Coloring Book,0.771,0.647,5.0,-5.127,0.0,0.376,0.294,0.0,0.37,0.678,155.914
 0m3Ze0cy8qBHSsV2exAfCw,Amazing,"Kanye West, Jeezy",808s & Heartbreak,0.588,0.554,8.0,-8.406,1.0,0.0545,0.216,0.118,0.0619,0.496,146.133
+0mYWsICXgOTU1EQLL1uLhW,Slither Conspiracy,RXKNephew,Slither Conspiracy,0.734,0.9,1.0,-8.798,1.0,0.442,0.648,0.0,0.243,0.538,139.782
 0oPOuDmmkVp3h6puekhs6P,Use This Gospel,"Kanye West, Clipse, Kenny G",JESUS IS KING,0.611,0.459,0.0,-3.926,0.0,0.0422,0.614,0.0,0.126,0.177,148.28
 0qOnSQQF0yzuPWsXrQ9paz,Stereo Hearts (feat. Adam Levine),"Gym Class Heroes, Adam Levine",The Papercut Chronicles II,0.646,0.795,9.0,-3.293,1.0,0.0976,0.0319,0.0,0.267,0.796,89.99
 0rFpcfF0YfvFUYsl99Bw9d,Soundtrack 2 My Life,Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.484,0.755,9.0,-6.653,0.0,0.136,0.465,1.56e-05,0.375,0.441,86.496
@@ -74,6 +75,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1Wsbr1d2BouNGk2q92mIj7,Pt. 2,Kanye West,The Life Of Pablo,0.674,0.752,11.0,-4.073,1.0,0.333,0.552,0.0,0.787,0.236,145.076
 1ZHYJ2Wwgxes4m8Ba88PeK,Monster,"Kanye West, JAY-Z, Rick Ross, Nicki Minaj, Bon Iver",My Beautiful Dark Twisted Fantasy,0.628,0.692,2.0,-5.64,1.0,0.202,0.00244,0.0129,0.668,0.0963,124.887
 1cTZMwcBJT0Ka3UJPXOeeN,Nice For What,Drake,Nice For What,0.567,0.913,8.0,-6.471,1.0,0.0736,0.0934,0.000124,0.114,0.792,93.35
+1cgJ8cxn6Zv8X4fzs7VSEY,Try Me,Lil Noid,Paranoid Funk,0.911,0.586,4.0,-8.421,1.0,0.205,0.161,2.88e-05,0.113,0.865,130.495
 1dXYBALYTj3AMxa8hgiQhA,DEATHCAMP (feat. Cole Alexander),"Tyler, The Creator, Cole Alexander",Cherry Bomb,0.581,0.746,10.0,-5.495,0.0,0.0422,0.0149,0.000276,0.594,0.455,101.881
 1eEPKr5gzWVSZKiMWIMZYa,You See Me,Childish Gambino,Camp,0.677,0.806,2.0,-6.393,1.0,0.507,0.051,0.0,0.116,0.657,69.765
 1eQBEelI2NCy7AUTerX0KS,Ultralight Beam,Kanye West,The Life Of Pablo,0.592,0.403,0.0,-8.768,0.0,0.414,0.62,0.0,0.54,0.391,105.169
