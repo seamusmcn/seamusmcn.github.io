@@ -1,7 +1,7 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
-54qgVl1i7Lpj5DuWbOd4Hi,It's Halloween,The Shaggs,Philosophy of the World,0.391,0.39,7,-11.343,1,0.036,0.501,2.05e-06,0.0899,0.697,133.077
-3m0y8qLoznUYi73SUBP8GI,Ghostbusters,Ray Parker Jr.,Ghostbusters (Original Motion Picture Soundtrack) - 2016,0.788,0.846,4,-5.017,1,0.0372,0.0103,0.000281,0.26,0.738,115.636
-00RHrZB3i6B6PwX30ouZBK,Supernature,Cerrone,3 - Supernature,0.62,0.948,5,-6.639,0,0.0432,0.00221,0.228,0.197,0.826,123.028
-2rgHxOarlO4W35mg0IZ5u8,This Town Ain't Big Enough For Both Of Us,Sparks,Kimono My House,0.465,0.731,2,-10.592,1,0.0724,0.448,0.00112,0.297,0.638,129.684
-5KQ2Erk5YRy7QxgBkZmetv,Arkadasim Essek,Barış Manço,Hal Hal,0.709,0.659,4,-9.552,0,0.0256,0.293,0.0,0.0837,0.882,95.635
-752KZU2ll37MqWEfsahO2c,Misirlou (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.389,0.675,5,-7.881,1,0.047,0.00468,0.687,0.448,0.539,166.756
+00RHrZB3i6B6PwX30ouZBK,Supernature,Cerrone,3 - Supernature,0.62,0.948,5.0,-6.639,0.0,0.0432,0.00221,0.228,0.197,0.826,123.028
+2rgHxOarlO4W35mg0IZ5u8,This Town Ain't Big Enough For Both Of Us,Sparks,Kimono My House,0.465,0.731,2.0,-10.592,1.0,0.0724,0.448,0.00112,0.297,0.638,129.684
+3m0y8qLoznUYi73SUBP8GI,Ghostbusters,Ray Parker Jr.,Ghostbusters (Original Motion Picture Soundtrack) - 2016,0.788,0.846,4.0,-5.017,1.0,0.0372,0.0103,0.000281,0.26,0.738,115.636
+54qgVl1i7Lpj5DuWbOd4Hi,It's Halloween,The Shaggs,Philosophy of the World,0.391,0.39,7.0,-11.343,1.0,0.036,0.501,2.05e-06,0.0899,0.697,133.077
+5KQ2Erk5YRy7QxgBkZmetv,Arkadasim Essek,Barış Manço,Hal Hal,0.709,0.659,4.0,-9.552,0.0,0.0256,0.293,0.0,0.0837,0.882,95.635
+752KZU2ll37MqWEfsahO2c,Misirlou (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.389,0.675,5.0,-7.881,1.0,0.047,0.00468,0.687,0.448,0.539,166.756
