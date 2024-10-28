@@ -5,8 +5,11 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0jHEixPAoSopOP75j2iTX9,"A Love Supreme, Pt. III - Pursuance",John Coltrane,A Love Supreme,0.4,0.616,5.0,-14.026,0.0,0.117,0.546,1.47e-05,0.357,0.455,98.06
 0q4SJUYOp0Er9fvREdDyDv,Enlightenment,Sun Ra,Sound Sun Pleasure,0.501,0.303,9.0,-10.722,0.0,0.0367,0.734,0.000123,0.139,0.537,130.031
 0rEP2CDOuvUm4zbhIPZAkK,Gut Bucket Blues,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.573,0.295,5.0,-10.096,1.0,0.0525,0.988,0.000139,0.0784,0.678,146.336
+0s2h4GBGC4rcdSQhJX80Mv,Samba De Orpheus,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.581,0.428,2.0,-16.917,0.0,0.0486,0.889,0.845,0.173,0.606,126.033
 0tUq1zaYNoV6ZiYRU2bjqf,"On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)","Miles Davis, John Coltrane, Cannonball Adderley, Bill Evans",Kind Of Blue (Legacy Edition),0.445,0.304,8.0,-12.261,1.0,0.0437,0.742,0.00068,0.175,0.362,76.74
+1GJrFcbu6BVsEnPhDmGfdE,Cast Your Fate To The Wind,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.467,0.225,8.0,-15.74,1.0,0.0383,0.774,0.151,0.107,0.303,124.791
 1IMbKfMzGyFK4WxsMy9xRF,Springtime Again,Sun Ra & His Arkestra,Sleeping Beauty (Expanded Edition),0.36,0.431,5.0,-11.992,1.0,0.044,0.49,0.405,0.135,0.183,122.631
+1OQBzVlstoCo6oI2O8dVML,Fascinating Rhythm,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.518,0.293,0.0,-14.575,1.0,0.0797,0.957,0.89,0.0957,0.728,150.826
 1OthTnfajlDmZDcqgZ9paY,Blowin' the Blues Away,Buddy Rich and His Sextet,Blues Caravan,0.326,0.794,8.0,-11.47,1.0,0.0638,0.106,0.0155,0.0641,0.63,157.846
 1PwDQml2mBq1RyS9BrmDOy,I Never Knew,"Count Basie, Zoot Sims",Basie & Zoot,0.411,0.628,5.0,-9.597,1.0,0.0303,0.747,0.0669,0.154,0.772,142.953
 1Qo5nLKvPYqiTbXrM7YJjt,Green Tea,John Scofield,A Go Go,0.774,0.32,4.0,-15.292,1.0,0.0443,0.664,0.697,0.0852,0.628,124.124
@@ -25,6 +28,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3YmxwafE7wiBGOM7WnWdY3,Michelle,Yusef Lateef,Suite 16,0.387,0.0948,2.0,-21.094,0.0,0.038,0.977,0.924,0.109,0.221,76.614
 3mWcoPBHsrmcs1lj6uBfvz,Georgia Grind,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.73,0.213,8.0,-14.635,1.0,0.0554,0.897,0.0,0.152,0.706,140.34
 3ven4ZKSspshBwiLMMibEa,Early Summer,Ryo Fukui,シーナリィ,0.348,0.63,2.0,-10.103,0.0,0.0541,0.615,0.402,0.159,0.392,85.404
+40dkGkXlOnvj75cbXGvjRf,A Flower Is A Lovesome Thing,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.501,0.0907,7.0,-18.746,1.0,0.0432,0.987,0.936,0.0974,0.0395,118.618
 49LHJe8RmY5ViMMQj0aMdb,(What Did I Do To Be So) Black And Blue,Louis Armstrong,This Is Jazz Louis Armstrong Sings,0.414,0.105,0.0,-14.907,1.0,0.0549,0.826,0.0119,0.269,0.223,72.332
 4HnQuRLBpmGbmnDTBvu54W,"Cherokee - Live at the Bee Hive, Chicago, IL - November 1955","Clifford Brown, Max Roach",Live at the Bee Hive,0.295,0.96,6.0,-7.635,1.0,0.293,0.0952,0.0359,0.549,0.237,102.521
 4OhX1Gi7CEySPoGLC2JckS,Where Pathways Meet - Remastered,"Sun Ra, Sun Ra & His Arkestra",Lanquidity (Definitive Edition),0.597,0.635,1.0,-9.843,1.0,0.107,0.633,0.631,0.112,0.566,91.159
@@ -32,13 +36,16 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4WyVRn3L2uXnSUkY762gqN,Sly,Herbie Hancock,Head Hunters,0.39,0.913,11.0,-7.174,0.0,0.0778,0.0262,0.784,0.0649,0.603,146.129
 4apDKupCu7oqynDhkO67HZ,I'd Rather Go Blind (Live - Montreux Jazz Festival 1975),Etta James,Etta James: The Montreux Years (Live),0.38,0.141,11.0,-19.577,0.0,0.238,0.857,0.000558,0.968,0.413,86.918
 4vLYewWIvqHfKtJDk8c8tq,"So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)","Miles Davis, John Coltrane, Cannonball Adderley, Bill Evans",Kind Of Blue (Legacy Edition),0.532,0.151,0.0,-17.266,1.0,0.0376,0.706,0.00136,0.116,0.211,136.759
+56ELcGHTuw0myBCxjom1lZ,Fenwyck's Farfel,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.674,0.175,10.0,-14.452,1.0,0.06,0.945,0.919,0.11,0.398,131.966
 5CLkYMVMOfqW3VWcjKKr1n,Heebie Jeebies,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.671,0.324,8.0,-10.637,1.0,0.106,0.983,8.34e-05,0.143,0.57,164.628
 5EJ9MfO86fEG7ICjhciyd1,The Enchanted Sea,Martin Denny,The Enchanted Sea,0.443,0.293,9.0,-14.393,0.0,0.0311,0.783,0.31,0.212,0.27,84.062
 5FLQmLjjeNIuC8U5mDnXC8,"A Love Supreme, Pt. IV - Psalm",John Coltrane,A Love Supreme,0.381,0.313,7.0,-11.852,0.0,0.0312,0.897,0.0432,0.135,0.376,127.106
+5HuaJQKO8niocig3zoqt6A,Calling Dr. Funk - live at the Black Hawk,Vince Guaraldi Quartet,The Definitive Vince Guaraldi,0.665,0.234,2.0,-10.671,0.0,0.0423,0.715,0.332,0.082,0.443,116.292
 5IT8xiS70Ul7Zq0pKM8I0l,Quiet Dawn,Archie Shepp,Attica Blues,0.349,0.45,7.0,-14.35,0.0,0.053,0.833,0.59,0.0981,0.377,129.056
 5PJXdnBEY4d2mZIlserX3c,Sannin de Odoranai,Miki Matsubara,Miki Matsubara Best Collection,0.664,0.601,2.0,-10.989,1.0,0.0515,0.482,0.0,0.113,0.454,132.095
 5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1.0,-15.485,1.0,0.035,0.968,1.55e-05,0.127,0.305,78.056
 5dlfvkyZOuBCFP1KbzRHUx,Orange Moon,Erykah Badu,Mama's Gun,0.414,0.149,5.0,-13.976,0.0,0.037,0.463,0.000273,0.152,0.124,97.638
+5wHTAt05hXx9Gp5WvdrVhk,"Softly, As In A Morning Sunrise",Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.626,0.199,0.0,-13.214,0.0,0.0486,0.978,0.932,0.0975,0.601,88.198
 6CeajvxcjyZ46cGbrKwq9n,Souvenir d'Italie,Lelio Luttazzi,Le mie preferite,0.0,0.439,7.0,-13.484,1.0,0.0,0.686,0.95,0.307,0.0,0.0
 6DF63ZuNh927Gbt85my9CN,Mahogany Hall Stomp,King Oliver,Papa Joe,0.677,0.408,0.0,-8.742,1.0,0.0744,0.984,0.883,0.0944,0.863,95.721
 6FYeRy9LuMYTEMXOVCRCJ5,I Remember You - Remastered 2004,Chet Baker,Chet Baker Sings And Plays (Remastered 2004),0.448,0.281,8.0,-11.221,1.0,0.0401,0.935,0.000675,0.162,0.461,187.075
