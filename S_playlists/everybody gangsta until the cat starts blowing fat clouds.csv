@@ -27,6 +27,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0QIjsbm2fh1cJ45XO9eGqq,Wake Up in the Sky,"Gucci Mane, Bruno Mars, Kodak Black",Wake Up in the Sky,0.8,0.578,4.0,-5.144,0.0,0.0485,0.00381,0.0,0.359,0.367,143.01
 0RAvy97QRPzO2AfK5Dw6j3,We Cry Together,"Kendrick Lamar, Taylour Paige",Mr. Morale & The Big Steppers,0.648,0.68,11.0,-7.276,1.0,0.345,0.292,0.0,0.0808,0.504,106.89
 0RXspLL7GwiGm9KIDdT0ma,Simple As...,Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.802,0.742,1.0,-4.607,1.0,0.111,0.265,0.000281,0.63,0.512,95.0
+0VaeksJaXy5R1nvcTMh3Xk,"Darling, I (feat. Teezo Touchdown)","Tyler, The Creator, Teezo Touchdown",CHROMAKOPIA,0.373,0.818,3.0,-3.19,0.0,0.102,0.36,0.0,0.434,0.361,97.571
 0WQcnrsEqrY2e5nexGe3HX,"Walk On Water (feat. A$AP Twelvyy, A$AP Ant, A$AP Nast, A$AP Ferg & Playboi Carti)","A$AP Mob, A$AP Twelvyy, A$AP ANT, A$AP NAST, A$AP Ferg, Playboi Carti",Cozy Tapes Vol. 2: Too Cozy,0.9,0.532,0.0,-5.516,1.0,0.0744,0.0889,0.0,0.0533,0.592,140.023
 0X8DcetL926BYiPJYstJTc,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,0.511,0.566,6.0,-7.23,0.0,0.2,0.349,0.0,0.34,0.218,83.903
 0aDwwdroOgcUhywcxZUc89,They Say (feat. Tay Walker),"The Internet, Tay Walker",12 Odd Future Songs,0.622,0.41,0.0,-5.861,1.0,0.0322,0.735,2.25e-06,0.118,0.664,113.179
@@ -67,12 +68,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1D2L6MefbXon28PzIk9I3r,92 Explorer,Post Malone,beerbongs & bentleys,0.798,0.733,7.0,-4.811,0.0,0.0475,0.265,1.26e-06,0.114,0.862,146.047
 1FgmP7AOTcn7MGYmImj0kn,Ain't Gonna Die Tonight (feat. Eric Nally),"Macklemore, Eric Nally",GEMINI,0.687,0.768,7.0,-5.579,0.0,0.14,0.232,0.0,0.118,0.865,81.977
 1PS1QMdUqOal0ai3Gt7sDQ,Gold Digger,"Kanye West, Jamie Foxx",Late Registration,0.629,0.696,1.0,-5.572,0.0,0.348,0.0195,0.0,0.0554,0.623,93.034
+1QoyuMHNBe7lg3YW4Qtll4,St. Chroma (feat. Daniel Caesar),"Tyler, The Creator, Daniel Caesar",CHROMAKOPIA,0.576,0.884,0.0,-5.058,1.0,0.555,0.357,0.0,0.368,0.373,150.45
 1RUTIdTnFs8lHSc0Zr4UJB,Up Up & Away,Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.66,0.881,10.0,-6.119,0.0,0.0849,0.0722,3.43e-05,0.362,0.586,120.018
 1RUgnEXt9V73IhtJhMI0CK,Senior Skip Day,Mac Miller,K.I.D.S. (Deluxe),0.522,0.725,5.0,-5.184,0.0,0.306,0.554,0.0,0.799,0.809,108.364
 1UGD3lW3tDmgZfAVDh6w7r,Devil In A New Dress,"Kanye West, Rick Ross",My Beautiful Dark Twisted Fantasy,0.435,0.76,8.0,-4.935,0.0,0.0721,0.0175,0.0,0.158,0.206,80.082
 1Vp4St7JcXaUoJcIahtf3L,The New Workout Plan,Kanye West,The College Dropout,0.704,0.792,2.0,-4.831,1.0,0.198,0.00981,0.0,0.365,0.646,118.022
 1WnqWQcWcuQbVzgE7ecfCY,Every Hour,"Kanye West, Sunday Service Choir",JESUS IS KING,0.588,0.793,7.0,-6.23,1.0,0.0794,0.466,0.000647,0.913,0.694,76.997
 1Wsbr1d2BouNGk2q92mIj7,Pt. 2,Kanye West,The Life Of Pablo,0.674,0.752,11.0,-4.073,1.0,0.333,0.552,0.0,0.787,0.236,145.076
+1YdtGoSYDvVQKoUqSDXX41,Noid,"Tyler, The Creator",CHROMAKOPIA,0.38,0.784,1.0,-6.004,1.0,0.299,0.523,0.000139,0.494,0.418,82.318
 1ZHYJ2Wwgxes4m8Ba88PeK,Monster,"Kanye West, JAY-Z, Rick Ross, Nicki Minaj, Bon Iver",My Beautiful Dark Twisted Fantasy,0.628,0.692,2.0,-5.64,1.0,0.202,0.00244,0.0129,0.668,0.0963,124.887
 1cTZMwcBJT0Ka3UJPXOeeN,Nice For What,Drake,Nice For What,0.567,0.913,8.0,-6.471,1.0,0.0736,0.0934,0.000124,0.114,0.792,93.35
 1cgJ8cxn6Zv8X4fzs7VSEY,Try Me,Lil Noid,Paranoid Funk,0.911,0.586,4.0,-8.421,1.0,0.205,0.161,2.88e-05,0.113,0.865,130.495
@@ -132,6 +135,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2ZBr6a8ecFqLJA0lcvFPCc,All The Shine,Childish Gambino,Camp,0.586,0.576,0.0,-7.732,0.0,0.133,0.0297,0.000171,0.16,0.307,79.986
 2Za1AlJNvksouPPWbXpR2X,Good Old Days (feat. Kesha),"Macklemore, Kesha",GEMINI,0.712,0.51,8.0,-8.162,1.0,0.0633,0.446,2.46e-05,0.112,0.268,122.964
 2aHlRZIGUFThu3eQePm6yI,Champion,Kanye West,Graduation,0.693,0.504,6.0,-8.306,1.0,0.238,0.00299,0.0,0.695,0.723,102.139
+2aYHxnMF2umAavtgBvmkY1,Thought I Was Dead (feat. ScHoolboy Q & Santigold),"Tyler, The Creator, ScHoolboy Q, Santigold",CHROMAKOPIA,0.77,0.859,10.0,-3.382,0.0,0.275,0.362,0.0,0.673,0.64,129.77
 2alJKJoqOOEPVU1Do3eIjJ,53.49,Childish Gambino,3.15.20,0.518,0.952,6.0,-5.274,0.0,0.198,0.0287,0.0,0.381,0.622,171.905
 2bjwRfXMk4uRgOD9IBYl9h,Portland,"Drake, Quavo, Travis Scott",More Life,0.925,0.443,1.0,-8.216,1.0,0.264,0.0172,0.0,0.276,0.35,136.078
 2cDCojn6uIBM6A5xTAbl3H,m.A.A.d city,"Kendrick Lamar, MC Eiht","good kid, m.A.A.d city (Deluxe)",0.487,0.729,2.0,-6.815,1.0,0.271,0.0538,4.09e-06,0.44,0.217,91.066
@@ -172,6 +176,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3DK6m7It6Pw857FcQftMds,Runaway,"Kanye West, Pusha T",My Beautiful Dark Twisted Fantasy,0.374,0.568,1.0,-3.825,0.0,0.109,0.219,0.00219,0.513,0.111,84.733
 3DORsoGpr8l2xsaZE9baq5,Wake Up,Mac Miller,Best Day Ever (5th Anniversary Remastered Edition),0.737,0.782,4.0,-5.057,0.0,0.141,0.0457,0.0,0.236,0.642,109.354
 3EG9FJ0ToLfgnc1IG2Z1wz,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),"Tyler, The Creator, Brent Faiyaz, Fana Hues",CALL ME IF YOU GET LOST,0.468,0.652,0.0,-4.912,1.0,0.0722,0.333,0.000318,0.55,0.39,140.223
+3GdwjAsCsoE79ObhsJFyYb,I Killed You,"Tyler, The Creator",CHROMAKOPIA,0.749,0.896,2.0,-4.909,1.0,0.219,0.356,0.00075,0.267,0.447,97.121
 3H2JThgdBxezwj1wwafQS8,All Girls Are The Same,Juice WRLD,Goodbye & Good Riddance,0.671,0.529,0.0,-7.226,1.0,0.307,0.0769,0.000335,0.0856,0.203,161.989
 3HG3QFERdP3Q1b6VGahwWs,Alive (Nightmare),"Kid Cudi, Ratatat",Man On The Moon: The End Of Day (Deluxe),0.71,0.815,6.0,-4.869,0.0,0.0419,0.262,0.0,0.208,0.703,101.782
 3HooZZPp0evFShqaJ2Pwer,Heartbeat,Childish Gambino,Camp,0.8,0.569,1.0,-6.843,0.0,0.119,0.00545,0.000319,0.0542,0.325,119.954
@@ -205,9 +210,11 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3s7MCdXyWmwjdcWh7GWXas,Violent Crimes,Kanye West,ye,0.669,0.419,1.0,-6.724,0.0,0.522,0.376,0.0,0.187,0.0397,109.813
 3sNVsP50132BTNlImLx70i,Bound 2,Kanye West,Yeezus,0.367,0.665,1.0,-2.821,1.0,0.0465,0.145,0.0,0.113,0.31,148.913
 3swc6WTsr7rl9DqQKQA55C,Psycho (feat. Ty Dolla $ign),"Post Malone, Ty Dolla $ign",beerbongs & bentleys,0.75,0.56,8.0,-8.094,1.0,0.105,0.546,0.0,0.111,0.459,140.06
+3tFed7YsjGnIfxeLEQwx3R,"Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)","Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",CHROMAKOPIA,0.505,0.812,1.0,-3.986,1.0,0.461,0.285,0.0,0.444,0.664,80.09
 3uYDO9dPLTVrgfwg7EYXSf,Lift Yourself,Kanye West,Lift Yourself,0.877,0.435,0.0,-8.131,1.0,0.136,0.0108,1.88e-06,0.115,0.589,98.008
 3v7GtykYEMuSg4dQyw4qZb,"Rella (feat. Hodgy, Domo Genesis & Tyler, The Creator)","Odd Future, Hodgy, Domo Genesis, Tyler, The Creator",The OF Tape Vol. 2,0.545,0.75,4.0,-6.485,0.0,0.312,0.159,0.0,0.147,0.881,138.768
 3woRy7uxzl1lO2XO99oHsN,The Man Who Has Everything,Chance the Rapper,The Man Who Has Everything,0.686,0.469,1.0,-9.065,1.0,0.291,0.612,0.0,0.121,0.156,72.998
+3yw3m8wgRB4ptDyAvtdhq5,Tomorrow,"Tyler, The Creator",CHROMAKOPIA,0.463,0.541,1.0,-6.594,1.0,0.0385,0.811,6.61e-05,0.125,0.307,95.827
 3z1eL3iolJSdiYEEodX1k0,Kids,Childish Gambino,Camp,0.683,0.484,9.0,-10.922,1.0,0.113,0.0331,0.0,0.652,0.336,85.011
 3zF2iSkV74H1atcypcba96,Knock Knock,Mac Miller,K.I.D.S. (Deluxe),0.682,0.934,4.0,-2.527,0.0,0.151,0.107,0.0,0.749,0.484,109.029
 401160izncPtca3CmX3dvM,Purple Hearts,"Kendrick Lamar, Summer Walker, Ghostface Killah",Mr. Morale & The Big Steppers,0.567,0.824,3.0,-6.973,0.0,0.296,0.167,2.65e-06,0.149,0.737,138.202
@@ -219,6 +226,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 46OFHBw45fNi7QNjSetITR,Hey Mama,Kanye West,Late Registration,0.583,0.754,7.0,-6.993,1.0,0.223,0.0593,0.0,0.113,0.347,95.784
 46oHvXwpEZOFX518we1nJD,CORSO,"Tyler, The Creator",CALL ME IF YOU GET LOST,0.703,0.845,10.0,-4.851,0.0,0.337,0.169,0.0,0.122,0.745,97.672
 49fT6owWuknekShh9utsjv,Feedback,Kanye West,The Life Of Pablo,0.811,0.566,8.0,-6.033,0.0,0.517,0.563,0.0,0.104,0.169,100.224
+4BSR9I4ExlCJdXJo2GpBD5,Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams),"Tyler, The Creator, Daniel Caesar, LaToiya Williams",CHROMAKOPIA,0.503,0.658,6.0,-5.823,0.0,0.154,0.46,0.0,0.382,0.515,121.784
 4EWCNWgDS8707fNSZ1oaA5,Heartless,Kanye West,808s & Heartbreak,0.79,0.647,10.0,-5.983,0.0,0.136,0.0515,0.0,0.248,0.654,87.999
 4FgcgJpZaKJRog2EISGWjN,Heart Of A Lion (Kid Cudi Theme Music),Kid Cudi,Man On The Moon: The End Of Day (Deluxe),0.723,0.452,11.0,-9.421,0.0,0.0329,0.307,0.0064,0.0923,0.375,125.015
 4H7WNRErSbONkM06blBoGc,Stay,Post Malone,beerbongs & bentleys,0.506,0.48,5.0,-5.418,1.0,0.0266,0.449,0.0,0.147,0.351,86.042
@@ -269,6 +277,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5IdQEHgtmj9th3OkfQKhf8,"Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)","Chance the Rapper, Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury",Coloring Book,0.381,0.462,8.0,-8.014,1.0,0.124,0.891,0.0,0.199,0.542,80.08
 5LOiuvbH62YGtnwe6Ltt4T,Mirror,Kendrick Lamar,Mr. Morale & The Big Steppers,0.652,0.67,2.0,-8.766,1.0,0.0639,0.225,1.4e-05,0.0804,0.274,91.933
 5QvBXUm5MglLJ3iBfTX2Wo,RUNNING OUT OF TIME,"Tyler, The Creator",IGOR,0.36,0.391,6.0,-10.6,1.0,0.0528,0.296,0.000406,0.129,0.162,84.281
+5RePVWy39tLpHH0WwXgBsK,Rah Tah Tah,"Tyler, The Creator",CHROMAKOPIA,0.661,0.878,1.0,-4.099,1.0,0.31,0.00289,0.0,0.381,0.514,82.557
 5RjbFGeWVsCpw8EcE8OrvZ,Gone,"Kanye West, Consequence, Cam'ron",Late Registration,0.842,0.668,1.0,-6.043,1.0,0.26,0.015,0.0,0.0699,0.345,92.703
 5SNPmbE3OcIVUlzQj9M32N,Smile,Vince Staples,Prima Donna,0.672,0.689,4.0,-7.307,1.0,0.358,0.526,2.6e-05,0.335,0.524,116.099
 5SkRLpaGtvYPhw02vZhQQ9,All Falls Down,"Kanye West, Syleena Johnson",The College Dropout,0.657,0.734,8.0,-4.832,0.0,0.484,0.149,0.0,0.139,0.434,91.03
@@ -331,6 +340,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6f44p3Kc4ayD9VtbC9Clkr,"Come On, Let's Go (with Nigo)","Tyler, The Creator, Nigo",I Know NIGO!,0.732,0.734,11.0,-7.968,1.0,0.0974,0.136,0.000901,0.165,0.488,145.722
 6gI9b2VsoWhjhIuIeToDVs,Die Hard,"Kendrick Lamar, Blxst, Amanda Reifer",Mr. Morale & The Big Steppers,0.775,0.736,1.0,-8.072,0.0,0.247,0.319,0.00116,0.127,0.362,100.988
 6j8gTlbhj9KJSeypNcNAS9,Street Lights,Kanye West,808s & Heartbreak,0.644,0.487,6.0,-9.654,1.0,0.034,0.0287,0.0166,0.206,0.467,125.528
+6jbYpRPTEFl1HFKHk1IC0m,Like Him (feat. Lola Young),"Tyler, The Creator, Lola Young",CHROMAKOPIA,0.392,0.555,4.0,-6.707,0.0,0.039,0.287,0.000253,0.13,0.191,96.063
 6jkdt7GDct9kwhps4KGJr8,Blue Slide Park,Mac Miller,Blue Slide Park,0.628,0.858,0.0,-5.629,0.0,0.282,0.0571,0.0,0.276,0.16,95.515
 6lV2MSQmRIkycDScNtrBXO,Airplanes (feat. Hayley Williams of Paramore),"B.o.B, Hayley Williams",B.o.B Presents: The Adventures of Bobby Ray,0.66,0.867,6.0,-4.285,0.0,0.116,0.11,0.0,0.0368,0.377,93.033
 6m9qPYXmhge2QhBLfFKnVF,Same Drugs,Chance the Rapper,Coloring Book,0.461,0.293,6.0,-9.52,1.0,0.0555,0.947,9.95e-06,0.0936,0.531,180.297
