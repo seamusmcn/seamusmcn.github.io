@@ -1,7 +1,10 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
+00K60iWcddHD9ZxnmqbjOL,The Times They Are A-Changin',Odetta,Odetta Sings Dylan,0.391,0.217,2.0,-13.66,1.0,0.0492,0.945,0.00047,0.127,0.409,170.933
 00fQwAEaHcZDxMJAn3N0wl,He Was a Friend Of Mine,Dave Van Ronk,Hear Me Howl (Live 1964),0.445,0.036,9.0,-26.244,1.0,0.0384,0.932,0.765,0.519,0.372,130.914
+03f95cczYGlSHf1UfnVRkp,Tomorrow Is a Long Time,Odetta,Odetta Sings Dylan,0.52,0.139,8.0,-16.767,1.0,0.0324,0.95,0.00349,0.137,0.529,103.25
 04bsExZXrwoRXYKKDWlTIU,I Saw The Light,"Hank Williams, Drifting Cowboys",Sings,0.349,0.273,7.0,-11.443,1.0,0.0325,0.95,6.21e-05,0.146,0.493,204.922
 0AAsZvbbE1dGnveap3LJnz,One Day at a Time,Willie Nelson,Country Willie - His Own Songs,0.684,0.267,2.0,-11.032,1.0,0.0351,0.627,0.00117,0.117,0.497,116.122
+0AeEmmfF3PA9WRlnjXJvyv,This Land is Not Our Land,Utah Phillips,Making Speech Free,0.649,0.181,6.0,-13.767,0.0,0.108,0.886,0.0,0.766,0.502,128.804
 0D7qLnnev1iKpH5RNT7YsD,I Shall Be Free,Bob Dylan,The Freewheelin' Bob Dylan,0.64,0.314,2.0,-12.88,1.0,0.038,0.86,5.72e-06,0.0779,0.798,100.552
 0DSzSnUcIFJ7DRYzMxcCh9,Dust Bowl Blues,Woody Guthrie,Dust Bowl Ballads,0.673,0.181,9.0,-13.041,1.0,0.0357,0.792,1.29e-05,0.085,0.412,95.593
 0Dcnab1NPhb3fAYMkRZwhR,Spiritual Trilogy _ Oh Freedom _ Come and Go with Me _ I'm on My Way,Odetta,Sings Ballads & Blues,0.37,0.274,0.0,-7.749,1.0,0.0372,0.858,0.0453,0.11,0.358,130.429
@@ -29,7 +32,9 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0dqt6vPELFr0OLXZr2paKf,I Was A Stranger,Doc Watson,The Essential Doc Watson,0.553,0.302,1.0,-20.928,1.0,0.125,0.835,2.8e-05,0.7,0.797,81.118
 0f17rxB5YPXL5Pab3Yzsv0,Wilson rag,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.398,0.425,5.0,-17.765,0.0,0.0341,0.903,0.806,0.102,0.924,97.263
 0f5bYBJ7CQkqqLZjhJTNw9,Hog Of The Forsaken,Michael Hurley,Long Journey,0.775,0.429,2.0,-10.972,1.0,0.0382,0.554,0.00104,0.119,0.862,126.245
+0fAry8yLUdQix2nA9sw0DA,Just a Bum,Michael Hurley,First Songs,0.72,0.175,7.0,-17.7,1.0,0.0408,0.901,1.01e-06,0.0868,0.24,64.435
 0fBOgcY9wZVXgGNANMtp9j,Moanin' The Blues,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.709,0.28,2.0,-12.444,1.0,0.0343,0.653,0.0,0.152,0.89,76.073
+0gZwAM6vlMZwXqakynVXd6,Tell Me Who,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.626,0.082,2.0,-19.647,1.0,0.0449,0.831,0.0,0.108,0.524,176.654
 0hoTuAA2XMh8mc9t2wFqY5,This Train,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.711,0.315,8.0,-14.459,0.0,0.0404,0.836,7.11e-06,0.13,0.642,95.543
 0hveAq1VSNWo9MQYGMHvFF,I'm So Lonesome I Could Cry,Hank Williams,Moanin' The Blues (Expanded Edition),0.678,0.218,4.0,-13.084,1.0,0.0288,0.874,0.000697,0.125,0.652,110.964
 0jeHV0BgvHNrf7lQIVsAbL,Three Times Seven,Doc & Merle Watson,Elementary Doctor Watson,0.534,0.312,4.0,-14.808,1.0,0.0394,0.887,0.119,0.121,0.869,201.861
@@ -48,12 +53,15 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0vz0H81pU20hY4kzschfWU,The Wagoner's Lad,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.672,0.232,7.0,-9.573,1.0,0.0325,0.969,0.0,0.105,0.347,104.964
 0wDHXosFXoZ6sPWtoTaMFP,Noted Rider (No Good Rider),Lead Belly,Tradition Masters Series,0.617,0.299,9.0,-11.429,1.0,0.0438,0.922,3.48e-05,0.111,0.901,143.077
 0zVduthKvT1FEsUGFWT9Xo,900 Miles,Terry Callier,The New Folk Sound Of Terry Callier (Deluxe Edition),0.311,0.249,2.0,-16.052,1.0,0.0312,0.574,5.35e-05,0.108,0.0445,104.511
+116qfx8qmaTTTOKSbf66TY,We Have Fed You All a Thousand Years,Utah Phillips,We Have Fed You All a Thousand Years,0.544,0.521,2.0,-11.565,1.0,0.492,0.856,0.0,0.929,0.717,122.142
 121sjkub4p4zcFNozkKnQD,Folsom Prison Blues,"Johnny Cash, The Tennessee Two",Sings Hank Williams,0.754,0.54,5.0,-8.326,1.0,0.0266,0.687,7.51e-05,0.0868,0.79,101.738
 13ylB23PFb4anEUzXnF3bI,Wealth Won't Save Your Soul,"Hank Williams, Drifting Cowboys",Sings,0.458,0.291,9.0,-9.582,1.0,0.0258,0.689,0.00113,0.0893,0.359,83.136
 14V1IzC9AaeRFtuXMxXJNH,So Much to Do,Willie Nelson,Country Willie - His Own Songs,0.627,0.258,10.0,-13.476,1.0,0.028,0.731,0.013,0.0522,0.648,87.962
+15WaCkvUPrsbWhjzgl12jv,The Tea Song,Michael Hurley,First Songs,0.489,0.0363,8.0,-22.843,0.0,0.0454,0.928,0.0205,0.0815,0.215,101.449
 15YKkZKRpAs4HaL1Gz3zmo,Poor Ellen Smith,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.68,0.499,2.0,-7.114,1.0,0.0416,0.926,0.000239,0.117,0.403,123.875
 15qBdyeOsal1QJvB3ysW9g,City of New Orleans,Willie Nelson,City Of New Orleans,0.543,0.633,2.0,-11.693,1.0,0.05,0.477,2.14e-05,0.16,0.613,151.609
 16rlMzTMiprF9y5ZCOsHpV,Six More Miles (To The Graveyard),"Hank Williams, Drifting Cowboys",The Complete Hank Williams,0.569,0.369,7.0,-11.111,1.0,0.03,0.886,0.00424,0.152,0.605,89.866
+16yqWsqvOgJ7UasOLbsJAP,Goin' Down This Road,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.489,0.224,7.0,-15.012,1.0,0.0418,0.88,0.0,0.136,0.639,201.175
 17VdERgJsZVKXxG3NMi3Zp,When the Train Comes Along,Elizabeth Cotten,Shake Sugaree,0.503,0.192,4.0,-14.588,1.0,0.0494,0.943,0.0,0.113,0.498,173.898
 18CvvIlfbxh5jeYLIMuaxj,Stagger Lee,Dave Van Ronk,Hear Me Howl (Live 1964),0.638,0.399,0.0,-7.334,1.0,0.35,0.897,0.00172,0.657,0.617,112.747
 190Ag6YXRl0UCIDT9rXsJc,There Goes A Man,Willie Nelson,Country Willie,0.7,0.23,0.0,-13.448,1.0,0.0303,0.897,4.17e-06,0.102,0.642,99.474
@@ -85,11 +93,13 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1nIRH6Jl7OB4d4aJSwVNqU,Country Willie,Willie Nelson,Country Willie,0.643,0.506,2.0,-9.153,1.0,0.0321,0.85,0.00374,0.3,0.835,132.627
 1p7qv8hjHmkj1gtUkXKDgu,Chains Of Love,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.5,0.391,5.0,-11.573,1.0,0.0316,0.86,2.16e-05,0.279,0.593,114.095
 1rJhtyKJFEEmVzIJdAp7qq,Going Down The Road Feeling Bad,Doc & Merle Watson,Elementary Doctor Watson,0.733,0.306,2.0,-14.57,1.0,0.0337,0.86,0.0369,0.192,0.882,115.956
+1tAJyBJErRg2cGyPGb1kIS,Reconciled To The Blues,Michael Hurley,Long Journey,0.624,0.179,7.0,-17.006,1.0,0.0696,0.851,2.22e-05,0.082,0.24,79.9
 1v4EF7zZLvC8XkcEncOTue,Freight Train Blues,Bob Dylan,Bob Dylan,0.455,0.676,0.0,-6.533,1.0,0.0365,0.835,0.00051,0.322,0.517,132.422
 1vL9RAmcQBhQWl5iBQiKBs,Coal Creek,Roscoe Holcomb,An Untamed Sense of Control,0.573,0.516,2.0,-12.579,1.0,0.0335,0.803,0.944,0.114,0.936,121.289
 1x4iqHqbgf9oHsQJ6FGnCy,Lovesick Blues,Hank Williams,Moanin' The Blues (Expanded Edition),0.758,0.245,2.0,-10.746,0.0,0.0428,0.952,4.52e-05,0.132,0.714,126.324
 1yx7MegB699xwH46ZQ7vPK,There'll Be No Teardrops Tonight,Willie Nelson,Country Willie,0.67,0.303,9.0,-12.868,1.0,0.0322,0.6,0.00125,0.163,0.58,103.132
 21h76zOdsKVkxatPEovOkF,It Don't Mean A Thing,The Rooftop Singers,Vanguard Visionaries,0.667,0.207,10.0,-17.918,0.0,0.0905,0.653,0.0198,0.108,0.691,164.556
+22ZPA82kpSldTOFpf8sMMg,Tell Me What Kind of Man Jesus Is,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.712,0.182,7.0,-15.486,1.0,0.0438,0.835,5.62e-05,0.129,0.276,108.531
 25w19pmXnbdbkXZAXjEZxE,Tom Cat,The Rooftop Singers,Vanguard Visionaries,0.675,0.559,8.0,-10.136,1.0,0.0434,0.759,0.00227,0.0721,0.924,142.763
 26PwuMotZqcczKLHi4Htz3,Redemption Song,Bob Marley & The Wailers,Uprising,0.671,0.255,7.0,-10.743,1.0,0.0387,0.608,0.0,0.0737,0.694,115.873
 26SWvfvFTd3BXLg3mWCuXT,Jack O' Diamonds,Odetta,Sings Ballads & Blues,0.372,0.236,1.0,-7.571,0.0,0.0294,0.915,0.0135,0.153,0.452,172.142
@@ -102,12 +112,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2EAICjiavkemcnaSQqCtn0,Blue Yodel No. 4,Bill Monroe & His Blue Grass Boys,The Essential Bill Monroe (1945-1949),0.529,0.257,0.0,-16.157,1.0,0.0723,0.974,0.00353,0.108,0.772,201.016
 2FEt7MCQSQNSXrz7VEjg6M,How Long,"Lead Belly, Sonny Terry",Tradition Masters Series,0.422,0.563,5.0,-8.66,1.0,0.0433,0.963,0.964,0.113,0.696,122.957
 2FJLn4r78QRnbbBp7RD633,Froggie Went A-Courtin',Doc Watson,The Essential Doc Watson,0.499,0.367,7.0,-14.913,1.0,0.038,0.86,0.0025,0.151,0.835,136.324
+2GOztq545KfhVtznk79MXP,"Hey, Hey Baby",Big Bill Broonzy,Trouble in Mind,0.684,0.234,9.0,-15.497,1.0,0.0601,0.769,0.399,0.0916,0.821,170.75
 2HXnjMxrO4QccqE3Grwmd0,I Threw It All Away,Bob Dylan,Nashville Skyline,0.476,0.194,0.0,-20.311,1.0,0.0335,0.603,0.0135,0.23,0.371,145.945
 2ISKrDt2omvwUQihTy9Ozs,Sweet Betsy from Pike,Cisco Houston,Cowboy Ballads,0.581,0.0536,8.0,-20.477,1.0,0.293,0.991,0.00114,0.122,0.933,207.697
 2N84pPxNJmqo1ptSIh0M2B,Dust Cain't Kill Me,Woody Guthrie,Dust Bowl Ballads,0.573,0.212,2.0,-15.182,1.0,0.0382,0.732,0.000141,0.371,0.686,118.939
 2OYrhel5MHLGeTvXU9txqA,Don't Take It Too Bad,Townes Van Zandt,Townes Van Zandt,0.624,0.134,0.0,-18.026,1.0,0.0352,0.824,1.89e-06,0.13,0.497,112.615
 2P1jghKUruf3SDVNj910KC,Peggy Day,Bob Dylan,Nashville Skyline,0.628,0.297,5.0,-20.272,1.0,0.0548,0.761,6.87e-05,0.125,0.738,122.989
 2P9nh9pTK96dE0b6NBbTSs,"Dark Was the Night, Cold Was the Ground",Blind Willie Johnson,Dark Was The Night (Mojo Workin'- Blues For The Next Generation),0.394,0.0406,9.0,-23.179,1.0,0.044,0.968,0.0453,0.0976,0.2,116.117
+2RI3qxmZug5DGEFxUBGO3l,I Don't Want No Woman (To Try to Be My Boss),Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.673,0.11,6.0,-16.155,0.0,0.0776,0.855,0.0,0.0817,0.37,168.305
 2TMJrLYSGo9ys1rD7sM9Bc,"Rambling, Gambling Willie - Witmark Demo - 1962",Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.682,0.343,4.0,-12.811,1.0,0.0552,0.725,0.0,0.147,0.67,116.754
 2ThO3YZAifDOnpKPUJrlWp,Columbine,Townes Van Zandt,Townes Van Zandt,0.497,0.191,7.0,-20.047,1.0,0.0312,0.804,0.00363,0.14,0.619,91.368
 2V28f7zki2sktKSq2JhHu0,Jesus Lifted Me,Elizabeth Cotten and Brenda Evans,Shake Sugaree,0.479,0.1,1.0,-10.852,1.0,0.038,0.942,3.65e-06,0.111,0.581,178.518
@@ -123,6 +135,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2gPdx3Yugv715fTJeCS9Mf,Bye Bye Love,The Everly Brothers,"The Cadence Years, Vol. 1",0.551,0.552,9.0,-8.102,1.0,0.0565,0.754,1.29e-06,0.0951,0.926,168.709
 2hJ7E250KxFXuE0TCCfoI3,Dust Pneumonia Blues,Woody Guthrie,Dust Bowl Ballads,0.499,0.181,1.0,-15.788,1.0,0.069,0.877,0.0,0.173,0.65,195.028
 2hq6o5sOBus92ZK1b7FWKZ,Dusty Old Dust (So Long It's Been God to Know Yuh),Woody Guthrie,Dust Bowl Ballads,0.725,0.196,0.0,-15.176,1.0,0.0525,0.791,2.8e-06,0.0916,0.8,109.022
+2jhjfGpaicxM2lFc25JZem,Mr. Tambourine Man - Witmark Demo - 1964,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.549,0.121,2.0,-15.08,1.0,0.0383,0.988,0.0168,0.107,0.462,132.553
 2mOoTm1KIDeZUP52I2mn74,When I Was a Cowboy,Lead Belly,Tradition Masters Series,0.71,0.373,4.0,-14.467,1.0,0.0598,0.99,0.000932,0.186,0.961,104.776
 2nRuEFsz1Ianj2DU7RIgLz,Alabama Bound,Odetta,Sings Ballads & Blues,0.632,0.414,0.0,-4.948,1.0,0.0389,0.841,0.00669,0.159,0.704,125.32
 2oSKc0WxmFSsHwXx6UVArA,Sister's Coming Home _ Down at the Corner Beer Joint,Willie Nelson,Phases And Stages,0.69,0.575,2.0,-12.854,1.0,0.0349,0.608,0.0529,0.0843,0.904,98.869
@@ -139,11 +152,13 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 35ipJ2lNpruiJPIzVyYgdU,Mama Let Me Lay It on You,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",0.464,0.366,2.0,-11.758,0.0,0.0357,0.978,0.00403,0.365,0.752,170.357
 35ySEC3RyS1w36bkpgj1lT,Rebel Rouser,Duane Eddy,Have 'Twangy' Guitar Will Travel,0.532,0.629,6.0,-7.879,0.0,0.0338,0.0529,0.9,0.109,0.634,105.557
 36yAtDuv6rT36TAYjIHSQT,Steel Guitar Blues,Roy Acuff,The Essential Roy Acuff,0.731,0.212,9.0,-15.809,0.0,0.0335,0.974,0.226,0.161,0.692,96.466
+37QJSIQntEV7ZeDgEXPDvr,I Like My Wine,Michael Hurley,First Songs,0.5,0.0227,7.0,-31.385,1.0,0.0347,0.931,0.0282,0.131,0.451,90.384
 3AHtI7H4nSzDjEEGZIAJoY,Ring A-Around-A-Rosy Rag,Arlo Guthrie,Alice's Restaurant,0.607,0.52,0.0,-12.73,1.0,0.033,0.461,0.0,0.0577,0.929,81.866
 3BM7yIKKQNUhkmZyqttAlY,Single Girl,Roscoe Holcomb,An Untamed Sense of Control,0.54,0.531,1.0,-9.388,1.0,0.0336,0.869,0.954,0.688,0.566,136.392
 3BjQhYgz8hbNwPp5BqOw6W,"Tom Joad, Pt. 1",Woody Guthrie,Dust Bowl Ballads,0.654,0.271,7.0,-11.043,1.0,0.0405,0.77,0.000229,0.112,0.616,124.095
 3CBVxWIJosUAawosdAQCoR,Tumbling Tumbleweeds,Sons of the Pioneers,Anthology (1945-1952),0.35,0.49,2.0,-7.413,1.0,0.0308,0.863,1.68e-06,0.253,0.26,78.442
 3DdbrCxfTYdIpIIaEtlHu9,Vigilante Man,Woody Guthrie,Dust Bowl Ballads,0.603,0.162,2.0,-15.448,1.0,0.0362,0.809,2.44e-06,0.124,0.634,101.575
+3EGk3hQGXs7RAMkMleittc,Alberta,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.482,0.15,7.0,-14.964,1.0,0.0689,0.866,0.0,0.157,0.364,190.468
 3FTM2STp071auovPWet7jE,Crippled Inside - Take 3,John Lennon,Imagine (The Ultimate Collection),0.586,0.755,0.0,-8.447,1.0,0.0367,0.566,0.305,0.177,0.93,164.034
 3FvDkGpOf2weAQL9ynmZTb,I'll Never Let You Go (Little Darlin'),Elvis Presley,Elvis Presley,0.384,0.155,2.0,-14.173,1.0,0.0395,0.971,0.0024,0.0921,0.288,128.666
 3FwcHpzCQKMove1xrpsgFe,Brandy Leave Me Alone,The Rooftop Singers,The Best Of,0.533,0.159,8.0,-16.628,1.0,0.0305,0.966,3.21e-05,0.0999,0.846,158.506
@@ -167,10 +182,12 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3bU8rIEuatTa7XjHl4Sw8f,Close My Eyes,Arthur Russell,Love Is Overtaking Me,0.655,0.245,7.0,-13.817,1.0,0.0392,0.747,0.0248,0.124,0.39,123.77
 3dY8NPI9s3MpEqOfGfHqlf,Trouble in Mind,Big Bill Broonzy,Trouble in Mind,0.64,0.022,7.0,-18.356,1.0,0.0761,0.852,0.0,0.0837,0.429,81.493
 3dw0yB8p4isToFWSF95aOW,Engine 143,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.612,0.153,8.0,-12.435,1.0,0.0362,0.94,0.0,0.128,0.314,78.7
+3f1irZafGTTwspdD4uEHac,Backwater Blues,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.535,0.0971,0.0,-17.07,1.0,0.0567,0.753,0.0,0.0639,0.408,86.396
 3hfPI0akrkb0t0zaRf5nJC,Unchained Melody,Willie Nelson,Stardust,0.42,0.191,7.0,-15.063,1.0,0.0315,0.894,0.128,0.143,0.135,76.246
 3l7W8J8p5fZfE9DxdgliwC,Washington Blues,Elizabeth Cotten,Shake Sugaree,0.52,0.161,10.0,-18.448,1.0,0.0587,0.955,0.891,0.101,0.637,155.509
 3nDVlyydehkmIsnIEzW4Qu,Nobody Loves Me,Bill Monroe & His Blue Grass Boys,The Essential Bill Monroe (1945-1949),0.545,0.24,9.0,-16.601,1.0,0.046,0.911,0.00114,0.406,0.909,182.724
 3qjiLjxJ4AZvLOtiE8znrD,Gospel Plow,Bob Dylan,Bob Dylan,0.563,0.796,2.0,-6.217,1.0,0.0451,0.802,0.00234,0.239,0.968,137.967
+3qn1XvK2qV4fVzqUHo3anX,Go Down Sunshine,Odetta,Odetta And The Blues,0.764,0.366,8.0,-12.526,1.0,0.0455,0.909,0.000858,0.144,0.745,113.462
 3rPQM8EvTKY72y4omVW6Te,Good Time!,The Rooftop Singers,The Best Of,0.485,0.224,11.0,-13.797,1.0,0.0722,0.615,0.000911,0.193,0.571,199.636
 3rdSpW6Une7VrDwbY4DjKa,Treasures Untold,Doc & Merle Watson,Elementary Doctor Watson,0.576,0.111,4.0,-15.743,1.0,0.0348,0.963,0.105,0.101,0.435,110.085
 3uEsHqHJw7NQdeqK3fntlp,Shoes,The Rooftop Singers,The Best Of,0.654,0.4,1.0,-12.569,1.0,0.0654,0.857,0.00047,0.122,0.864,119.595
@@ -184,6 +201,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 41VuLsATbeZgviATDmE01O,My Rough And Rowdy Ways,Doc Watson,The Essential Doc Watson,0.606,0.279,0.0,-13.75,1.0,0.0287,0.629,0.0,0.361,0.848,75.082
 42c1llyZbuO4fS9c7P4bjy,Log Cabin Blues (Take 2),Blind Boy Fuller,Blind Boy Fuller Vol. 1 1935 - 1936,0.776,0.286,1.0,-11.772,1.0,0.0837,0.954,0.4,0.125,0.825,109.078
 43OVfd7ETJgDU1fNm0jPS2,Hello Walls,Willie Nelson,Country Willie - His Own Songs,0.671,0.243,0.0,-11.58,1.0,0.0494,0.764,0.00352,0.114,0.596,113.108
+45QEBxnCe3NANZhc2JzkB2,Fat Mama,Michael Hurley,First Songs,0.709,0.133,11.0,-22.293,0.0,0.0411,0.864,0.000736,0.12,0.26,118.194
 46qWzjcqItJRcBtcC9BFlK,In Care Of The Blues,Patsy Cline,Patsy Cline,0.728,0.337,4.0,-12.243,1.0,0.0316,0.885,0.0,0.345,0.74,94.781
 47gmoUrZV3w20JAnQOZMcO,Blue Suede Shoes,Elvis Presley,Elvis Presley,0.557,0.66,2.0,-7.706,1.0,0.056,0.654,1.66e-06,0.138,0.962,95.252
 48V57p4nHrBvbIKw3VB6I7,De Kalb Blues,Lead Belly,Tradition Masters Series,0.56,0.133,4.0,-15.47,1.0,0.061,0.995,0.0284,0.102,0.902,150.67
@@ -193,6 +211,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 49YKD5xDuR6HcYtPI2uLDz,Alabama Song,Dave Van Ronk,Hear Me Howl (Live 1964),0.535,0.105,7.0,-18.093,1.0,0.0735,0.939,0.16,0.925,0.141,109.783
 4AdQcoGS5OQTNf1wzBXz5C,I'm Just Here To Get My Baby Out Of Jail,The Rooftop Singers,The Best Of,0.419,0.222,11.0,-16.6,1.0,0.0365,0.856,0.00031,0.115,0.683,188.34
 4B8bkKX9g0FA9wQaIa7tHt,In the Pines,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.422,0.153,0.0,-10.846,1.0,0.0558,0.976,2.72e-06,0.132,0.149,210.192
+4CrnenNUONgVylPaRjHgjf,Enola Gay,Utah Phillips,Starlight on the Rails: A Songbook,0.472,0.37,4.0,-12.041,1.0,0.0407,0.813,9.21e-05,0.699,0.477,109.586
 4E0euZb5FEG34FMrY733vd,Ain't got no honey baby now,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.45,0.165,5.0,-28.041,1.0,0.059,0.993,0.949,0.11,0.388,125.71
 4FzQHN2p2PygCV7ohjME3M,Honey baby your papa cares for you,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.299,0.1,5.0,-28.468,1.0,0.0335,0.963,0.875,0.109,0.361,98.949
 4IBqtixfYBrw4woH1ssYxA,Farewell - Witmark Demo - 1963,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.46,0.275,11.0,-13.538,1.0,0.0458,0.874,0.0,0.114,0.478,168.363
@@ -207,9 +226,11 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4T2dSc0tkA9EE1UAiwW9Nl,The Gallis Pole,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,0.569,0.464,6.0,-10.946,0.0,0.0566,0.892,0.000169,0.201,0.93,72.845
 4UcfgXuYj0MKly5v2Om91k,Interstate Rag,Doc & Merle Watson,Elementary Doctor Watson,0.421,0.689,7.0,-14.02,1.0,0.0386,0.196,0.929,0.185,0.968,134.177
 4VWlYHwHZkBQbyV7wWeaDe,Crow Jane,Skip James,Skip James Live Vol. 2 Bloomington 1968 Part 1,0.444,0.331,11.0,-15.307,0.0,0.225,0.931,0.00253,0.0695,0.876,81.155
+4WSrev8fcCtAUqjYPcERDT,Bill Bailey,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.741,0.276,0.0,-15.144,1.0,0.0381,0.686,8.35e-06,0.0827,0.544,106.685
 4WbsJsjsWhGhUL9eXu7qiR,Diamond Joe,Cisco Houston,Cowboy Ballads,0.503,0.0993,0.0,-17.982,1.0,0.0375,0.979,3.57e-05,0.0942,0.29,132.897
 4Wdx4LAfx8pHQPZjdNGkCw,I'm On My Way,The Rooftop Singers,The Best Of,0.754,0.335,11.0,-13.861,1.0,0.0407,0.497,0.0,0.155,0.794,107.332
 4WhT2YADjcU58IUgroWZQZ,Walk Right In,The Rooftop Singers,Vanguard Visionaries,0.681,0.66,3.0,-10.426,1.0,0.0319,0.791,0.0364,0.0669,0.965,130.019
+4WmXgMfBKoAkWKLn54fKkM,Sweet Cocaine,Fred Neil,Fred Neil,0.587,0.501,0.0,-12.04,1.0,0.0338,0.264,0.00418,0.178,0.66,107.652
 4XbxeoBeQnwpsyJyZEMoWc,Take This Job and Shove It,Johnny Paycheck,Super Hits,0.764,0.455,10.0,-10.336,1.0,0.0508,0.562,1.61e-05,0.0756,0.707,137.148
 4Y9xhnUM19D08JvENrNaUk,Santy Anno,Odetta,Sings Ballads & Blues,0.533,0.335,10.0,-6.605,0.0,0.0296,0.806,0.00226,0.104,0.878,127.243
 4Yx8hxHH4qMdI9HDC7iSN1,Bowling Green,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.482,0.598,11.0,-7.235,1.0,0.0275,0.846,0.0112,0.0948,0.194,137.606
@@ -222,6 +243,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4d2pZQgdqUiMLlvw4Ad4gc,Barbara Allen Blues,Roscoe Holcomb,An Untamed Sense of Control,0.437,0.183,7.0,-12.755,1.0,0.0388,0.86,0.000424,0.112,0.524,80.19
 4d4ynVxxtusjNTGdk5rOOs,Cocaine,Hoyt Axton,Thunder 'N Lightnin' (Digitally Remastered),0.58,0.221,2.0,-14.623,1.0,0.062,0.888,5.03e-05,0.275,0.535,126.386
 4dkrqvsEqNSpciVBHobLBR,Sweet Love On My Mind,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.636,0.564,9.0,-7.469,1.0,0.0388,0.843,1.94e-05,0.267,0.887,173.95
+4dshxjG4EXQluaHMHDGHG6,Frankie and Johnny,Big Bill Broonzy,Trouble in Mind,0.729,0.126,7.0,-16.935,1.0,0.0748,0.789,0.0,0.175,0.428,144.475
 4e3DoE0H8nogusqa2OsrPw,Colorado Girl,Townes Van Zandt,Townes Van Zandt,0.412,0.0769,9.0,-20.142,1.0,0.032,0.91,0.00144,0.113,0.518,171.168
 4e4apcEudTcQKLGpLk7l7l,Blue Railroad Train - Vanguard Version,Doc Watson,The Essential Doc Watson,0.504,0.29,9.0,-16.506,1.0,0.0284,0.884,0.00877,0.109,0.778,90.62
 4fKBHLGJb2gnq5XXdqiIIp,"Tom Joad, Pt. 2",Woody Guthrie,Dust Bowl Ballads,0.796,0.24,7.0,-11.462,1.0,0.0469,0.771,1.03e-05,0.122,0.694,125.281
@@ -232,6 +254,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4hCyQ13f556kUiqHL8y8Rl,Going Down This Road Feeling Bad,Doc Watson,The Essential Doc Watson,0.572,0.782,7.0,-12.374,1.0,0.0984,0.737,0.601,0.872,0.906,126.563
 4jh6QSj0uHqxTEU1o0DmB6,Fishin' Blues,Taj Mahal,Giant Steps/De Old Folks At Home,0.654,0.175,2.0,-17.286,1.0,0.0517,0.988,0.0202,0.0964,0.521,77.484
 4k4CyMa0PNTXh5ma6wQVwy,Single Girl,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.629,0.218,10.0,-11.898,1.0,0.0296,0.941,0.0065,0.129,0.352,99.25
+4nQiTNZe4si7F8VZuRxkf0,Martha,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.591,0.0466,4.0,-16.594,1.0,0.082,0.892,3.63e-06,0.0868,0.236,204.519
 4plJp1RXZPNIDFiwloAXh6,Cool Water,The Rooftop Singers,The Best Of,0.719,0.0338,6.0,-20.488,1.0,0.0433,0.94,0.0348,0.103,0.532,128.998
 4rsBr66s3ighYBSx05yh7Q,Ballad of William Worthy,Phil Ochs,All The News That's Fit To Sing,0.685,0.22,2.0,-14.722,1.0,0.0639,0.561,0.0,0.167,0.873,124.144
 4tj7IsJrn4MvesuhoY0JBy,I'm So Lonesome I Could Cry,Hank Williams,The Legend Lives Anew (Hank Williams With Strings),0.526,0.257,4.0,-14.827,1.0,0.0286,0.828,0.00153,0.318,0.352,111.919
@@ -241,24 +264,31 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4zQLZPcTl8hJC5pJtooT3h,Trying to Get to You,Elvis Presley,Elvis Presley,0.551,0.663,5.0,-8.681,1.0,0.0499,0.453,6.31e-06,0.341,0.884,103.817
 4zxo3S26298CCOgBPGrC9Y,Blueridge Mountain Blues,Doc Watson,The Essential Doc Watson,0.603,0.504,7.0,-13.803,1.0,0.0438,0.694,0.182,0.912,0.671,108.43
 505Pd7CPHoewIE3Io2EpWd,Catch the Wind,Donovan,What's Bin Did and What's Bin Hid,0.385,0.306,3.0,-12.167,1.0,0.0297,0.452,7.43e-06,0.128,0.546,173.377
+50ZHlDg707OUDn61nba1gy,"Baby, I'm In The Mood For You",Odetta,Odetta Sings Dylan,0.457,0.485,9.0,-11.182,1.0,0.0416,0.819,9.5e-05,0.206,0.825,166.668
 51Wodn2E9WDqdmDKX9PU3d,Automation Song,Phil Ochs,All The News That's Fit To Sing,0.578,0.325,2.0,-13.389,1.0,0.105,0.825,0.0,0.238,0.491,117.595
+52vA3CYKZqZVdQnzRrdZt6,The Times They Are A-Changin',Bob Dylan,The Times They Are A-Changin',0.389,0.396,7.0,-7.999,1.0,0.0332,0.887,0.0,0.0828,0.585,171.86
 53RodDKVbD0zMkgStDZMri,"No, No, No, I Won't Come (Go) Down No More",Michael Hurley,First Songs,0.454,0.194,6.0,-18.893,1.0,0.0434,0.914,0.00031,0.316,0.503,80.571
 53VEyxDRUI90WPorBfT08U,Love Of The Mountains,Larry Sparks,John Deere Tractor,0.703,0.613,10.0,-7.457,1.0,0.0585,0.658,0.000183,0.276,0.708,107.416
 54a8wvCRamd5ZXZpFR9lRm,Swanno Mountain,Roscoe Holcomb,An Untamed Sense of Control,0.452,0.442,9.0,-10.478,1.0,0.0356,0.825,0.396,0.195,0.352,132.152
 56IA2zZQwSUW6t7heX8gtn,On the Sunny Side of the Street,Willie Nelson,Stardust,0.685,0.371,7.0,-11.688,1.0,0.115,0.243,0.0161,0.109,0.429,120.931
 57M2Tzakrrj4pecyVet6kM,Clocks and Spoons,John Prine,Diamonds in the Rough,0.555,0.145,9.0,-21.982,1.0,0.034,0.461,0.000113,0.093,0.668,139.77
+58vUkkt44ybuStzmoVHBl5,You Got To Find Me,Michael Hurley,Long Journey,0.713,0.333,0.0,-13.96,1.0,0.0449,0.943,0.0016,0.117,0.802,140.649
 5AhlxqhVcbEcz2n3qyImW4,You've Been A Good Old Wagon,Dave Van Ronk,Hear Me Howl (Live 1964),0.526,0.156,11.0,-20.162,0.0,0.0765,0.94,0.0557,0.664,0.381,141.858
 5AvKhhpwm0bsuuwOz9NI0Q,I Love You Because,Elvis Presley,Elvis Presley,0.384,0.082,0.0,-14.678,1.0,0.0356,0.891,0.0,0.0845,0.246,80.079
 5BXLeX48jByZSJ3ZP3JFlE,Graveyard Blues,Roscoe Holcomb,An Untamed Sense of Control,0.52,0.248,7.0,-10.822,1.0,0.0368,0.861,5.15e-05,0.344,0.365,119.399
 5CEy4GlL5t2S6gVTNaaLcn,What Did the Deep Sea Say_,Woody Guthrie,Woody Guthrie Sings Folk Songs,0.672,0.227,2.0,-13.192,1.0,0.0541,0.975,0.0,0.101,0.764,120.47
 5CU4ZplboDmxlJAj46CSQh,Ontario Blues,Elizabeth Cotten,Shake Sugaree,0.533,0.189,10.0,-18.344,1.0,0.0506,0.941,0.918,0.106,0.859,90.33
 5CokDcucdGVUWsifFcwInh,Stealin' - Long Version,"Dave Van Ronk, The Ragtime Jug Stompers",Dave Van Ronk And The Ragtime Jug Stompers,0.529,0.288,5.0,-13.426,1.0,0.0345,0.59,1.89e-05,0.126,0.512,131.135
+5Cy9OAfW8wT6buAIna59IW,Intersoular Blues,Michael Hurley,First Songs,0.473,0.0561,2.0,-18.925,1.0,0.0362,0.964,0.02,0.136,0.159,89.113
 5DOeFOQ5y3YJtoR5JGlA1A,Mr. Record Man,Willie Nelson,Country Willie - His Own Songs,0.557,0.379,0.0,-11.211,1.0,0.0654,0.533,0.000687,0.177,0.575,146.536
 5FSYrVYfxgPUMTIxGgL6Dy,My Creole Belle,Mississippi John Hurt,Candy Man Blues: Essential Recordings,0.614,0.15,1.0,-15.175,1.0,0.0366,0.586,0.00806,0.0932,0.891,178.177
+5GIAi04ISTg1IkO7CisQ37,The Animal Song - If I Could Ramble Like a Hound,Michael Hurley,First Songs,0.402,0.11,0.0,-20.053,1.0,0.0323,0.888,0.00351,0.325,0.119,140.678
 5GMoLIAxcmqswtP9tu5JXr,Cocaine Blues,Dave Van Ronk,Hear Me Howl (Live 1964),0.488,0.108,0.0,-18.973,1.0,0.0776,0.922,0.236,0.68,0.458,144.63
 5GOFil3Umfp4yB75U2Ah4e,Georgia On My Mind,Willie Nelson,Stardust,0.533,0.215,1.0,-12.854,1.0,0.0396,0.8,0.0336,0.14,0.106,67.985
 5KhCSQV4DkzQUAqfM4mgjI,Po' Howard _ Green Corn,Lead Belly,Tradition Masters Series,0.58,0.303,10.0,-13.865,1.0,0.117,0.994,0.497,0.109,0.603,128.005
 5O8Dz4DV3RDRFddfijqTOy,The Blues Come Around,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.582,0.483,0.0,-10.628,1.0,0.036,0.789,7.77e-06,0.15,0.922,177.402
+5OJRghFCykJfi8c6uJnyeQ,Bread and Roses,Utah Phillips,We Have Fed You All a Thousand Years,0.635,0.308,2.0,-18.367,1.0,0.905,0.911,0.0,0.93,0.824,101.669
+5Pvaycf1bu6dZfbXW9KPuj,Masters Of War,Odetta,Odetta Sings Dylan,0.533,0.174,9.0,-16.235,1.0,0.0342,0.936,0.00173,0.134,0.502,108.956
 5RKPe1oN9lGayUCKn00fYi,Wabash Cannonball,Roy Acuff,The Essential Roy Acuff,0.717,0.37,9.0,-10.119,1.0,0.0365,0.763,0.0,0.424,0.881,99.425
 5SfeBRo4MLWyz2w701SJPW,I'm A Long Gone Daddy,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.55,0.372,4.0,-11.431,1.0,0.034,0.808,0.0,0.225,0.907,143.092
 5T7qfszQEjUfzS4GTvnveE,Only a Hobo - Witmark Demo - 1963,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.385,0.146,2.0,-18.263,1.0,0.0436,0.978,0.123,0.18,0.627,185.271
@@ -276,6 +306,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5hcH0MRKKPxRdNDiiQBSKO,Better World A-Comin',Cisco Houston,"The Folkways Years, 1944-1961",0.718,0.232,11.0,-16.085,1.0,0.0527,0.979,1.98e-05,0.122,0.751,125.562
 5hwgwSJrc1NDmBZwmBYX4i,I Can't Help It (If I'm Still In Love With You) - Single Version,Hank Williams,40 Greatest Hits,0.682,0.15,4.0,-14.243,1.0,0.0387,0.856,0.0,0.293,0.561,116.12
 5iRFUWF9Deuw84mmLjbXxC,Drifting Too Far From The Shore,Bill Monroe & His Blue Grass Boys,Anthology,0.638,0.168,7.0,-11.673,1.0,0.034,0.876,0.0,0.223,0.53,112.888
+5kLBSIKJlPYEAzB9MSVgSj,You Get Down by the Pool Hall Clickety Clack - Sister Song,Michael Hurley,First Songs,0.576,0.229,4.0,-17.556,1.0,0.0336,0.849,0.0,0.0655,0.597,78.242
 5l4AZGLQCZJKEXcKzmJthD,Just Because,Elvis Presley,Elvis Presley,0.723,0.582,0.0,-10.593,1.0,0.0474,0.466,4.24e-06,0.202,0.94,128.274
 5lgeghiddaI4YprRs6FRJC,Your Baby Blue Eyes,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.733,0.585,9.0,-8.469,1.0,0.0592,0.79,2.5e-06,0.251,0.937,89.093
 5nVU5ZRoYF2nvRWaowcsX7,Spanish Flang Dang,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.287,0.112,7.0,-21.657,1.0,0.0353,0.973,0.941,0.111,0.395,200.82
@@ -284,6 +315,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5yeB8FGoeS4EkDcnsRN8vP,When I get home,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.496,0.124,5.0,-16.657,1.0,0.0368,0.975,0.011,0.119,0.318,175.921
 6086jm2bMW4cOsf4cUChCQ,Combs Hotel Burned Down,Roscoe Holcomb,An Untamed Sense of Control,0.573,0.523,7.0,-10.582,1.0,0.0297,0.867,0.185,0.32,0.52,112.46
 60gZP5S2lbZL12EJpsaFcI,Lonesome Blues (Live) - Remastered,Mississippi John Hurt,Remastered from the Archives,0.429,0.116,11.0,-24.571,0.0,0.0317,0.924,0.595,0.666,0.683,96.676
+60kBrpRtAPOfH8YguALXsH,Raven Rock - They Took Away the Diesel,Michael Hurley,First Songs,0.398,0.237,5.0,-21.48,1.0,0.0329,0.846,0.0482,0.122,0.727,162.676
 63ZplaqHPi5G4pU98oL3ht,The Wreck of the Old 97,"Woody Guthrie, Cisco Houston, Sonny Terry","Woody Guthrie Sings Folk Songs, Vol. 2",0.627,0.119,1.0,-15.171,1.0,0.0555,0.964,0.0,0.112,0.797,137.2
 64junxnpN5H9F8P8zndoZv,Guitar Shuffle,Big Bill Broonzy,Greatest Blues Licks,0.57,0.363,7.0,-10.826,1.0,0.0423,0.815,0.723,0.0868,0.833,171.104
 66yeaaGe4LYjACBa7vZeOh,Oklahoma Hills,James Talley,Woody Guthrie & Songs of My Oklahoma Home,0.682,0.308,0.0,-14.334,1.0,0.0534,0.744,1.1e-05,0.163,0.494,96.199
@@ -292,11 +324,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6B9jtF3jk8SQ4uTn1zptGr,Worried Blues,Doc & Merle Watson,Elementary Doctor Watson,0.663,0.525,2.0,-12.104,1.0,0.0307,0.764,0.679,0.306,0.961,99.329
 6CDoUaIriHB4WD278CHZfj,Black Eye Susie,Roscoe Holcomb,An Untamed Sense of Control,0.51,0.509,6.0,-11.049,1.0,0.0587,0.859,0.32,0.712,0.967,157.367
 6CePeHbXmgwna8B5dC6xKV,Sunflower River Blues - Re-Recorded Version,John Fahey,"Death Chants, Breakdowns And Military Waltzes",0.317,0.197,5.0,-20.666,1.0,0.0427,0.665,0.747,0.103,0.119,91.994
+6EiqGomIaCA9T5DZarU7vu,Captain Kidd,Michael Hurley,First Songs,0.419,0.31,4.0,-17.669,1.0,0.0433,0.852,0.000944,0.126,0.763,183.868
 6IAoFEE0yrZiRiOyMFA3R4,Trouble in Mind,Cisco Houston,Cowboy Ballads,0.41,0.0423,5.0,-18.768,1.0,0.0373,0.994,0.0558,0.121,0.113,82.986
 6JGVGuVE6DSLpNhWmm5TbS,You Don't Know,The Rooftop Singers,Vanguard Visionaries,0.657,0.18,1.0,-15.795,1.0,0.0459,0.883,0.00229,0.25,0.467,112.933
+6JwYrWeLRU7Lt6jPhj9aBD,"Joe Turner, No. 2 (Blues of 1890)",Big Bill Broonzy,Trouble in Mind,0.519,0.194,6.0,-16.671,0.0,0.0387,0.801,0.00448,0.296,0.349,125.215
 6K2h64Ul4sv6HAJGNxoorf,Someone to Watch Over Me,Willie Nelson,Stardust,0.609,0.24,9.0,-10.179,1.0,0.0259,0.783,0.000191,0.108,0.118,73.815
 6QzOMmgiRFhUUFj8Edy0Tv,Rock Island Prison,Roscoe Holcomb,An Untamed Sense of Control,0.546,0.202,8.0,-11.985,1.0,0.0615,0.918,0.378,0.0621,0.883,92.788
 6SzgsHHPmXN25wL4EoWwjp,Freight Train Boogie,Doc & Merle Watson,Elementary Doctor Watson,0.68,0.491,4.0,-12.423,1.0,0.0309,0.693,0.698,0.127,0.905,112.526
+6TxNIlOAqC0QsYwscKlA8K,In the Sweet Bye and Bye,Elizabeth Cotten,"Close to Home: Old Time Music from Mike Seeger's Collection, 1952-1967",0.425,0.263,11.0,-17.089,1.0,0.035,0.946,0.871,0.121,0.82,91.632
 6VI6vSQF4qe8qOuz6hfRYV,Get Back,Big Bill Broonzy,Vol. 2: The Post-War Years,0.837,0.141,7.0,-10.944,1.0,0.0411,0.722,4.46e-06,0.146,0.528,123.394
 6VqCe4PcokSekHPJQaDx0B,Blue Moon - Take 9_M,Elvis Presley,Elvis Presley,0.419,0.1,9.0,-22.829,0.0,0.0415,0.952,0.449,0.112,0.256,129.803
 6X89XYFoQElH0YORJPrp1B,The Hills of Mexico,Roscoe Holcomb,An Untamed Sense of Control,0.504,0.574,0.0,-8.804,1.0,0.0338,0.626,0.113,0.0654,0.654,125.166

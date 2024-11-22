@@ -61,6 +61,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0Ca2mDERpTFmnttcSt9UcR,The Lovely Linda - Remastered 2011,Paul McCartney,McCartney (Archive Collection),0.561,0.272,5.0,-15.31,1.0,0.0325,0.323,0.0113,0.24,0.928,119.241
 0CnmMTr6dpvnPUANh3rUOw,For You Blue - 2021 Mix,The Beatles,Let It Be (Super Deluxe),0.854,0.605,2.0,-10.995,1.0,0.084,0.349,0.0789,0.274,0.929,128.317
 0CtuChNoy9SwaiOddQ4EPc,A Poem on the Underground Wall,Simon & Garfunkel,"Parsley, Sage, Rosemary And Thyme",0.344,0.475,2.0,-12.994,1.0,0.0595,0.584,0.0,0.0881,0.563,110.034
+0CviGKNGaAEGinbBO1rJWj,Portland Water,Michael Hurley,Long Journey,0.53,0.292,7.0,-13.806,1.0,0.0302,0.882,0.0459,0.1,0.668,73.266
 0D7qLnnev1iKpH5RNT7YsD,I Shall Be Free,Bob Dylan,The Freewheelin' Bob Dylan,0.64,0.314,2.0,-12.88,1.0,0.038,0.86,5.72e-06,0.0779,0.798,100.552
 0DPKVOCpCrwITGFqH8QLOw,Lazy Bones,WITCH,Witch: We Intend to Cause Havoc!,0.481,0.683,11.0,-8.807,1.0,0.0532,0.363,0.00508,0.0968,0.767,103.925
 0DSzSnUcIFJ7DRYzMxcCh9,Dust Bowl Blues,Woody Guthrie,Dust Bowl Ballads,0.673,0.181,9.0,-13.041,1.0,0.0357,0.792,1.29e-05,0.085,0.412,95.593
@@ -126,6 +127,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0Oco1vjGSP0toBou3QjaTa,Stoked (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.645,0.79,5.0,-7.199,1.0,0.0475,0.0218,0.877,0.0845,0.762,138.11
 0OgX5NA7KFx8FCr5W0HYl9,Medicina De Amor,Raulin Rodriguez,Medicina De Amor,0.662,0.461,1.0,-7.36,1.0,0.0495,0.315,1.12e-06,0.0445,0.912,142.553
 0Oj0TT23GBH2XuHAaSsloH,My Love - 2018 Remaster,Wings,Red Rose Speedway,0.41,0.361,5.0,-14.061,1.0,0.0351,0.431,0.000174,0.0779,0.134,120.0
+0OtLf8alEqdADrhfgDPeW2,Long Journey,Michael Hurley,Long Journey,0.677,0.283,4.0,-12.99,1.0,0.0367,0.644,7.37e-06,0.11,0.628,81.406
 0Otg6s8ps1OkdRkD5KmepW,Moonlight In Vermont,Willie Nelson,Stardust,0.518,0.187,2.0,-14.693,0.0,0.035,0.808,0.0535,0.106,0.115,63.478
 0Ou67N8Wbez8BqkSWFAOxC,Spicks And Specks,Bee Gees,Timeless - The All-Time Greatest Hits,0.656,0.672,2.0,-6.342,1.0,0.0325,0.738,4.24e-05,0.252,0.719,122.721
 0P2vAvvWni2tNXOdbH3JFk,Hazy Shade of Winter,The Bangles,The Essential Bangles,0.481,0.866,5.0,-7.143,0.0,0.0446,0.00892,0.0,0.097,0.426,150.427
@@ -660,6 +662,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1sSxaMBp2fNwMER4EE2Eci,I'll Be Your Mirror,"The Velvet Underground, Nico",The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition),0.604,0.284,7.0,-14.952,1.0,0.0335,0.186,1.37e-06,0.0875,0.291,109.257
 1ssMNCvc9ChqxILdhMw602,Charlie Freak,Steely Dan,Pretzel Logic,0.639,0.537,4.0,-13.342,0.0,0.0286,0.661,0.0,0.3,0.799,131.566
 1swmf4hFMJYRNA8Rq9PVaW,Martha My Dear - Remastered 2009,The Beatles,The Beatles (Remastered),0.472,0.292,10.0,-11.591,1.0,0.0321,0.872,0.0007,0.128,0.824,177.624
+1tAJyBJErRg2cGyPGb1kIS,Reconciled To The Blues,Michael Hurley,Long Journey,0.624,0.179,7.0,-17.006,1.0,0.0696,0.851,2.22e-05,0.082,0.24,79.9
 1tBMs9Rmw3UMvPJrsXsUyL,Queen of the Highway,The Doors,Morrison Hotel,0.661,0.595,5.0,-9.582,0.0,0.037,0.605,0.000667,0.0888,0.697,125.095
 1tHOB5irLyLE7Gtxb2x29Q,"Lay Down Your Weary Tune - Live at Carnegie Hall, New York, NY - October 1963",Bob Dylan,Bob Dylan Live At Carnegie Hall 1963,0.452,0.131,10.0,-12.771,1.0,0.0428,0.898,0.0,0.712,0.394,171.321
 1tM9TBNPjieSOZ2d5VAQ1y,Lady Madonna - Remastered 2009,The Beatles,Past Masters (Vols. 1 & 2 / Remastered),0.631,0.748,2.0,-7.604,1.0,0.03,0.385,0.308,0.205,0.78,109.11
@@ -779,6 +782,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2CEujT1Tuv3jIIjUyUvupg,Two Of Us - 2021 Mix,The Beatles,Let It Be (Super Deluxe),0.692,0.756,7.0,-9.677,1.0,0.0402,0.0356,8.8e-05,0.219,0.826,109.111
 2COuoNe4bhNgbDbxmiqAP3,You Baby,The Lovin' Spoonful,Do you Believe In Magic,0.455,0.565,5.0,-7.71,1.0,0.0318,0.303,0.0,0.196,0.559,61.639
 2CdS3DRqWR5LAhy4hM5X9W,Laid,James,Laid,0.457,0.909,0.0,-9.451,1.0,0.0317,0.0016,0.000276,0.135,0.755,115.998
+2CdlMQLbKkPxcnKyK1arKK,So You Say,Michael Hurley,Long Journey,0.847,0.238,10.0,-13.994,1.0,0.0329,0.787,0.00118,0.0919,0.675,97.801
 2DAvMFLSMyXc7qKfix3MGN,Tenderness,Paul Simon,There Goes Rhymin' Simon,0.555,0.217,0.0,-16.415,1.0,0.0307,0.88,0.000609,0.0712,0.231,118.861
 2DcPccXuyphsJ7fC955j5x,Love of the Common Man,Todd Rundgren,The Very Best of Todd Rundgren,0.516,0.578,4.0,-7.321,1.0,0.0294,0.131,0.0,0.0783,0.633,125.754
 2DdWaZntvVfsOBpO5QEXkW,House In the Country,The Kinks,Face to Face (Deluxe),0.55,0.706,4.0,-6.241,1.0,0.0489,0.241,0.0,0.0574,0.921,145.866
@@ -916,6 +920,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2YfRKF4sWeV1t1NqBoUgxH,Anchin Kfu Ayinkash,"Hailu Mergia, Dahlak Band",Wede Harer Guzo,0.471,0.551,5.0,-10.484,0.0,0.0291,0.04,0.147,0.345,0.692,104.791
 2YnXDeymsCYBUruBG52nBa,Gommorah (A Nursery Rhyme),Rodríguez,Cold Fact,0.74,0.514,2.0,-5.132,1.0,0.0361,0.647,0.0,0.216,0.693,80.409
 2YtVzmZzew1ILUdNueyWd7,Wait Until Tomorrow,Jimi Hendrix,Axis: Bold As Love,0.643,0.697,8.0,-7.192,1.0,0.0568,0.203,0.00525,0.15,0.824,116.395
+2Z8FsPTnN8s9Dtguvqspca,Susan,The Buckinghams,Portraits,0.283,0.577,0.0,-12.864,1.0,0.0908,0.162,0.0,0.584,0.397,132.65
 2ZLimLr2ZJlwKdyuYmavEh,Jamrag - Live,"John Lennon, Yoko Ono",Sometime In New York City,0.155,0.717,9.0,-12.571,0.0,0.105,0.199,0.439,0.71,0.238,79.124
 2ZMEdXxVSRfMshCDBMjt0o,All Right Now,Free,20th Century Masters: The Millennium Collection: Best Of Free,0.786,0.47,2.0,-11.336,1.0,0.105,0.00767,0.0,0.0834,0.801,119.926
 2ZWKuGuQ087pzwK4vO4E31,Lady Stardust - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),0.593,0.368,9.0,-12.257,1.0,0.0337,0.615,0.0,0.0905,0.484,128.8
@@ -1039,6 +1044,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2uaSMUAgYqmbsdbO9F9bPN,Back In The U.S.S.R. - Esher Demo,The Beatles,The Beatles,0.658,0.53,7.0,-8.48,1.0,0.0845,0.756,0.0,0.185,0.557,127.719
 2ue1KRstSKHF8jQkIJZiNC,It's Only Love - Remastered 2009,The Beatles,Help! (Remastered),0.629,0.551,0.0,-8.281,1.0,0.0256,0.22,0.0,0.0432,0.685,113.169
 2uk0bokHkoA7qUuCY20QK0,Pat's Song,Country Joe & The Fish,I-Feel-Like-I'm-Fixin'-To-Die,0.364,0.421,11.0,-11.674,0.0,0.028,0.0311,0.145,0.111,0.284,90.897
+2um5XxqMtLl3Q47afiJT2P,That's The Bag I'm In,Fred Neil,The Many Sides Of Fred Neil,0.581,0.38,0.0,-12.458,1.0,0.0355,0.226,0.0858,0.166,0.479,98.653
 2vVHf461WNqqZsfr5mXIFr,Living For The Depression,Flipper,Album - Generic Flipper,0.184,0.985,9.0,-5.98,1.0,0.114,0.311,3.31e-05,0.926,0.344,196.365
 2vVpjZxlSiqR5wr2YeZPB2,Changing of the Guards,Bob Dylan,Street-Legal,0.607,0.717,5.0,-10.603,0.0,0.0371,0.17,4.55e-06,0.032,0.821,124.576
 2vX5WL7s6UdeQyweZEx7PP,Walk This Way,Aerosmith,Aerosmith's Greatest Hits,0.629,0.785,5.0,-10.761,1.0,0.0471,0.0249,9.45e-06,0.0522,0.869,108.531
@@ -1237,6 +1243,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3QmUhaY5KZiOuaUH8H71LG,Mind Games - Remastered 2010,John Lennon,Mind Games,0.409,0.833,4.0,-9.994,0.0,0.0397,0.292,0.158,0.161,0.428,132.233
 3Qppfh7JuJ1nAgv2olQw88,When A Man Needs A Woman - Remastered 2001,The Beach Boys,Friends (Remastered),0.726,0.337,6.0,-11.644,1.0,0.0409,0.467,0.000289,0.125,0.225,120.111
 3QxkFuTanJK5c5xWOAg9yu,Gallows Pole - Remaster,Led Zeppelin,Led Zeppelin III (Deluxe Edition),0.399,0.845,2.0,-8.736,1.0,0.0369,0.125,0.00109,0.334,0.359,105.911
+3QzPRTZ6hocM2nTZYkdIq7,There's A Kind Of Hush,Herman's Hermits,Herman's Hermits Retrospective,0.555,0.639,0.0,-7.867,1.0,0.0313,0.298,0.000645,0.638,0.871,129.173
 3R2zCRTwqfD5DCX4XlAsoQ,Beechwood Park - Mono Version,The Zombies,Odessey and Oracle,0.372,0.486,3.0,-9.526,1.0,0.0417,0.882,0.00166,0.17,0.385,145.0
 3RNyGLgSvmVRZ7xKUp8Wgd,In the Summertime,Mungo Jerry,In the Summertime,0.642,0.65,4.0,-8.567,1.0,0.0623,0.66,0.0,0.14,0.973,164.421
 3ROc01SoiPgmRs8MLm7T1a,Uncle Remus - George Duke Demo - Instrumental,"Frank Zappa, George Duke",Waka/Wazoo,0.458,0.589,0.0,-9.354,1.0,0.0407,0.272,0.567,0.0831,0.821,161.199
@@ -1351,6 +1358,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3jy5qC35tadeX65WWvAS1M,One Of These Days - Remastered 2011,Paul McCartney,McCartney II (Special Edition),0.352,0.165,1.0,-16.585,1.0,0.034,0.738,5.95e-06,0.113,0.389,168.668
 3k2KNKdvXceiVlT3P6WgVh,Lana (Stereo),The Beach Boys,Surfin' USA (Mono & Stereo),0.631,0.557,3.0,-8.932,1.0,0.0287,0.554,3.82e-06,0.0806,0.964,140.648
 3k2gBdOlQfiBdlopMR0F8v,A Child's Guide to Good and Evil,The West Coast Pop Art Experimental Band,A Child's Guide To Good And Evil,0.444,0.611,2.0,-12.317,1.0,0.0431,0.803,0.219,0.396,0.319,107.549
+3k63RLvRgkgPGx0keOH3P6,Different Drum,"Stone Poneys, Linda Ronstadt","Evergreen, Vol.2",0.46,0.389,0.0,-11.603,1.0,0.031,0.349,0.0,0.0533,0.606,123.213
 3kMTqc2WNl8ufebsOU2RCb,Bill Is Dead,The Fall,Extricate (Expanded Edition),0.392,0.619,7.0,-10.963,0.0,0.0364,3.66e-05,0.792,0.087,0.278,78.933
 3kYaZC6fTVhA1JNlSviOqU,Kites Are Fun,The Free Design,Kites Are Fun,0.539,0.503,9.0,-9.407,1.0,0.0319,0.517,0.000389,0.125,0.608,139.514
 3ka1DT0DtSAOKbwTUsigsr,Mama Says - Remastered 2001,The Beach Boys,Wild Honey (Remastered),0.633,0.0533,4.0,-10.652,1.0,0.26,0.877,0.0,0.0864,0.418,81.009
@@ -1422,6 +1430,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3y2532qHxjhpzz0HyY8Xks,In Hollywood (Everybody Is A Star),Village People,Village People,0.727,0.746,5.0,-10.176,0.0,0.0348,0.0495,0.0,0.072,0.836,128.99
 3y2cKOBflmh12VcP7jDXzI,One Mile From Heaven - Long Version,Bobb Trimble,Iron Curtain Innocence,0.521,0.465,2.0,-12.788,1.0,0.0374,0.0129,0.00076,0.119,0.372,98.486
 3yFRbFaSj8MeNuYaN21HIu,House of the Risin' Sun,Bob Dylan,Bob Dylan,0.528,0.317,9.0,-10.133,0.0,0.0285,0.865,0.00215,0.102,0.277,96.446
+3z6m2FukK7Vd5xYrjOLDLR,I'm Into Something Good,Herman's Hermits,Herman's Hermits Retrospective,0.592,0.458,0.0,-8.2,1.0,0.0296,0.716,0.0,0.237,0.723,133.551
 3zHJc7EmF4LXmlqxYSktXj,Chug-A-Lug - Mono/Remastered 2001,The Beach Boys,Surfin' Safari (Remastered),0.541,0.829,4.0,-5.479,1.0,0.0384,0.788,0.0,0.13,0.964,163.822
 3zJsnfuodQaY1LC7nqWif2,More Than a Woman - 2009 Remastered Version,Bee Gees,The Ultimate Bee Gees,0.635,0.679,7.0,-6.579,1.0,0.0356,0.153,0.00018,0.818,0.723,105.897
 3zYpRGnnoegSpt3SguSo3W,Off the Wall,Michael Jackson,Off the Wall,0.827,0.595,3.0,-13.909,0.0,0.0565,0.182,0.0,0.0785,0.921,118.741
@@ -1609,6 +1618,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4WTk7vle9ubGFvRUkaGUBd,Ramble On - Remaster,Led Zeppelin,Led Zeppelin II (Deluxe Edition),0.456,0.549,4.0,-13.111,1.0,0.0343,0.186,0.00227,0.0877,0.834,98.583
 4WhT2YADjcU58IUgroWZQZ,Walk Right In,The Rooftop Singers,Vanguard Visionaries,0.681,0.66,3.0,-10.426,1.0,0.0319,0.791,0.0364,0.0669,0.965,130.019
 4WiGGTl7Kt5vnjQHqwLJy1,Oogum Boogum Song,Brenton Wood,Oogum Boogum,0.836,0.696,7.0,-6.37,1.0,0.0401,0.8,0.0,0.0949,0.954,112.692
+4WmXgMfBKoAkWKLn54fKkM,Sweet Cocaine,Fred Neil,Fred Neil,0.587,0.501,0.0,-12.04,1.0,0.0338,0.264,0.00418,0.178,0.66,107.652
 4WyVRn3L2uXnSUkY762gqN,Sly,Herbie Hancock,Head Hunters,0.39,0.913,11.0,-7.174,0.0,0.0778,0.0262,0.784,0.0649,0.603,146.129
 4X2TT3hWH0I2VTW9XEzsAc,Hold On - Jam 1,John Lennon,Plastic Ono Band (The Ultimate Collection),0.701,0.554,9.0,-14.415,1.0,0.284,0.25,0.759,0.11,0.899,127.969
 4XGVqcJXdK1KjbuwsdPMcp,Here Today - Remixed 2015,Paul McCartney,Tug Of War - Archive Collection,0.349,0.201,0.0,-15.368,1.0,0.0294,0.767,0.0,0.134,0.338,77.402
@@ -1843,6 +1853,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 58TgzIpA5vwxokkSNkbHHI,(They Long To Be) Close To You,Carpenters,Chronicles,0.533,0.237,8.0,-14.581,1.0,0.0337,0.691,7.8e-05,0.12,0.231,89.026
 58aEFuYDeicw7FN38eKV4Z,Stay Another Season,The Free Design,Kites Are Fun,0.482,0.405,9.0,-8.817,0.0,0.0296,0.852,0.00025,0.123,0.423,132.758
 58epZscFLxIzVdGESFVpG1,Make Your Own Kind Of Music - Single Version,Cass Elliot,20th Century Masters: The Millennium Collection: Best Of The Mamas & The Papas,0.55,0.698,4.0,-9.075,1.0,0.0473,0.427,0.000155,0.189,0.59,119.97
+58vUkkt44ybuStzmoVHBl5,You Got To Find Me,Michael Hurley,Long Journey,0.713,0.333,0.0,-13.96,1.0,0.0449,0.943,0.0016,0.117,0.802,140.649
 59CLe8stbcx4XYBWdsfbwK,One Way Or Another,Blondie,Parallel Lines,0.442,0.921,2.0,-5.086,1.0,0.0655,0.0532,3.89e-06,0.0767,0.855,162.267
 59H2T4YVWRvOdPoSNxvzeY,Everybody's Talking,Bonnie Dobson,Bonnie Dobson,0.486,0.557,2.0,-8.696,1.0,0.0301,0.0871,2.3e-06,0.45,0.579,133.32
 59MRG8cnQ15U1rB2mp93Xw,La Vie En Rose,Manuel & The Music Of The Mountains,Summer Exotica,0.396,0.318,2.0,-16.419,1.0,0.0335,0.899,0.911,0.125,0.336,106.361
@@ -2149,6 +2160,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5xhP99gVBIkpr7omcdCeiy,The Long And Winding Road - Remastered 2015,The Beatles,1 (Remastered),0.326,0.365,3.0,-8.776,1.0,0.0265,0.667,0.000523,0.0718,0.314,133.084
 5xzdDMhFYiuUONB0Mha9VS,The Locomotion,Little Eva,Llllloco-Motion,0.629,0.782,3.0,-9.595,1.0,0.0574,0.709,0.0215,0.304,0.736,128.973
 5y0YreEOnQiKFAnCrcFIXz,(Just Like) Starting Over - Remastered 2010,John Lennon,Double Fantasy: Stripped Down,0.701,0.794,9.0,-6.16,1.0,0.0757,0.301,5.68e-05,0.179,0.409,99.104
+5yZzLyY9SMI3ZjdqpXWYDp,Everybody's Talkin',Fred Neil,Fred Neil,0.671,0.299,2.0,-13.215,1.0,0.0315,0.521,0.000288,0.15,0.574,120.112
 5yeB8FGoeS4EkDcnsRN8vP,When I get home,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.496,0.124,5.0,-16.657,1.0,0.0368,0.975,0.011,0.119,0.318,175.921
 5yp1NuiKPnFs6bI7k99CED,Song For Bob Dylan - Demo,David Bowie,Divine Symmetry,0.402,0.332,6.0,-10.951,1.0,0.0375,0.537,0.0,0.282,0.271,151.583
 5yrsBzgHkfu2idkl2ILQis,You Don't Mess Around with Jim,Jim Croce,You Don't Mess Around With Jim,0.705,0.581,11.0,-11.379,0.0,0.0455,0.607,1.52e-05,0.117,0.967,163.24
@@ -2734,6 +2746,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7ny2ATvjtKszCpLpfsGnVQ,A Hard Rain's A-Gonna Fall,Bob Dylan,The Freewheelin' Bob Dylan,0.567,0.198,4.0,-18.681,1.0,0.0327,0.919,0.000871,0.135,0.321,92.467
 7oHyyRPF0xbySYYwiCWr90,Gotta Travel On,Bob Dylan,Self Portrait,0.617,0.555,9.0,-8.937,1.0,0.0486,0.783,0.0,0.203,0.711,93.941
 7oMEwVPqu8629xVual6wfq,Super Bird,Country Joe & The Fish,Electric Music For The Mind And Body,0.551,0.598,5.0,-11.785,1.0,0.203,0.585,0.0,0.493,0.791,155.443
+7ohR0qPH6f2Vuj2pUNanJG,Got To Give It Up - Pt. 1,Marvin Gaye,Every Great Motown Hit Of Marvin Gaye,0.854,0.847,2.0,-9.019,1.0,0.042,0.232,0.000569,0.345,0.89,122.644
 7or0LLIO1EGAzQHGLzjji3,Standing on the Highway - Witmark Demo - 1962,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.499,0.342,2.0,-15.005,0.0,0.0377,0.602,1.3e-05,0.19,0.721,160.772
 7orb0y6ySGdsYZywMoQtsD,I Want To Tell You - Remastered 2009,The Beatles,Revolver (Remastered),0.493,0.525,9.0,-9.289,1.0,0.0315,0.182,4.4e-06,0.148,0.449,127.492
 7osv3MQ5sRaX2XMCil2Xp9,What A Day For Me,Harumi,Harumi,0.536,0.202,9.0,-16.083,0.0,0.0326,0.922,0.0491,0.139,0.674,101.42
