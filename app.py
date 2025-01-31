@@ -126,6 +126,8 @@ def best_next_songs(sp, MC, n_songs=3):
         current_track_id = track_info['id']  # Get the current track ID
         current_features = sp.audio_features(current_track_id)[0]  # Get audio features
 
+        logging.info(f"Requesting audio features for track ID: {current_track_id}")
+
         # Convert the current track features into a NumPy array (excluding None values)
         current_values = np.array([current_features[param] for param in [
             'danceability', 'energy', 'loudness', 'mode', 'speechiness', 
@@ -407,7 +409,7 @@ def most_similar_song():
         
         access_token = new_token_info['access_token']
         logging.info(f"New token stored for user: {user_id}")
-
+        logging.info(f"Using access token: {access_token}")
 
     # Use the access token to authenticate Spotify requests
     sp = spotipy.Spotify(auth=access_token)
