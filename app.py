@@ -14,8 +14,6 @@ import re
 import os
 import glob
 
-# DEV DEV DEV
-
 """
 List : 5 closest/similar to Song playing
 Chain: 5 closest (for loop), 1st closest to one playing, then 2nd closest to queue,... so on. - might have a bunch of repeats
@@ -391,13 +389,25 @@ def most_similar_song():
 
     # Optionally refresh the token if expired
     if time.time() > token_info['expires_at']:
-        # Refresh the token
+        logging.info(f"Refreshing token for user: {user_id}")
         client_id = os.environ.get(f'SPOTIFY_CLIENT_ID_{user_abbrev}')
         client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
+        
         sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
-        token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
-        user_tokens[user_id] = token_info
-        access_token = token_info['access_token']
+        
+        new_token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
+        
+        # Store the refreshed token properly
+        user_tokens[user_id] = {
+            'access_token': new_token_info['access_token'],
+            'refresh_token': new_token_info['refresh_token'],
+            'expires_at': new_token_info['expires_at'],
+            'user_abbrev': user_abbrev
+        }
+        
+        access_token = new_token_info['access_token']
+        logging.info(f"New token stored for user: {user_id}")
+
 
     # Use the access token to authenticate Spotify requests
     sp = spotipy.Spotify(auth=access_token)
@@ -453,13 +463,25 @@ def make_artist_playlist():
 
         # Optionally refresh the token if expired
         if time.time() > token_info['expires_at']:
-            # Refresh the token
+            logging.info(f"Refreshing token for user: {user_id}")
             client_id = os.environ.get(f'SPOTIFY_CLIENT_ID_{user_abbrev}')
             client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
+            
             sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
-            token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
-            user_tokens[user_id] = token_info
-            access_token = token_info['access_token']
+            
+            new_token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
+            
+            # Store the refreshed token properly
+            user_tokens[user_id] = {
+                'access_token': new_token_info['access_token'],
+                'refresh_token': new_token_info['refresh_token'],
+                'expires_at': new_token_info['expires_at'],
+                'user_abbrev': user_abbrev
+            }
+            
+            access_token = new_token_info['access_token']
+            logging.info(f"New token stored for user: {user_id}")
+
 
         # Use the access token to authenticate Spotify requests
         sp = spotipy.Spotify(auth=access_token)
