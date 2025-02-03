@@ -37,9 +37,6 @@ CORS(app,
      allow_headers=['Content-Type']
 )
 
-# Configure logging
-logging.basicConfig(level=logging.debug, format='%(asctime)s - %(levelname)s - %(message)s')
-
 # grab secret key from my server
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default_secret_key')
 
