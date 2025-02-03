@@ -57,7 +57,8 @@ def authenticate_spotify(client_id, client_secret, redirect_uri, state):
         client_secret=client_secret,
         redirect_uri=redirect_uri,
         state=state,
-        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public'
+        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public',
+        show_dialog=True
     )
     auth_url = sp_oauth.get_authorize_url()
     return auth_url
@@ -348,7 +349,9 @@ def callback():
             }
 
             logging.debug("Spotify authentication successful, callback.")
-
+            # Log token details to check for missing scopes
+            logging.debug(f"Token scopes received: {token_info.get('scope', 'NO SCOPE RETURNED')}")
+            
             # Redirect back to the main HTML page with user_id as a query parameter
             redirect_url = f"https://seamusmcn.github.io/templates/Spotify_buttons.html?user_id={user_id}&auth_success=true"
             return redirect(redirect_url)
