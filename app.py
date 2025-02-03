@@ -260,11 +260,13 @@ def artist_cat(sp, MC):
 def submit_credentials():
     # Parse form data
     user_name = request.form.get('user_name')
+    logging.info(f"Received credential submission for user: {user_name}")
     if user_name == os.environ.get('USER_NAME_S'): # Make this so we only have to login a user name, and then it grabs our secret keys/user_id for spotify
         user_abbrev = 'S'
     elif user_name == os.environ.get('USER_NAME_C'):
         user_abbrev = 'C'
     else:
+        logging.warning("Unknown user attempted to login.")
         return jsonify({"error": "You're not in my system, bozo"}), 400
     
     client_id = os.environ.get(f'CLIENT_ID_{user_abbrev}')
@@ -273,7 +275,7 @@ def submit_credentials():
     redirect_uri = 'https://seamusmcn-github-io.onrender.com/callback'  # Deployed URL
 
     if not client_id or not client_secret:
-        logging.error("Missing credentials in form submission.")
+        logging.error("Missing credentials, submit credentials function")
         return jsonify({"error": "Missing credentials."}), 400
 
     # Generate a unique state string
@@ -287,14 +289,14 @@ def submit_credentials():
         # You can add a timestamp here to expire old states
     }
 
-    logging.info(f"Generated state {state} for client_id: {client_id}")
+    logging.info(f"Generated state {state} for user: {user_name}, initializing authentication.")
 
     try:
         # Use the state parameter in the auth URL
         auth_url = authenticate_spotify(client_id, client_secret, redirect_uri, state)
         return jsonify({"auth_url": auth_url}), 200
     except Exception as e:
-        logging.error(f"Error during Spotify authentication: {e}")
+        logging.error(f"Error during Spotify authentication: {e}, submit_credentials function")
         return jsonify({"error": "Internal Server Error"}), 500
 
 @app.route('/callback')
@@ -305,7 +307,7 @@ def callback():
     logging.info(f"Callback received with state: {state}")
 
     if not state or state not in state_data_store:
-        logging.warning("Invalid or missing state parameter.")
+        logging.warning("Invalid or missing state parameter, callback function 1")
         return jsonify({"error": "Invalid or missing state parameter."}), 400
 
     # Retrieve stored data using state
@@ -319,7 +321,7 @@ def callback():
     # Retrieve client_secret from environment variables
     client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
     if not client_secret:
-        logging.error("Spotify client_secret not set in environment variables.")
+        logging.error("Spotify client_secret not set in environment variables, callback function 2.")
         return jsonify({"error": "Server configuration error."}), 500
 
     sp_oauth = SpotifyOAuth(
@@ -344,13 +346,13 @@ def callback():
                 'user_abbrev': user_abbrev 
             }
 
-            logging.info("Spotify authentication successful.")
+            logging.info("Spotify authentication successful, callback.")
 
             # Redirect back to the main HTML page with user_id as a query parameter
             redirect_url = f"https://seamusmcn.github.io/templates/Spotify_buttons.html?user_id={user_id}&auth_success=true"
             return redirect(redirect_url)
         except Exception as e:
-            logging.error(f"Error obtaining access token: {e}")
+            logging.error(f"Error obtaining access token: {e}, callback function 3")
             return jsonify({"error": "Failed to obtain access token."}), 500
     else:
         logging.warning("Authorization code not found in callback.")
@@ -380,8 +382,10 @@ def ensure_token():
 def most_similar_song():
     # Get user_id from the request
     user_id = request.form.get('user_id')
+    logging.info(f"Received request to queue most similar song for user {user_id}")
 
     if not user_id or user_id not in user_tokens:
+        logging.warning(f"Unauthorized request for most_similar_song. User ID: {user_id}")
         return "User not authenticated. Please authenticate first.", 401
 
     # Retrieve the access token
@@ -416,6 +420,7 @@ def most_similar_song():
 
     # Fetch catalog data and find the best next song
     Catalog = request.form.get('Catalog')
+    logging.info(f"Fetching {Catalog} Catalog")
 
         # Read the master catalog
     if Catalog == 'Liked':
@@ -440,11 +445,14 @@ def most_similar_song():
                     return "Playlist not documented, Master instead.", 404
 
             except Exception as e:
+                logging.error(f"Error fetching current playlist: {str(e)}, most similar song")
                 return f"Error fetching current playlist: {str(e)}", 500
         else:
             return "No playlist found", 404
 
     song_name = best_next_songs(sp, MC)
+    
+    logging.info(f"Added {song_name} to queue for user {user_id}")
 
     return f"Added {song_name} to queue."
 
