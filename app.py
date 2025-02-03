@@ -82,7 +82,7 @@ def get_current_playing_track(sp):
             'artists': [artist['name'] for artist in track_info['artists']],
             'album': track_info['album']['name'],
             'uri': track_info['uri'],
-            'features': sp.audio_features(track_info['id'])[0]  # Get audio features
+            'features': sp.audio_features(track_info['id'], market="US")[0]  # Get audio features
         }
     return None
 
@@ -127,7 +127,7 @@ def best_next_songs(sp, MC, n_songs=3):
     if current_track and 'item' in current_track:
         track_info = current_track['item']
         current_track_id = track_info['id']  # Get the current track ID
-        current_features = sp.audio_features(current_track_id)[0]  # Get audio features
+        current_features = sp.audio_features(current_track_id, market="US")[0]  # Get audio features
 
         logging.debug(f"Requesting audio features for track ID: {current_track_id}")
 
@@ -186,7 +186,7 @@ def artist_cat(sp, MC):
         track_info = current_track['item']
         current_track_id = track_info['id']  # Get current track ID
         current_artists = [artist['name'] for artist in track_info['artists']]
-        current_features = sp.audio_features(track_info['id'])[0]  # Get features of current song
+        current_features = sp.audio_features(track_info['id'], market="US")[0]  # Get features of current song
 
         # Define playlist name based on the artist
         playlist_name = current_artists[0] + ' .cat'
@@ -347,6 +347,8 @@ def callback():
                 'expires_at': token_info['expires_at'],
                 'user_abbrev': user_abbrev 
             }
+
+            logging.info(f"Refresh Token: {token_info.get('refresh_token', 'NO REFRESH TOKEN')}")
 
             logging.debug("Spotify authentication successful, callback.")
             # Log token details to check for missing scopes
