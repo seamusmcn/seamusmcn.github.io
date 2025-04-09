@@ -400,6 +400,8 @@ def most_similar_song():
     access_token = token_info['access_token']
     user_abbrev = token_info['user_abbrev']
 
+    logging.debug(f"User info: {token_info}")
+
     # Optionally refresh the token if expired
     if time.time() > token_info['expires_at']:
         logging.debug(f"Refreshing token for user: {user_id}")
