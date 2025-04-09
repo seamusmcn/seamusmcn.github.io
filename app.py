@@ -349,7 +349,7 @@ def callback():
                 'user_abbrev': user_abbrev 
             }
 
-            logging.info(f"Refresh Token: {token_info.get('refresh_token', 'NO REFRESH TOKEN')}")
+            logging.debug(f"Refresh Token: {token_info.get('refresh_token', 'NO REFRESH TOKEN')}")
 
             logging.debug("Spotify authentication successful, callback.")
             # Log token details to check for missing scopes
