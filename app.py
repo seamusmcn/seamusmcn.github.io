@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template, session, redirect, jsonify
+ceptfrom flask import Flask, request, render_template, session, redirect, jsonify
 from flask_cors import CORS
 import requests
 import spotipy
@@ -569,7 +569,7 @@ def debug_token():
             return "No track currently playing.", 404
 
     except Exception as e:
-        logging.error(f"Error fetching playback info: {str(e)}")
+        logging.error(f"Exception Error fetching playback info: {str(e)}")
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
