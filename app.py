@@ -186,8 +186,8 @@ def artist_cat(sp, MC):
         track_info = current_track['item']
         current_track_id = track_info['id']  # Get current track ID
         current_artists = [artist['name'] for artist in track_info['artists']]
-        current_features = sp.audio_features(track_info['id'])[0]  # Get features of current song
-        logging.debug(f"Show audio features: {current_features}")
+        # current_features = sp.audio_features(track_info['id'])[0]  # Get features of current song # DEPRECATED
+        # logging.debug(f"Show audio features: {current_features}")
 
         # Define playlist name based on the artist
         playlist_name = current_artists[0] + ' .cat'
@@ -207,35 +207,36 @@ def artist_cat(sp, MC):
         # Remove the current song from the filtered catalog
         filtered_catalog = filtered_catalog[filtered_catalog['Track ID'] != current_track_id]
 
-        # Calculate Euclidean distance for each song
-        distances = []
-        for _, row in filtered_catalog.iterrows():
-            features = np.array([row[param] for param in [
-                'Danceability Rating', 'Energy Rating', 'Loudness Rating', 'Mode Rating', 
-                'Speechiness Rating', 'Acousticness Rating', 'Instrumentalness Rating', 
-                'Liveness Rating', 'Valence Rating', 'Tempo Rating'
-            ] if row[param] is not None])
+        # DEPRECATED
+        # # Calculate Euclidean distance for each song
+        # distances = []
+        # for _, row in filtered_catalog.iterrows():
+        #     features = np.array([row[param] for param in [
+        #         'Danceability Rating', 'Energy Rating', 'Loudness Rating', 'Mode Rating', 
+        #         'Speechiness Rating', 'Acousticness Rating', 'Instrumentalness Rating', 
+        #         'Liveness Rating', 'Valence Rating', 'Tempo Rating'
+        #     ] if row[param] is not None])
             
-            current_values = np.array([current_features[param] for param in [
-                'danceability', 'energy', 'loudness', 'mode', 'speechiness', 
-                'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo'
-            ] if current_features[param] is not None])
+        #     current_values = np.array([current_features[param] for param in [
+        #         'danceability', 'energy', 'loudness', 'mode', 'speechiness', 
+        #         'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo'
+        #     ] if current_features[param] is not None])
 
-            if len(features) == len(current_values):
-                distance = np.linalg.norm(current_values - features)
-                distances.append(distance)
+        #     if len(features) == len(current_values):
+        #         distance = np.linalg.norm(current_values - features)
+        #         distances.append(distance)
 
-        # Add distances to the filtered catalog
-        filtered_catalog['Distance'] = distances
+        # # Add distances to the filtered catalog
+        # filtered_catalog['Distance'] = distances
 
-        # Sort the catalog by distance
-        sorted_catalog = filtered_catalog.sort_values(by='Distance')
+        # # Sort the catalog by distance
+        # sorted_catalog = filtered_catalog.sort_values(by='Distance')
 
         # Create a new Spotify playlist
         new_playlist = sp.user_playlist_create(user=user_id, name=playlist_name)
 
         # Get sorted track URIs (excluding current song)
-        track_uris = sorted_catalog['Track ID'].tolist()
+        track_uris = filtered_catalog['Track ID'].tolist()
 
         # Add the current song URI at the end of the track URIs
         current_track_uri = track_info['uri']
@@ -249,8 +250,8 @@ def artist_cat(sp, MC):
         for chunk in track_uri_chunks:
             sp.user_playlist_add_tracks(user=user_id, playlist_id=new_playlist['id'], tracks=chunk)
 
-        # Turn off shuffle to ensure ordered playback (affects the current playback device)
-        sp.shuffle(state=False)
+        # Turn On shuffle because Spotify took away all the audio features
+        sp.shuffle(state=True)
 
         # Play the new playlist
         sp.start_playback(context_uri=new_playlist['uri'])
