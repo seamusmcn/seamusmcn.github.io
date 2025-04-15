@@ -460,8 +460,6 @@ def most_similar_song():
         else:
             return "No playlist found", 404
 
-    debug_token()
-
     song_name = best_next_songs(sp, MC)
 
     logging.debug(f"Added {song_name} to queue for user {user_id}")
@@ -521,53 +519,6 @@ def make_artist_playlist():
     except Exception as e:
         logging.error(f"Error in make_artist_playlist: {e}")
         return "Internal Server Error.", 500
-
-@app.route('/debug_token', methods=['GET'])
-def debug_token():
-    # Get the user_id from the request
-    user_id = request.form.get('user_id')
-
-    if not user_id or user_id not in user_tokens:
-        logging.debug(f"User {user_id} not authenticated.")
-        return "User not authenticated. Please authenticate first.", 401
-
-    # Retrieve the access token
-    token_info = user_tokens[user_id]
-    access_token = token_info['access_token']
-
-    # Log the access token (make sure to avoid logging sensitive data in production)
-    logging.debug(f"Access token for user {user_id}: {access_token}")
-
-    # Use the access token to authenticate Spotify requests
-    sp = spotipy.Spotify(auth=access_token)
-
-    try:
-        # Get current playback information
-        current_track = sp.current_playback()
-
-        # Log the response for current playback
-        logging.debug(f"Current playback response: {current_track}")
-
-        if current_track and 'item' in current_track:
-            track_info = current_track['item']
-            track_name = track_info['name']
-            track_id = track_info['id']
-            track_artists = ', '.join(artist['name'] for artist in track_info['artists'])
-            audio_features = sp.audio_features(track_id)[0]  # Get audio features
-
-            # Log track and audio feature data
-            logging.debug(f"Track info: {track_name} by {track_artists}")
-            logging.debug(f"Audio features: {audio_features}")
-
-            # Return track info and audio features in a JSON response
-            return jsonify({
-                'track_name': track_name,
-                'track_artists': track_artists,
-                'audio_features': audio_features
-            })
-        else:
-            logging.debug("No track currently playing.")
-            return "No track currently playing.", 404
 
     except Exception as e:
         logging.error(f"Exception Error fetching playback info: {str(e)}")
