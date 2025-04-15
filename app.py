@@ -1,4 +1,4 @@
-import Flask, request, render_template, session, redirect, jsonify
+from flask import Flask, request, render_template, session, redirect, jsonify
 from flask_cors import CORS
 import requests
 import spotipy
