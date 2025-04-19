@@ -5,9 +5,11 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0SBxkEMyacXzVLKYNudhgr,The Surfer Moon (Mono),The Beach Boys,Surfer Girl (Mono & Stereo),0.42,0.357,6.0,-11.511,1.0,0.0316,0.353,4.23e-05,0.341,0.374,111.084
 0VKhBoakXHimnQYGP4sbRN,Shut Down (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.584,0.72,8.0,-6.273,1.0,0.0332,0.613,0.0,0.0758,0.971,159.337
 0WE1orJ01fxxKwdFJ6WFpH,Lucky Me,The Chiffons,The Best Of The Chiffons,0.455,0.757,9.0,-6.619,0.0,0.226,0.602,0.46,0.0773,0.709,140.999
+0WSy9JTzDKHCcAWg3tLWTS,Fool's Paradise - Undubbed Master,Buddy Holly,Down The Line: Rarities,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 0YB7qJ2NqEmtE3FNeyZBO2,I'm Gonna Love You Too,Buddy Holly,Buddy Holly,0.692,0.577,9.0,-7.861,1.0,0.0351,0.826,1.54e-06,0.0998,0.807,90.946
 0bz0PznD8eRojueEdAIPta,Aren't You Glad You're You,The Pied Pipers,What is This Thing Called Love?,0.717,0.178,1.0,-8.524,1.0,0.0397,0.915,0.0,0.164,0.64,135.32
 0fonScmHUzC0MglSLn9saA,Da Doo Ron Ron (When He Walked Me Home),The Crystals,Da Doo Ron Ron: The Very Best of The Crystals,0.535,0.797,3.0,-7.533,1.0,0.0459,0.48,3.42e-05,0.141,0.613,148.835
+0gZAR2H3YVnTAD5c8cxPGk,Rosemary,Brian Hyland,His Days in the Sun,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 0iA3xXSkSCiJywKyo1UKjQ,Louie Louie,The Kingsmen,The Best of The Kingsmen,0.623,0.709,1.0,-9.818,0.0,0.0636,0.102,0.0,0.0967,0.948,122.394
 154Fm1yWMHOUYWGmozeKgC,Let's Go Trippin' (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.619,0.744,9.0,-6.359,1.0,0.0348,0.00806,0.846,0.235,0.84,81.156
 156z5BJH0XhCIEoQHDOwFC,Look At Me,Buddy Holly,Buddy Holly,0.722,0.567,2.0,-7.368,1.0,0.0398,0.835,0.0,0.132,0.5,143.893
@@ -42,6 +44,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2cSD2iV6RDf3a2pXyITeWW,Chapel Of Love,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.628,0.804,2.0,-8.529,1.0,0.0449,0.48,0.0,0.398,0.8,115.575
 2phiHgwJfL1LphKfVmvd4A,Just Won't Do Right,James Brown & The Famous Flames,"Please, Please, Please",0.467,0.289,6.0,-13.393,1.0,0.0311,0.869,3.96e-06,0.0893,0.741,96.68
 2uEOLI3rxcHOBJOeHLtpjo,In The Back Of My Mind - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),0.325,0.327,5.0,-9.888,1.0,0.0298,0.358,0.0,0.116,0.429,103.297
+2wqMkjSJcNxUzOzJbtaKvG,Midnight Shift,Buddy Holly,Not Fade Away: The Complete Studio Recordings And More,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 2x28Yi9XnWxvAUnvVUFcDA,"You're So Square (Baby, I Don't Care)",Buddy Holly,Buddy Holly,0.658,0.753,11.0,-7.532,1.0,0.0563,0.319,0.00123,0.104,0.966,100.131
 2xKfXRhw5xaUXfevJJspZf,Why Do Fools Fall in Love,"Frankie Lymon, The Teenagers",The Best Of Frankie Lymon & The Teenagers,0.388,0.532,1.0,-8.685,1.0,0.102,0.51,3.06e-06,0.0974,0.845,173.586
 2yTzXsYOrevaVIzQQgB3YL,All I Have To Do Is Dream,The Everly Brothers,"The Cadence Years, Vol. 1",0.59,0.405,1.0,-10.268,0.0,0.0272,0.822,0.0,0.202,0.555,103.569
@@ -63,6 +66,8 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4CyjuvRQStesmMNV2ZEZve,Some Kinda Wonderful,Little Eva,Llllloco-Motion,0.788,0.353,0.0,-12.323,1.0,0.03,0.793,4.86e-05,0.338,0.901,109.179
 4JYOhR6kq2KYMmtVBGfnl6,Got No Reason To Cry,The Rooftop Singers,Vanguard Visionaries,0.525,0.763,4.0,-6.956,1.0,0.0391,0.733,2.25e-05,0.545,0.817,120.659
 4Qcjd9oQjWfbihYK7oievR,I'll Go Crazy,James Brown & The Famous Flames,Think!,0.568,0.518,0.0,-11.409,1.0,0.0465,0.741,0.0,0.0532,0.791,135.097
+4SLacxpEGYFcHaUpLolaee,Last Night - Undubbed Version,Buddy Holly,Down The Line: Rarities,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+4VDPfghlVxczF6n6w9QICJ,That Makes It Tough,Buddy Holly,Down The Line: Rarities,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 4bB1B7khel7wADJiHCJ5Xj,I Wouldn't Dream of It,Joyce Heath,Joyce Heath,0.565,0.461,5.0,-8.977,0.0,0.029,0.544,1.57e-05,0.462,0.565,109.502
 4dGQaurapGQUWLAeQ3cvBg,Wake Up Little Susie,The Everly Brothers,"The Cadence Years, Vol. 1",0.705,0.725,1.0,-7.529,1.0,0.151,0.573,1.17e-05,0.0627,0.84,90.582
 4gUDdUr5yK0JGlR49zSRVt,Sea Of Love,Phil Phillips & The Twilights,Sea Of Love: The Collection,0.449,0.571,7.0,-5.848,1.0,0.0281,0.786,0.0,0.385,0.308,127.565
