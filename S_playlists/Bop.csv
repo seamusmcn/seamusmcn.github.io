@@ -1,4 +1,5 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
+07tNsS5Y1j5KYOsrmV1QoE,Buddy Holly Medley - 1970_Live At Carnegie Hall,Phil Ochs,Gunfight At Carnegie Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0DVRlAYFT7rxCuT7UYWGs0,What'd I Say,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.357,0.88,7.0,-7.609,1.0,0.0405,0.388,0.0259,0.893,0.613,97.056
 0ELvJjWaqYS2G5psM8FdH4,Blue Monday,Buddy Holly,Giant,0.301,0.766,2.0,-6.768,1.0,0.055,0.501,0.0,0.256,0.876,118.232
 0QGwOFQChzflLAmPq5NwKo,A Teenager In Love,Dion & The Belmonts,Presenting Dion And The Belmonts,0.555,0.377,1.0,-9.123,1.0,0.0295,0.671,0.0,0.128,0.619,78.986
@@ -34,6 +35,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 23R3NTnNUt1YktcDDTLcAd,Think It Over,"Buddy Holly, The Crickets",Buddy Holly,0.648,0.773,1.0,-6.59,0.0,0.0477,0.46,0.0,0.0677,0.936,131.033
 24XgG5UI54IW9CxaFrMN9m,In My Room (Mono),The Beach Boys,Surfer Girl (Mono & Stereo),0.216,0.379,1.0,-9.935,0.0,0.0299,0.13,0.00011,0.0777,0.455,206.159
 2Bs1Lw9LX8hBm70t1iGdlh,He's So Fine - Remastered 2000,The Chiffons,The Chiffons Absolutely The Best!,0.558,0.633,7.0,-3.265,1.0,0.0329,0.487,0.0,0.129,0.871,72.494
+2EPNyBKElcMYSpJZS4mNtP,Slippin' And Slidin' - Undubbed Fast Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2GvsTbSNoxkqNjusXaURUt,So Young,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.171,0.594,2.0,-6.896,1.0,0.0465,0.75,9.25e-05,0.154,0.287,174.719
 2OARIMw1hpehr86Iwmv04c,Peggy Sue,"Buddy Holly, The Crickets",Buddy Holly,0.676,0.424,9.0,-8.132,1.0,0.0329,0.947,0.000494,0.119,0.493,148.373
 2OWhRU9coyPnfXM5A1rxgl,Well...All Right,Buddy Holly,Buddy Holly,0.71,0.667,1.0,-6.664,0.0,0.0397,0.334,0.0037,0.259,0.847,124.552
@@ -57,6 +59,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3MF0ayhAW2ymz0qcX5PN2e,I Don't Know,James Brown & The Famous Flames,"Please, Please, Please",0.487,0.352,5.0,-8.883,1.0,0.0354,0.848,1.09e-05,0.116,0.463,107.351
 3SdBNJZGjIhuYMUWU01cvv,Louie Louie - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",0.778,0.566,9.0,-9.02,1.0,0.041,0.067,0.0359,0.103,0.799,127.437
 3U9Kkv90QElks0pzIgfAxw,Words Of Love,Buddy Holly,Buddy Holly,0.626,0.453,9.0,-10.118,1.0,0.0269,0.112,0.226,0.0539,0.615,129.402
+3UPdnK65E8lEvuT9EgdTlg,Slippin' And Slidin' - Undubbed Slow Version #1,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3VHbArYR0HVY6rXu3TR4an,Tenderly,Link Wray & The Wraymen,Link Wray: Slinky! The Epic Sessions: 1958-1960,0.633,0.551,4.0,-12.683,1.0,0.0404,0.249,0.9,0.345,0.418,83.913
 3Wphr9wFaEwBFvBlvIYxjp,Surfer Girl (Mono),The Beach Boys,Surfer Girl (Mono & Stereo),0.488,0.369,2.0,-8.96,1.0,0.0256,0.691,3.49e-06,0.121,0.652,105.073
 3rm6yFyS9FidnIsrEM4hg5,Bo Diddley,Buddy Holly,Reminiscing,0.633,0.536,2.0,-10.075,1.0,0.068,0.0216,0.00814,0.12,0.523,103.833
@@ -74,6 +77,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4jqG5z2wIviap3eowL0xru,Reminiscing,Buddy Holly,Reminiscing,0.634,0.722,11.0,-8.751,0.0,0.0583,0.179,0.000155,0.217,0.657,131.565
 4kV6opXYLOjYswb9G9liIp,The Joker Went Wild,Brian Hyland,The Joker Went Wild / Run Run Look And See,0.697,0.82,8.0,-6.211,1.0,0.033,0.696,2.53e-06,0.0811,0.797,140.089
 4lTIHZviqXcz2YXkrYMfwo,"You're Mine, All Mine",Joyce Heath,Joyce Heath,0.27,0.499,7.0,-8.112,1.0,0.0378,0.943,0.586,0.111,0.677,137.588
+4pyGl1yKecepXA1a5OMJuO,That'll Be The Day,"Buddy Holly, The Crickets",The Buddy Holly Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4rc3m2yLbALh0naLfVCvt2,Up on the Roof,Little Eva,Llllloco-Motion,0.617,0.465,1.0,-9.871,1.0,0.0315,0.813,3.3e-06,0.078,0.925,119.541
 4ucLLrBj1s38zwSb9QtAyO,Valley Of Tears,Buddy Holly,Buddy Holly,0.504,0.274,5.0,-9.824,1.0,0.0303,0.368,0.0,0.347,0.577,82.372
 4wf44lwqgefaz3Y3x9XKGL,I Wonder Why,The Chiffons,The Chiffons Absolutely The Best!,0.453,0.625,2.0,-5.295,1.0,0.0329,0.665,0.00964,0.59,0.805,105.099
@@ -85,6 +89,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5b0KMebx2ZOPv91U42xOSv,Rock Around With Ollie Vee - Alternate Version,Buddy Holly,That'll Be The Day,0.538,0.503,2.0,-10.341,1.0,0.0496,0.848,0.0826,0.117,0.887,202.563
 5fxrwol6YSRq5qzu5WcHZg,Lana (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.665,0.575,3.0,-8.501,1.0,0.0303,0.683,0.0,0.112,0.963,139.355
 5kdcegDcV723E5Stp1pZLf,The Proud One,Frankie Valli,Solo,0.606,0.654,7.0,-6.532,1.0,0.0395,0.712,0.000279,0.457,0.571,116.83
+5nLYXDvcjlJJtbrpnbIkW4,Smokey Joe's Cafe - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5s6DOElzncE6h3kr2UjaUM,"Please, Please, Please",James Brown & The Famous Flames,"Please, Please, Please",0.695,0.195,5.0,-13.315,1.0,0.0341,0.742,0.0,0.0798,0.71,109.202
 5x8LCZbRCCxSdvzPq8gBMb,Honor Roll of Love,"Joyce Heath, The Privateers",Joyce Heath,0.492,0.504,7.0,-9.492,1.0,0.0382,0.907,0.000188,0.253,0.899,134.283
 5xzdDMhFYiuUONB0Mha9VS,The Locomotion,Little Eva,Llllloco-Motion,0.629,0.782,3.0,-9.595,1.0,0.0574,0.709,0.0215,0.304,0.736,128.973
