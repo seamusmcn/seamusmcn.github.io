@@ -26,6 +26,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0J28Vu2GmQfMwhFKNHHQAu,Passing Through,Cisco Houston,"The Folkways Years, 1944-1961",0.664,0.241,9.0,-12.399,1.0,0.223,0.922,0.0,0.11,0.61,125.87
 0JQdK3Z10LHrLzKjSYfVyE,Railroad Bill,Ramblin' Jack Elliott,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0K7TlSWBxzhRXI2qIapOt8,Riding in My Car (Car Song),Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,0.708,0.191,4.0,-16.726,1.0,0.157,0.905,0.0235,0.118,0.762,130.822
+0K9Xk9AKGtvjXn063Ok6Eg,Riot In Cell Block Number Nine,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0M7Mh2ypmVS1T0FvUVjXI8,Stealin',Jim Kweskin,America,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0MSueU8MW1slgFKn2x3GFt,"Oh! Love of Mine (September 14, 2024)","Jesse Welles, Welles World",Under The Powerlines (April 24 – September 24),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0Mt7UFxCdP6wk8fcQX2TpY,Don't Get Around Much Anymore,Willie Nelson,Stardust,0.687,0.293,4.0,-10.483,1.0,0.0461,0.817,7.39e-05,0.237,0.524,120.058
@@ -206,6 +207,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2cnlS1FkZrJcTotYmHxVHj,Stackerlee,Dave Van Ronk,Folksinger,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2cr2rjdV2JOz1J0prTiPOG,Shake Your Money Maker,Elmore James,Shake Your Money Maker: The Best of the Fire Sessions,0.419,0.675,2.0,-5.491,1.0,0.0776,0.695,0.00032,0.0762,0.65,200.96
 2dLzyrwHEEK8umYoOYaSPc,"I Still Miss Someone - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2dOFRBb7vn8q4PheZTMDH9,Right Or Wrong,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2fDHuS1PTkHBbCWWZF1ph9,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2gPdx3Yugv715fTJeCS9Mf,Bye Bye Love,The Everly Brothers,"The Cadence Years, Vol. 1",0.551,0.552,9.0,-8.102,1.0,0.0565,0.754,1.29e-06,0.0951,0.926,168.709
 2hJ7E250KxFXuE0TCCfoI3,Dust Pneumonia Blues,Woody Guthrie,Dust Bowl Ballads,0.499,0.181,1.0,-15.788,1.0,0.069,0.877,0.0,0.173,0.65,195.028
@@ -254,6 +256,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3DNzrn8JZXJNTCK0biKRHX,Mean Old Southern,The Blues Project,Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3DdbrCxfTYdIpIIaEtlHu9,Vigilante Man,Woody Guthrie,Dust Bowl Ballads,0.603,0.162,2.0,-15.448,1.0,0.0362,0.809,2.44e-06,0.124,0.634,101.575
 3EGk3hQGXs7RAMkMleittc,Alberta,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.482,0.15,7.0,-14.964,1.0,0.0689,0.866,0.0,0.157,0.364,190.468
+3EXJIJ7ptk54a8p8jXe0KI,Please Call Today,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3FTM2STp071auovPWet7jE,Crippled Inside - Take 3,John Lennon,Imagine (The Ultimate Collection),0.586,0.755,0.0,-8.447,1.0,0.0367,0.566,0.305,0.177,0.93,164.034
 3FvDkGpOf2weAQL9ynmZTb,I'll Never Let You Go (Little Darlin'),Elvis Presley,Elvis Presley,0.384,0.155,2.0,-14.173,1.0,0.0395,0.971,0.0024,0.0921,0.288,128.666
 3FwcHpzCQKMove1xrpsgFe,Brandy Leave Me Alone,The Rooftop Singers,The Best Of,0.533,0.159,8.0,-16.628,1.0,0.0305,0.966,3.21e-05,0.0999,0.846,158.506
