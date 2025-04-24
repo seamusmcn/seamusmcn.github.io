@@ -157,6 +157,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 21h76zOdsKVkxatPEovOkF,It Don't Mean A Thing,The Rooftop Singers,Vanguard Visionaries,0.667,0.207,10.0,-17.918,0.0,0.0905,0.653,0.0198,0.108,0.691,164.556
 22ZPA82kpSldTOFpf8sMMg,Tell Me What Kind of Man Jesus Is,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.712,0.182,7.0,-15.486,1.0,0.0438,0.835,5.62e-05,0.129,0.276,108.531
 242E7zj2wWWegVlurGpaVz,Rip It Up,Elvis Presley,Elvis,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+25GVEHXsss7hcCkAh2dTMu,Drifter's Polka,Roy Clark,The Lightning Fingers Of Roy Clark,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 25w19pmXnbdbkXZAXjEZxE,Tom Cat,The Rooftop Singers,Vanguard Visionaries,0.675,0.559,8.0,-10.136,1.0,0.0434,0.759,0.00227,0.0721,0.924,142.763
 26PwuMotZqcczKLHi4Htz3,Redemption Song,Bob Marley & The Wailers,Uprising,0.671,0.255,7.0,-10.743,1.0,0.0387,0.608,0.0,0.0737,0.694,115.873
 26SWvfvFTd3BXLg3mWCuXT,Jack O' Diamonds,Odetta,Sings Ballads & Blues,0.372,0.236,1.0,-7.571,0.0,0.0294,0.915,0.0135,0.153,0.452,172.142
@@ -290,6 +291,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3bSZlIcVkpKphNEmjqfnvS,I'll Fly Away,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.409,7.0,-7.607,1.0,0.0258,0.949,0.000597,0.186,0.178,97.789
 3bU8rIEuatTa7XjHl4Sw8f,Close My Eyes,Arthur Russell,Love Is Overtaking Me,0.655,0.245,7.0,-13.817,1.0,0.0392,0.747,0.0248,0.124,0.39,123.77
 3dY8NPI9s3MpEqOfGfHqlf,Trouble in Mind,Big Bill Broonzy,Trouble in Mind,0.64,0.022,7.0,-18.356,1.0,0.0761,0.852,0.0,0.0837,0.429,81.493
+3do8UJU3lLUpp6vLiaj2C7,Git Along Little Dogies,Bing Crosby,How The West Was Won (Original Soundtrack Recording),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3dw0yB8p4isToFWSF95aOW,Engine 143,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.612,0.153,8.0,-12.435,1.0,0.0362,0.94,0.0,0.128,0.314,78.7
 3f1irZafGTTwspdD4uEHac,Backwater Blues,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.535,0.0971,0.0,-17.07,1.0,0.0567,0.753,0.0,0.0639,0.408,86.396
 3hfPI0akrkb0t0zaRf5nJC,Unchained Melody,Willie Nelson,Stardust,0.42,0.191,7.0,-15.063,1.0,0.0315,0.894,0.128,0.143,0.135,76.246
@@ -507,6 +509,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 672PNEfhkICYooZ3IOPoWi,Matchbox - Take 1,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 67dqJB1FQU0SfMFKFvfCG9,Do Re Mi,Woody Guthrie,Dust Bowl Ballads,0.72,0.273,4.0,-13.173,1.0,0.0428,0.848,2.11e-05,0.105,0.819,122.987
 69WjO90WyjR8HmoitIbkDz,Lumberjack,Johnny Cash,Ride This Train,0.551,0.592,10.0,-10.861,1.0,0.575,0.856,0.0,0.173,0.372,98.945
+69bJKWX7LnRj2E7u2XdHDQ,Weepin' Willow Twist,Roy Clark,The Lightning Fingers Of Roy Clark,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6B9jtF3jk8SQ4uTn1zptGr,Worried Blues,Doc & Merle Watson,Elementary Doctor Watson,0.663,0.525,2.0,-12.104,1.0,0.0307,0.764,0.679,0.306,0.961,99.329
 6CDoUaIriHB4WD278CHZfj,Black Eye Susie,Roscoe Holcomb,An Untamed Sense of Control,0.51,0.509,6.0,-11.049,1.0,0.0587,0.859,0.32,0.712,0.967,157.367
 6CNSTLAbObYVlH5s5TbNFn,Catch and Release,Billy Strings,Highway Prayers,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -629,6 +632,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7s8spWIA65WP6vG18bXDP1,The Train Kept A Rollin',Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.56,0.707,9.0,-7.556,1.0,0.0686,0.697,0.0,0.305,0.962,167.36
 7snJmn0LfJNPLT8Ns3qnaz,I Ain't Got No Home In This World Anymore,Woody Guthrie,Dust Bowl Ballads,0.594,0.293,7.0,-12.716,1.0,0.036,0.841,8.67e-05,0.063,0.66,120.547
 7t2NM5NyAaJC9k8ifQKiQU,Going down the road feeling bad,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.468,0.191,10.0,-18.675,1.0,0.0313,0.975,0.0809,0.14,0.698,102.7
+7tGHNWy0AakpoO3AO9bp5c,Texas Twist,Roy Clark,The Lightning Fingers Of Roy Clark,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7tem1vYGSIuBE59Q8aP7Yc,Tell Me That It Isn't True,Bob Dylan,Nashville Skyline,0.601,0.294,5.0,-20.909,1.0,0.0313,0.809,0.499,0.129,0.779,87.034
 7xVpkVkd1klTzLJEysIR7z,Masters of War,Bob Dylan,The Freewheelin' Bob Dylan,0.556,0.273,5.0,-15.973,1.0,0.0372,0.613,3.27e-06,0.188,0.692,166.064
 7xrODhgXFNVsRtKoyt5rJo,"Cocaine Blues - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
