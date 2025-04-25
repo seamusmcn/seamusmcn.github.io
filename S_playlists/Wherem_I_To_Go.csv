@@ -31,6 +31,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0WK0EqiidP6WEDOHK34HEe,Township Rebellion,Rage Against The Machine,Rage Against The Machine,0.525,0.597,2.0,-8.578,1.0,0.0551,0.00747,0.00553,0.351,0.47,133.58
 0XK3azZuLvHjHG3aHDAfHB,Head On,The Jesus and Mary Chain,Automatic,0.561,0.871,0.0,-5.48,1.0,0.0314,0.000179,0.237,0.0925,0.517,138.978
 0XciPb5F3Sm9eDOfUVLDhO,Hit the North - Part 1,The Fall,The Frenz Experiment,0.693,0.855,2.0,-7.958,1.0,0.0415,0.00887,0.759,0.0703,0.914,112.089
+0XvM1RiCF9jwi7k5r3M0Gw,Piss on the Door,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0YvYEHmWryyMRoCznrkm9p,So Ya Wanna Be a Cop_,Leftöver Crack,Leftöver Leftöver Crack,0.331,0.956,9.0,-7.324,1.0,0.168,0.00298,7.68e-06,0.373,0.233,105.12
 0ZfyDHKzDXUbvueLhkzi7v,Just Step Sideways,The Fall,Hip Priest And Kamerads,0.484,0.533,1.0,-15.511,0.0,0.04,0.527,0.243,0.22,0.823,146.9
 0d7eDUx6JccGdigSPtRiLL,LONG BEACH ALL-STARS,TARGET SCAMMERS,TARGET SCAMMERS,0.386,0.998,4.0,-2.265,0.0,0.0882,0.000261,0.963,0.334,0.193,106.169
@@ -194,6 +195,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 46DB80XgCB1NQDcLbp63Be,Enchanted Porkfist,Meat Puppets,Up on the Sun,0.289,0.787,2.0,-9.84,1.0,0.0369,0.217,0.864,0.221,0.808,88.911
 49cBid04tN0x2DV6SBdQ69,Vamos (Pilgrim),Pixies,Come On Pilgrim,0.465,0.682,11.0,-12.953,0.0,0.0359,0.008,0.132,0.105,0.951,133.13
 4Ak5MiBm2EGuGXRrtnU3fl,Everybody's Talking,Meat Puppets,Meat Puppets,0.545,0.565,0.0,-8.979,1.0,0.0301,0.0901,0.0361,0.0763,0.5,120.685
+4BPNtKAkWENYsqVJgtpsLY,Outcome,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4DgsvJNNGvV5WPQ40qR3R8,New Radio,Bikini Kill,The Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4Di0quvNKhZ3TVsT3FASby,Happy In You,Whale,We Care,0.567,0.57,10.0,-10.769,0.0,0.0242,0.000205,0.00406,0.241,0.354,101.081
 4E1U1mbicnuxFNmh5hdgfh,"Lie Dream of a Casino Soul - 7"" Version",The Fall,Slates,0.449,0.89,0.0,-4.335,1.0,0.041,0.00194,0.00053,0.476,0.809,110.123
@@ -204,6 +206,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4KATCbzeQaUY9MhIrePgXz,Mama Told Me Not to Come,The Wolfgang Press,Queer,0.748,0.729,1.0,-14.924,1.0,0.0432,0.00164,0.143,0.117,0.624,114.78
 4KYsLfEFXN1SNoBd97c2Ry,And Therein ...,The Fall,Extricate (Expanded Edition),0.641,0.704,9.0,-12.2,1.0,0.0403,0.0851,0.0841,0.176,0.868,91.521
 4Ktn4w7kD8z0QDRxCokyAX,Prove My Love - Live At Folk City / 1983,Violent Femmes,Violent Femmes (Deluxe Edition),0.532,0.905,11.0,-5.85,0.0,0.145,0.393,0.0,0.603,0.542,91.297
+4L8ATxZFlm5QeCtWRV2Iwp,Burnt Orange Peel,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4MqoHAtbUhwrToBK2gESAm,Reptiles - Remastered,Pylon,Chomp (Remastered),0.419,0.824,2.0,-7.548,1.0,0.037,0.0113,0.396,0.0916,0.788,147.781
 4NXzNzXDkMEWtvn3foSIrJ,No 13 Baby,Pixies,Doolittle,0.688,0.633,0.0,-13.822,1.0,0.0406,0.00289,0.0112,0.0375,0.302,122.465
 4OHVCeQYPncEwZOtNAJZZx,Beetlebum - 2012 Remaster,Blur,Blur (Special Edition),0.542,0.627,0.0,-7.105,1.0,0.0243,0.0794,0.000517,0.277,0.814,89.734
@@ -269,6 +272,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5gR2I7C2KbVHJVjZXiE0k7,Add It Up - Demo,Violent Femmes,Violent Femmes (Deluxe Edition),0.614,0.635,9.0,-9.181,1.0,0.206,0.224,0.0,0.0646,0.585,86.646
 5gTqQiZqPSJAwtOwKbmBMh,Blister In The Sun,Violent Femmes,Violent Femmes (Deluxe Edition),0.719,0.476,0.0,-10.909,1.0,0.146,0.308,0.0,0.0995,0.881,97.162
 5gmPf13RFGwT8LWpB2WjxB,Hilary,The Fall,Extricate (Expanded Edition),0.49,0.726,0.0,-12.207,1.0,0.0387,0.618,0.0175,0.312,0.785,144.487
+5ikazVGbRe8cpXvEtNN3Ry,Ziplock Bag,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5nrhWb3xAja4bYrj6pBoV1,Who Makes The Nazis,The Fall,Hip Priest And Kamerads,0.546,0.453,0.0,-15.308,1.0,0.0341,0.674,0.866,0.323,0.562,119.102
 5oRl4ZvVjZvbOt2NPx4Mzx,Sweet Misery Blues,Violent Femmes,Hallowed Ground,0.509,0.475,7.0,-13.689,1.0,0.0405,0.316,0.0,0.0543,0.409,111.028
 5pT6ORhZsIq14smtQp3POM,Tame,Pixies,Doolittle,0.567,0.588,0.0,-11.872,1.0,0.0749,0.000302,0.788,0.276,0.918,137.546
