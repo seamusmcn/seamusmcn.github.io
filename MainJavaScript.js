@@ -144,21 +144,28 @@ document.getElementById('artist-cat-button')
     container.id = 'artist-options';
     container.style = 'border:1px solid #ccc; padding:10px; margin:10px 0;';
 
-    // checkboxes
-    const title = document.createElement('p');
-    title.innerText = 'Include these artists?';
-    container.appendChild(title);
-
-    assoc.forEach(name => {
-      const label = document.createElement('label');
-      label.style = 'display:block;';
-      const cb = document.createElement('input');
-      cb.type = 'checkbox';
-      cb.value = name;
-      label.appendChild(cb);
-      label.appendChild(document.createTextNode(' ' + name));
-      container.appendChild(label);
-    });
+    // If json indicates artists, show checkboxes
+    if (assoc.length) {
+        const title = document.createElement('p');
+        title.innerText = 'Include these artists?';
+        container.appendChild(title);
+  
+        assoc.forEach(name => {
+          const label = document.createElement('label');
+          label.style = 'display:block;';
+          const cb = document.createElement('input');
+          cb.type = 'checkbox';
+          cb.value = name;
+          label.appendChild(cb);
+          label.appendChild(document.createTextNode(' ' + name));
+          container.appendChild(label);
+        });
+      } else {
+        // otherwise add others
+        const note = document.createElement('p');
+        note.innerText = 'No pre-defined associated artists';
+        container.appendChild(note);
+      }
 
     // free-form text box
     const customLabel = document.createElement('label');
@@ -166,7 +173,7 @@ document.getElementById('artist-cat-button')
     customLabel.innerText = 'Add other artists (comma-separated): ';
     const customInput = document.createElement('input');
     customInput.type = 'text';
-    customInput.placeholder = 'e.g. Oasis, Blur';
+    customInput.placeholder = '';
     customInput.style = 'width:100%;';
     customLabel.appendChild(customInput);
     container.appendChild(customLabel);
@@ -205,4 +212,9 @@ document.getElementById('artist-cat-button')
 
     container.appendChild(go);
     document.body.appendChild(container);
+
+    // 3) Insert button, instead of at the very bottom
+    const btn = document.getElementById('artist-cat-button');
+    btn.insertAdjacentElement('afterend', container);
+
   });

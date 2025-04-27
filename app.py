@@ -188,7 +188,7 @@ with open('artist_associations.json', 'r') as f:
 
 
 # makes a playlist from the master catalog based on artist you are listening to and most similar song.
-def artist_cat(sp, MC, artists_to_include):
+def artist_cat(sp, MC, artists_to_include, discription = None):
 
     # Get current playback information
     current_track = sp.current_playback()
@@ -218,7 +218,7 @@ def artist_cat(sp, MC, artists_to_include):
         filtered_catalog = filtered_catalog[filtered_catalog['Track ID'] != current_track_id]
 
         # Create a new Spotify playlist
-        new_playlist = sp.user_playlist_create(user=user_id, name=playlist_name)
+        new_playlist = sp.user_playlist_create(user=user_id, name=playlist_name, description=discription, public=True)
 
         ''' Add a caption to the playlist of all the total artists in it '''
 
@@ -509,8 +509,8 @@ def make_artist_playlist():
 
         include = request.form.getlist('include_artists')
         if include:
-            # user made their selection → build & play
-            playlist = artist_cat(sp, MC, [primary_artist] + include)
+            desc = f"Artists: {', '.join(include)}"
+            playlist = artist_cat(sp, MC, [primary_artist] + include, discription=desc)
             return f"Now playing {playlist}", 200
         
         assoc = artist_associations.get(primary_artist, [])
