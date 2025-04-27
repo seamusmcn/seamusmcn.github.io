@@ -2,6 +2,7 @@ from flask import Flask, request, render_template, session, redirect, jsonify
 from flask_cors import CORS
 import requests
 import spotipy
+import json
 from uuid import uuid4
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
