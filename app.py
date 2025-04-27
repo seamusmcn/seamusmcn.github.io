@@ -197,13 +197,8 @@ def artist_cat(sp, MC, artists_to_include):
     if current_track and 'item' in current_track:
         track_info = current_track['item']
         current_track_id = track_info['id']  # Get current track ID
-<<<<<<< HEAD
-=======
+
         current_artists = [artist['name'] for artist in track_info['artists']]
-        
-        # current_features = sp.audio_features(track_info['id'])[0]  # Get features of current song # DEPRECATED
-        # logging.debug(f"Show audio features: {current_features}")
->>>>>>> origin
 
         # Define playlist name based on the artist
         playlist_name = artists_to_include[0] + ' .cat'
