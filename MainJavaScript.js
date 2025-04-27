@@ -3,6 +3,7 @@
 // JAVASCRIPT FILE!!
 
 // Check URL parameters for authentication success
+console.log("Current Page URL:", window.location.href);
 console.log("Checking URL parameters...");
 const urlParams = new URLSearchParams(window.location.search);
 const authSuccess = urlParams.get('auth_success');

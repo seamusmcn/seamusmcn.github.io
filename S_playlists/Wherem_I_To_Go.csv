@@ -12,6 +12,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 093N3AMhUnOeE4wgNRsBOO,Drunk Walk Home,Mitski,Bury Me At Makeout Creek,0.331,0.357,9.0,-7.627,1.0,0.0339,0.00167,1.42e-05,0.189,0.322,172.695
 0CWLdVMRAmEdrqWG8TR2iZ,Suck,The Jesus and Mary Chain,Never Understand (3 Track EP),0.287,0.729,0.0,-8.55,1.0,0.0467,0.00189,0.00264,0.12,0.155,137.65
 0DeSoeQsftHn0kEku7wtRb,Confessions,Violent Femmes,Violent Femmes (Deluxe Edition),0.466,0.36,7.0,-11.647,1.0,0.0709,0.0355,0.00211,0.0899,0.43,119.375
+0DwE47YiqMWvReTPtbEaQK,Tell Me So,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0E6AHfUAXz6ZqWvVN3AMxU,Fortunately Gone,The Breeders,Pod,0.769,0.379,4.0,-19.204,1.0,0.0406,0.0604,0.109,0.128,0.735,136.432
 0G6sYXJ9WiSrteHucEz7sZ,Love Offering,Meat Puppets,Meat Puppets,0.383,0.969,5.0,-6.888,1.0,0.0886,0.011,0.0312,0.388,0.306,117.524
 0GHyMTNSkHPmJRBomMcFcQ,Fall,The Jesus and Mary Chain,Darklands,0.401,0.831,3.0,-10.471,1.0,0.0459,0.0608,0.0214,0.142,0.103,129.093
@@ -30,6 +31,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0WK0EqiidP6WEDOHK34HEe,Township Rebellion,Rage Against The Machine,Rage Against The Machine,0.525,0.597,2.0,-8.578,1.0,0.0551,0.00747,0.00553,0.351,0.47,133.58
 0XK3azZuLvHjHG3aHDAfHB,Head On,The Jesus and Mary Chain,Automatic,0.561,0.871,0.0,-5.48,1.0,0.0314,0.000179,0.237,0.0925,0.517,138.978
 0XciPb5F3Sm9eDOfUVLDhO,Hit the North - Part 1,The Fall,The Frenz Experiment,0.693,0.855,2.0,-7.958,1.0,0.0415,0.00887,0.759,0.0703,0.914,112.089
+0XvM1RiCF9jwi7k5r3M0Gw,Piss on the Door,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0YvYEHmWryyMRoCznrkm9p,So Ya Wanna Be a Cop_,Leftöver Crack,Leftöver Leftöver Crack,0.331,0.956,9.0,-7.324,1.0,0.168,0.00298,7.68e-06,0.373,0.233,105.12
 0ZfyDHKzDXUbvueLhkzi7v,Just Step Sideways,The Fall,Hip Priest And Kamerads,0.484,0.533,1.0,-15.511,0.0,0.04,0.527,0.243,0.22,0.823,146.9
 0d7eDUx6JccGdigSPtRiLL,LONG BEACH ALL-STARS,TARGET SCAMMERS,TARGET SCAMMERS,0.386,0.998,4.0,-2.265,0.0,0.0882,0.000261,0.963,0.334,0.193,106.169
@@ -57,6 +59,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 19xVDhJddxfLUxKD3bYzMw,Special - Live At Beneath-It-All Cafe / 1981,Violent Femmes,Violent Femmes (Deluxe Edition),0.609,0.668,2.0,-9.376,1.0,0.414,0.299,0.0,0.787,0.807,142.089
 1Bq65xKgu0kjSUMUlfWyPl,Transmission - 2020 Digital Remaster,Joy Division,Transmission,0.496,0.849,7.0,-6.512,1.0,0.0401,0.0202,0.573,0.102,0.65,153.724
 1CapNlKgeOWlBEE54CRamd,Just Like Honey,The Jesus and Mary Chain,Psychocandy,0.331,0.617,8.0,-8.564,1.0,0.0435,6.78e-05,0.658,0.06,0.494,121.273
+1Ew5unNIz1c0Pswkg6en0r,Speed Heart,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1GMashJIJNJ1BlaAL9XRWb,Ugly - 1983 Rough Trade UK Single,Violent Femmes,Violent Femmes,0.283,0.771,10.0,-11.202,1.0,0.0505,0.00169,0.00161,0.308,0.942,196.097
 1H28l40HPc4NSiFI4326U1,Prove My Love,Violent Femmes,Violent Femmes (Deluxe Edition),0.653,0.888,9.0,-5.892,1.0,0.107,0.364,0.000598,0.12,0.813,90.384
 1IDAJagxB9AQjjYXaiDK1j,Know Your Enemy,Rage Against The Machine,Rage Against The Machine,0.574,0.765,4.0,-7.755,1.0,0.128,0.0141,0.00378,0.136,0.613,117.636
@@ -115,10 +118,12 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2kmA247debpD5gtozGnvMG,Cherry Came Too,The Jesus and Mary Chain,Darklands,0.554,0.612,8.0,-14.159,1.0,0.0311,0.0335,0.103,0.0399,0.714,116.513
 2o7Nv0HXtjBZ8crA3RMism,Divine Mascis,The Breeders,Last Splash (30th Anniversary Edition),0.433,0.686,4.0,-10.525,1.0,0.0305,0.00025,0.701,0.0964,0.64,131.917
 2o8Wh9LKBAlV95HUWN8yAI,Satellite of Love,Color Filter,Sleep In A Synchrotron,0.635,0.636,0.0,-10.308,1.0,0.0329,0.052,0.705,0.109,0.628,139.337
+2ox2saGAHVx9mhjk8WH50K,Reverence,The Jesus and Mary Chain,Honey's Dead,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2p74TLDP6dmfGpY9mel4hN,Silver,Pixies,Doolittle,0.555,0.284,11.0,-15.655,0.0,0.0273,0.00108,0.132,0.111,0.398,88.307
 2pvSQWvGZniKgWEJNAOgLU,Nimrod's Son,Pixies,Come On Pilgrim,0.373,0.823,6.0,-11.173,1.0,0.0391,0.0418,0.133,0.101,0.498,134.647
 2qvfYm3hTi3nwPxMkGyhgU,No Side To Fall In,The Raincoats,The Kitchen Tapes,0.691,0.375,9.0,-14.617,1.0,0.0433,0.77,1.93e-05,0.139,0.658,123.215
 2sIaC5trbnNk748yBC8Stc,Mountain Energei,The Fall,The Real New Fall Formerly 'Country On The Click',0.775,0.668,2.0,-6.308,1.0,0.051,0.451,0.0214,0.131,0.653,128.05
+2tRI6j8RxFwrxoRKs7dnV8,Double Dare Ya,Bikini Kill,The First Two Records,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2ttMDab19hqmnEzmP4GUEH,I Just Wanna Get Along,The Breeders,Last Splash,0.481,0.715,8.0,-10.103,1.0,0.0396,0.00356,0.00263,0.0569,0.736,145.554
 2vU1H8XKsK6bUff94gTorE,Prove My Love,Violent Femmes,Violent Femmes,0.651,0.872,9.0,-5.855,1.0,0.103,0.269,0.000127,0.138,0.8,90.84
 2wBKNmYONrCxgmHc2HhQ8C,Ziggy Stardust,Bauhaus,The Sky's Gone Out,0.241,0.701,7.0,-11.632,1.0,0.0516,0.000325,1.9e-05,0.117,0.539,175.321
@@ -126,6 +131,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2wSmwBjoS5skbNYAMBi5qG,Tugboat,Galaxie 500,Today,0.285,0.89,0.0,-8.143,1.0,0.0405,0.153,0.492,0.113,0.323,115.988
 2x5FYXo5rL4Phmn3UPdkK3,Touch Me I'm Sick,Mudhoney,Superfuzz Bigmuff (Deluxe Edition),0.354,0.941,1.0,-6.984,1.0,0.0737,4.79e-05,0.66,0.331,0.569,131.442
 2y3jHQMQjYNffGaq3HKenN,Seal Whales,Meat Puppets,Up on the Sun,0.516,0.625,4.0,-9.249,1.0,0.0299,0.422,0.804,0.307,0.624,98.771
+2z5LG9pXrouLrzhdhqrVwl,White Boy,Bikini Kill,The First Two Records,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2zmEhE9n4PJe3Ag1TwBZT4,Add It Up - Live At Folk City / 1983,Violent Femmes,Violent Femmes (Deluxe Edition),0.377,0.883,4.0,-5.176,1.0,0.498,0.274,0.0,0.762,0.581,88.861
 31l5oSKYacaO8WYDt5rDYD,Elves,The Fall,The Wonderful And Frightening World Of....,0.38,0.753,4.0,-12.041,0.0,0.0444,0.000226,0.35,0.135,0.475,131.721
 31xeTXD6FV5mnDRMuXRgn9,GETCUT,dialog talk,S/2003 J 2,0.535,0.627,8.0,-11.437,1.0,0.0781,0.00223,0.862,0.163,0.638,178.011
@@ -144,7 +150,9 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3IRLMHyKvalZoRnvMfFth4,The Littlest Rebel,The Fall,Extricate (Expanded Edition),0.594,0.798,5.0,-11.038,1.0,0.0341,0.296,0.617,0.0407,0.772,135.595
 3JuWIolTftFRRfLMCK2Qr7,Twist,Tones On Tail,Everything!,0.516,0.583,0.0,-10.468,1.0,0.043,0.318,0.0666,0.0691,0.547,173.081
 3KfXor1xGOBNE2wwFiP6rV,I Love You,Spacemen 3,Recurring - Original,0.603,0.527,9.0,-11.742,0.0,0.0606,0.104,0.849,0.131,0.677,91.816
+3L0chLc9b4GvsLg59nHTIL,Blood One,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3NePK8Mji0MloKS09WaKbF,Never Understand,The Jesus and Mary Chain,Never Understand (3 Track EP),0.201,0.963,11.0,-4.206,1.0,0.0528,3.65e-05,0.863,0.192,0.395,168.034
+3OJVrGpVbq0KD6j0NMOrlA,Sugar,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3SBTh3b5yy0TSPoOFHt7Lr,Down on Me,The Jesus and Mary Chain,Darklands,0.346,0.941,5.0,-11.235,1.0,0.0474,0.0149,0.808,0.331,0.369,77.255
 3TYLPsFkI2rNt4HLBLxVP6,Big House,Meat Puppets,Meat Puppets,0.395,0.958,1.0,-4.853,0.0,0.0523,0.0383,0.00528,0.204,0.873,87.466
 3TYthlxY3dq9iBkwTpuNrb,U.S. 80's - 90's,The Fall,Bend Sinister,0.656,0.492,7.0,-14.451,1.0,0.032,0.0883,0.737,0.0645,0.866,95.488
@@ -171,6 +179,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3lILuFinx7CFaYXJ6FWz54,Police On My Back - Remastered,The Clash,Sandinista! (Remastered),0.554,0.855,7.0,-6.711,1.0,0.0407,0.000625,5.16e-06,0.327,0.898,146.04
 3mVDEFsbVMqfvhssxr5We4,All My Ghosts,Frank Black & The Catholics,Frank Black & The Catholics,0.495,0.827,3.0,-5.393,1.0,0.0538,0.00239,0.0,0.354,0.504,113.485
 3mvKvierFAVGCdgdx4EN4Q,Car Trouble (Parts 1 & 2),Adam & The Ants,Dirk Wears White Sox (Remastered),0.611,0.864,0.0,-5.328,1.0,0.174,0.0381,0.0179,0.26,0.74,139.189
+3n0zZ1V9PXLsxtyTiqDhuQ,Rebel Girl,Bikini Kill,The Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3qhZyhcF8UDwQhn9jd4GUh,I'm a Mindless Idiot,Meat Puppets,II,0.602,0.421,10.0,-11.291,1.0,0.0291,0.147,0.896,0.14,0.6,95.471
 3tI7va5iwB8QLF4HJGJ5R1,DKTR. Faustus,The Fall,Bend Sinister,0.376,0.74,7.0,-12.877,1.0,0.0329,0.0542,0.305,0.473,0.96,119.022
 3tTL7jlSkowXidYeafFtwG,Take the Power Back,Rage Against The Machine,Rage Against The Machine,0.542,0.842,1.0,-7.137,1.0,0.173,0.043,0.000153,0.173,0.301,104.772
@@ -180,11 +189,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3wKIa2Uy5ca5UdTODnuhbC,What to Do,Meat Puppets,II,0.533,0.597,9.0,-9.37,1.0,0.0913,0.405,0.000149,0.177,0.734,119.373
 3wrvcbqlvFU1aT8MZOAQ7t,TARGET SCAMMERS,TARGET SCAMMERS,TARGET SCAMMERS,0.205,0.981,6.0,-2.882,1.0,0.0864,2.29e-05,0.956,0.341,0.38,107.377
 40IPlaLrR3YEPNkI7z3bYp,Never Get Ahead,Bobby Conn,Bobby Conn,0.524,0.851,10.0,-5.065,1.0,0.303,0.0476,0.0015,0.143,0.778,97.298
+41SzLFCZfaoDD3TPtuGBIv,Star Fish,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 43ZENFjiJBG2V4V7ZWeOjt,Home,Persephone's Bees,Notes From The Underworld,0.439,0.544,11.0,-6.922,1.0,0.0275,0.0327,0.364,0.133,0.0944,61.048
 45uN41QTl8pitqs8f9FhAp,I've Been Tired,Pixies,Come On Pilgrim,0.603,0.62,7.0,-12.109,1.0,0.0315,0.0101,8.04e-05,0.374,0.769,148.305
 46DB80XgCB1NQDcLbp63Be,Enchanted Porkfist,Meat Puppets,Up on the Sun,0.289,0.787,2.0,-9.84,1.0,0.0369,0.217,0.864,0.221,0.808,88.911
 49cBid04tN0x2DV6SBdQ69,Vamos (Pilgrim),Pixies,Come On Pilgrim,0.465,0.682,11.0,-12.953,0.0,0.0359,0.008,0.132,0.105,0.951,133.13
 4Ak5MiBm2EGuGXRrtnU3fl,Everybody's Talking,Meat Puppets,Meat Puppets,0.545,0.565,0.0,-8.979,1.0,0.0301,0.0901,0.0361,0.0763,0.5,120.685
+4BPNtKAkWENYsqVJgtpsLY,Outcome,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4DgsvJNNGvV5WPQ40qR3R8,New Radio,Bikini Kill,The Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4Di0quvNKhZ3TVsT3FASby,Happy In You,Whale,We Care,0.567,0.57,10.0,-10.769,0.0,0.0242,0.000205,0.00406,0.241,0.354,101.081
 4E1U1mbicnuxFNmh5hdgfh,"Lie Dream of a Casino Soul - 7"" Version",The Fall,Slates,0.449,0.89,0.0,-4.335,1.0,0.041,0.00194,0.00053,0.476,0.809,110.123
 4FTPM7xbjGcGEuTgFoal8h,Special Delivery,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.49,0.713,2.0,-13.758,1.0,0.0448,0.000869,0.131,0.308,0.545,106.57
@@ -194,6 +206,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4KATCbzeQaUY9MhIrePgXz,Mama Told Me Not to Come,The Wolfgang Press,Queer,0.748,0.729,1.0,-14.924,1.0,0.0432,0.00164,0.143,0.117,0.624,114.78
 4KYsLfEFXN1SNoBd97c2Ry,And Therein ...,The Fall,Extricate (Expanded Edition),0.641,0.704,9.0,-12.2,1.0,0.0403,0.0851,0.0841,0.176,0.868,91.521
 4Ktn4w7kD8z0QDRxCokyAX,Prove My Love - Live At Folk City / 1983,Violent Femmes,Violent Femmes (Deluxe Edition),0.532,0.905,11.0,-5.85,0.0,0.145,0.393,0.0,0.603,0.542,91.297
+4L8ATxZFlm5QeCtWRV2Iwp,Burnt Orange Peel,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4MqoHAtbUhwrToBK2gESAm,Reptiles - Remastered,Pylon,Chomp (Remastered),0.419,0.824,2.0,-7.548,1.0,0.037,0.0113,0.396,0.0916,0.788,147.781
 4NXzNzXDkMEWtvn3foSIrJ,No 13 Baby,Pixies,Doolittle,0.688,0.633,0.0,-13.822,1.0,0.0406,0.00289,0.0112,0.0375,0.302,122.465
 4OHVCeQYPncEwZOtNAJZZx,Beetlebum - 2012 Remaster,Blur,Blur (Special Edition),0.542,0.627,0.0,-7.105,1.0,0.0243,0.0794,0.000517,0.277,0.814,89.734
@@ -212,6 +225,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4amk21SN57vP0jYl6qBAZu,No Clocks - Remastered,Pylon,Chomp (Remastered),0.236,0.968,2.0,-6.266,1.0,0.0575,0.00125,0.0951,0.354,0.609,156.329
 4bLfTyZ3754XePY15eKrjh,Magic Toy Missing,Meat Puppets,Meat Puppets,0.558,0.849,7.0,-8.928,1.0,0.0475,0.00136,0.928,0.099,0.967,131.979
 4bt7lfR8u0MbYuWd1MAmVV,WW7 Blues,Gaye Bykers On Acid,Drill Your Own Hole,0.507,0.935,11.0,-12.557,0.0,0.0639,0.0255,0.000386,0.224,0.0368,96.096
+4ddNGtvMcrfnz4o8bT20n1,Hamster Baby,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4dga7PnLJ870cfrXevpMDi,Stigmata Martyr,Bauhaus,In the Flat Field,0.48,0.438,11.0,-13.568,0.0,0.0821,0.00696,0.0184,0.424,0.323,141.996
 4gxKVUQyfkIbO6WuET4HlW,Drivin' on 9,The Breeders,Last Splash,0.63,0.392,7.0,-13.652,1.0,0.0295,0.487,0.534,0.264,0.537,120.799
 4lt3wCtAfzplNh5XV5JTbL,In a Car,Meat Puppets,Meat Puppets,0.148,0.926,11.0,-4.85,0.0,0.162,0.000196,0.0,0.169,0.0891,136.524
@@ -228,6 +242,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 51qnsjPJ9V9ZNoc2bGKaP3,Broken Face - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.346,0.679,9.0,-11.845,1.0,0.0574,0.0319,7.54e-06,0.194,0.661,93.734
 55JV8jwEaukGzAR5hBh4Az,Clear Off!,The Fall,The Wonderful And Frightening World Of....,0.39,0.442,0.0,-14.294,1.0,0.0406,0.0856,0.000245,0.106,0.511,201.589
 55Uj19sHmOFYccIbTPE3gV,Ed Is Dead,Pixies,Come On Pilgrim,0.574,0.716,9.0,-11.664,0.0,0.0392,0.0119,3.54e-05,0.277,0.688,127.014
+55oE1XL7HceNY7VR7Nz4yu,Sweet '69,Babes In Toyland ,Nemesisters,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 55tzW3Ar6PPmh1rNYBqE3l,Fragile - 2006 Remastered Version,Wire,Pink Flag (2006 Remastered Version),0.662,0.543,11.0,-9.022,0.0,0.0479,0.0452,0.0229,0.132,0.967,133.881
 5B0SASuzt37s1Wdm5lQWhU,Everything's Groovy,Gaye Bykers On Acid,Everything's Groovy,0.296,0.796,11.0,-11.387,0.0,0.0663,0.0396,0.0129,0.307,0.463,162.953
 5B6qPMpdCTvDYzuvzow9uZ,Graffiti,Throwing Muses,The Real Ramona,0.738,0.51,7.0,-13.769,1.0,0.0452,0.0155,0.241,0.321,0.936,119.169
@@ -257,6 +272,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5gR2I7C2KbVHJVjZXiE0k7,Add It Up - Demo,Violent Femmes,Violent Femmes (Deluxe Edition),0.614,0.635,9.0,-9.181,1.0,0.206,0.224,0.0,0.0646,0.585,86.646
 5gTqQiZqPSJAwtOwKbmBMh,Blister In The Sun,Violent Femmes,Violent Femmes (Deluxe Edition),0.719,0.476,0.0,-10.909,1.0,0.146,0.308,0.0,0.0995,0.881,97.162
 5gmPf13RFGwT8LWpB2WjxB,Hilary,The Fall,Extricate (Expanded Edition),0.49,0.726,0.0,-12.207,1.0,0.0387,0.618,0.0175,0.312,0.785,144.487
+5ikazVGbRe8cpXvEtNN3Ry,Ziplock Bag,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5nrhWb3xAja4bYrj6pBoV1,Who Makes The Nazis,The Fall,Hip Priest And Kamerads,0.546,0.453,0.0,-15.308,1.0,0.0341,0.674,0.866,0.323,0.562,119.102
 5oRl4ZvVjZvbOt2NPx4Mzx,Sweet Misery Blues,Violent Femmes,Hallowed Ground,0.509,0.475,7.0,-13.689,1.0,0.0405,0.316,0.0,0.0543,0.409,111.028
 5pT6ORhZsIq14smtQp3POM,Tame,Pixies,Doolittle,0.567,0.588,0.0,-11.872,1.0,0.0749,0.000302,0.788,0.276,0.918,137.546
@@ -275,6 +291,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 64O3sPO9XLOUKcJzFIUFIX,Breakin' Up - Demo,Violent Femmes,Violent Femmes (Deluxe Edition),0.615,0.34,9.0,-11.688,0.0,0.0901,0.189,0.0,0.113,0.829,90.568
 64wzahVKqYvQD8uUlz45O0,Third Uncle,Bauhaus,The Sky's Gone Out,0.523,0.799,2.0,-12.423,1.0,0.0357,0.000128,0.00695,0.0714,0.526,103.567
 65R7oA3BpGNSE2CPvXtX0e,Boyfriend's Dead,The Jesus and Mary Chain,You Trip Me Up EP,0.146,0.925,5.0,-5.841,1.0,0.149,6.75e-05,0.643,0.389,0.108,75.689
+660s5fvZVVupYoxBPzS9Ze,Magnet,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 67MkU3b7k2fBL6oHHUiM09,Dark Entries,Bauhaus,In the Flat Field,0.24,0.851,2.0,-11.941,1.0,0.0492,0.00017,0.641,0.344,0.512,171.036
 68BexTzq0mONrcgGqJnkEF,Black Monk Theme - Part 2,The Fall,Extricate (Expanded Edition),0.596,0.817,2.0,-13.046,1.0,0.0707,0.0082,0.105,0.271,0.952,134.908
 68r9Aom97xmsrEqgVrrRSI,Untitled,Saturday Looks Good To Me,All Your Summer Songs (Deluxe Edition),0.326,0.509,9.0,-10.931,1.0,0.0441,0.841,0.861,0.628,0.644,93.181
@@ -296,6 +313,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6QOGk4lwNB1v0Yrxcls1fU,NIMPTV (nobody is more productive than viper),TARGET SCAMMERS,TARGET SCAMMERS,0.314,0.985,11.0,-2.884,1.0,0.115,2.49e-05,0.903,0.358,0.248,116.372
 6SPdaCpTYFe8ay3kdBHVD7,Something Against You - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.212,0.834,1.0,-11.697,1.0,0.0709,0.00165,0.848,0.0966,0.248,190.072
 6SyoeJphdeVCdniMW6iXsz,S/2003 J 2,dialog talk,S/2003 J 2,0.761,0.851,1.0,-8.529,1.0,0.0821,0.0311,0.864,0.389,0.494,130.024
+6TRKBro6YKjOLNpN0ULx9O,Lil Red,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6V1NseVkCmvZesxlKqzmn5,Peace Thru Power,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.344,0.575,0.0,-16.291,0.0,0.0848,0.00595,0.000141,0.0992,0.0411,112.496
 6VK89EOd0oS6y3CVfITipm,To Nk Roachment: Yarbles,The Fall,This Nation's Saving Grace,0.383,0.323,2.0,-13.047,1.0,0.0379,0.515,0.192,0.0636,0.293,101.22
 6X75vuxAcOwA1Xqqx6Vz0F,Joker Hysterical Face,The Fall,Room to Live,0.332,0.815,9.0,-10.934,0.0,0.0558,0.0114,0.131,0.0874,0.731,120.502
@@ -304,6 +322,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6a43kw0x2xspqwvAlVLNP3,C.R.E.E.P.,The Fall,The Wonderful And Frightening World Of....,0.438,0.639,9.0,-13.437,1.0,0.0913,0.0176,5.54e-06,0.0707,0.656,161.875
 6b37xrsNCWYIUphFBazqD6,Me Gustas Tu,Manu Chao,Próxima Estación: Esperanza,0.657,0.741,11.0,-6.822,0.0,0.0825,0.663,0.494,0.222,0.908,175.949
 6ehOdAc0dyOVTxgCbrPIyr,What Are You Wearing_,Butter 08,Butter 08,0.733,0.562,8.0,-11.538,1.0,0.0759,0.461,0.851,0.145,0.572,120.754
+6exaLl7ZooHc7JlxMoEGxD,For Tammy Rae,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6fW4W5lfhRWNyoAiTGOevq,Never Understand,The Jesus and Mary Chain,Psychocandy,0.201,0.963,11.0,-4.206,1.0,0.0528,3.65e-05,0.863,0.192,0.395,168.034
 6hHc7Pks7wtBIW8Z6A0iFq,Blue Monday,New Order,Substance,0.762,0.651,0.0,-13.34,1.0,0.0655,0.00198,0.856,0.111,0.941,130.395
 6hXzGc9Sj1vQQNvMmZdZvW,Major Leagues,Pavement,Terror Twilight,0.517,0.431,11.0,-13.303,1.0,0.0309,0.368,0.558,0.155,0.52,167.659
@@ -351,6 +370,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7nXj6UD62y2yunA6KdRjVw,Born To Raise Hell,Whale,We Care,0.397,0.828,4.0,-5.68,1.0,0.0999,0.0179,0.4,0.354,0.603,132.051
 7niUIM2Jl5px9k4Rivy70w,Mansion,The Fall,This Nation's Saving Grace,0.407,0.397,9.0,-14.586,1.0,0.0314,0.00799,0.926,0.131,0.52,108.38
 7nkTtw9MYXVKooU8sz2SXH,In Your Walls,Bubble Scary,Bubble Scary,0.324,0.721,0.0,-7.31,0.0,0.0411,0.00358,0.0428,0.101,0.144,112.723
+7nvr4fAv279XAQ7flKOiuT,Carnival,Bikini Kill,The First Two Records,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7oDDV1cal0M0RIjr4HuuJ9,Gouge Away,Pixies,Doolittle,0.658,0.475,4.0,-12.688,1.0,0.033,0.000892,0.0194,0.105,0.461,125.747
 7rNmcTlUnHl283mfrBc8NH,Ugly,Violent Femmes,Violent Femmes (Deluxe Edition),0.269,0.935,2.0,-6.851,0.0,0.0583,0.328,0.000134,0.435,0.928,196.844
 7sY6dRDoIVHDYxfJYVticH,Darklands,The Jesus and Mary Chain,Darklands,0.563,0.54,7.0,-12.47,1.0,0.0259,0.0151,0.00538,0.0345,0.549,108.134

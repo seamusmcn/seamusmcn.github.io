@@ -7,12 +7,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0OFzGWNvMR7qvRsD14dxIT,'Tis Autumn,Nat King Cole Trio,The Complete Capitol Recordings Of The Nat King Cole Trio,0.403,0.0728,7.0,-20.622,0.0,0.0603,0.966,7.04e-05,0.106,0.152,178.645
 0QGwOFQChzflLAmPq5NwKo,A Teenager In Love,Dion & The Belmonts,Presenting Dion And The Belmonts,0.555,0.377,1.0,-9.123,1.0,0.0295,0.671,0.0,0.128,0.619,78.986
 0Yh4igccFHplz0oP2NnujS,Christmas Time Is Here,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.427,0.12,5.0,-18.786,1.0,0.0315,0.976,0.771,0.154,0.0772,74.769
+0hdNrtu4z3lHfP4YQOZUny,Old Devil Moon,Chet Baker,Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0s2h4GBGC4rcdSQhJX80Mv,Samba De Orpheus,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.581,0.428,2.0,-16.917,0.0,0.0486,0.889,0.845,0.173,0.606,126.033
 18Psr6uiBMT6KTGt7s82Rd,Bogota - Live,Ahmad Jamal,Live in Paris (1971),0.301,0.439,9.0,-16.132,0.0,0.0332,0.597,0.314,0.742,0.403,79.274
 1Bek8fB7OeWTqNghvNqCrf,You Grow Sweeter as the Years Go By,The Pied Pipers,What is This Thing Called Love?,0.276,0.258,0.0,-9.135,1.0,0.0278,0.88,3.24e-05,0.155,0.305,88.781
 1FdulvpRiLgkseCz7RrNOR,Quiet Nights of Quiet Stars (Corcovado),"Antônio Carlos Jobim, Frank Sinatra",Sinatra/Jobim: The Complete Reprise Recordings,0.388,0.255,0.0,-16.496,1.0,0.0332,0.77,0.0737,0.0838,0.25,107.426
 1GJrFcbu6BVsEnPhDmGfdE,Cast Your Fate To The Wind,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.467,0.225,8.0,-15.74,1.0,0.0383,0.774,0.151,0.107,0.303,124.791
 1H5IfYyIIAlgDX8zguUzns,Suspicious Minds,Elvis Presley,From Elvis in Memphis,0.487,0.382,7.0,-10.889,1.0,0.0309,0.0422,4.74e-06,0.411,0.714,116.557
+1JWg5bnTaIUfntn4KhdPoS,Is You Is Or Is You Ain't My Baby,Joe Bourne,Remembering Mr. Cole ( A tribute to the Nat King Cole Trio),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1OQBzVlstoCo6oI2O8dVML,Fascinating Rhythm,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.518,0.293,0.0,-14.575,1.0,0.0797,0.957,0.89,0.0957,0.728,150.826
 1QX55tmWOC2OSxI1WaLHk1,There Are Such Things,The Pied Pipers,What is This Thing Called Love?,0.258,0.181,10.0,-10.456,1.0,0.0265,0.886,0.00013,0.177,0.155,78.776
 1eRznw1ZY1WsR4imR48oCX,Their Hearts Were Full Of Spring - Remastered,The Four Freshmen,Capitol Collectors Series,0.24,0.0317,8.0,-19.459,1.0,0.0403,0.94,2.96e-05,0.114,0.178,163.883
@@ -37,6 +39,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3KzgdYUlqV6TOG7JCmx2Wg,Beyond the Sea,Bobby Darin,That's All,0.521,0.516,2.0,-7.456,0.0,0.0369,0.723,0.0,0.257,0.569,136.483
 3OifdbdBdgVGtns8uQbZO3,This October,The Four Freshmen,Angel Eyes,0.662,0.33,5.0,-13.589,0.0,0.0579,0.611,2.15e-05,0.283,0.683,89.022
 3TwEglf5aSCf3mf45sDn2t,Thanksgiving Theme,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.522,0.322,0.0,-13.385,1.0,0.0272,0.985,0.921,0.32,0.286,96.36
+3nuBkpDZWcZyRg8DI4Ol5w,Please (with Anson Weeks & His Orchestra),"Bing Crosby, Anson Weeks, His Orchestra",The Essential Bing Crosby,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3spdoTYpuCpmq19tuD0bOe,My Way,Frank Sinatra,My Way (Expanded Edition),0.401,0.381,2.0,-7.458,1.0,0.0274,0.7,0.0,0.122,0.229,75.454
 3ziJFd6JeioC8Xfct0UXpJ,Moonlight Serenade,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.342,0.126,3.0,-11.857,1.0,0.0265,0.862,0.0998,0.146,0.147,77.873
 40dkGkXlOnvj75cbXGvjRf,A Flower Is A Lovesome Thing,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.501,0.0907,7.0,-18.746,1.0,0.0432,0.987,0.936,0.0974,0.0395,118.618
@@ -76,6 +79,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6QgoqQs8PjtKCGuahX310I,Manhattan Reflections - Live,Ahmad Jamal,Live in Paris (1971),0.439,0.359,10.0,-19.181,0.0,0.0329,0.77,0.898,0.142,0.27,94.164
 6QlkHjQmo2YncQN5MQXgPZ,It Never Entered My Mind,Miles Davis Quintet,Workin' With The Miles Davis Quintet,0.476,0.217,8.0,-10.75,1.0,0.0308,0.892,6.09e-05,0.0966,0.121,116.079
 6g82W4awZ4ZqSs2jUT5goS,Tis Autumn,Chet Baker,Chet (Keepnews Collection),0.56,0.0641,0.0,-19.546,0.0,0.0374,0.97,0.898,0.0694,0.257,107.802
+6onxtdIaUHiO2Uqm5PnG1l,Love Thy Neighbor - 1954 Version _ With Spoken Introduction,"Bing Crosby, Buddy Cole Trio",Bing: A Musical Autobiography,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6zK83IKs3vP6Uxm2UpYYpo,Moonlight In Vermont,"Ella Fitzgerald, Louis Armstrong",The Complete Ella And Louis On Verve,0.362,0.0387,0.0,-19.935,1.0,0.0448,0.974,0.000171,0.0902,0.139,170.937
 77fcHU89KRyKKRDskWKOoY,On The Sunny Side Of The Street - 1993 Digital Remaster,Nat King Cole Trio,The Nat King Cole Trio - The Complete Capitol Transcription Sessions,0.87,0.0993,5.0,-17.241,0.0,0.0544,0.994,0.142,0.0879,0.482,125.725
 78MI7mu1LV1k4IA2HzKmHe,Dream A Little Dream Of Me - Single Version,"Ella Fitzgerald, Louis Armstrong","Love, Ella",0.443,0.104,0.0,-17.042,1.0,0.101,0.913,0.0,0.191,0.394,76.474
