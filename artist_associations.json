@@ -5,5 +5,6 @@
     "George Harrison": ["The Beatles", "Paul McCartney", "John Lennon"],
     "The Velvet Underground": ["Lou Reed"],
     "Lou Reed": ["The Velvet Underground"],
-    "Bob Dylan": ["Joan Baez", "The Band", "Johnny Cash"]
+    "Bob Dylan": ["Joan Baez", "The Band", "Johnny Cash"],
+    "The Beach Boys": ["The Four Freshmen"]
 }

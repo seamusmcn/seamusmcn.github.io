@@ -194,16 +194,18 @@ document.getElementById('artist-cat-button')
         .filter(s => s);
       const allExtras = picked.concat(extraText);
 
+      const params = new URLSearchParams();
+      params.append('user_id', userId);
+      // append each artist separately
+        allExtras.forEach(artist => {
+            params.append('include_artists', artist);
+        }); 
+
       // 3) POST again, with include_artists
       const res2 = await fetch('https://seamusmcn-github-io.onrender.com/artist_playlist', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: new URLSearchParams({
-          user_id: userId,
-          // Sends multiple include_artists fields
-          // URLSearchParams knows how to encode an array
-          'include_artists': allExtras
-        })
+        body: params.toString()
       });
       const data2 = await res2.json();
       document.getElementById('status').innerText = data2.message;
@@ -213,7 +215,7 @@ document.getElementById('artist-cat-button')
     container.appendChild(go);
     document.body.appendChild(container);
 
-    // 3) Insert button, instead of at the very bottom
+    // 3) Insertyour button, instead of at the very bottom
     const btn = document.getElementById('artist-cat-button');
     btn.insertAdjacentElement('afterend', container);
 
