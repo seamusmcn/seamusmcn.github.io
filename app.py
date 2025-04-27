@@ -2,6 +2,7 @@ from flask import Flask, request, render_template, session, redirect, jsonify
 from flask_cors import CORS
 import requests
 import spotipy
+import json
 from uuid import uuid4
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
@@ -197,8 +198,6 @@ def artist_cat(sp, MC, artists_to_include):
     if current_track and 'item' in current_track:
         track_info = current_track['item']
         current_track_id = track_info['id']  # Get current track ID
-
-        current_artists = [artist['name'] for artist in track_info['artists']]
 
         # Define playlist name based on the artist
         playlist_name = artists_to_include[0] + ' .cat'
