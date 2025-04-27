@@ -197,6 +197,13 @@ def artist_cat(sp, MC, artists_to_include):
     if current_track and 'item' in current_track:
         track_info = current_track['item']
         current_track_id = track_info['id']  # Get current track ID
+<<<<<<< HEAD
+=======
+        current_artists = [artist['name'] for artist in track_info['artists']]
+        
+        # current_features = sp.audio_features(track_info['id'])[0]  # Get features of current song # DEPRECATED
+        # logging.debug(f"Show audio features: {current_features}")
+>>>>>>> origin
 
         # Define playlist name based on the artist
         playlist_name = artists_to_include[0] + ' .cat'
@@ -498,6 +505,7 @@ def make_artist_playlist():
             return "Failed to fetch Master Catalog.", 500
         
         MC = read_csv_with_encoding(response_master)
+        
         logging.debug("Read master Catalog")
 
         track = sp.current_playback().get('item', {})
