@@ -220,8 +220,6 @@ def artist_cat(sp, MC, artists_to_include, discription = None):
         # Create a new Spotify playlist
         new_playlist = sp.user_playlist_create(user=user_id, name=playlist_name, description=discription, public=True)
 
-        ''' Add a caption to the playlist of all the total artists in it '''
-
         # Get sorted track URIs (excluding current song)
         track_uris = filtered_catalog['Track ID'].tolist()
 
@@ -509,7 +507,7 @@ def make_artist_playlist():
 
         include = request.form.getlist('include_artists')
         if include:
-            desc = f"Artists: {', '.join(include)}"
+            desc = f"+ {', '.join(include)}"
             playlist = artist_cat(sp, MC, [primary_artist] + include, discription=desc)
             return f"Now playing {playlist}", 200
         
