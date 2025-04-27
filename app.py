@@ -186,6 +186,7 @@ def artist_cat(sp, MC):
         track_info = current_track['item']
         current_track_id = track_info['id']  # Get current track ID
         current_artists = [artist['name'] for artist in track_info['artists']]
+        
         # current_features = sp.audio_features(track_info['id'])[0]  # Get features of current song # DEPRECATED
         # logging.debug(f"Show audio features: {current_features}")
 
@@ -511,6 +512,7 @@ def make_artist_playlist():
             return "Failed to fetch Master Catalog.", 500
         
         MC = read_csv_with_encoding(response_master)
+        
         logging.debug("Read master Catalog")
 
         playlist = artist_cat(sp, MC)
