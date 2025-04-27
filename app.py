@@ -25,6 +25,11 @@ Key playlists: 12 small buttons for each key, 1 for each key.
 
 Document my favorite songs parameters as a scatter plot against the other parameters - look for trends with a specific number of that parameter
 BOAT: make a playlist of all the songs within that parameter space - one gaussian distribution around the mean of that parameter space
+
+When creating an artist catalog, retrieve artist listening to, on JS return checkboxes of other associated artists to add to the catalog
++ have a text box to add other artists to the catalog (separate by commas)
++ Also can look in master catalog for covers by other artists of songs by that artist that is being listened to (need to search all songs of artist in master catalog, and then check if there are duplicate names?)
+
 """
 
 
@@ -176,21 +181,25 @@ def best_next_songs(sp, MC, n_songs=3):
             print(f"Added {song_name} to queue.")
 
         return closest_songs[0][0] if closest_songs else "No similar song found."
+    
+with open('artist_associations.json', 'r') as f:
+    artist_associations = json.load(f)
+
 
 # makes a playlist from the master catalog based on artist you are listening to and most similar song.
-def artist_cat(sp, MC):
+def artist_cat(sp, MC, artists_to_include):
+
     # Get current playback information
     current_track = sp.current_playback()
+    if not current_track or 'item' not in current_track:
+        return "No song currently playing", 400
     
     if current_track and 'item' in current_track:
         track_info = current_track['item']
         current_track_id = track_info['id']  # Get current track ID
-        current_artists = [artist['name'] for artist in track_info['artists']]
-        # current_features = sp.audio_features(track_info['id'])[0]  # Get features of current song # DEPRECATED
-        # logging.debug(f"Show audio features: {current_features}")
 
         # Define playlist name based on the artist
-        playlist_name = current_artists[0] + ' .cat'
+        playlist_name = artists_to_include[0] + ' .cat'
         user_id = sp.current_user()['id']
 
         # Check if the playlist already exists
@@ -202,38 +211,15 @@ def artist_cat(sp, MC):
             sp.user_playlist_unfollow(user=user_id, playlist_id=existing_playlist['id'])
 
         # Filter Master Catalog for songs by the current artist(s)
-        filtered_catalog = MC[MC['Artist(s)'].apply(lambda x: any(artist in x for artist in current_artists))]
+        filtered_catalog = MC[MC['Artist(s)'].apply(lambda x: any(artist in x for artist in artists_to_include))]
 
         # Remove the current song from the filtered catalog
         filtered_catalog = filtered_catalog[filtered_catalog['Track ID'] != current_track_id]
 
-        # DEPRECATED
-        # # Calculate Euclidean distance for each song
-        # distances = []
-        # for _, row in filtered_catalog.iterrows():
-        #     features = np.array([row[param] for param in [
-        #         'Danceability Rating', 'Energy Rating', 'Loudness Rating', 'Mode Rating', 
-        #         'Speechiness Rating', 'Acousticness Rating', 'Instrumentalness Rating', 
-        #         'Liveness Rating', 'Valence Rating', 'Tempo Rating'
-        #     ] if row[param] is not None])
-            
-        #     current_values = np.array([current_features[param] for param in [
-        #         'danceability', 'energy', 'loudness', 'mode', 'speechiness', 
-        #         'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo'
-        #     ] if current_features[param] is not None])
-
-        #     if len(features) == len(current_values):
-        #         distance = np.linalg.norm(current_values - features)
-        #         distances.append(distance)
-
-        # # Add distances to the filtered catalog
-        # filtered_catalog['Distance'] = distances
-
-        # # Sort the catalog by distance
-        # sorted_catalog = filtered_catalog.sort_values(by='Distance')
-
         # Create a new Spotify playlist
         new_playlist = sp.user_playlist_create(user=user_id, name=playlist_name)
+
+        ''' Add a caption to the playlist of all the total artists in it '''
 
         # Get sorted track URIs (excluding current song)
         track_uris = filtered_catalog['Track ID'].tolist()
@@ -262,6 +248,7 @@ def artist_cat(sp, MC):
 # Route to handle Spotify credentials submission
 @app.route('/submit_credentials', methods=['POST'])
 def submit_credentials():
+
     # Parse form data
     user_name = request.form.get('user_name')
     logging.debug(f"Received credential submission for user: {user_name}")
@@ -513,9 +500,25 @@ def make_artist_playlist():
         MC = read_csv_with_encoding(response_master)
         logging.debug("Read master Catalog")
 
-        playlist = artist_cat(sp, MC)
+        track = sp.current_playback().get('item', {})
+        if not track:
+            return "No song playing.", 400
+        primary_artist = track['artists'][0]['name']
 
-        return f"Now playing {playlist}"
+        include = request.form.getlist('include_artists')
+        if include:
+            # user made their selection → build & play
+            playlist = artist_cat(sp, MC, [primary_artist] + include)
+            return f"Now playing {playlist}", 200
+        
+        assoc = artist_associations.get(primary_artist, [])
+        if assoc:
+            return jsonify({ 'associated_artists': assoc }), 200
+        else:
+            # no associates defined → just build immediately
+            playlist = artist_cat(sp, MC, [primary_artist])
+            return f"Now playing {playlist}", 200
+        
     except Exception as e:
         logging.error(f"Error in make_artist_playlist: {e}")
         return "Internal Server Error.", 500

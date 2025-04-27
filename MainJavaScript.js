@@ -127,15 +127,19 @@ document.getElementById('artist-cat-button').addEventListener('click', function(
         return;
     }
 
+    // Clear previous dropdown if exists
+    const existingDropdown = document.getElementById('associated-artists-dropdown');
+    if (existingDropdown) {
+        existingDropdown.remove();
+    }
+
     // Make a POST request to the Flask route
     fetch('https://seamusmcn-github-io.onrender.com/artist_playlist', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/x-www-form-urlencoded',
         },
-        body: new URLSearchParams({
-            'user_id': userId
-        }).toString(),
+        body: new URLSearchParams({'user_id': userId}).toString(),
     })
     .then(response => {
         if (!response.ok) {
@@ -144,8 +148,55 @@ document.getElementById('artist-cat-button').addEventListener('click', function(
         return response.text();
     })
     .then(data => {
-        // Display the response in the 'status' paragraph
-        document.getElementById('status').innerText = data;
+        if (data.associated_artists) {
+            // Create dropdown
+            const dropdown = document.createElement('div');
+            dropdown.id = 'associated-artists-dropdown';
+
+            data.associated_artists.forEach(artist => {
+                const label = document.createElement('label');
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.value = artist;
+                label.appendChild(checkbox);
+                label.appendChild(document.createTextNode(artist));
+                dropdown.appendChild(label);
+                dropdown.appendChild(document.createElement('br'));
+            });
+
+            const submitButton = document.createElement('button');
+            submitButton.innerText = 'Create Playlist';
+            submitButton.addEventListener('click', function() {
+                const selectedArtists = Array.from(dropdown.querySelectorAll('input[type="checkbox"]:checked'))
+                    .map(cb => cb.value);
+
+                fetch('https://seamusmcn-github-io.onrender.com/artist_playlist', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded',
+                    },
+                    body: new URLSearchParams({
+                        'user_id': userId,
+                        'include_artists': selectedArtists
+                    }).toString(),
+                })
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('status').innerText = data;
+                    dropdown.remove();
+                })
+                .catch(error => {
+                    document.getElementById('status').innerText = `An error occurred: ${error}`;
+                    console.error('Error:', error);
+                });
+            });
+
+            dropdown.appendChild(submitButton);
+            document.body.appendChild(dropdown);
+        } else {
+            // No associated artists; display response
+            document.getElementById('status').innerText = data;
+        }
     })
     .catch(error => {
         document.getElementById('status').innerText = `An error occurred: ${error}`;
