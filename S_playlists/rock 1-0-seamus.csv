@@ -389,6 +389,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 156z5BJH0XhCIEoQHDOwFC,Look At Me,Buddy Holly,Buddy Holly,0.722,0.567,2.0,-7.368,1.0,0.0398,0.835,0.0,0.132,0.5,143.893
 15Pr6V5jSYcFegjiM1SsGd,Children of Rain,The Electric Prunes,Underground,0.363,0.596,2.0,-14.007,1.0,0.037,0.544,3.6e-05,0.0829,0.491,127.404
 15Z3JEayO4OEcbJQsasWHh,Out on the Weekend,Neil Young,Harvest (50th Anniversary Edition),0.669,0.207,9.0,-18.879,1.0,0.036,0.0987,0.0266,0.0702,0.652,136.61
+15qBdyeOsal1QJvB3ysW9g,City of New Orleans,Willie Nelson,City Of New Orleans,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 161v0jFYUhailRdBDpme42,Brief Candles - Mono Version,The Zombies,Odessey and Oracle,0.379,0.392,6.0,-8.863,0.0,0.0308,0.717,1.09e-05,0.129,0.199,136.37
 165NAtd2DRPKNQ6EVY0VG9,The Tide Is High - Edit,Blondie,Tide Is High,0.778,0.667,11.0,-7.273,1.0,0.0258,0.0514,0.0312,0.092,0.964,96.954
 166UXCU5rcRm5si9vC8bhQ,"Over You - Live At The Matrix, San Francisco, CA / 1969",The Velvet Underground,1969: Velvet Underground Live with Lou Reed Vol. 2,0.727,0.387,2.0,-15.381,1.0,0.0352,0.223,0.581,0.212,0.76,119.357
@@ -581,6 +582,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1albHYDB48jL8MuV75ffPA,Tomorrow Is a Long Time - Witmark Demo - 1962,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.403,0.143,4.0,-18.49,1.0,0.0351,0.89,0.000231,0.0997,0.513,90.23
 1b4QRESWX0r0JSpFmRHCew,Good Vibrations,The Beach Boys,Smile Sessions,0.381,0.532,10.0,-7.776,0.0,0.0341,0.0581,0.00035,0.114,0.316,75.239
 1bCGzYa5RQYhVFM6G5Z4Jy,Sunday Girl,Blondie,Greatest Hits: Blondie,0.551,0.664,9.0,-8.309,1.0,0.0529,0.000915,0.0167,0.114,0.742,146.167
+1bJWuhMwww0TV6M6QhFYOQ,Quinn the Eskimo (The Mighty Quinn) - Studio Outtake - 1967,Bob Dylan,The Essential Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1bhEXSENsTQgFjFEZRLAcB,Stephanie Says,The Velvet Underground,White Light / White Heat (Super Deluxe),0.553,0.282,0.0,-15.007,1.0,0.0325,0.869,4.99e-05,0.109,0.226,112.871
 1bhhOP9qafohLFUj0OE43Y,Stockpile - May 1965 Demo,Lou Reed,"Words & Music, May 1965",0.495,0.615,5.0,-9.56,1.0,0.0407,0.951,0.858,0.202,0.779,130.844
 1bo6xzrCrK7ocEirC5rrZk,Soul Love - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),0.573,0.404,2.0,-12.142,1.0,0.0626,0.0579,1.52e-06,0.217,0.709,72.906

@@ -132,6 +132,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1ZcBa2buf2Mx5LHTyOujri,I'm Going Away,Elizabeth Cotten,Shake Sugaree,0.527,0.171,10.0,-14.512,1.0,0.0353,0.976,0.000545,0.114,0.664,106.462
 1albHYDB48jL8MuV75ffPA,Tomorrow Is a Long Time - Witmark Demo - 1962,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.403,0.143,4.0,-18.49,1.0,0.0351,0.89,0.000231,0.0997,0.513,90.23
 1ayfBCPk1WtaelzZWGyYti,Twelve Gates To The City,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1bJWuhMwww0TV6M6QhFYOQ,Quinn the Eskimo (The Mighty Quinn) - Studio Outtake - 1967,Bob Dylan,The Essential Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1bqDQwBFPvykl6OiIHTVis,Settin' The Woods On Fire,Hank Williams,Memorial Album (Expanded Edition),0.757,0.3,0.0,-9.017,1.0,0.0434,0.836,1.73e-06,0.0649,0.961,161.295
 1cMccBkQ6lcwBxrukpARvo,I Couldn't Believe It Was True,Doc & Merle Watson,Elementary Doctor Watson,0.592,0.473,7.0,-11.315,1.0,0.0318,0.823,0.0863,0.143,0.892,112.69
 1ddAhpFNfjMbCDICWq0Z0z,Rainbow at Midnight,Carlisle Brothers,The Trouble with the Truth,0.646,0.126,10.0,-13.233,1.0,0.0275,0.979,0.0,0.191,0.328,105.485
@@ -334,6 +335,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 43OVfd7ETJgDU1fNm0jPS2,Hello Walls,Willie Nelson,Country Willie - His Own Songs,0.671,0.243,0.0,-11.58,1.0,0.0494,0.764,0.00352,0.114,0.596,113.108
 45QEBxnCe3NANZhc2JzkB2,Fat Mama,Michael Hurley,First Songs,0.709,0.133,11.0,-22.293,0.0,0.0411,0.864,0.000736,0.12,0.26,118.194
 45STtJGyiJvht6jJWo09rn,Alabama Bound - 2003 Remastered,Lead Belly,Take This Hammer - The Complete RCA Victor Recordings - When The Sun Goes Down Series,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+46HgyDTyTxJ3JvcAZmJ9h4,Steel Guitar Rag,Roy Smeck,Roy Smeck Plays Hawaiian Guitar,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 46gb7fjpnYkLFoFIWTQQVn,Tell Me That It Isn't True - Take 2,Bob Dylan,"Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 46qWzjcqItJRcBtcC9BFlK,In Care Of The Blues,Patsy Cline,Patsy Cline,0.728,0.337,4.0,-12.243,1.0,0.0316,0.885,0.0,0.345,0.74,94.781
 47gmoUrZV3w20JAnQOZMcO,Blue Suede Shoes,Elvis Presley,Elvis Presley,0.557,0.66,2.0,-7.706,1.0,0.056,0.654,1.66e-06,0.138,0.962,95.252
@@ -361,6 +363,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4Ke0WGTsrA73KUGzLFKezI,Nice Baby and the Angel,David Blue,Nice Baby and The Angel,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4KmjzHcjcCxmNNBW2MmVf8,You Ain't Goin' Nowhere - Studio Outtake - 1971,Bob Dylan,The Essential Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4LkZOwhBAqLYGvoBA1hgdQ,Spike Driver's Moan,Dave Van Ronk,Dave Van Ronk Sings,0.497,0.0211,4.0,-21.05,0.0,0.0437,0.94,7.66e-05,0.0906,0.377,118.399
+4M1su6qn7t5FnyMukpCGzK,"(Quinn the Eskimo) The Mighty Quinn - Live at the Isle of Wight, UK - August 1969",Bob Dylan,Self Portrait,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4MNxOR2Fu4NqJ892UdYx0h,Bob Dylan's Dream,Bob Dylan,The Freewheelin' Bob Dylan,0.48,0.247,7.0,-15.929,1.0,0.0311,0.747,2.86e-06,0.0745,0.422,109.646
 4NazHwfKb4e9WSkFM2OC52,Rock Billy Boogie,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.718,0.89,7.0,-7.163,1.0,0.0499,0.669,0.0,0.164,0.95,90.312
 4OwC9Y91IVo1VKJUPA8ZD5,Stackolee,Jesse Fuller,Move on Down the Line,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
