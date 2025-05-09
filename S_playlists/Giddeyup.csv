@@ -28,6 +28,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0K7TlSWBxzhRXI2qIapOt8,Riding in My Car (Car Song),Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,0.708,0.191,4.0,-16.726,1.0,0.157,0.905,0.0235,0.118,0.762,130.822
 0K9Xk9AKGtvjXn063Ok6Eg,Riot In Cell Block Number Nine,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0KD3J7kuG555P3s7yOc6aO,Wreck of the Old '49,Shel Silverstein,Inside Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0LQb14wtNOmlcEpQkfnYX7,If I Had a Hammer (Hammer Song),Pete Seeger,If I Had a Hammer: Songs of Hope and Struggle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0M7Mh2ypmVS1T0FvUVjXI8,Stealin',Jim Kweskin,America,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0MSueU8MW1slgFKn2x3GFt,"Oh! Love of Mine (September 14, 2024)","Jesse Welles, Welles World",Under The Powerlines (April 24 – September 24),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0Mt7UFxCdP6wk8fcQX2TpY,Don't Get Around Much Anymore,Willie Nelson,Stardust,0.687,0.293,4.0,-10.483,1.0,0.0461,0.817,7.39e-05,0.237,0.524,120.058
@@ -297,6 +298,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3bM1p9F6b4btWTAO9IgXcb,Girl from the North Country - Rehearsal,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3bSZlIcVkpKphNEmjqfnvS,I'll Fly Away,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.409,7.0,-7.607,1.0,0.0258,0.949,0.000597,0.186,0.178,97.789
 3bU8rIEuatTa7XjHl4Sw8f,Close My Eyes,Arthur Russell,Love Is Overtaking Me,0.655,0.245,7.0,-13.817,1.0,0.0392,0.747,0.0248,0.124,0.39,123.77
+3d6cdwul6DaNo4S4nLMtOW,Going Train Blues,Peg Leg Sam,Early in the Morning (feat. Louisiana Red),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3dY8NPI9s3MpEqOfGfHqlf,Trouble in Mind,Big Bill Broonzy,Trouble in Mind,0.64,0.022,7.0,-18.356,1.0,0.0761,0.852,0.0,0.0837,0.429,81.493
 3do8UJU3lLUpp6vLiaj2C7,Git Along Little Dogies,Bing Crosby,How The West Was Won (Original Soundtrack Recording),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3dw0yB8p4isToFWSF95aOW,Engine 143,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.612,0.153,8.0,-12.435,1.0,0.0362,0.94,0.0,0.128,0.314,78.7
@@ -456,6 +458,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5GIAi04ISTg1IkO7CisQ37,The Animal Song - If I Could Ramble Like a Hound,Michael Hurley,First Songs,0.402,0.11,0.0,-20.053,1.0,0.0323,0.888,0.00351,0.325,0.119,140.678
 5GMoLIAxcmqswtP9tu5JXr,Cocaine Blues,Dave Van Ronk,Hear Me Howl (Live 1964),0.488,0.108,0.0,-18.973,1.0,0.0776,0.922,0.236,0.68,0.458,144.63
 5GOFil3Umfp4yB75U2Ah4e,Georgia On My Mind,Willie Nelson,Stardust,0.533,0.215,1.0,-12.854,1.0,0.0396,0.8,0.0336,0.14,0.106,67.985
+5HJBRfHedPIiSOb17lkRQr,"Turn, Turn, Turn",Pete Seeger,If I Had a Hammer: Songs of Hope and Struggle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5HwUwDJk51mWphH96lXuaL,That's When I'll Come Back To You,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5JBIhsEjGqcV4OZfBgtGih,The Leaving of Liverpool,The Pogues,Red Roses for Me (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5KhCSQV4DkzQUAqfM4mgjI,Po' Howard _ Green Corn,Lead Belly,Tradition Masters Series,0.58,0.303,10.0,-13.865,1.0,0.117,0.994,0.497,0.109,0.603,128.005
