@@ -38,6 +38,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0Q9HsOCyK0ym8EJ8E1FJ25,I Am a Man of Constant Sorrow,Roscoe Holcomb,An Untamed Sense of Control,0.432,0.0296,5.0,-13.815,1.0,0.0836,0.915,0.0,0.328,0.429,168.88
 0QE0TPsJRTIP1VgDARH8V3,Hound Dog,Odetta,Sings Ballads & Blues,0.492,0.16,6.0,-8.231,1.0,0.0283,0.889,0.00208,0.124,0.467,98.224
 0QTiGVI7OrYfTbBnw02cyo,It's Hard To Believe In Love For Long,Tim Hardin,Tim Hardin 2 (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0Rb6Bg8PYA0dR8KVutPu9y,I've Got A Secret (Didn't We Shake Sugaree),Fred Neil,Fred Neil,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0TLGCDjvlwOhGFOQyuNZXH,Columbus Stockade Blues,"Willie Nelson, Shirley Collie",Country Willie,0.531,0.461,7.0,-11.464,1.0,0.189,0.563,0.0,0.0672,0.81,153.401
 0TnNahz8sbK6HU6Qr7XErU,Peach Picking Time In Georgia,Doc Watson,Good Deal!,0.624,0.251,2.0,-15.183,1.0,0.0342,0.744,1.73e-05,0.112,0.743,145.672
 0TnvDrn2StJYzMD2Da9HPy,Down in a Willow Garden,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.655,0.216,8.0,-10.544,1.0,0.0288,0.937,0.000342,0.139,0.313,86.538
@@ -512,6 +513,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5xVFRG39Ty6W9QNILFgUCe,Maple Leaf Rag,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5xxd4Qg5WsRY98DawMpC1E,Rosalee Mcfall,"Jerry Garcia, Tony Rice, David Grisman",The Pizza Tapes,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5yS6nWaVXENu991vJ9resf,Somebody Came Home,The Rooftop Singers,Vanguard Visionaries,0.686,0.414,1.0,-11.471,1.0,0.038,0.882,2.22e-05,0.128,0.859,101.002
+5yZzLyY9SMI3ZjdqpXWYDp,Everybody's Talkin',Fred Neil,Fred Neil,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5yeB8FGoeS4EkDcnsRN8vP,When I get home,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.496,0.124,5.0,-16.657,1.0,0.0368,0.975,0.011,0.119,0.318,175.921
 5z5ercwaoJWrJkMXbvaRGP,Clementine,Pete Seeger,"American Favorite Ballads, Vols. 1-5 (Box Set)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5zWiXnEytHwjCF1iS3B2JK,That Song About The Midway,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -646,6 +648,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7kfsMPZWCXK74eVTzzLQyI,Standing on the Outside of Your Shelter,Shel Silverstein,Inside Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7ls1MUdvOF6E2uwAloompw,Pretty Flower in Your Backyard,Lead Belly,Tradition Masters Series,0.539,0.435,5.0,-10.607,0.0,0.0515,0.992,0.691,0.107,0.807,137.698
 7momNWKOObWP1nBE1BNirA,Guitar Man,Elvis Presley,Clambake,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7nGnCyY1xCeDgp3IslgAEy,That's The Bag I'm In,Fred Neil,Fred Neil,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7noWm4lKCBIiQThaIX5oEK,One-Sided Love Affair,Elvis Presley,Elvis Presley,0.628,0.79,7.0,-7.458,1.0,0.0619,0.697,0.0,0.255,0.855,94.856
 7ntpfdKdb2zrJai6QrIKB4,Talking Vietnam Blues,Phil Ochs,All The News That's Fit To Sing,0.662,0.267,6.0,-13.222,1.0,0.177,0.527,0.0,0.0884,0.635,127.195
 7ny2ATvjtKszCpLpfsGnVQ,A Hard Rain's A-Gonna Fall,Bob Dylan,The Freewheelin' Bob Dylan,0.567,0.198,4.0,-18.681,1.0,0.0327,0.919,0.000871,0.135,0.321,92.467
