@@ -10,6 +10,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 03f95cczYGlSHf1UfnVRkp,Tomorrow Is a Long Time,Odetta,Odetta Sings Dylan,0.52,0.139,8.0,-16.767,1.0,0.0324,0.95,0.00349,0.137,0.529,103.25
 04ExhxwVIsBtSgjWaljuPi,Twelve Gates to the City,Dave Van Ronk,"Sings Ballads, Blues and a Spiritual",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 04bsExZXrwoRXYKKDWlTIU,I Saw The Light,"Hank Williams, Drifting Cowboys",Sings,0.349,0.273,7.0,-11.443,1.0,0.0325,0.95,6.21e-05,0.146,0.493,204.922
+09REPRlOCJY1amVIpG6Aet,All I Have To Do Is Dream,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0AAsZvbbE1dGnveap3LJnz,One Day at a Time,Willie Nelson,Country Willie - His Own Songs,0.684,0.267,2.0,-11.032,1.0,0.0351,0.627,0.00117,0.117,0.497,116.122
 0AeEmmfF3PA9WRlnjXJvyv,This Land is Not Our Land,Utah Phillips,Making Speech Free,0.649,0.181,6.0,-13.767,0.0,0.108,0.886,0.0,0.766,0.502,128.804
 0AknUKdH6qSR6xFzlkdVVy,Paperback Writer,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -111,6 +112,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1DgWCfYQYk4WOM2L2dU2WA,Jesus Met The Woman At The Well,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1EDjgsFptABkWWjdEbCjwJ,"Baby, Let Me Follow You Down",Bob Dylan,Bob Dylan,0.519,0.513,9.0,-6.495,1.0,0.0328,0.785,0.0039,0.1,0.634,133.622
 1FftkbfAdFJJXseUqiCOeO,Drinking Wine Spo-Dee-O-Dee,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.701,0.709,9.0,-9.71,1.0,0.0701,0.551,0.000109,0.101,0.894,172.127
+1Ih6mseDBS50nIcAmecNXu,Georgia Mules And Country Boys,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1IweH8yYcVyr0CVE9G4wzP,Dust Bowl Refugee,Woody Guthrie,Dust Bowl Ballads,0.594,0.182,9.0,-13.756,1.0,0.036,0.786,0.00177,0.177,0.713,110.716
 1Jgu2OQ870fj8x4Vse2V8i,Ground Hog,Frank Proffitt,Frank Proffitt Sings Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1L3p52pBRMRvEg3vb7aUUD,She's a Woman,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -224,6 +226,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2hq6o5sOBus92ZK1b7FWKZ,Dusty Old Dust (So Long It's Been God to Know Yuh),Woody Guthrie,Dust Bowl Ballads,0.725,0.196,0.0,-15.176,1.0,0.0525,0.791,2.8e-06,0.0916,0.8,109.022
 2jhjfGpaicxM2lFc25JZem,Mr. Tambourine Man - Witmark Demo - 1964,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.549,0.121,2.0,-15.08,1.0,0.0383,0.988,0.0168,0.107,0.462,132.553
 2mBdAfAQ0zvbs1r3EfckCF,Hard Traveling,Woody Guthrie,"Hard Travelin': The Asch Recordings, Vol. 3",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2mEerzpFGUQzvKvVPHp65T,Banjo's Goin' Home,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2mOoTm1KIDeZUP52I2mn74,When I Was a Cowboy,Lead Belly,Tradition Masters Series,0.71,0.373,4.0,-14.467,1.0,0.0598,0.99,0.000932,0.186,0.961,104.776
 2nRuEFsz1Ianj2DU7RIgLz,Alabama Bound,Odetta,Sings Ballads & Blues,0.632,0.414,0.0,-4.948,1.0,0.0389,0.841,0.00669,0.159,0.704,125.32
 2nWvzzvR9CNpeIhGPOdbek,Anytime,Arlo Guthrie,Hobo's Lullaby (Remastered 2004),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -274,10 +277,12 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3HNpBP6wTcZn4ykqMR6ijo,Seasons Of My Heart,Willie Nelson,Country Willie,0.545,0.239,10.0,-11.455,1.0,0.0325,0.877,0.00642,0.083,0.719,84.412
 3HYK9Xzx0heUh5pG2HgCGX,Blues With A Whoop,"Brownie McGhee, Sonny Terry",Wizard Of The Harmonica,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3HZuPDdDHJfYumgE6Iq4GZ,Dink's Song,Dave Van Ronk,Van Ronk Sings,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3Hpu4c6DsOAe8XBBMd0Gy1,Take Me As I Am - Or Let Me Go,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3IVPUj0iJL4UrKK5EugpGJ,Black Mountain Rag,Doc Watson,The Essential Doc Watson,0.299,0.629,0.0,-20.079,0.0,0.0544,0.73,0.961,0.962,0.932,134.354
 3JTO5KoXnd4KPLiWKkmKMY,I Never Will Marry,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.609,0.119,0.0,-11.688,1.0,0.037,0.978,0.0,0.114,0.227,108.177
 3M9sGa8a727cU8eUsp3D1n,Small Town On The River - Re-Recorded,Bill Morrissey,Bill Morrissey (Re-Recorded),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3MxAT7MRx7V0CL3tVtJby1,Didn't It Rain,"Sister Rosetta Tharpe, Marie Knight, Sam Price Trio",Gospel Train (Expanded Edition),0.741,0.665,5.0,-5.87,1.0,0.0517,0.8,0.0,0.079,0.77,85.517
+3N7HJeBZ6BtWTiDeKeLwXm,Muddy Bottom,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3NdsxlnJJGD87KGNs9LysS,Run...run _ Mama your son done gone,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.366,0.236,1.0,-21.847,1.0,0.0429,0.96,0.848,0.107,0.448,142.722
 3OSEDX1ppaZchtfZdVRa32,House Of The Rising Sun,Dave Van Ronk,Just Dave Van Ronk,0.358,0.137,0.0,-15.679,0.0,0.034,0.912,0.000754,0.112,0.145,96.914
 3OsPGKXz4qdRY7gukbcQhH,"All I Really Want to Do - Live at Philharmonic Hall, New York, NY - October 1964",Bob Dylan,The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -287,6 +292,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3Qxk09hbSVeP6R35tzulTg,The Gallis Pole,Lead Belly,Tradition Masters Series,0.572,0.158,4.0,-15.148,1.0,0.0432,0.994,0.0674,0.107,0.961,127.929
 3SF5puV5eb6bgRSxBeMOk9,Man of Constant Sorrow,Bob Dylan,Bob Dylan,0.377,0.397,7.0,-8.427,1.0,0.0312,0.817,0.0496,0.187,0.462,108.591
 3Sf1CcbDbc50F0fyprB5TN,Don't Ever Tell Me You Love Me - Unless You Mean It With All Your Heart,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3TQpnTR1jHFTD8bjD8wPpl,Love Hurts,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3TqzJWiX62Gd8LGdtkGeZ0,'Buked and Scorned,Odetta,Sings Ballads & Blues,0.338,0.206,10.0,-11.81,1.0,0.0339,0.983,0.012,0.109,0.468,115.223
 3U5nO6CCeLHDHblTLoCbwQ,Bus Rider Blues,Blind Boy Fuller,Blind Boy Fuller Vol. 6 1940,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3Ug2Ikn8kwxJs7S40blPzM,Private Lily,Moriarty,Gee Whiz But This Is a Lonesome Town,0.709,0.465,11.0,-7.64,0.0,0.0336,0.884,0.0539,0.143,0.834,106.177
@@ -340,6 +346,8 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 42TzwytZSRNxiEuERoWVRy,I've Been Working On The Railroad,Pete Seeger,"American Favorite Ballads, Vols. 1-5 (Box Set)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 42c1llyZbuO4fS9c7P4bjy,Log Cabin Blues (Take 2),Blind Boy Fuller,Blind Boy Fuller Vol. 1 1935 - 1936,0.776,0.286,1.0,-11.772,1.0,0.0837,0.954,0.4,0.125,0.825,109.078
 43OVfd7ETJgDU1fNm0jPS2,Hello Walls,Willie Nelson,Country Willie - His Own Songs,0.671,0.243,0.0,-11.58,1.0,0.0494,0.764,0.00352,0.114,0.596,113.108
+43OyPmKCkB5KpKqspdBlul,Packing Up Your Heart - To Say Goodbye,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+43hhf5XOer7FCc4SNb8wBd,Hey Joe,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 45QEBxnCe3NANZhc2JzkB2,Fat Mama,Michael Hurley,First Songs,0.709,0.133,11.0,-22.293,0.0,0.0411,0.864,0.000736,0.12,0.26,118.194
 45STtJGyiJvht6jJWo09rn,Alabama Bound - 2003 Remastered,Lead Belly,Take This Hammer - The Complete RCA Victor Recordings - When The Sun Goes Down Series,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 46HgyDTyTxJ3JvcAZmJ9h4,Steel Guitar Rag,Roy Smeck,Roy Smeck Plays Hawaiian Guitar,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -373,6 +381,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4M1su6qn7t5FnyMukpCGzK,"(Quinn the Eskimo) The Mighty Quinn - Live at the Isle of Wight, UK - August 1969",Bob Dylan,Self Portrait,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4MNxOR2Fu4NqJ892UdYx0h,Bob Dylan's Dream,Bob Dylan,The Freewheelin' Bob Dylan,0.48,0.247,7.0,-15.929,1.0,0.0311,0.747,2.86e-06,0.0745,0.422,109.646
 4NazHwfKb4e9WSkFM2OC52,Rock Billy Boogie,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.718,0.89,7.0,-7.163,1.0,0.0499,0.669,0.0,0.164,0.95,90.312
+4OVxjPLXxJZ3arYt6CUH7E,Tennessee Hound Dog,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4OwC9Y91IVo1VKJUPA8ZD5,Stackolee,Jesse Fuller,Move on Down the Line,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4PqnZY5P4CgGLls1A4ZDrB,Shoot That Buffalo,Elizabeth Cotten,Shake Sugaree,0.471,0.533,7.0,-9.61,1.0,0.0372,0.805,0.395,0.0672,0.965,130.932
 4PvPkRcbnO4s67MPnij3sh,Deep River Blues,Doc Watson,Doc Watson,0.516,0.157,5.0,-19.213,1.0,0.0354,0.876,1.42e-05,0.142,0.783,93.719
@@ -474,6 +483,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5LBGY6QJcjMuM0jroMofcW,The Boll Weevil,Jack Elliott,Muleskinner,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5Mpf4agr1uMRcYvejZKF9T,Hannah,"Jim Kweskin, Mel Lyman, Fritz Richmond",Relax Your Mind,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5Ms8YqYVd6gnhVGwD9KCoG,Queen Of The Ballroom,Buddy Holly,Not Fade Away: The Complete Studio Recordings And More,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5O78LAVAaByIVc2lhBFo94,We Could,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5O8Dz4DV3RDRFddfijqTOy,The Blues Come Around,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.582,0.483,0.0,-10.628,1.0,0.036,0.789,7.77e-06,0.15,0.922,177.402
 5OJRghFCykJfi8c6uJnyeQ,Bread and Roses,Utah Phillips,We Have Fed You All a Thousand Years,0.635,0.308,2.0,-18.367,1.0,0.905,0.911,0.0,0.93,0.824,101.669
 5Pvaycf1bu6dZfbXW9KPuj,Masters Of War,Odetta,Odetta Sings Dylan,0.533,0.174,9.0,-16.235,1.0,0.0342,0.936,0.00173,0.134,0.502,108.956
@@ -623,6 +633,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 75l6F3iFhaICGW0CxT4BVH,San Francisco Bay Blues,The Rooftop Singers,Vanguard Visionaries,0.766,0.358,8.0,-14.786,1.0,0.0367,0.344,0.000105,0.198,0.801,93.589
 75noWD1FYMFBKeUnxCy4NB,This Land Is Your Land - Live in New York City - November 1961,Bob Dylan,No Direction Home: Bootleg Volume 7 (Movie Soundtrack),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 76H5hd840aH9PwXYOdlZfD,Hollow Log,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+78jHiDlxm8N6VAUm7P5sHi,I Can't See The Rainbow,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 792VevIBjW59cCDA20XeXI,Mississippi Heavy Water Blues,Roscoe Holcomb,An Untamed Sense of Control,0.672,0.347,6.0,-12.287,1.0,0.036,0.785,0.00431,0.103,0.616,123.808
 799HWxeFZKNiWzrfzwM1LL,Old Black Joe,Jim Kweskin,America,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 79TU7Z00JCnoU7FPAGCF7Q,"To Ramona - Live at Philharmonic Hall, New York, NY - October 1964",Bob Dylan,The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -665,6 +676,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7ny2ATvjtKszCpLpfsGnVQ,A Hard Rain's A-Gonna Fall,Bob Dylan,The Freewheelin' Bob Dylan,0.567,0.198,4.0,-18.681,1.0,0.0327,0.919,0.000871,0.135,0.321,92.467
 7or0LLIO1EGAzQHGLzjji3,Standing on the Highway - Witmark Demo - 1962,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.499,0.342,2.0,-15.005,0.0,0.0377,0.602,1.3e-05,0.19,0.721,160.772
 7p4l82yVJXjQ8dabjIx7eL,The Great Dust Storm (Dust Storm Disaster),Woody Guthrie,Dust Bowl Ballads,0.608,0.227,4.0,-11.129,1.0,0.0375,0.777,0.0,0.163,0.643,105.931
+7pnllHmgJYLuwDm2xsVWHR,"Fortune, Fortune",The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7pycQqmVceWznSyxHwr66z,St. Louis Tickle,Dave Van Ronk,Hear Me Howl (Live 1964),0.487,0.149,0.0,-24.663,1.0,0.0557,0.876,0.746,0.92,0.704,146.401
 7rvEDSgrLwaDf2lGOGvSI0,How Do You Think I Feel,Elvis Presley,Elvis,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7s74E5JefyqDNweUh5uj9Z,The Sheik of Araby,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
