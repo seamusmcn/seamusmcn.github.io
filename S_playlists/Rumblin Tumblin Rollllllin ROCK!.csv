@@ -11,6 +11,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0st5KadoipH6RYY6uktR5g,Mystery Train,Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 0wNnwLgq5N9lWYib8eUnu6,Boppin' The Blues,Carl Perkins,The Dance Album,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 13iOuXq0mLMIMI1JPH8WsC,Tomorrow Night,Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+1CA8QAoFwnbwRRNakAB9bn,Sixty Minute Man,"Clyde McPhatter, Billy Ward & The Dominoes, Billy Ward",Clyde McPhatter with Billy Ward and His Dominoes,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 1IB5rAeeCS8AS2BZqUPLpM,Don't Come Back Knockin' - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 1Kp0O70KDERT9EeAULd1no,I'll Never Let You Go (Little Darlin'),Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 22OIyWXR8Y7HC0FkdlaoE4,Just Because,Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
@@ -29,9 +30,11 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3fy76k7I8YMUOR7bn7EcM5,Speedoo (Alternative Take),The Cadillacs,The Fabulous Cadillacs,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 3idqWaBn3mRdsIodCU6uBi,Roll Over Beethoven - Remastered 2009,The Beatles,With The Beatles (Remastered),-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 3m13RHomlb7xk5DffFeh4r,(You're so Square) Baby I Don't Care,Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+4I2D0Vxhdbv18uUCurfeUd,Drinkin' Wine Spo-Dee-O-Dee,Sticks McGhee & His Buddies,Drinkin' Wine Spo-De-O-Dee,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 4T2MKUHuthmXbOzZbPoNIv,I Love You Because,Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 4VDPfghlVxczF6n6w9QICJ,That Makes It Tough,Buddy Holly,Down The Line: Rarities,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 4Z1I0BogaYeHRxUUzRMtDm,"I'm Left, You're Right, She's Gone",Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+4mweH8Ya5cJBXA5q1JUdzp,Without Love (There Is Nothing) - Japan 2012 Remaster,Clyde McPhatter,Atlantic Rock & Roll,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 50uNkynPJVEsBYh3xJopra,You're a Heartbreaker,Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 55yfZaURv6pjKmf2ud9WSF,Down The Line - Undubbed Version,"Buddy Holly, Bob Montgomery",Down The Line: Rarities,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 57xnHICRgvsCs2Ss6TmXWM,"True, Fine Mama",Little Richard,Here's Little Richard (Deluxe Edition),-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
@@ -42,16 +45,21 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5d6ZRqgbz26Sg4bk1oifQw,Blue Suede Shoes,Carl Perkins,The Dance Album,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5kxtrXsiFlvO3DAb3r7Z5w,"Happy, Happy Birthday - Remastered",Wanda Jackson,The Capitol Singles 1959-1961,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5m8SaS3pEMRVpgdBnOZcGp,I Was the One,Elvis Presley,For LP Fans Only,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+5pPesJzpKEscZf906ZAZCz,Bip Bam,Clyde McPhatter,"Milestones of Legends Kings & Queens of R & B, Vol. 9",-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5rMbcP1NsPtnpK3t9IIvNB,Slippin' And Slidin' (Peepin' And Hidin'),Little Richard,Here's Little Richard (Deluxe Edition),-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5v7iotkmgFKxx6YyUyFJ1T,Milkcow Blues Boogie,Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5wbZ3sbWf4PppzZiRxkxou,Ready Teddy,Little Richard,Here's Little Richard (Deluxe Edition),-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5xf0zdP4KCfshyVn02D3Ea,Kansas City _ Hey-Hey-Hey-Hey - Medley _ Remastered 2009,The Beatles,Beatles For Sale (Remastered),-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 63Kd16SWsBZESL3obP300p,Baby,Little Richard,Here's Little Richard (Deluxe Edition),-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 68xFgkdGZtW5xP4QonScPq,Moonlight Baby - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+6HBgCYResmsdmOufyHVoNB,A Lover's Question,Clyde McPhatter,Clyde,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+6TxJloapzIwrKoGqRIIZJA,You're Moving Me,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6VllPFynJJwk1PxqbrKIk3,Baby Let's Play House - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6ZfSXhqojBGB8BdRFb96Im,How Blue Can You Get_,B.B. King,Live In Cook County Jail,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6oaslGPGoMEB5ySn9iGeBJ,That's All Right,Elvis Presley,The King of Rock 'n' Roll: The Complete 50's Masters,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+6q2jtx9PUMjzqEe30kEAID,Someday You'll Want Me to Want You - Japan 2012 Remaster,"Clyde McPhatter, The Drifters",Atlantic Rock & Roll,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6uJXOi796U1D8iW9fj2ZGn,Funnel Of Love,Wanda Jackson,The Capitol Singles 1959-1961,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+6xAKCAHwaAvw9rlwAv3lkD,Lover Please,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6zVZlrgpppqMNSThmROWEe,"Shake, Rattle and Roll",Elvis Presley,For LP Fans Only,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 755qKoVupLihZptsEtJ778,Love Me - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 7DaJpUukBvesxqgO98LrDG,Cool Love,Wanda Jackson,The Capitol Singles 1959-1961,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
