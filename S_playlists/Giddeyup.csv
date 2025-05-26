@@ -106,6 +106,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 14V1IzC9AaeRFtuXMxXJNH,So Much to Do,Willie Nelson,Country Willie - His Own Songs,0.627,0.258,10.0,-13.476,1.0,0.028,0.731,0.013,0.0522,0.648,87.962
 15WaCkvUPrsbWhjzgl12jv,The Tea Song,Michael Hurley,First Songs,0.489,0.0363,8.0,-22.843,0.0,0.0454,0.928,0.0205,0.0815,0.215,101.449
 15YKkZKRpAs4HaL1Gz3zmo,Poor Ellen Smith,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.68,0.499,2.0,-7.114,1.0,0.0416,0.926,0.000239,0.117,0.403,123.875
+15Zx5y6XDpELgaTcX5fvfN,There is Mean Things Happening in This Land,Pete Seeger,"Gazette, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 15qBdyeOsal1QJvB3ysW9g,City of New Orleans,Willie Nelson,City Of New Orleans,0.543,0.633,2.0,-11.693,1.0,0.05,0.477,2.14e-05,0.16,0.613,151.609
 16rlMzTMiprF9y5ZCOsHpV,Six More Miles (To The Graveyard),"Hank Williams, Drifting Cowboys",The Complete Hank Williams,0.569,0.369,7.0,-11.111,1.0,0.03,0.886,0.00424,0.152,0.605,89.866
 16yqWsqvOgJ7UasOLbsJAP,Goin' Down This Road,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.489,0.224,7.0,-15.012,1.0,0.0418,0.88,0.0,0.136,0.639,201.175
@@ -135,6 +136,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1OEeYRbR1O40Yu6wmt1ReJ,Worried Blues - Studio Outtake - 1962,Bob Dylan,The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1PI5mRLMVGjHe4nzGACCf2,More Pretty Girls Than One,Doc & Merle Watson,Elementary Doctor Watson,0.587,0.229,0.0,-14.848,1.0,0.0297,0.934,0.136,0.115,0.786,104.797
 1PRnkU9Ic6up4w6KOkSY8x,Jean Harlow,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1PeqMhnjHWM1b4FBvivScM,Martian Love Song,Pete Seeger,"Gazette, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1SsEF3BFKv3rEgdsMRetUF,The Banks of the Ohio,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.245,3.0,-8.139,1.0,0.0505,0.988,0.0,0.17,0.589,81.591
 1Sv7P3pIY2Zjzpen78OORc,Talkin' Dust Bowl Blues,Woody Guthrie,Dust Bowl Ballads,0.58,0.284,9.0,-13.668,1.0,0.0441,0.505,0.00691,0.111,0.694,115.975
 1Uf4MJU7ckwuaHKrbBb16y,That's My Desire,Buddy Holly,Buddy Holly,0.424,0.361,7.0,-8.732,1.0,0.0306,0.639,0.0,0.159,0.581,122.63
@@ -255,6 +257,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2qWKpYIleSvBT6aUMXoia5,Angel from Montgomery,John Prine,John Prine,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2qiSX8COgtblP4ytYe0juU,Tom Dooley,Frank Proffitt,"Frank Proffitt of Reese, North Carolina",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2rsLsFHdWBnGS371Aw77LK,Low Down Blues,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.647,0.463,11.0,-9.548,1.0,0.047,0.972,0.00902,0.2,0.905,123.509
+2sUAAsEfGIob6za45Cetg8,Talking Atom (Old Man Atom),Pete Seeger,"Gazette, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2tKasAq06QOpsr0ZAyOTQ0,Talking Centralia,Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2uoOm55gLvLMALwXmKrwXc,Death Don't Have No Mercy,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2vw8dgWhUBxMYAXYS90pJf,"Goodnight, Irene",Pete Seeger,"American Favorite Ballads, Vols. 1-5 (Box Set)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -343,6 +346,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3mqvTUq1kF4dVi2yBpiTuF,Salty Dog,Jack Elliott,Muleskinner,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3nDVlyydehkmIsnIEzW4Qu,Nobody Loves Me,Bill Monroe & His Blue Grass Boys,The Essential Bill Monroe (1945-1949),0.545,0.24,9.0,-16.601,1.0,0.046,0.911,0.00114,0.406,0.909,182.724
 3nsiigmka0SsH45ALBiwrH,Kitty,The Pogues,Red Roses for Me (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3q1Bx4GURmhkVafAtU5tOQ,Who's Gonna Buy You Ribbons,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3qjiLjxJ4AZvLOtiE8znrD,Gospel Plow,Bob Dylan,Bob Dylan,0.563,0.796,2.0,-6.217,1.0,0.0451,0.802,0.00234,0.239,0.968,137.967
 3qn1XvK2qV4fVzqUHo3anX,Go Down Sunshine,Odetta,Odetta And The Blues,0.764,0.366,8.0,-12.526,1.0,0.0455,0.909,0.000858,0.144,0.745,113.462
 3r0CePD8VNiLN1rLx4yYKX,Rag Mama,The Even Dozen Jug Band,The Even Dozen Jug Band,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -390,6 +394,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4AYVRcUCUQYts6VEKVvqqe,Danish Drone,"Danny Kalb, Stefan Grossman",Crosscurrents,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4AdQcoGS5OQTNf1wzBXz5C,I'm Just Here To Get My Baby Out Of Jail,The Rooftop Singers,The Best Of,0.419,0.222,11.0,-16.6,1.0,0.0365,0.856,0.00031,0.115,0.683,188.34
 4B8bkKX9g0FA9wQaIa7tHt,In the Pines,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.422,0.153,0.0,-10.846,1.0,0.0558,0.976,2.72e-06,0.132,0.149,210.192
+4BZ20FOTCuMpUB55eyHZAB,Me and Paul,Willie Nelson,Wanted! The Outlaws (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4CrnenNUONgVylPaRjHgjf,Enola Gay,Utah Phillips,Starlight on the Rails: A Songbook,0.472,0.37,4.0,-12.041,1.0,0.0407,0.813,9.21e-05,0.699,0.477,109.586
 4E0euZb5FEG34FMrY733vd,Ain't got no honey baby now,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.45,0.165,5.0,-28.041,1.0,0.059,0.993,0.949,0.11,0.388,125.71
 4EZyOclvM6qbLdiKEbot4l,Remember Me (When the Candle Lights Are Gleaming),Willie Nelson,Red Headed Stranger,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
