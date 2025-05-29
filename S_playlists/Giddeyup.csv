@@ -55,6 +55,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0WgQoph3Qnncwz0I7lPI5g,Lonesome Train (On A Lonesome Track),Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.64,0.71,5.0,-8.08,0.0,0.0371,0.598,0.000179,0.102,0.901,86.056
 0WwmFdGXe7Yky4T2J1oqLk,Your Cheatin' Heart,Hank Williams,Memorial Album (Expanded Edition),0.662,0.236,0.0,-11.631,1.0,0.0285,0.766,2.39e-05,0.0798,0.653,127.85
 0XPMfUWuB9U8Y75ywMp9lI,Twelfth Street Rag,Roy Clark,The Lightning Fingers Of Roy Clark,0.481,0.915,7.0,-9.867,1.0,0.141,0.0738,0.931,0.346,0.961,156.975
+0YD4QKHYtctCznnyNqmVaQ,Cocaine Blues,Townes Van Zandt,Roadsongs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0YYXg3u5ELZb2SjcD2YTFF,"Don't Think Twice, It's All Right",Odetta,Odetta Sings Dylan,0.779,0.216,2.0,-13.175,1.0,0.043,0.728,0.000626,0.0969,0.392,125.831
 0Zi13VWJ9u0ZEgHcmar7wW,Honky Tonk Blues,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.646,0.249,9.0,-11.36,1.0,0.0811,0.971,1.71e-06,0.101,0.808,142.01
 0bxxzXPKgywJZ8hciqMTJL,Bed Bug Blues,Jack Elliott,Muleskinner,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -85,12 +86,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0o10FpnHTfxkBQV8EdY5gF,Drifters Wife,J.J. Cale,Grasshopper,0.684,0.287,7.0,-17.344,1.0,0.0371,0.879,0.00292,0.156,0.708,104.019
 0ozBlp5mP7ALiw61VhutCM,I'll Fly Away (Acetate Version 204) (2019 - Remaster),Hank Williams,I'll Fly Away,0.609,0.3,7.0,-9.714,1.0,0.0246,0.872,2.26e-05,0.107,0.338,106.969
 0pwDaXboNy1UALAl3ZOZOF,Money Honey,Elvis Presley,Elvis Presley,0.635,0.616,2.0,-9.533,1.0,0.0345,0.463,0.0,0.144,0.942,133.34
+0pyKvtmrfUuCpErZnSC4jc,Nobody Knows You When You're Down And Out,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0r4VJrNTjQD37kh9ig4FMx,I Love You So,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.56,0.311,4.0,-10.369,1.0,0.0264,0.901,4.18e-06,0.107,0.763,91.629
 0rE8nugfCMtsC3mzNukV8Z,"Dark as the Dungeon - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0ry355UoTbc3NScBC2F3jA,"I Got Stripes - Live at Folsom State Prison, Folsom, CA (2nd Show) - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0smQY2FRe9tXIvyIoDHLtz,Poor Boy Blues - Witmark Demo - 1962,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.538,0.289,9.0,-15.183,1.0,0.0306,0.842,0.00518,0.329,0.645,108.686
 0tBAT5NugCTPG3W5mKpbn4,Lungs,Townes Van Zandt,Townes Van Zandt,0.621,0.304,2.0,-16.648,1.0,0.0623,0.748,0.0,0.0684,0.573,100.548
 0tWof8xKmUD2V7oQYI4ADN,The Dying Cowboy,Cisco Houston,Cowboy Ballads,0.429,0.0281,8.0,-22.009,1.0,0.0363,0.992,0.00101,0.0993,0.451,91.673
+0tdDFdu7d6MJYWTPxqMpTE,Black Betty,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0uHTTNc54fzBnTAmOXdI29,Grey Goose,Jack Elliott,Muleskinner,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0udZHhCi7p1YzMlvI4fXoK,In My Time of Dyin',Bob Dylan,Bob Dylan,0.593,0.364,11.0,-8.346,1.0,0.0388,0.852,8.64e-06,0.148,0.388,125.854
 0vz0H81pU20hY4kzschfWU,The Wagoner's Lad,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.672,0.232,7.0,-9.573,1.0,0.0325,0.969,0.0,0.105,0.347,104.964
@@ -137,6 +140,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1PI5mRLMVGjHe4nzGACCf2,More Pretty Girls Than One,Doc & Merle Watson,Elementary Doctor Watson,0.587,0.229,0.0,-14.848,1.0,0.0297,0.934,0.136,0.115,0.786,104.797
 1PRnkU9Ic6up4w6KOkSY8x,Jean Harlow,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1PeqMhnjHWM1b4FBvivScM,Martian Love Song,Pete Seeger,"Gazette, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1Pl7xX5SnxQaKkXQcGL1HL,We Shall Overcome,Guy Carawan,Classic Protest Songs from Smithsonian Folkways,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1SsEF3BFKv3rEgdsMRetUF,The Banks of the Ohio,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.245,3.0,-8.139,1.0,0.0505,0.988,0.0,0.17,0.589,81.591
 1Sv7P3pIY2Zjzpen78OORc,Talkin' Dust Bowl Blues,Woody Guthrie,Dust Bowl Ballads,0.58,0.284,9.0,-13.668,1.0,0.0441,0.505,0.00691,0.111,0.694,115.975
 1Uf4MJU7ckwuaHKrbBb16y,That's My Desire,Buddy Holly,Buddy Holly,0.424,0.361,7.0,-8.732,1.0,0.0306,0.639,0.0,0.159,0.581,122.63
@@ -156,6 +160,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1dnKdDgL06207kIEZEPF31,Amelia Earhart's Last Flight,Jim Kweskin,America,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1e7s4Bs85lb9VuF7rL5pvY,Going Down the Road Feeling Bad,"Woody Guthrie, Cisco Houston, Sonny Terry","Woody Guthrie Sings Folk Songs, Vol. 2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1fNZ1NqdIYmjMVdWWmpRVz,Ugly Man's Wife,Swamp Dogg,Blackgrass: From West Virginia to 125th St,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1g95t0XecLUUh59w8n17jI,Make Me A Pallet On The Floor,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1ggiG2OJGg6WE1xD2Qa4JP,"Country Pie - Alternate Version, Nashville Skyline",Bob Dylan,"Another Self Portrait (1969-1971): The Bootleg Series, Vol. 10 [Deluxe Edition]",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1hRLLDcfLJZBu9L2WNnBwr,Shake Sugaree,Elizabeth Cotten and Brenda Evans,Shake Sugaree,0.593,0.0814,10.0,-10.189,1.0,0.0624,0.943,0.0,0.112,0.703,175.767
 1jPRCAyEtLXIqb3dtyuh8Y,Cocaine,"Eric Von Schmidt, Dick Fariña",Dick Fariña & Eric Von Schmidt,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -163,6 +168,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1jy7k4URSRJeO0N2aMzj5R,Long Gone Lonesome Blues,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.717,0.327,4.0,-11.028,1.0,0.0361,0.687,0.0,0.0973,0.742,122.615
 1k4pSnhKL5qClbFY6ViZS5,"Risselty, Rosselty",The Rooftop Singers,The Best Of,0.589,0.281,3.0,-18.21,1.0,0.119,0.788,0.0,0.106,0.967,144.436
 1mAzzNcnaLD8YdLkEWa85r,Me and My Whiskey,Barbecue Bob,Cold Wave Blues,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1mJy4M9WwD6M4dDIBQASek,Cotton Fields,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1mmqrqQYzW0dFrZso6ZFPu,Guitar Blues (Instrumental),Woody Guthrie,Woody Guthrie Sings Folk Songs,0.575,0.151,9.0,-22.357,1.0,0.0421,0.97,0.927,0.109,0.764,136.448
 1mreZCRg1gnNFLdGMqLW2b,"It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964","Bob Dylan, Joan Baez",The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1mtGYXkuKpwUOU5utudOf1,Blues In The Bottle,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -172,6 +178,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1rJhtyKJFEEmVzIJdAp7qq,Going Down The Road Feeling Bad,Doc & Merle Watson,Elementary Doctor Watson,0.733,0.306,2.0,-14.57,1.0,0.0337,0.86,0.0369,0.192,0.882,115.956
 1sDQzMh0QhLtyMyIWYkdyM,Railroad Bill - Remastered,"Hobart Smith, Alan Lomax","I'll Meet You On That Other Shore: Alan Lomax’s ""Southern Journey,"" 1959–1960",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1tAJyBJErRg2cGyPGb1kIS,Reconciled To The Blues,Michael Hurley,Long Journey,0.624,0.179,7.0,-17.006,1.0,0.0696,0.851,2.22e-05,0.082,0.24,79.9
+1tV5iyA9RmDAvAajC4YWNG,Cool Water,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1utdlV6OXT0jPgsQnytTr4,Black Mountain Rag,Mother Maybelle Carter,A Living Legend,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1v4EF7zZLvC8XkcEncOTue,Freight Train Blues,Bob Dylan,Bob Dylan,0.455,0.676,0.0,-6.533,1.0,0.0365,0.835,0.00051,0.322,0.517,132.422
 1vL9RAmcQBhQWl5iBQiKBs,Coal Creek,Roscoe Holcomb,An Untamed Sense of Control,0.573,0.516,2.0,-12.579,1.0,0.0335,0.803,0.944,0.114,0.936,121.289
@@ -195,6 +202,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2AGrpuftcUFutth0i7Va1y,Gotta Get You Near Me Blues - Undubbed Version,"Buddy Holly, Bob Montgomery",Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2AM4jDl9tWQeEFqmbRchtA,Honey Hush,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.727,0.643,11.0,-8.684,0.0,0.0404,0.783,8.08e-05,0.112,0.929,93.038
 2AyqRzXZ6ZmHcfZ1Mu4Vsj,Fixin' to Die,Bob Dylan,Bob Dylan,0.6,0.348,9.0,-9.66,0.0,0.036,0.817,5.38e-05,0.11,0.655,127.078
+2BjVI7RWa24hvUGLnewANR,Spoken Introduction: Rambling Round Your City,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2CF2GawXxcVm836SIRHMqU,Born and Raised in Covington,Roscoe Holcomb,An Untamed Sense of Control,0.482,0.0389,8.0,-14.594,1.0,0.0837,0.974,0.0,0.0775,0.394,73.969
 2CPNZiEtEOJLOonAlFN7UE,San Francisco Bay Blues,Jesse Fuller,Move on Down the Line,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2EAICjiavkemcnaSQqCtn0,Blue Yodel No. 4,Bill Monroe & His Blue Grass Boys,The Essential Bill Monroe (1945-1949),0.529,0.257,0.0,-16.157,1.0,0.0723,0.974,0.00353,0.108,0.772,201.016
@@ -278,6 +286,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 34hwPjXb0er1tpK5A1sUUx,"If You Gotta Go, Go Now (Or Else You Got to Stay All Night) - Live at Philharmonic Hall, New York, NY - October 1964",Bob Dylan,The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 35ipJ2lNpruiJPIzVyYgdU,Mama Let Me Lay It on You,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",0.464,0.366,2.0,-11.758,0.0,0.0357,0.978,0.00403,0.365,0.752,170.357
 35ySEC3RyS1w36bkpgj1lT,Rebel Rouser,Duane Eddy,Have 'Twangy' Guitar Will Travel,0.532,0.629,6.0,-7.879,0.0,0.0338,0.0529,0.9,0.109,0.634,105.557
+36B4TFuSb4g5gIaJB9rGum,Midnight Special,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 36yAtDuv6rT36TAYjIHSQT,Steel Guitar Blues,Roy Acuff,The Essential Roy Acuff,0.731,0.212,9.0,-15.809,0.0,0.0335,0.974,0.226,0.161,0.692,96.466
 37QJSIQntEV7ZeDgEXPDvr,I Like My Wine,Michael Hurley,First Songs,0.5,0.0227,7.0,-31.385,1.0,0.0347,0.931,0.0282,0.131,0.451,90.384
 37Y5foE58FSJZxxOmiSw7i,"Root, Hog Or Die","Mother Maybelle, The Carter Sisters",Keep On the Sunny Side - June Carter Cash: Her Life In Music,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -302,6 +311,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3Hpu4c6DsOAe8XBBMd0Gy1,Take Me As I Am - Or Let Me Go,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3IVPUj0iJL4UrKK5EugpGJ,Black Mountain Rag,Doc Watson,The Essential Doc Watson,0.299,0.629,0.0,-20.079,0.0,0.0544,0.73,0.961,0.962,0.932,134.354
 3JTO5KoXnd4KPLiWKkmKMY,I Never Will Marry,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.609,0.119,0.0,-11.688,1.0,0.037,0.978,0.0,0.114,0.227,108.177
+3LNr24GL6u2OdLVH7GqMlm,"No More Auction Block - Live at the Gaslight Cafe, New York, NY - October 1962",Bob Dylan,The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3M9sGa8a727cU8eUsp3D1n,Small Town On The River - Re-Recorded,Bill Morrissey,Bill Morrissey (Re-Recorded),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3MxAT7MRx7V0CL3tVtJby1,Didn't It Rain,"Sister Rosetta Tharpe, Marie Knight, Sam Price Trio",Gospel Train (Expanded Edition),0.741,0.665,5.0,-5.87,1.0,0.0517,0.8,0.0,0.079,0.77,85.517
 3N7HJeBZ6BtWTiDeKeLwXm,Muddy Bottom,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -322,6 +332,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3V0Tt8iuWqjYMTDShQ0gKj,Bullets of Mexico,Phil Ochs,All The News That's Fit To Sing,0.559,0.293,8.0,-15.087,0.0,0.0434,0.773,0.0,0.107,0.782,85.378
 3VRyOEmGXiQ3lXcoUQ83X7,Working On The Railroad,The Rooftop Singers,The Best Of,0.635,0.15,8.0,-16.5,1.0,0.0401,0.884,8.05e-05,0.103,0.549,112.193
 3VYTZtFr1Up3hQhe5PQqoM,Lazin' in My Sleep,Kinloch Nelson,Partly on Time: Recordings (1968-1970),0.505,0.0871,4.0,-17.004,1.0,0.0369,0.896,0.666,0.112,0.261,113.756
+3XJvJndzSkIFNTlg0X8X87,No More Auction Block For Me,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3XQcN8lRz5uGWnkMdo8NC5,I Still Miss Someone - Take 5,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3ZTjyCsILfq3cfcedFhHAI,Right Or Wrong,Willie Nelson,Country Willie,0.698,0.445,0.0,-10.111,1.0,0.0408,0.75,4.74e-06,0.223,0.722,96.026
 3ZjrfGcb3A2PMGA1vRNgSk,This Land is Your Land,Woody Guthrie,"This Land is Your Land: The Asch Recordings, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -412,6 +423,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4KmjzHcjcCxmNNBW2MmVf8,You Ain't Goin' Nowhere - Studio Outtake - 1971,Bob Dylan,The Essential Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4LkZOwhBAqLYGvoBA1hgdQ,Spike Driver's Moan,Dave Van Ronk,Dave Van Ronk Sings,0.497,0.0211,4.0,-21.05,0.0,0.0437,0.94,7.66e-05,0.0906,0.377,118.399
 4M1su6qn7t5FnyMukpCGzK,"(Quinn the Eskimo) The Mighty Quinn - Live at the Isle of Wight, UK - August 1969",Bob Dylan,Self Portrait,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4M2Kjack6k9KwfPGiHovTz,Autumn Leaves,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4MNxOR2Fu4NqJ892UdYx0h,Bob Dylan's Dream,Bob Dylan,The Freewheelin' Bob Dylan,0.48,0.247,7.0,-15.929,1.0,0.0311,0.747,2.86e-06,0.0745,0.422,109.646
 4NazHwfKb4e9WSkFM2OC52,Rock Billy Boogie,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.718,0.89,7.0,-7.163,1.0,0.0499,0.669,0.0,0.164,0.95,90.312
 4OVxjPLXxJZ3arYt6CUH7E,Tennessee Hound Dog,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -467,12 +479,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4nQiTNZe4si7F8VZuRxkf0,Martha,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.591,0.0466,4.0,-16.594,1.0,0.082,0.892,3.63e-06,0.0868,0.236,204.519
 4oTGXdRrFSfvvdggdoLA6o,He's a Mighty Good Leader,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4pMuZSy1C2FoJXLv73poP0,I Am a Lonesome Hobo - Take 4,Bob Dylan,"Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4pUdm5ubvBAcR2eA0l8JLS,Spoken Introduction: Sometimes I Feel Like A Motherless Child,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4plJp1RXZPNIDFiwloAXh6,Cool Water,The Rooftop Singers,The Best Of,0.719,0.0338,6.0,-20.488,1.0,0.0433,0.94,0.0348,0.103,0.532,128.998
 4qxFlfpfHKTi70d4asPPgq,The Great Atomic Power,The Louvin Brothers,Weapon Of Prayer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4rhaDfV9y5UvGZ67BT8U35,The Bourgeois Blues,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4rsBr66s3ighYBSx05yh7Q,Ballad of William Worthy,Phil Ochs,All The News That's Fit To Sing,0.685,0.22,2.0,-14.722,1.0,0.0639,0.561,0.0,0.167,0.873,124.144
 4slrm1NMIIKBwNfUbn1PQI,I'm Going Down the Road,Ramblin' Jack Elliott,Roll on Buddy - From the Archives,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4t1Sxqd7LPwmgmmqZYUC2X,Bowling Green,"The New Lost City Ramblers, Cousin Emmy",New Lost City Ramblers with Cousin Emmy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4tLRRQdI6QyPdCU9m2uBTi,Forever,Pete Drake,Steel Funk,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4tj7IsJrn4MvesuhoY0JBy,I'm So Lonesome I Could Cry,Hank Williams,The Legend Lives Anew (Hank Williams With Strings),0.526,0.257,4.0,-14.827,1.0,0.0286,0.828,0.00153,0.318,0.352,111.919
 4txDflQgXUI6nSwQocX0dM,Night Life,Willie Nelson,Country Willie - His Own Songs,0.721,0.256,0.0,-11.623,1.0,0.0382,0.686,6.42e-05,0.123,0.334,98.062
 4uYwlMp841PLJmj1gJJwIq,"Lay, Lady, Lay",Bob Dylan,Nashville Skyline,0.52,0.179,11.0,-21.976,0.0,0.0454,0.356,0.00344,0.131,0.407,155.746
@@ -515,6 +529,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5D26ISJhvA9v7FNFth03M3,I Ain't Gonna Marry,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5DOeFOQ5y3YJtoR5JGlA1A,Mr. Record Man,Willie Nelson,Country Willie - His Own Songs,0.557,0.379,0.0,-11.211,1.0,0.0654,0.533,0.000687,0.177,0.575,146.536
 5ERtBxp7LS99coCz3Ilfg0,Superlover - Live At Soledad Prison_1972,John Lee Hooker,Live At Soledad Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5EtRosdwCItQdmuPBJj0nJ,Sleep Walk,Pete Drake,Steel Funk,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5FSYrVYfxgPUMTIxGgL6Dy,My Creole Belle,Mississippi John Hurt,Candy Man Blues: Essential Recordings,0.614,0.15,1.0,-15.175,1.0,0.0366,0.586,0.00806,0.0932,0.891,178.177
 5FpY9uWJZS6dQLFGeDVGOH,These 23 Days in September,David Blue,These 23 Days In September,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5GIAi04ISTg1IkO7CisQ37,The Animal Song - If I Could Ramble Like a Hound,Michael Hurley,First Songs,0.402,0.11,0.0,-20.053,1.0,0.0323,0.888,0.00351,0.325,0.119,140.678
@@ -534,11 +549,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5QyM9ihEh1vv8qJghyll37,Werewolf,Michael Hurley,Wolfways,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5RKPe1oN9lGayUCKn00fYi,Wabash Cannonball,Roy Acuff,The Essential Roy Acuff,0.717,0.37,9.0,-10.119,1.0,0.0365,0.763,0.0,0.424,0.881,99.425
 5RegN6WEtzmnuRrhqQth8H,If Not for You (Alternate Take),Bob Dylan,The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5SUBBRz0SK6UXOuFdKeVnF,Special Delivery Blues,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5SfeBRo4MLWyz2w701SJPW,I'm A Long Gone Daddy,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.55,0.372,4.0,-11.431,1.0,0.034,0.808,0.0,0.225,0.907,143.092
 5T7qfszQEjUfzS4GTvnveE,Only a Hobo - Witmark Demo - 1963,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.385,0.146,2.0,-18.263,1.0,0.0436,0.978,0.123,0.18,0.627,185.271
 5U9mObciLrrnJC0hE84SIu,Sligo River Blues - Original Recording,John Fahey,The Legend Of Blind Joe Death,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5U9mjCLSIFEWeYNm9l6Wck,I've Got to Know,Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5UlokrsKgBObpODBXwTW0B,Freight train,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.397,0.203,10.0,-18.596,1.0,0.0292,0.979,0.193,0.106,0.489,103.885
 5V8z9gdxo3OAeFXySGLUk0,Are You Sure,Willie Nelson,Country Willie - His Own Songs,0.643,0.133,9.0,-12.903,0.0,0.0395,0.712,0.00372,0.0924,0.253,68.152
+5VjD8Hw3mWX46bSAi2DwvX,Livin' With The Blues,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5VnTgyxelyGYKapBOhfCr7,United States March (Soldier's Drill) - Instrumental,Rev. Gary Davis,The Guitar And Banjo Of Reverend Gary Davis,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5WGO1Jhnh1UkrHRT3Syiaa,"Railroad Bill - Unreleased, Self Portrait",Bob Dylan,"Another Self Portrait (1969-1971): The Bootleg Series, Vol. 10 [Deluxe Edition]",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5WNfllr5vx9PWc3e5B4eYi,Plastic Jesus,Tia Blake,Folksongs & Ballads,0.58,0.167,10.0,-19.479,1.0,0.0304,0.962,0.0723,0.12,0.747,96.242
@@ -586,6 +604,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5yZzLyY9SMI3ZjdqpXWYDp,Everybody's Talkin',Fred Neil,Fred Neil,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5yeB8FGoeS4EkDcnsRN8vP,When I get home,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.496,0.124,5.0,-16.657,1.0,0.0368,0.975,0.011,0.119,0.318,175.921
 5z5ercwaoJWrJkMXbvaRGP,Clementine,Pete Seeger,"American Favorite Ballads, Vols. 1-5 (Box Set)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5zV3z0YCBLxNPQvIbmR0Th,If I Had A Hammer,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5zWiXnEytHwjCF1iS3B2JK,That Song About The Midway,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6086jm2bMW4cOsf4cUChCQ,Combs Hotel Burned Down,Roscoe Holcomb,An Untamed Sense of Control,0.573,0.523,7.0,-10.582,1.0,0.0297,0.867,0.185,0.32,0.52,112.46
 60EIxnylGxIXoMK43K1S33,Requiem For John Hurt,John Fahey,Requia And Other Compositions,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -594,6 +613,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 63ZplaqHPi5G4pU98oL3ht,The Wreck of the Old 97,"Woody Guthrie, Cisco Houston, Sonny Terry","Woody Guthrie Sings Folk Songs, Vol. 2",0.627,0.119,1.0,-15.171,1.0,0.0555,0.964,0.0,0.112,0.797,137.2
 64junxnpN5H9F8P8zndoZv,Guitar Shuffle,Big Bill Broonzy,Greatest Blues Licks,0.57,0.363,7.0,-10.826,1.0,0.0423,0.815,0.723,0.0868,0.833,171.104
 65ha8B2qzkouyC472axyMV,Whatcha Gonna Do_ - Witmark Demo - 1963,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+65jN1LguF1VimFE0RTHvKh,"Good, Good, Good (Talking, Preaching) _ We Shall Walk Through the Valley",Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 66iAdS8UwAFFBa3hjoDHiy,Freeborn Man,Tony Rice,Guitar,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 66yeaaGe4LYjACBa7vZeOh,Oklahoma Hills,James Talley,Woody Guthrie & Songs of My Oklahoma Home,0.682,0.308,0.0,-14.334,1.0,0.0534,0.744,1.1e-05,0.163,0.494,96.199
 672PNEfhkICYooZ3IOPoWi,Matchbox - Take 1,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -624,6 +644,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6QGgXrlajUDCGrpDRqy1W8,Somebody Stole My Gal,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6QzOMmgiRFhUUFj8Edy0Tv,Rock Island Prison,Roscoe Holcomb,An Untamed Sense of Control,0.546,0.202,8.0,-11.985,1.0,0.0615,0.918,0.378,0.0621,0.883,92.788
 6SzgsHHPmXN25wL4EoWwjp,Freight Train Boogie,Doc & Merle Watson,Elementary Doctor Watson,0.68,0.491,4.0,-12.423,1.0,0.0309,0.693,0.698,0.127,0.905,112.526
+6TZBNFUqGzQfEVkIGrz6If,Saro Jane,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6TxNIlOAqC0QsYwscKlA8K,In the Sweet Bye and Bye,Elizabeth Cotten,"Close to Home: Old Time Music from Mike Seeger's Collection, 1952-1967",0.425,0.263,11.0,-17.089,1.0,0.035,0.946,0.871,0.121,0.82,91.632
 6U4O06kFIfmA9Vx2uYJFmA,Move on Down the Line,Jesse Fuller,Move on Down the Line,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6VI6vSQF4qe8qOuz6hfRYV,Get Back,Big Bill Broonzy,Vol. 2: The Post-War Years,0.837,0.141,7.0,-10.944,1.0,0.0411,0.722,4.46e-06,0.146,0.528,123.394
@@ -656,6 +677,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6gsp9KtEkeAkp8wWIdnh7k,Weary Blues From Waitin' - Non-Session Demo _ Undubbed,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.599,0.11,4.0,-12.613,1.0,0.0283,0.971,0.00991,0.178,0.369,100.761
 6iQ0OIxisPxhzEICEXtaWS,I'm In The Mood,John Lee Hooker,The Real Folk Blues,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6ixNehh9DrMM9vYhN93foh,You're No Good,Bob Dylan,Bob Dylan,0.563,0.679,0.0,-6.191,1.0,0.0441,0.825,0.0,0.336,0.76,123.38
+6jF8A5joJKL4QbjIf4orEj,Ramona,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6jVPQHpdqJgPfE8lagHKBK,St. Louis Tickle,Dave Van Ronk,In The Tradition,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6kyxVUBAsIBZT5lSEJahOg,Oklahoma Hills,Jack Guthrie,The Greatest Country Music Recordings Of All Time Vol. 2,0.8,0.329,7.0,-13.819,0.0,0.101,0.819,2.83e-06,0.0614,0.843,101.804
 6ngIWHdwkmHZe8zFP7lIJq,I'm Counting on You,Elvis Presley,Elvis Presley,0.496,0.163,2.0,-12.541,1.0,0.0383,0.894,0.0,0.109,0.509,135.638
@@ -663,6 +685,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6oxQMpuQV0XbHQC9HVjLBu,All By Myself,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.716,0.646,11.0,-8.139,1.0,0.0502,0.44,1.89e-05,0.0599,0.919,81.063
 6pJgdaT7FzTdPE7NdGLQKw,Rockin' Chair Daddy,Harmonica Frank,Rockin' Chair Daddy / The Great Medical Menagerist,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6paukbgZzyfhCHQLU14XM1,Ticket to Ride,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6qE6ADmLZd7V2YLkCJWFiL,No More Auction Block,Pete Seeger,"American Favorite Ballads, Vols. 1-5",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6qF6Ghoy5HlNNZNe8fsygD,Okie From Muskogee - 1970_Live At Carnegie Hall,Phil Ochs,Gunfight At Carnegie Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6qFJtlL73HIEh0maFhyQ6Z,The Boy Was Kissing The Girl (And Playing Guitar At The Same Time) - Instrumental,Rev. Gary Davis,The Guitar And Banjo Of Reverend Gary Davis,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6r0ZMslFYegGxLVAaIKHKk,Nobody Knows The Way I Feel This Morning,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -682,6 +705,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 71885ZTZCfhIsyWGuedUGH,Freight Train Blues,Roy Acuff,The Essential Roy Acuff,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 718Sz5BHAyaXlPFlkwk9Lw,Rockin' Chair,The Band,The Band,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 71XTdtW3bvmIrotG8yYVMS,"Honey, Just Allow Me One More Chance",Bob Dylan,The Freewheelin' Bob Dylan,0.545,0.525,2.0,-12.606,1.0,0.0859,0.839,5.26e-06,0.256,0.947,119.29
+71olEJNfbKZcG6setbjtsD,Buffalo Skinners,Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 71sJjrNiDMM4oGNmgyPgOT,"Fare Thee Well, Miss Carousel",Townes Van Zandt,Townes Van Zandt,0.548,0.406,4.0,-13.547,1.0,0.0576,0.703,1.43e-05,0.0496,0.572,81.257
 736garQS1SqMyfNDZIJmqJ,Old Lost John,"Brownie McGhee, Sonny Terry",Wizard Of The Harmonica,0.564,0.405,5.0,-15.141,1.0,0.115,0.901,0.0279,0.0729,0.695,115.827
 739sLmfUkVFoyPtb0C3263,Girl from the North Country,Bob Dylan,The Freewheelin' Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -710,6 +734,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7FwE3eDX5QMKStc8i1tc9S,Goodnight Irene,Lead Belly,The Authorized Leadbelly Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7GzJioHSAtUIufINgdG2DJ,Sweet bye and bye _ What a friend we have in Jesus,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.396,0.161,3.0,-25.244,1.0,0.0436,0.99,0.947,0.109,0.407,99.681
 7HNMQmRzzKyu0cDS0GHuIC,Civil War Song,Shel Silverstein,Inside Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7M2UHjzxHQjVSd6RIkOHKx,The Old Piano Roll Blues,Big Tiny Little,Honky Tonk Piano,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7MhmAQft1jElcFIMwGgC6j,Cripple Creek,Guy Carawan,Songs with Guy Carawan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7aQdQw2gT1OX66KdIfGne5,Jumping Judy,"Eric Von Schmidt, Dick Fariña",Dick Fariña & Eric Von Schmidt,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7au2sgA0lOm3imOvNVERe0,Enjoy Yourself (It's Later Than You Think),Jim Kweskin,Enjoy Yourself (It's Later Than You Think),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -733,6 +758,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7noWm4lKCBIiQThaIX5oEK,One-Sided Love Affair,Elvis Presley,Elvis Presley,0.628,0.79,7.0,-7.458,1.0,0.0619,0.697,0.0,0.255,0.855,94.856
 7ntpfdKdb2zrJai6QrIKB4,Talking Vietnam Blues,Phil Ochs,All The News That's Fit To Sing,0.662,0.267,6.0,-13.222,1.0,0.177,0.527,0.0,0.0884,0.635,127.195
 7ny2ATvjtKszCpLpfsGnVQ,A Hard Rain's A-Gonna Fall,Bob Dylan,The Freewheelin' Bob Dylan,0.567,0.198,4.0,-18.681,1.0,0.0327,0.919,0.000871,0.135,0.321,92.467
+7oU2C2q0CAVc1mxnSVok1O,Deep Elem Blues,Shelton Brothers,No Daddy Blues,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7or0LLIO1EGAzQHGLzjji3,Standing on the Highway - Witmark Demo - 1962,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.499,0.342,2.0,-15.005,0.0,0.0377,0.602,1.3e-05,0.19,0.721,160.772
 7p4l82yVJXjQ8dabjIx7eL,The Great Dust Storm (Dust Storm Disaster),Woody Guthrie,Dust Bowl Ballads,0.608,0.227,4.0,-11.129,1.0,0.0375,0.777,0.0,0.163,0.643,105.931
 7pnllHmgJYLuwDm2xsVWHR,"Fortune, Fortune",The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -743,6 +769,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7snJmn0LfJNPLT8Ns3qnaz,I Ain't Got No Home In This World Anymore,Woody Guthrie,Dust Bowl Ballads,0.594,0.293,7.0,-12.716,1.0,0.036,0.841,8.67e-05,0.063,0.66,120.547
 7t2NM5NyAaJC9k8ifQKiQU,Going down the road feeling bad,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.468,0.191,10.0,-18.675,1.0,0.0313,0.975,0.0809,0.14,0.698,102.7
 7tGHNWy0AakpoO3AO9bp5c,Texas Twist,Roy Clark,The Lightning Fingers Of Roy Clark,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7tP0ribZqQZbmBxlh4ipcs,Battle Hymn Of The Republic,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7tem1vYGSIuBE59Q8aP7Yc,Tell Me That It Isn't True,Bob Dylan,Nashville Skyline,0.601,0.294,5.0,-20.909,1.0,0.0313,0.809,0.499,0.129,0.779,87.034
 7xVpkVkd1klTzLJEysIR7z,Masters of War,Bob Dylan,The Freewheelin' Bob Dylan,0.556,0.273,5.0,-15.973,1.0,0.0372,0.613,3.27e-06,0.188,0.692,166.064
 7xrODhgXFNVsRtKoyt5rJo,"Cocaine Blues - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0

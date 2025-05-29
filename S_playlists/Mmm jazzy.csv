@@ -3,6 +3,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0E8q2Fx2XuzXCO2NSAppkR,In A Sentimental Mood,"Duke Ellington, John Coltrane",Duke Ellington & John Coltrane,0.464,0.305,3.0,-12.435,0.0,0.0316,0.936,0.0848,0.208,0.281,107.854
 0NI42v4l2AxIbgoIrWKiBU,Just A Gigolo / I Ain't Got Nobody - Medley / Remastered 2002,"Louis Prima, Keely Smith, Sam Butera & The Witnesses",The Wildest! (Expanded Edition),0.519,0.638,8.0,-5.226,1.0,0.0942,0.683,0.0,0.0561,0.67,124.878
 0jHEixPAoSopOP75j2iTX9,"A Love Supreme, Pt. III - Pursuance",John Coltrane,A Love Supreme,0.4,0.616,5.0,-14.026,0.0,0.117,0.546,1.47e-05,0.357,0.455,98.06
+0pyKvtmrfUuCpErZnSC4jc,Nobody Knows You When You're Down And Out,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0q4SJUYOp0Er9fvREdDyDv,Enlightenment,Sun Ra,Sound Sun Pleasure,0.501,0.303,9.0,-10.722,0.0,0.0367,0.734,0.000123,0.139,0.537,130.031
 0rEP2CDOuvUm4zbhIPZAkK,Gut Bucket Blues,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.573,0.295,5.0,-10.096,1.0,0.0525,0.988,0.000139,0.0784,0.678,146.336
 0s2h4GBGC4rcdSQhJX80Mv,Samba De Orpheus,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.581,0.428,2.0,-16.917,0.0,0.0486,0.889,0.845,0.173,0.606,126.033
@@ -40,6 +41,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4SRyfds1YppKGXPowaNDr7,Laughing In Rhythm,Slim Gaillard And His Peruvians,Groove Juice: The Norman Granz Recordings + More,0.767,0.424,5.0,-9.621,1.0,0.0454,0.947,0.234,0.146,0.683,136.301
 4WyVRn3L2uXnSUkY762gqN,Sly,Herbie Hancock,Head Hunters,0.39,0.913,11.0,-7.174,0.0,0.0778,0.0262,0.784,0.0649,0.603,146.129
 4apDKupCu7oqynDhkO67HZ,I'd Rather Go Blind (Live - Montreux Jazz Festival 1975),Etta James,Etta James: The Montreux Years (Live),0.38,0.141,11.0,-19.577,0.0,0.238,0.857,0.000558,0.968,0.413,86.918
+4iJ82bx1JTM5IuzeJwvgA8,House Of The Rising Son,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4vLYewWIvqHfKtJDk8c8tq,"So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)","Miles Davis, John Coltrane, Cannonball Adderley, Bill Evans",Kind Of Blue (Legacy Edition),0.532,0.151,0.0,-17.266,1.0,0.0376,0.706,0.00136,0.116,0.211,136.759
 56ELcGHTuw0myBCxjom1lZ,Fenwyck's Farfel,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.674,0.175,10.0,-14.452,1.0,0.06,0.945,0.919,0.11,0.398,131.966
 5CLkYMVMOfqW3VWcjKKr1n,Heebie Jeebies,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.671,0.324,8.0,-10.637,1.0,0.106,0.983,8.34e-05,0.143,0.57,164.628
@@ -48,6 +50,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5HuaJQKO8niocig3zoqt6A,Calling Dr. Funk - live at the Black Hawk,Vince Guaraldi Quartet,The Definitive Vince Guaraldi,0.665,0.234,2.0,-10.671,0.0,0.0423,0.715,0.332,0.082,0.443,116.292
 5IT8xiS70Ul7Zq0pKM8I0l,Quiet Dawn,Archie Shepp,Attica Blues,0.349,0.45,7.0,-14.35,0.0,0.053,0.833,0.59,0.0981,0.377,129.056
 5PJXdnBEY4d2mZIlserX3c,Sannin de Odoranai,Miki Matsubara,Miki Matsubara Best Collection,0.664,0.601,2.0,-10.989,1.0,0.0515,0.482,0.0,0.113,0.454,132.095
+5VjD8Hw3mWX46bSAi2DwvX,Livin' With The Blues,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1.0,-15.485,1.0,0.035,0.968,1.55e-05,0.127,0.305,78.056
 5dlfvkyZOuBCFP1KbzRHUx,Orange Moon,Erykah Badu,Mama's Gun,0.414,0.149,5.0,-13.976,0.0,0.037,0.463,0.000273,0.152,0.124,97.638
 5wHTAt05hXx9Gp5WvdrVhk,"Softly, As In A Morning Sunrise",Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.626,0.199,0.0,-13.214,0.0,0.0486,0.978,0.932,0.0975,0.601,88.198
