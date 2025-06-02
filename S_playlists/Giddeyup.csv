@@ -131,6 +131,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1Jgu2OQ870fj8x4Vse2V8i,Ground Hog,Frank Proffitt,Frank Proffitt Sings Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1L3p52pBRMRvEg3vb7aUUD,She's a Woman,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1L4RtuEiAiwdX5taX4meLI,"Corrina, Corrina",Bob Dylan,The Freewheelin' Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1LGmxVTktSQBIpKPymNrWl,Restless Farewell,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1LkFJHJfCfzKFGGEYfKkxv,Talking Cuban Crisis,Phil Ochs,All The News That's Fit To Sing,0.618,0.302,7.0,-13.374,1.0,0.172,0.767,0.0,0.37,0.66,130.387
 1MCRnU10PAVKXjvbmrpVbi,"Hard, Ain't It Hard","Woody Guthrie, Cisco Houston, Sonny Terry","Woody Guthrie Sings Folk Songs, Vol. 2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1MI5kIMTGl8zsgZ4LxaGnb,Ramblin' Round,Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,0.558,0.206,2.0,-17.176,1.0,0.0533,0.981,0.7,0.115,0.701,119.398
@@ -327,6 +328,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3Qxk09hbSVeP6R35tzulTg,The Gallis Pole,Lead Belly,Tradition Masters Series,0.572,0.158,4.0,-15.148,1.0,0.0432,0.994,0.0674,0.107,0.961,127.929
 3SF5puV5eb6bgRSxBeMOk9,Man of Constant Sorrow,Bob Dylan,Bob Dylan,0.377,0.397,7.0,-8.427,1.0,0.0312,0.817,0.0496,0.187,0.462,108.591
 3Sf1CcbDbc50F0fyprB5TN,Don't Ever Tell Me You Love Me - Unless You Mean It With All Your Heart,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3Si9u9FVlUTcUXVcawnstJ,Ballad of Hollis Brown,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3TQpnTR1jHFTD8bjD8wPpl,Love Hurts,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3TbRCDUuUTxQW4y2KUz1MJ,Slow Drag (Cincinnati Flow Rag) - Instrumental,Rev. Gary Davis,The Guitar And Banjo Of Reverend Gary Davis,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3TqzJWiX62Gd8LGdtkGeZ0,'Buked and Scorned,Odetta,Sings Ballads & Blues,0.338,0.206,10.0,-11.81,1.0,0.0339,0.983,0.012,0.109,0.468,115.223
@@ -345,6 +347,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3bM1p9F6b4btWTAO9IgXcb,Girl from the North Country - Rehearsal,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3bSZlIcVkpKphNEmjqfnvS,I'll Fly Away,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.409,7.0,-7.607,1.0,0.0258,0.949,0.000597,0.186,0.178,97.789
 3bU8rIEuatTa7XjHl4Sw8f,Close My Eyes,Arthur Russell,Love Is Overtaking Me,0.655,0.245,7.0,-13.817,1.0,0.0392,0.747,0.0248,0.124,0.39,123.77
+3cY8cOjaN8Lwi08g9Fpr6D,North Country Blues,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3d6cdwul6DaNo4S4nLMtOW,Going Train Blues,Peg Leg Sam,Early in the Morning (feat. Louisiana Red),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3dY8NPI9s3MpEqOfGfHqlf,Trouble in Mind,Big Bill Broonzy,Trouble in Mind,0.64,0.022,7.0,-18.356,1.0,0.0761,0.852,0.0,0.0837,0.429,81.493
 3do8UJU3lLUpp6vLiaj2C7,Git Along Little Dogies,Bing Crosby,How The West Was Won (Original Soundtrack Recording),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -496,6 +499,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4vB6BLIED6YvrDlgV63Uiz,Night Life,Willie Nelson,Country Willie,0.636,0.314,5.0,-11.708,1.0,0.05,0.867,0.015,0.102,0.376,85.886
 4wPqQcbOJlZrxpM7iy3qIs,The Monkey And The Engineer,Jesse Fuller,The Lone Cat,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4wk5UyjuMMtXXaXK8sfR1Q,Four or Five Times,"Jim Kweskin, Matt Leavenworth",Four or Five Times,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4z9agU8UuxeXL62VaxrtBC,The Ballad of Donald White,Blind Boy Grunt,"Broadside Ballads, Vol. 6",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4zQLZPcTl8hJC5pJtooT3h,Trying to Get to You,Elvis Presley,Elvis Presley,0.551,0.663,5.0,-8.681,1.0,0.0499,0.453,6.31e-06,0.341,0.884,103.817
 4zoaClwVw1hqa2f9DpgWBf,"Baby, I'm In the Mood for You - Studio Outtake - 1962",Bob Dylan,Side Tracks,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4zxo3S26298CCOgBPGrC9Y,Blueridge Mountain Blues,Doc Watson,The Essential Doc Watson,0.603,0.504,7.0,-13.803,1.0,0.0438,0.694,0.182,0.912,0.671,108.43
@@ -520,6 +524,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 57M2Tzakrrj4pecyVet6kM,Clocks and Spoons,John Prine,Diamonds in the Rough,0.555,0.145,9.0,-21.982,1.0,0.034,0.461,0.000113,0.093,0.668,139.77
 58vUkkt44ybuStzmoVHBl5,You Got To Find Me,Michael Hurley,Long Journey,0.713,0.333,0.0,-13.96,1.0,0.0449,0.943,0.0016,0.117,0.802,140.649
 58y3tjtKsZZlEeO9IOmevX,First Love Song,Tim Hardin,Tim Hardin 2 (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5ATUmaVJWUTTagmPwQLck3,One Too Many Mornings,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5AhCdumARG11GGAnn0IDbP,Should We Tell Him - by the Everly Brothers,"Chet Atkins, The Everly Brothers",The Essential Chet Atkins,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5AhlxqhVcbEcz2n3qyImW4,You've Been A Good Old Wagon,Dave Van Ronk,Hear Me Howl (Live 1964),0.526,0.156,11.0,-20.162,0.0,0.0765,0.94,0.0557,0.664,0.381,141.858
 5AvKhhpwm0bsuuwOz9NI0Q,I Love You Because,Elvis Presley,Elvis Presley,0.384,0.082,0.0,-14.678,1.0,0.0356,0.891,0.0,0.0845,0.246,80.079
@@ -578,6 +583,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5fcbd0Z5V7t2871wKTM4qJ,Let Me Die In My Footsteps - Studio Outtake - 1962,Bob Dylan,The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991,0.626,0.226,8.0,-13.843,1.0,0.0331,0.932,0.00149,0.12,0.354,92.299
 5fcxVCOtfesNzI2n4Y4kiJ,Jackson,"Johnny Cash, June Carter Cash",Carryin' On With Johnny Cash And June Carter,0.741,0.615,0.0,-8.072,1.0,0.0358,0.519,0.000344,0.408,0.799,128.496
 5fts92p98qd47BKf6pwaQi,Goodnight Irene,Mississippi John Hurt,Complete Studio Recordings,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5hBOEqqkcQaUgkRhh6EyX4,With God on Our Side,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5hWXXmTZQavcET21uU1v1U,12th Street Rag,Roy Smeck,Roy Smeck Plays Hawaiian Guitar,0.571,0.575,2.0,-11.031,1.0,0.0372,0.981,0.911,0.345,0.881,116.077
 5hcH0MRKKPxRdNDiiQBSKO,Better World A-Comin',Cisco Houston,"The Folkways Years, 1944-1961",0.718,0.232,11.0,-16.085,1.0,0.0527,0.979,1.98e-05,0.122,0.751,125.562
 5hwgwSJrc1NDmBZwmBYX4i,I Can't Help It (If I'm Still In Love With You) - Single Version,Hank Williams,40 Greatest Hits,0.682,0.15,4.0,-14.243,1.0,0.0387,0.856,0.0,0.293,0.561,116.12
@@ -646,6 +652,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6NqDCGoN7ZDH7o8RFeWudN,The Old Gospel Ship,"Mother Maybelle Carter, The New Lost City Ramblers",Southern Country Gospel,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6PANXCHzEANzajOgtwLMnN,Matty Groves,Fairport Convention,Liege And Lief,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6QGgXrlajUDCGrpDRqy1W8,Somebody Stole My Gal,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6QHYEZlm9wyfXfEM1vSu1P,Boots of Spanish Leather,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6QzOMmgiRFhUUFj8Edy0Tv,Rock Island Prison,Roscoe Holcomb,An Untamed Sense of Control,0.546,0.202,8.0,-11.985,1.0,0.0615,0.918,0.378,0.0621,0.883,92.788
 6SzgsHHPmXN25wL4EoWwjp,Freight Train Boogie,Doc & Merle Watson,Elementary Doctor Watson,0.68,0.491,4.0,-12.423,1.0,0.0309,0.693,0.698,0.127,0.905,112.526
 6TZBNFUqGzQfEVkIGrz6If,Saro Jane,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -681,9 +688,11 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6gsp9KtEkeAkp8wWIdnh7k,Weary Blues From Waitin' - Non-Session Demo _ Undubbed,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.599,0.11,4.0,-12.613,1.0,0.0283,0.971,0.00991,0.178,0.369,100.761
 6iQ0OIxisPxhzEICEXtaWS,I'm In The Mood,John Lee Hooker,The Real Folk Blues,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6ixNehh9DrMM9vYhN93foh,You're No Good,Bob Dylan,Bob Dylan,0.563,0.679,0.0,-6.191,1.0,0.0441,0.825,0.0,0.336,0.76,123.38
+6j1fiAG1NFBqPDRfJY19Yv,The Lonesome Death of Hattie Carroll,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6jF8A5joJKL4QbjIf4orEj,Ramona,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6jVPQHpdqJgPfE8lagHKBK,St. Louis Tickle,Dave Van Ronk,In The Tradition,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6kyxVUBAsIBZT5lSEJahOg,Oklahoma Hills,Jack Guthrie,The Greatest Country Music Recordings Of All Time Vol. 2,0.8,0.329,7.0,-13.819,0.0,0.101,0.819,2.83e-06,0.0614,0.843,101.804
+6lib77q4koq52srysevRfT,Only a Pawn in Their Game,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6ngIWHdwkmHZe8zFP7lIJq,I'm Counting on You,Elvis Presley,Elvis Presley,0.496,0.163,2.0,-12.541,1.0,0.0383,0.894,0.0,0.109,0.509,135.638
 6onsWIYj3OFJH8FV7Dkbib,I Just Found Out,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.673,0.414,4.0,-10.117,1.0,0.0256,0.854,4.08e-05,0.119,0.749,99.165
 6oxQMpuQV0XbHQC9HVjLBu,All By Myself,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.716,0.646,11.0,-8.139,1.0,0.0502,0.44,1.89e-05,0.0599,0.919,81.063
@@ -751,8 +760,10 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7fzLfsWsXVvStzsk9yRfbG,Down the Highway,Bob Dylan,The Freewheelin' Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7gtrXOGETM9OkerNjNXeie,Waiting Around to Die,Townes Van Zandt,Townes Van Zandt,0.551,0.233,6.0,-18.251,0.0,0.0312,0.71,0.000949,0.11,0.659,89.574
 7gzrbhJyt0myEo9h8b4f9e,The House of the Rising Sun,Woody Guthrie,Woody Guthrie Sings Folk Songs,0.466,0.193,2.0,-11.686,1.0,0.0273,0.984,2.43e-05,0.098,0.435,91.545
+7hMhO4oenpVkVaM5bNkEbz,When the Ship Comes In,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7i1LcXOS55y71u1H1oqxHu,You And I Are Through - Undubbed Version,"Buddy Holly, Bob Montgomery",Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7i2gYHpbHdsE41AoF8n0YD,Breaking Up Ice in the Allegheny,Mike Seeger,True Vine,0.511,0.331,7.0,-16.078,1.0,0.0466,0.973,0.855,0.129,0.517,124.495
+7igZXPqcTPIhnjqzlsKNyw,Walls of Red Wing - Studio Outtake - 1963,Bob Dylan,The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7ih3AofpgGTQLimwk6zrhB,Coney Isle,Roscoe Holcomb,An Untamed Sense of Control,0.592,0.398,5.0,-12.372,1.0,0.0308,0.924,0.00688,0.159,0.928,115.294
 7iyd0aOJ2J54hENgLeGxCk,Stardust,Willie Nelson,Stardust,0.549,0.267,9.0,-12.382,0.0,0.0416,0.881,0.0209,0.137,0.0993,144.546
 7kSGnfvrStmQiNNPe6YuRD,Footprints In The Snow - Undubbed Version,"Buddy Holly, Bob Montgomery",Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
