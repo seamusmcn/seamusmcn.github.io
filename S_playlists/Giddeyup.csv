@@ -5,6 +5,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 00fQwAEaHcZDxMJAn3N0wl,He Was a Friend Of Mine,Dave Van Ronk,Hear Me Howl (Live 1964),0.445,0.036,9.0,-26.244,1.0,0.0384,0.932,0.765,0.519,0.372,130.914
 00lKaBZz3b0hokIclZ2CEF,Norwegian Wood,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 017YzqyoxnqeLta9otG0Rg,Wildwood Flower,Mother Maybelle Carter,Folk Music At Newport,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+01V7wI4bNjYTv0QxyTRncU,Fishing Blues,Henry Thomas,Lovin' Babe,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 02XUE4rkLA5WpPspfoBUHK,Dark as a Dungeon,Jim Kweskin,America,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 032kwZ9kg4yIaIPBOOIwlm,I'll Be Your Baby Tonight,Bob Dylan,John Wesley Harding,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 03f95cczYGlSHf1UfnVRkp,Tomorrow Is a Long Time,Odetta,Odetta Sings Dylan,0.52,0.139,8.0,-16.767,1.0,0.0324,0.95,0.00349,0.137,0.529,103.25
@@ -235,6 +236,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2QrZFHZzg6p9Tqcko5H3Vg,I Got Mine,"Jim Kweskin, Mel Lyman, Fritz Richmond",Relax Your Mind,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2Qvk0G9HvOtsycOnK7fvLB,I Pity the Poor Immigrant - Take 4,Bob Dylan,"Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2RI3qxmZug5DGEFxUBGO3l,I Don't Want No Woman (To Try to Be My Boss),Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.673,0.11,6.0,-16.155,0.0,0.0776,0.855,0.0,0.0817,0.37,168.305
+2RTOeo8k8TzH9lZtks5tTT,Old Time Religion,Woody Guthrie,The Early Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2S79LkepDFPplMILfj9gc9,"Baby, Let Me Follow You Down - Witmark Demo - 1964",Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2TMJrLYSGo9ys1rD7sM9Bc,"Rambling, Gambling Willie - Witmark Demo - 1962",Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.682,0.343,4.0,-12.811,1.0,0.0552,0.725,0.0,0.147,0.67,116.754
 2ThO3YZAifDOnpKPUJrlWp,Columbine,Townes Van Zandt,Townes Van Zandt,0.497,0.191,7.0,-20.047,1.0,0.0312,0.804,0.00363,0.14,0.619,91.368
@@ -249,6 +251,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2YehU3jLpb9bM5V6k8HmyA,Country Pie,Bob Dylan,Nashville Skyline,0.723,0.533,9.0,-17.939,1.0,0.0557,0.639,0.00037,0.23,0.68,99.079
 2aAYLg4QVTOBVsP72lAyzE,I Got a Woman,Elvis Presley,Elvis Presley,0.617,0.77,4.0,-10.331,1.0,0.0455,0.701,0.0,0.349,0.856,122.284
 2adU53j2QTuE7WIO8Ypu1b,Travelin' Man,Roy Bookbinder,Travelin' Man,0.589,0.418,8.0,-8.098,1.0,0.0366,0.849,0.0,0.262,0.766,96.152
+2anoyhd8D1GUnNOqH8PXgC,Bull Doze Blues,Henry Thomas,Lovin' Babe,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2awBEWKQxh6pyvlEj7HiFt,My Rough & Rowdy Ways,Doc & Merle Watson,Ballads From Deep Gap,0.609,0.299,7.0,-12.073,1.0,0.0286,0.646,0.0,0.342,0.881,75.309
 2bK3HJovfeZAWS5XXkjWU2,When I Was a Cowboy (Western Plains),Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2bbmdWor8U0QVHxLiwo4SP,Clay Pigeons,Blaze Foley,Sittin' by the Road,0.388,0.217,6.0,-14.624,1.0,0.0447,0.867,7.87e-06,0.116,0.307,81.0
@@ -430,6 +433,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4Gy8BQVXgSmTaYrKwahFYo,I Could Never Be Ashamed Of You,"Hank Williams, Drifting Cowboys",Memorial Album (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4I24SXTBHB4PcrCZrx1DA0,Summertime,Pete Seeger,"American Favorite Ballads, Vols. 1-5 (Box Set)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4IBqtixfYBrw4woH1ssYxA,Farewell - Witmark Demo - 1963,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.46,0.275,11.0,-13.538,1.0,0.0458,0.874,0.0,0.114,0.478,168.363
+4IqYtPhX7LyzhBT27iEvKv,Cumberland Gap,Woody Guthrie,The Early Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4JCdMleSXMACR55yjHxs0R,I'm So Glad,Skip James,Blues From The Delta,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4JW7GB5ekciDSTSLnuO0W7,New Year's Eve,Elizabeth Cotten,"Elizabeth Cotten, Volume 3: When I'm Gone",0.351,0.243,11.0,-21.961,1.0,0.0319,0.964,0.893,0.116,0.812,97.907
 4JYOhR6kq2KYMmtVBGfnl6,Got No Reason To Cry,The Rooftop Singers,Vanguard Visionaries,0.525,0.763,4.0,-6.956,1.0,0.0391,0.733,2.25e-05,0.545,0.817,120.659
@@ -493,6 +497,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4hCyQ13f556kUiqHL8y8Rl,Going Down This Road Feeling Bad,Doc Watson,The Essential Doc Watson,0.572,0.782,7.0,-12.374,1.0,0.0984,0.737,0.601,0.872,0.906,126.563
 4iZMmiAM3X720dVFxGTwu7,Dirtiest Little Darling,Jerron Paxton,Dirtiest Little Darling / Railroad Bill,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4jh6QSj0uHqxTEU1o0DmB6,Fishin' Blues,Taj Mahal,Giant Steps/De Old Folks At Home,0.654,0.175,2.0,-17.286,1.0,0.0517,0.988,0.0202,0.0964,0.521,77.484
+4jtxuAPoMo3plkBIyHkl8W,Sourwood Mountain,Woody Guthrie,The Early Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4k4CyMa0PNTXh5ma6wQVwy,Single Girl,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.629,0.218,10.0,-11.898,1.0,0.0296,0.941,0.0065,0.129,0.352,99.25
 4k8O80ugZaEBCHdZ7ntuWE,Alimoney,Shel Silverstein,Boy Named Sue,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4mpabpQcppE3Dw4nwFbHQL,T.B. Blues,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -525,6 +530,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 51Wodn2E9WDqdmDKX9PU3d,Automation Song,Phil Ochs,All The News That's Fit To Sing,0.578,0.325,2.0,-13.389,1.0,0.105,0.825,0.0,0.238,0.491,117.595
 529UhNRfvKmId4ZL7cvRDm,"Greystone Chapel - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 52vA3CYKZqZVdQnzRrdZt6,The Times They Are A-Changin',Bob Dylan,The Times They Are A-Changin',0.389,0.396,7.0,-7.999,1.0,0.0332,0.887,0.0,0.0828,0.585,171.86
+53P1B5vqF1Q5ximQPMh8ZX,When The Train Comes Along,Henry Thomas,Lovin' Babe,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 53RodDKVbD0zMkgStDZMri,"No, No, No, I Won't Come (Go) Down No More",Michael Hurley,First Songs,0.454,0.194,6.0,-18.893,1.0,0.0434,0.914,0.00031,0.316,0.503,80.571
 53VEyxDRUI90WPorBfT08U,Love Of The Mountains,Larry Sparks,John Deere Tractor,0.703,0.613,10.0,-7.457,1.0,0.0585,0.658,0.000183,0.276,0.708,107.416
 53ihI5CprE0iAoXapWSyoo,Maple Leaf Rag - Instrumental,Rev. Gary Davis,The Guitar And Banjo Of Reverend Gary Davis,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -719,6 +725,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6r0ZMslFYegGxLVAaIKHKk,Nobody Knows The Way I Feel This Morning,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6sYdf0d7IaX848f5UChyij,Shady Grove,Doc Watson,The Essential Doc Watson,0.585,0.529,3.0,-12.003,0.0,0.0291,0.644,0.0131,0.0795,0.938,133.075
 6se4sK4ZbkNgOJUkmszbxX,Rocky Top,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6tBAHbLdUuzAyLCvKSITeR,Long John,Woody Guthrie,The Early Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6tTrJus0cpKJ30xGKcnCOL,Chisholm Trail,Cisco Houston,Cowboy Ballads,0.634,0.203,1.0,-18.258,1.0,0.0408,0.952,5.43e-05,0.0767,0.856,110.808
 6tqYc9utjG6PCQ9eVTRQMx,I've Got a Home Up in Glory,Mother Maybelle and the Carter Sisters,The Trouble with the Truth,0.77,0.226,8.0,-12.076,1.0,0.0446,0.958,0.0,0.241,0.934,111.145
 6ttVYsAi2ndk3YngDxr904,What Will We Do with the Baby O,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.762,0.407,8.0,-7.682,1.0,0.0744,0.969,0.0,0.264,0.497,98.839
