@@ -9,7 +9,9 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0Yh4igccFHplz0oP2NnujS,Christmas Time Is Here,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.427,0.12,5.0,-18.786,1.0,0.0315,0.976,0.771,0.154,0.0772,74.769
 0hdNrtu4z3lHfP4YQOZUny,Old Devil Moon,Chet Baker,Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0s2h4GBGC4rcdSQhJX80Mv,Samba De Orpheus,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.581,0.428,2.0,-16.917,0.0,0.0486,0.889,0.845,0.173,0.606,126.033
+14gEDPQtsTcbZOWs7EXg4V,Pick Yourself Up,"Nat King Cole, George Shearing",Nat King Cole Sings George Shearing Plays,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 18Psr6uiBMT6KTGt7s82Rd,Bogota - Live,Ahmad Jamal,Live in Paris (1971),0.301,0.439,9.0,-16.132,0.0,0.0332,0.597,0.314,0.742,0.403,79.274
+19RQazIT04qugNWgnnkAxU,Imagination,Slim Gaillard,"Slim Gaillard At Birdland, 1951",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Bek8fB7OeWTqNghvNqCrf,You Grow Sweeter as the Years Go By,The Pied Pipers,What is This Thing Called Love?,0.276,0.258,0.0,-9.135,1.0,0.0278,0.88,3.24e-05,0.155,0.305,88.781
 1FdulvpRiLgkseCz7RrNOR,Quiet Nights of Quiet Stars (Corcovado),"Antônio Carlos Jobim, Frank Sinatra",Sinatra/Jobim: The Complete Reprise Recordings,0.388,0.255,0.0,-16.496,1.0,0.0332,0.77,0.0737,0.0838,0.25,107.426
 1GJrFcbu6BVsEnPhDmGfdE,Cast Your Fate To The Wind,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.467,0.225,8.0,-15.74,1.0,0.0383,0.774,0.151,0.107,0.303,124.791
@@ -27,10 +29,12 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1xsY8IFXUrxeet1Fcmk4oC,In the Mood,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.624,0.304,8.0,-14.496,1.0,0.0822,0.929,0.173,0.0693,0.874,80.582
 22M3T4C7IegXSrDNqFQ1gU,Sure Gonna Miss Her,"The Mariachi Brass, Chet Baker",Hats Off,0.0,0.502,5.0,-9.005,1.0,0.0,0.676,0.248,0.513,0.0,0.0
 286RkRWuFjPZD252MW334r,September Song,Eartha Kitt,The Collection,0.286,0.15,3.0,-17.659,1.0,0.0421,0.891,0.0536,0.144,0.105,134.931
+2BMorWMRsJPc1hEstsFKRU,I'll Remember April,George Shearing,September In The Rain,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2JEDACLvBw4Tw7AaNaQGlj,Autumn Leaves,Vince Guaraldi,The Definitive Vince Guaraldi,0.414,0.241,0.0,-16.502,0.0,0.0336,0.847,0.533,0.187,0.222,99.386
 2f0GJdDxkHllLSIAIzrWIh,Rain,The Four Freshmen,Live From Las Vegas,0.493,0.444,10.0,-10.004,1.0,0.0397,0.142,8.3e-06,0.962,0.481,83.428
 2qXsuj2z9Y27LP8W07a2XY,Candy,The Pied Pipers,What is This Thing Called Love?,0.383,0.186,9.0,-10.069,0.0,0.0264,0.848,0.0,0.296,0.327,83.537
 2uyySHlUXP9AkOKaVWOqHS,Moonglow,"Eddy De Lange, Irving Mills, Will Hudson, Dick Hyman",Moonstruck - Original Motion Picture Soundtrack,0.681,0.217,5.0,-19.411,1.0,0.0476,0.772,0.484,0.12,0.438,131.361
+2waiAcLQiqlX5bzvLtNUA0,Fly Me To The Moon (In Other Words),"Nat King Cole, George Shearing",Nat King Cole Sings George Shearing Plays,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2zPANzQTt5Nbkg0eBPb7HI,There Will Never Be Another You - Vocal Version,Chet Baker,Chet Baker Sings,0.513,0.112,3.0,-16.156,1.0,0.0574,0.949,0.0018,0.0721,0.577,168.754
 33LQxf2T3Jbgw3XQ1H3LMY,Blue Skies,Willie Nelson,Stardust,0.381,0.335,2.0,-12.797,1.0,0.0362,0.207,0.088,0.1,0.259,83.792
 3AgqQbQWYLGsemeBHk1U1d,Autumn Leaves - Remastered 1987,Nat King Cole,Sings For Two In Love,0.211,0.348,2.0,-10.12,0.0,0.0326,0.939,0.00052,0.384,0.0981,86.868
@@ -67,6 +71,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5WOEu7bI9bgozY0OiLPHlq,Graveyard Theme,Vince Guaraldi,"It's The Great Pumpkin, Charlie Brown (Original Soundtrack Recording)",0.533,0.257,9.0,-14.969,1.0,0.0494,0.94,0.884,0.177,0.281,137.186
 5WPuFqw1PR4KKg2rSFzxry,"Oh, Look at Me Now",The Pied Pipers,What is This Thing Called Love?,0.806,0.167,2.0,-10.929,0.0,0.0441,0.843,0.0,0.413,0.675,115.419
 5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1.0,-15.485,1.0,0.035,0.968,1.55e-05,0.127,0.305,78.056
+5bqw1jBy6gacBpxsn8xFuF,Guilty,George Shearing,The Shearing Piano,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5nQ9snGTl5OBTHVFmT5QsF,Stardust,The Pied Pipers,What is This Thing Called Love?,0.472,0.0569,8.0,-14.495,1.0,0.0307,0.979,0.000449,0.175,0.261,66.976
 5wHTAt05hXx9Gp5WvdrVhk,"Softly, As In A Morning Sunrise",Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.626,0.199,0.0,-13.214,0.0,0.0486,0.978,0.932,0.0975,0.601,88.198
 6115ks6fGkf7KYRDAi8lNK,Almost Like Being In Love - Remastered,Nat King Cole,Sings For Two In Love,0.447,0.487,7.0,-6.783,1.0,0.062,0.843,0.0,0.177,0.696,182.515
