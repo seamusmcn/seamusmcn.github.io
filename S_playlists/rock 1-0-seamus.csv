@@ -212,6 +212,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0cUqdLp20Oz7zolsvB9oxS,New Amsterdam,Elvis Costello & The Attractions,Get Happy,0.508,0.469,7.0,-11.581,1.0,0.033,0.426,0.0,0.919,0.777,82.635
 0clYE6iJzltqRWGmx1VOUw,G-Man Hoover,Van Dyke Parks,Discover America,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0d9AoJT9dAMGs968xIWdtW,"Sad-Eyed Lady of the Lowlands - Take 1, Complete",Bob Dylan,"The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Deluxe Edition)",99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+0dGLRVxYEubYhT0ryF4CON,Kansas City - Live At Dallas Memorial Auditorium _ 1968,James Brown,Say It Live And Loud: Live In Dallas 08.26.68 (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0dH3276UF1Sj1lTpetOIqS,Confessions - Demo,Violent Femmes,Violent Femmes (Deluxe Edition),0.467,0.35,9.0,-12.151,0.0,0.0666,0.107,2.04e-05,0.0867,0.337,113.552
 0dPsctAum4J6B9Z2xTRz2A,Dear Prudence - Esher Demo,The Beatles,The Beatles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0dfdXhBg11XA16XgAEtFcN,Song to Woody,Bob Dylan,Bob Dylan,0.53,0.257,9.0,-13.968,1.0,0.0332,0.913,0.0299,0.11,0.499,95.538
@@ -561,6 +562,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1WEuSuC0tJquFpf2JiMjh7,Chimes of Freedom,The Byrds,Mr. Tambourine Man,0.552,0.57,7.0,-10.332,1.0,0.0349,0.619,0.0,0.397,0.26,127.056
 1WKEDO98nmcF1uYmMttw7B,The Book I Read - 2005 Remaster,Talking Heads,Talking Heads '77 (Deluxe Version),0.6,0.704,2.0,-6.069,0.0,0.0373,0.109,2.46e-05,0.151,0.736,125.064
 1WN4uNclrDuczTO3bCr8s1,Be My Baby,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.512,0.771,4.0,-7.006,1.0,0.0402,0.168,0.0,0.0895,0.803,129.639
+1WRibhoBGhnD3gHQP06gct,Are Inlaws Really Outlaws,Sir Douglas Quintet,The Complete Mercury Masters,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1WdjhpptMbaldV9A18LGz7,Small Axe,The Wailers,Burnin' (Deluxe Edition),0.791,0.647,9.0,-10.602,1.0,0.207,0.3,0.000143,0.0762,0.82,91.552
 1WvEr42lxz4P06DlIuYdmr,New York Mining Disaster 1941,Bee Gees,Bee Gees' 1st,0.447,0.237,9.0,-13.42,0.0,0.076,0.581,0.0,0.0889,0.475,89.271
 1X6dRpq3Wi6Jxthi8ZBBBz,Talkin' New York,Bob Dylan,Bob Dylan,0.52,0.443,7.0,-7.755,1.0,0.0399,0.811,0.00104,0.0489,0.766,123.9
@@ -2496,6 +2498,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6WEEA3pDQVogiNND0jRfoJ,Hearts and Bones,Paul Simon,Hearts And Bones,0.582,0.257,4.0,-19.063,1.0,0.037,0.932,0.0393,0.111,0.478,114.127
 6WGJ3Q8TM5lxHcrKIaWHTP,I'm Still Here,Sharon Jones & The Dap-Kings,Miss Sharon Jones! (Original Motion Picture Soundtrack),0.695,0.604,1.0,-5.317,0.0,0.0311,0.26,0.00103,0.0373,0.932,137.561
 6WLcfx5k7piKZWUm1SwFco,Long Haired Lady - Remastered 2012,"Paul McCartney, Linda McCartney",Ram (Archive Collection),0.288,0.579,0.0,-8.064,1.0,0.0274,0.294,0.0893,0.559,0.548,168.334
+6WeYHd10XThfbEO49e5RK8,Let's Dance,Chris Montez,National Lampoon's Animal House,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6WiAqVX5uUSw9guuUlWbTO,Little Miss Queen of Darkness,The Kinks,Face to Face (Deluxe),0.679,0.498,2.0,-6.477,1.0,0.0325,0.179,2.77e-06,0.0525,0.179,129.816
 6WvbMOjKf5y3CAHn4ubwlp,"Yummy, Yummy, Yummy",Ohio Express,The Best of the Ohio Express,0.7,0.718,0.0,-6.967,1.0,0.0296,0.592,0.0022,0.0999,0.967,131.48
 6WxcOtGXQ6tWgTbpX6pVKS,Walking on the Moon,Lucia Pamela,Into Outer Space with Lucia Pamela,0.426,0.834,5.0,-8.749,0.0,0.148,0.929,7.43e-05,0.364,0.572,171.705
