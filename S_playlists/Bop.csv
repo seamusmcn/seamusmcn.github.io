@@ -26,6 +26,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1HFtTn1sIJhkV6mtY8ax2Z,The Warmth Of The Sun - Remastered,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",0.256,0.384,9.0,-11.111,0.0,0.0297,0.686,0.000829,0.127,0.39,203.714
 1MA9StLzlFftLbuqOmoWij,Cathy's Clown,The Everly Brothers,The Golden Hits of The Everly Brothers,0.497,0.582,7.0,-8.961,1.0,0.0339,0.412,0.0,0.372,0.866,119.808
 1NmvxEO22XM0Uc7iWXmBTb,My Boyfriend's Back,The Chiffons,The Chiffons Absolutely The Best!,0.661,0.855,10.0,-6.202,0.0,0.194,0.0219,0.0,0.378,0.441,141.931
+1PKOM44lXQUUZrlvWvHVjf,Think Me A Kiss,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Qf3si9AhOhAgYkF1md0FB,I Can Hear Music,The Ronettes,Be My Baby: The Very Best of The Ronettes,0.604,0.51,2.0,-8.915,1.0,0.0299,0.489,0.0,0.318,0.808,121.56
 1Uf4MJU7ckwuaHKrbBb16y,That's My Desire,Buddy Holly,Buddy Holly,0.424,0.361,7.0,-8.732,1.0,0.0306,0.639,0.0,0.159,0.581,122.63
 1WN4uNclrDuczTO3bCr8s1,Be My Baby,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.512,0.771,4.0,-7.006,1.0,0.0402,0.168,0.0,0.0895,0.803,129.639
@@ -57,6 +58,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2Z5rJNI4Wdxud3vwm42l4n,A Love So Fine,The Chiffons,The Chiffons Absolutely The Best!,0.515,0.886,0.0,-3.494,1.0,0.0324,0.666,0.0,0.437,0.953,101.227
 2cSD2iV6RDf3a2pXyITeWW,Chapel Of Love,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.628,0.804,2.0,-8.529,1.0,0.0449,0.48,0.0,0.398,0.8,115.575
 2dOFRBb7vn8q4PheZTMDH9,Right Or Wrong,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2dXKmxHvW3Wei4Wm4RjaBU,Where Did I Make My Mistake,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2g7LUitXlS3jlTqdydMPbR,I Guess I Was Just A Fool - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2ocr9MG2cQz0h0H3rpQqqa,Blue Monday - Undubbed Version,Buddy Holly & The Crickets,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2phiHgwJfL1LphKfVmvd4A,Just Won't Do Right,James Brown & The Famous Flames,"Please, Please, Please",0.467,0.289,6.0,-13.393,1.0,0.0311,0.869,3.96e-06,0.0893,0.741,96.68
@@ -146,9 +148,12 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6vcG9EgeqJUSmmF65lxUm6,One Fine Day,The Chiffons,The Chiffons Absolutely The Best!,0.251,0.868,1.0,-2.685,1.0,0.128,0.488,7.34e-06,0.814,0.599,177.13
 70XHAdaMaoLIOVb1hSaeJ4,Any Time At All - Remastered 2009,The Beatles,A Hard Day's Night (Remastered),0.612,0.719,2.0,-7.026,1.0,0.0398,0.366,3.88e-06,0.437,0.744,141.016
 72t33ISDa9b4XoIgtmlp3t,Why Do Fools Fall In Love - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",0.402,0.766,5.0,-6.202,1.0,0.0436,0.557,4.29e-06,0.101,0.765,82.714
+72vMI8p9N5Hq8WS7UJyX9n,I Just Want To Love You,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7529Z6b1rlGZFFPWjHPeV5,Ask Me Why - Remastered 2009,The Beatles,Please Please Me (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 79yk5pztAgQ8WDehDFvGvj,Uptown,Little Eva,Llllloco-Motion,0.734,0.502,0.0,-9.629,1.0,0.0302,0.886,9.75e-05,0.101,0.871,109.798
+7AJez2NZttAYSv4LNs9dyk,(I'm Afraid) The Masquerade Is Over,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7Ae0Y62p4YxXvxE70cf7Is,You've Turned To A Stranger,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7AoO3IeCEHCXf9i4PJ0TfM,When The Right Time Comes Along,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7DaJpUukBvesxqgO98LrDG,Cool Love,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7FKEOxS3qz0hv4dDaIQSqW,Such a Night,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7HfCWnydoXXHYqaGowmF1W,"Baby, I Love You",The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.545,0.802,3.0,-8.3,1.0,0.0353,0.205,1.07e-05,0.0854,0.841,115.668
