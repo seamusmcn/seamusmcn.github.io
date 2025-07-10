@@ -628,6 +628,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1gFNm7cXfG1vSMcxPpSxec,"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles,The Beatles (Remastered),0.818,0.728,10.0,-8.331,1.0,0.0314,0.232,0.0642,0.251,0.975,113.059
 1gWj5OlKlZmBvtkYxluZux,409,The Beach Boys,Surfin' Safari (Remastered),0.464,0.7,7.0,-4.751,1.0,0.0306,0.749,0.0,0.258,0.854,159.462
 1gc4XWEz9rCheFyS3cQCEN,Ballad for a Friend - Witmark Demo - 1962,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.56,0.184,8.0,-17.374,1.0,0.0369,0.821,1.25e-06,0.448,0.393,120.044
+1gdP3yhz5XHszfrk85Wc6b,Leave Me Alone,Lou Reed,Street Hassle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1h04XMpzGzmAudoI6VHBgA,Penny Lane - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),0.651,0.488,9.0,-8.22,1.0,0.0316,0.212,0.026,0.136,0.491,113.032
 1h0qIqWO2n9vV4QTyszRhm,Stranger Blues,Elmore James,Shake Your Money Maker: The Best of the Fire Sessions,0.504,0.935,5.0,-5.017,0.0,0.0405,0.0048,0.000561,0.054,0.843,98.835
 1h16NyTnhC3EsKRyY1rs4E,Breakfast In America,Supertramp,Supertramp - The Very Best Of,0.591,0.546,0.0,-9.309,0.0,0.0298,0.53,0.0,0.0694,0.747,75.194
@@ -883,6 +884,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2IeM4N8dFf4JNZtYVu11Gk,Take Me Back,Andrae Crouch,Classics Vol. 1,0.461,0.541,1.0,-11.805,1.0,0.0327,0.227,0.0,0.0932,0.666,128.442
 2IobDyMywYgrJAdLpRvqvT,Let's Live For Today - Uncensored Version,The Grass Roots,20th Century Masters: The Millennium Collection: Best Of The Grass Roots,0.597,0.345,8.0,-12.462,0.0,0.0363,0.67,0.0,0.0465,0.54,115.373
 2IqPRjJAcLvPqAEbnB2VJz,The Safety Dance - Extended Dance Version,Men Without Hats,Rhythm Of Youth (Expanded Edition),0.765,0.824,0.0,-6.354,1.0,0.0386,0.0436,2.75e-05,0.16,0.349,100.193
+2Itu5cHPXUqAhKqoQZUi67,Gimmie Some Good Times,Lou Reed,Street Hassle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2IyAlDb54LzF8O1V08389y,Mother Nature's Son - Esher Demo,The Beatles,The Beatles,0.356,0.324,8.0,-9.269,1.0,0.0282,0.835,0.000122,0.351,0.331,174.134
 2JZu2ny6Et9wFic99sMF7x,Hand in Glove - 2011 Remaster,The Smiths,The Smiths,0.445,0.89,0.0,-7.242,0.0,0.0354,8.97e-05,0.000176,0.284,0.915,141.802
 2Jzf3Vt4olD8UyZBN2qS5H,Misirlou (Stereo),The Beach Boys,Surfin' USA (Mono & Stereo),0.377,0.641,5.0,-9.464,1.0,0.0478,0.00532,0.733,0.495,0.661,166.748
@@ -898,6 +900,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2LHfvXx92f9HAYV146h6TE,Gone Away Again,Rogér Fakhr,Fine Anyway (Habibi Funk 016),0.569,0.782,4.0,-9.102,0.0,0.151,0.342,0.00652,0.15,0.973,147.929
 2LkaNhCrNVmcYgXJeLVmsw,The Sound of Silence,Simon & Garfunkel,The Graduate,0.435,0.456,6.0,-10.305,1.0,0.0279,0.136,1.62e-06,0.124,0.529,107.529
 2Ll9VtmKPqyA09NnNEO6r7,Walkin',Patti Whipp,Walkin' b/w It's Gone,0.457,0.229,4.0,-18.219,1.0,0.0364,0.706,0.586,0.11,0.634,136.018
+2MoYNQTOwqRsc73c2DmWmd,Dirt,Lou Reed,Street Hassle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2MuwL6v9qAOUag4fM4m1PA,Good for You,TOTO,Toto IV,0.505,0.403,5.0,-14.721,1.0,0.0321,0.286,0.000625,0.103,0.634,182.201
 2NMFnOD3QQjhfwqsl7AJPy,Ritual #1,The West Coast Pop Art Experimental Band,A Child's Guide To Good And Evil,0.607,0.481,0.0,-12.435,1.0,0.0334,0.0569,0.0,0.0538,0.426,119.587
 2Nh1iGPwV3V1OADqZ4j7u6,"Queen Jane Approximately - Take 5, Alternate Take",Bob Dylan,"The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Deluxe Edition)",0.575,0.575,0.0,-9.437,1.0,0.0261,0.108,2.15e-05,0.108,0.658,96.6
@@ -1376,6 +1379,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3ZE3wv8V3w2T2f7nOCjV0N,Life on Mars_ - 2015 Remaster,David Bowie,Hunky Dory (2015 Remaster),0.445,0.384,10.0,-14.642,1.0,0.0417,0.635,7.74e-05,0.0539,0.216,123.295
 3ZFurUI2qESabUHHyIlxa8,Lady Grinning Soul - 2013 Remaster,David Bowie,Aladdin Sane - 2013 Remaster,0.373,0.56,4.0,-8.419,1.0,0.0394,0.0326,0.000166,0.0795,0.167,93.208
 3ZTjyCsILfq3cfcedFhHAI,Right Or Wrong,Willie Nelson,Country Willie,0.698,0.445,0.0,-10.111,1.0,0.0408,0.75,4.74e-06,0.223,0.722,96.026
+3ZW1Fyu134dXKvm06i9ol0,Shooting Star,Lou Reed,Street Hassle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3ZYGUrQ8qZiHv8FAaJ72Uo,Calico Skies - 2020 Remaster,Paul McCartney,Flaming Pie - Archive Collection,0.545,0.105,1.0,-17.236,1.0,0.0432,0.859,0.000425,0.0958,0.514,86.642
 3ZYSrBWQXYgTe4tyKKIZ0D,"Bertha - Live at Fillmore East, New York, NY, April 27, 1971",Grateful Dead,Grateful Dead (Skull & Roses) [Live],0.548,0.738,7.0,-10.618,1.0,0.0365,0.268,0.69,0.17,0.953,88.764
 3ZZ7z7hgG9PHaCW4CYyZiI,Rain - 2022 Stereo Mix,The Beatles,Revolver (Super Deluxe),0.223,0.711,0.0,-5.305,1.0,0.0356,2.09e-05,0.91,0.402,0.622,108.251
@@ -1407,6 +1411,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3e0FzZjTXOUtiJGSClOBrI,Fly Like An Eagle,Steve Miller Band,Fly Like An Eagle,0.561,0.754,9.0,-12.769,0.0,0.112,0.61,0.0194,0.328,0.642,100.08
 3e1w0Wm0sH8nUYPArDkBG3,Octopus's Garden - 2019 Mix,The Beatles,Abbey Road (Super Deluxe Edition),0.565,0.645,1.0,-6.194,0.0,0.0332,0.113,0.000629,0.124,0.626,92.255
 3eQiXp8TNEBuXepG7Iidqi,"Talking Bear Mountain Picnic Massacre Blues - Live at Brandeis University, Waltham, MA - May 1963",Bob Dylan,Bob Dylan In Concert: Brandeis University 1963 - Live,0.499,0.466,7.0,-11.226,1.0,0.257,0.845,0.000698,0.343,0.555,105.484
+3ecvnatX2V8cjPr1NMce05,Street Hassle,Lou Reed,Street Hassle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3eo4UcNaWFW2ehMWKC4Flu,(Forgive Me) My Little Flower Princess - Remastered 2010,John Lennon,Milk And Honey,0.929,0.631,4.0,-7.483,0.0,0.0396,0.476,0.115,0.0578,0.972,122.572
 3f0U5NaD1bCk8nmKpn2ZJY,Kodachrome,Paul Simon,There Goes Rhymin' Simon,0.592,0.705,1.0,-10.276,0.0,0.0287,0.0291,1.97e-05,0.0456,0.902,135.754
 3fODG31RWERv2y1mZWV7WO,Simple As That,Huey Lewis & The News,Fore!,0.686,0.508,8.0,-11.985,1.0,0.0311,0.318,0.0,0.0974,0.542,80.707
@@ -1762,6 +1767,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4dGQaurapGQUWLAeQ3cvBg,Wake Up Little Susie,The Everly Brothers,"The Cadence Years, Vol. 1",0.705,0.725,1.0,-7.529,1.0,0.151,0.573,1.17e-05,0.0627,0.84,90.582
 4dessGxnKXmTbHPhVgqODq,There's A Place - Remastered 2009,The Beatles,Please Please Me (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4dkrqvsEqNSpciVBHobLBR,Sweet Love On My Mind,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.636,0.564,9.0,-7.469,1.0,0.0388,0.843,1.94e-05,0.267,0.887,173.95
+4dzJOg9O719tL0cQIGP5Py,I Wanna Be Black,Lou Reed,Street Hassle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4e3DoE0H8nogusqa2OsrPw,Colorado Girl,Townes Van Zandt,Townes Van Zandt,0.412,0.0769,9.0,-20.142,1.0,0.032,0.91,0.00144,0.113,0.518,171.168
 4e4apcEudTcQKLGpLk7l7l,Blue Railroad Train - Vanguard Version,Doc Watson,The Essential Doc Watson,0.504,0.29,9.0,-16.506,1.0,0.0284,0.884,0.00877,0.109,0.778,90.62
 4eDyujiAavhtJR7ZffQgCt,It's Me O Lord,Pastor T.L. Barrett and the Youth for Christ Choir,Like a Ship (Without a Sail),0.47,0.713,7.0,-9.33,1.0,0.0364,0.00504,0.0,0.12,0.865,143.99
@@ -2032,6 +2038,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5GjPQ0eI7AgmOnADn1EO6Q,Eleanor Rigby - Remastered 2009,The Beatles,Revolver (Remastered),0.581,0.28,4.0,-9.091,0.0,0.0381,0.936,1.56e-05,0.305,0.813,137.831
 5HOQNAXcPSwV7Gt8AV8qiP,Picture Book - 2018 Stereo Remaster,The Kinks,The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster),0.827,0.952,0.0,-7.453,1.0,0.0314,0.172,0.000418,0.228,0.971,121.192
 5HQ639Z3ms3hnZx0KfWnkp,Private Eyes,Daryl Hall & John Oates,Private Eyes (Expanded Edition),0.85,0.938,9.0,-6.889,0.0,0.0415,0.409,0.000346,0.0582,0.84,120.826
+5HRi9EpKwsrloPX1cnKN6E,Wait,Lou Reed,Street Hassle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5HSTzkRI1sWGIMnWp2rAeT,Run Run Run,"The Velvet Underground, Nico",The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition),0.486,0.708,7.0,-11.087,1.0,0.107,0.685,0.0563,0.0667,0.481,143.165
 5HdwWMUGkf1TNP4xgdpn2m,Marriage Is For Old Folks,Nina Simone,I Put A Spell On You,0.42,0.392,10.0,-10.913,1.0,0.0436,0.94,4.89e-06,0.186,0.823,136.283
 5HyHsZCOo92xkIqwGZzqmM,Monty & Me,Zoot,Zoot Out,0.433,0.697,1.0,-6.305,0.0,0.0482,0.0314,0.0,0.111,0.628,83.136
