@@ -32,6 +32,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 06JxwPA4WAg0LWADJtaldL,Jimmy Jazz - Remastered,The Clash,London Calling (Remastered),0.528,0.397,9.0,-12.024,1.0,0.0926,0.00562,3.64e-06,0.43,0.579,128.475
 06YcuDoEZvMcxgzvtzJTz4,Did You Ever Have to Make up Your Mind_,The Lovin' Spoonful,Do you Believe In Magic,0.789,0.5,7.0,-9.064,1.0,0.0342,0.761,0.0,0.181,0.945,120.214
 06aWHX6U1AP5mBZp4FJRzB,Only Good For Conversation,Rodríguez,Cold Fact,0.482,0.937,0.0,-5.173,1.0,0.112,0.0816,0.000293,0.161,0.459,105.437
+06qEPOjNTqT5k0xrGqVspE,Really - Really - Really - Really - Really - Really Love,"Spongy And The Dolls, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 06ypiqmILMdVeaiErMFA91,Drive My Car - Remastered 2009,The Beatles,Rubber Soul (Remastered),0.754,0.571,2.0,-8.547,1.0,0.0421,0.0173,0.0,0.3,0.82,122.463
 07GQMwiLS29Q588Xjihjde,Don't Act Like A Baby,Tony Orlando & Dawn,Tuneweaving,0.693,0.517,1.0,-8.185,1.0,0.0335,0.239,0.0,0.0948,0.939,118.316
 07KHJvlYBeQVqrmifTEqEp,Dream On,Aerosmith,The Essential Aerosmith,0.412,0.528,1.0,-6.613,1.0,0.0259,0.298,5.03e-05,0.332,0.175,79.962
@@ -264,6 +265,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0mRQp2HsSqX1MZuMvonAPN,Let Me Roll It - 2010 Remaster,"Paul McCartney, Wings",Band On The Run (Standard),0.339,0.408,4.0,-8.505,1.0,0.0368,0.0327,0.0022,0.081,0.52,172.599
 0mW5zt0ZZdDAVQK0hmWhDR,I don't love nobody,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.429,0.144,3.0,-22.97,1.0,0.0515,0.992,0.948,0.107,0.901,84.258
 0mWw8bJ64kgSYBgIFzfCnG,I'm Only Sleeping - Take 2,The Beatles,Revolver (Super Deluxe),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0mdSp4t6Rbg5dcNoWTEELk,Soul City,"The Hi-Lifes, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0mobySzkSudnm0PdUcOSWq,Love In Vain - Remastered 2019,The Rolling Stones,Let It Bleed (50th Anniversary Edition / Remastered 2019),0.376,0.478,10.0,-11.317,1.0,0.0374,0.242,0.00867,0.117,0.289,182.471
 0mq2LpadzWarV1PQeuT38r,Queen Nymphet,The West Coast Pop Art Experimental Band,Vol. 2,0.689,0.363,2.0,-14.82,1.0,0.0292,0.688,6.56e-06,0.316,0.57,114.269
 0mqnEC7cfUSdNPosFgisUd,Yesterday,Smokey Robinson & The Miracles,Special Occasion,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -280,6 +282,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0nqiDIYL8C8FFNKqY9vAJI,On the Old Front Porch,Tiny Tim,God Bless Tiny Tim,0.616,0.236,11.0,-19.288,1.0,0.036,0.881,0.0283,0.198,0.772,122.302
 0o0RzGlv7QJVieM0GGUYsS,Barbarella,"The Bob Crewe Generation Orchestra, The Glitterhouse",Barbarella (Original Motion Picture Soundtrack),0.327,0.548,8.0,-10.433,1.0,0.0663,0.441,0.00105,0.693,0.687,76.247
 0oID5GDN1VxgvIbeejuG1U,On a Night Like This,Bob Dylan,Planet Waves,0.56,0.785,5.0,-7.611,1.0,0.12,0.45,0.0,0.145,0.933,138.778
+0oMTxTIHAt3hstaoObsmFs,Raindrops Keep Fallin' On My Head,B.J. Thomas,Raindrops Keep Fallin' On My Head,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0oPZUCKjSIlQclVrUJDf2l,"We're Gonna Have A Real Good Time Together - Live At The Matrix, San Francisco, CA / 1969",The Velvet Underground,1969: Velvet Underground Live with Lou Reed Vol. 1,0.444,0.604,7.0,-12.467,1.0,0.0368,0.15,0.935,0.226,0.73,164.548
 0oQshbv1BFLZ61b1tQ4Eqg,This Boy - Remastered 2009,The Beatles,Past Masters (Vols. 1 & 2 / Remastered),0.66,0.337,2.0,-11.524,1.0,0.0286,0.213,1.57e-05,0.142,0.703,110.173
 0oWmUeGuOqpAdtS8uhHnoL,Here I Go Again,Country Joe & The Fish,Here We Are Again,0.409,0.266,0.0,-15.334,1.0,0.0337,0.61,2.32e-05,0.109,0.531,124.958
@@ -336,6 +339,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0vUxHD0cUQnSQK4FUmN0iG,St. Alfonzo's Pancake Breakfast,Frank Zappa,Apostrophe('),0.547,0.843,0.0,-9.302,1.0,0.0688,0.0565,0.139,0.387,0.816,138.714
 0vZ97gHhemKm6c64hTfJNA,"Hello, Goodbye - Remastered 2009",The Beatles,Magical Mystery Tour (Remastered),0.479,0.733,0.0,-8.753,1.0,0.0257,0.306,2.4e-05,0.414,0.806,99.313
 0vhCcrN8ULryq1KuEEYlm2,Do It Again - Remastered 2001,The Beach Boys,20/20 (Remastered),0.726,0.576,3.0,-6.487,1.0,0.0337,0.609,0.00117,0.242,0.823,117.691
+0vhHeQ6Q8PQPUx3LLn2hlz,Sneaky Pete,"The Primitives, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0vlD6vTcdjXOt2eBwBFhRm,Identity,X-Ray Spex,Germ Free Adolescents,0.458,0.944,2.0,-4.607,1.0,0.0366,0.0181,4.46e-06,0.0764,0.797,154.855
 0voUr8lubIafUVJlauJxYF,Things We Said Today - Remastered 2009,The Beatles,A Hard Day's Night (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0vstV3Drmo9Flj7fwJzXZ3,Girl Trouble - Demo,Violent Femmes,Violent Femmes (Deluxe Edition),0.476,0.474,7.0,-10.503,1.0,0.105,0.313,1.48e-06,0.199,0.541,148.436
@@ -626,6 +630,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1g2AbdCDCKyRZkafuRgOom,I'm Going Home,Arlo Guthrie,Alice's Restaurant,0.647,0.181,8.0,-19.425,1.0,0.0319,0.622,0.0,0.16,0.505,104.326
 1g5J3sfYaLqWmD39rY5u0d,Eternal Life,Shira Small,The Line Of Time And The Plane Of Now,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1gFNm7cXfG1vSMcxPpSxec,"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles,The Beatles (Remastered),0.818,0.728,10.0,-8.331,1.0,0.0314,0.232,0.0642,0.251,0.975,113.059
+1gVLbzPCJwLeQAfgZg7euq,The Ostrich (Remastered 2024),"The Primitives, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1gWj5OlKlZmBvtkYxluZux,409,The Beach Boys,Surfin' Safari (Remastered),0.464,0.7,7.0,-4.751,1.0,0.0306,0.749,0.0,0.258,0.854,159.462
 1gc4XWEz9rCheFyS3cQCEN,Ballad for a Friend - Witmark Demo - 1962,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.56,0.184,8.0,-17.374,1.0,0.0369,0.821,1.25e-06,0.448,0.393,120.044
 1gdP3yhz5XHszfrk85Wc6b,Leave Me Alone,Lou Reed,Street Hassle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -881,6 +886,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2Hu4vWuTm3C2DHOXnhjLsG,Twelve Thirty (Young Girls Are Coming To The Canyon) - Single Version,The Mamas & The Papas,Greatest Hits: The Mamas & The Papas,0.543,0.554,1.0,-9.779,1.0,0.0295,0.347,0.0,0.221,0.511,113.488
 2HudfMAHpahXeWpgeZkk3r,Joe's Garage,Frank Zappa,"Joe's Garage Acts I, II & III",0.604,0.8,9.0,-9.311,1.0,0.0901,0.0815,0.0,0.804,0.817,88.529
 2I0fbTGgwFUUCopz7XpbjR,"One More Saturday Night - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",Grateful Dead,Cornell 5/8/77 (Live),0.525,0.796,0.0,-11.019,1.0,0.0559,0.429,0.0867,0.93,0.911,154.763
+2IWNopsOLLVW8iTDGQk8Oi,You're Driving Me Insane,"The Roughnecks, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2IeM4N8dFf4JNZtYVu11Gk,Take Me Back,Andrae Crouch,Classics Vol. 1,0.461,0.541,1.0,-11.805,1.0,0.0327,0.227,0.0,0.0932,0.666,128.442
 2IobDyMywYgrJAdLpRvqvT,Let's Live For Today - Uncensored Version,The Grass Roots,20th Century Masters: The Millennium Collection: Best Of The Grass Roots,0.597,0.345,8.0,-12.462,0.0,0.0363,0.67,0.0,0.0465,0.54,115.373
 2IqPRjJAcLvPqAEbnB2VJz,The Safety Dance - Extended Dance Version,Men Without Hats,Rhythm Of Youth (Expanded Edition),0.765,0.824,0.0,-6.354,1.0,0.0386,0.0436,2.75e-05,0.16,0.349,100.193
@@ -900,6 +906,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2LHfvXx92f9HAYV146h6TE,Gone Away Again,Rogér Fakhr,Fine Anyway (Habibi Funk 016),0.569,0.782,4.0,-9.102,0.0,0.151,0.342,0.00652,0.15,0.973,147.929
 2LkaNhCrNVmcYgXJeLVmsw,The Sound of Silence,Simon & Garfunkel,The Graduate,0.435,0.456,6.0,-10.305,1.0,0.0279,0.136,1.62e-06,0.124,0.529,107.529
 2Ll9VtmKPqyA09NnNEO6r7,Walkin',Patti Whipp,Walkin' b/w It's Gone,0.457,0.229,4.0,-18.219,1.0,0.0364,0.706,0.586,0.11,0.634,136.018
+2McB1471Sl1GrLwhMPkPuW,Love Can Make You Cry,"Ronnie Dickerson, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2MoYNQTOwqRsc73c2DmWmd,Dirt,Lou Reed,Street Hassle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2MuwL6v9qAOUag4fM4m1PA,Good for You,TOTO,Toto IV,0.505,0.403,5.0,-14.721,1.0,0.0321,0.286,0.000625,0.103,0.634,182.201
 2NMFnOD3QQjhfwqsl7AJPy,Ritual #1,The West Coast Pop Art Experimental Band,A Child's Guide To Good And Evil,0.607,0.481,0.0,-12.435,1.0,0.0334,0.0569,0.0,0.0538,0.426,119.587
@@ -1058,6 +1065,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2k7gS1tS9OHeS3e8MatzgJ,You Know My Name (Look Up The Number) - Remastered 2009,The Beatles,Past Masters (Vols. 1 & 2 / Remastered),0.672,0.529,2.0,-11.566,1.0,0.2,0.647,0.0,0.147,0.696,118.822
 2kB7QeAFj1SLAIKSCMYSSs,Draft Dodger Rag,Phil Ochs,I Ain't Marching Anymore,0.729,0.168,5.0,-13.265,1.0,0.145,0.85,0.0,0.0934,0.692,96.166
 2kPFIXBQbmJJa9ilPq7Qyc,Africa,Amanaz,Africa,0.522,0.41,1.0,-13.139,1.0,0.0454,0.43,0.00207,0.107,0.595,180.39
+2kfI9ksQnIr8dlYGhtt6m1,Tell Mamma Not to Cry,"Robertha Williams, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2kkvB3RNRzwjFdGhaUA0tz,Layla,Derek & The Dominos,Layla And Other Assorted Love Songs (Remastered 2010),0.404,0.902,1.0,-3.88,1.0,0.0665,0.577,0.297,0.287,0.497,115.669
 2lDArps4owX3Q6rOIA4Osp,Promised Land,Chuck Berry,St. Louis To Liverpool,0.477,0.895,0.0,-6.63,1.0,0.0586,0.723,0.0,0.791,0.963,167.201
 2lkwyf1LLKLyWP0kVmxf5e,Lookin' At Tomorrow (A Welfare Song) - Remastered 2009,The Beach Boys,Surf's Up,0.493,0.153,5.0,-19.809,0.0,0.0613,0.801,2.24e-05,0.157,0.134,135.884
@@ -1099,6 +1107,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2sPv6pUyjuGsTHPGLdv8PF,Armenia City In The Sky,The Who,The Who Sell Out (Expanded Edition),0.26,0.637,8.0,-8.426,1.0,0.0552,0.155,2.85e-06,0.391,0.349,131.464
 2sXp9Qmvc7mRaDBjBgcGGi,Every Breath You Take - Remastered 2003,The Police,Synchronicity,0.813,0.46,1.0,-9.78,1.0,0.0346,0.56,0.0105,0.0724,0.729,117.387
 2tBv9tAdqEbLNDi5smSjbg,Sexy Sadie - Remastered 2009,The Beatles,The Beatles (Remastered),0.577,0.624,0.0,-9.626,1.0,0.0285,0.33,0.00622,0.117,0.671,75.478
+2tEyMUHnVmfm7zRa0dlLzg,"Don't Think Twice, It's All Right (Partial) - 1963-64 Home Recording",Lou Reed,"Gee Whiz, 1958-1964",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2tb5uD5p59wS3y00bRIKix,Mamunia - Remastered 2010,"Paul McCartney, Wings",Band On The Run (Archive Collection),0.589,0.257,2.0,-16.908,1.0,0.0248,0.0742,0.0,0.293,0.541,82.677
 2tcuauvBQMH3a4B2Jug5sm,What Does It Take (To Win Your Love),Alton Ellis,Be True to Yourself: The Godfather of Lover's Rock (Anthology 1965-1973),0.812,0.448,5.0,-11.048,1.0,0.0505,0.11,0.00126,0.0542,0.874,116.557
 2tgmLGnjOav9hPEm45cyrs,Seaside Woman,Linda McCartney,Wide Prairie,0.793,0.716,0.0,-6.351,1.0,0.0764,0.32,0.0531,0.0864,0.693,100.829
@@ -1190,6 +1199,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 35zgxz18meGLAaQ7pdUlsU,Whistle In - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),0.699,0.211,11.0,-15.453,1.0,0.033,0.916,0.158,0.0875,0.891,108.196
 36LadbHvLQkpxlkW4TrRxd,Tiny Apocalypse,David Byrne,Grown Backwards,0.572,0.513,0.0,-9.88,1.0,0.0277,0.198,0.0324,0.103,0.75,83.022
 36SULeBeglappJysOY6WzQ,Burning of the Midnight Lamp,Jimi Hendrix,Electric Ladyland,0.331,0.845,0.0,-7.55,1.0,0.0889,0.411,0.000412,0.124,0.525,76.698
+36V4FDzjNutDhm7eUWP9CY,Wild One,"Terry Philips, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 36yAtDuv6rT36TAYjIHSQT,Steel Guitar Blues,Roy Acuff,The Essential Roy Acuff,0.731,0.212,9.0,-15.809,0.0,0.0335,0.974,0.226,0.161,0.692,96.466
 379hxtlY5LvbPQa5LL6dPo,The Inner Light - Remastered 2009,The Beatles,Past Masters (Vols. 1 & 2 / Remastered),0.304,0.543,8.0,-10.619,1.0,0.034,0.751,0.0145,0.0764,0.387,101.545
 37AZWn0PzszDMkFjnP97Vx,Jane S. Piddy,Rodríguez,Cold Fact,0.402,0.686,7.0,-5.409,1.0,0.0655,0.766,3.29e-06,0.095,0.59,179.269
@@ -1252,6 +1262,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3GgYsEaTyCeTH3e5JyEyXf,Surfin' Bird - 2017 Remaster,Ramones,Rocket to Russia (40th Anniversary Deluxe Edition),0.444,0.983,9.0,-2.409,1.0,0.0562,0.0867,2.04e-05,0.186,0.869,193.871
 3GgvAt2Cyp7GRhYy9Luus1,Sittin On Top Of The World,Doc Watson,Doc Watson,0.547,0.127,3.0,-21.435,1.0,0.0373,0.892,1.58e-05,0.112,0.73,89.404
 3HDfUyUmyOiVLJMrW5sbcQ,God Out West,Link Wray,Link Wray,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3HKAWKgsg3R9Hmcqigs1qC,Oh No Don't Do It,"Ronnie Dickerson, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3HNpBP6wTcZn4ykqMR6ijo,Seasons Of My Heart,Willie Nelson,Country Willie,0.545,0.239,10.0,-11.455,1.0,0.0325,0.877,0.00642,0.083,0.719,84.412
 3Hp7HkYTFxzMrTJdPXQJI6,Midnite Cruiser,Steely Dan,Can't Buy A Thrill,0.641,0.643,1.0,-10.273,1.0,0.0284,0.277,0.0,0.0449,0.72,99.188
 3HySDVpwKupoUmciLITudq,All Summer Long,The Beach Boys,All Summer Long,0.575,0.691,11.0,-9.091,1.0,0.0519,0.512,0.0,0.134,0.797,136.706
@@ -1604,6 +1615,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4CMKgb0qrIsVu202dmop15,Dirty Talk,Klein & M.B.O.,Dirty Talk,0.7,0.677,1.0,-10.888,1.0,0.0328,0.121,0.0609,0.107,0.608,122.964
 4CTBsOx0rH1AZvkxFSGCpc,Homesick And Lonesome Blues,Blind Boy Fuller,Blind Boy Fuller Vol. 1 1935 - 1936,0.642,0.262,8.0,-13.698,1.0,0.0416,0.986,0.00339,0.167,0.477,111.146
 4CpQ7XNjUOwgK9y4mDZfcg,Try Me on for Size,The Electric Prunes,Electric Prunes,0.577,0.772,7.0,-10.58,1.0,0.0356,0.644,0.003,0.276,0.815,135.494
+4Cr005IRDusNuBptWOISun,Gee Whiz - 1958 Rehearsal,Lou Reed,"Gee Whiz, 1958-1964",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4CyTrR4c13d57jCVstfS8T,Plantasia,Mort Garson,Mother Earth's Plantasia,0.292,0.242,8.0,-12.61,1.0,0.0417,0.474,0.0074,0.0954,0.154,175.343
 4CyjuvRQStesmMNV2ZEZve,Some Kinda Wonderful,Little Eva,Llllloco-Motion,0.788,0.353,0.0,-12.323,1.0,0.03,0.793,4.86e-05,0.338,0.901,109.179
 4CyqGx74ElL4WC5TaEbx0x,Not to Touch the Earth,The Doors,Waiting for the Sun,0.416,0.594,5.0,-13.718,1.0,0.0455,0.0286,0.000526,0.211,0.481,119.293
@@ -2189,6 +2201,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5gTqQiZqPSJAwtOwKbmBMh,Blister In The Sun,Violent Femmes,Violent Femmes (Deluxe Edition),0.719,0.476,0.0,-10.909,1.0,0.146,0.308,0.0,0.0995,0.881,97.162
 5gYZiARZL3Lm4k8VPfo4q7,House at Pooh Corner,Loggins & Messina,The Best: Loggins & Messina Sittin' In Again,0.405,0.395,9.0,-11.234,1.0,0.0489,0.455,0.00012,0.0991,0.262,203.786
 5gqr1A0TGIceLkmEGI3irE,Sandrevan Lullaby - Lifestyles,Rodríguez,Coming From Reality,0.369,0.454,2.0,-5.355,0.0,0.0363,0.896,0.00127,0.107,0.327,143.919
+5gv5J8H9DAppdkmdVnnHOk,Why Don't You Smile,"The All Night Workers, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5gys5nzVQIYhgHIfiOJYva,Take It On the Run,REO Speedwagon,Hi Infidelity (30th Anniversary Edition),0.371,0.758,7.0,-5.679,1.0,0.036,0.0958,0.0,0.116,0.452,77.81
 5gz45kuyIl7nsfD9C86dNY,"Harry, You're A Beast",The Mothers Of Invention,We're Only In It For The Money,0.584,0.356,11.0,-14.977,0.0,0.064,0.819,8.73e-05,0.202,0.584,126.658
 5h0yfg2KLqjVOKpCUTkBKo,I Want You (She's So Heavy) - 2019 Mix,The Beatles,Abbey Road (Super Deluxe Edition),0.326,0.499,9.0,-8.389,0.0,0.0316,0.0214,0.0465,0.0941,0.366,142.811
@@ -2533,6 +2546,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6a6XoJzGeBIDy9pcDSrOgQ,Glass Onion - Esher Demo,The Beatles,The Beatles,0.697,0.288,4.0,-9.951,1.0,0.0441,0.689,0.0,0.127,0.616,113.622
 6aBUnkXuCEQQHAlTokv9or,This Must Be the Place (Naive Melody) - 2005 Remaster,Talking Heads,Speaking in Tongues (Deluxe Version),0.942,0.641,7.0,-10.15,1.0,0.0333,0.331,0.179,0.028,0.966,114.443
 6aHnz3jDKiagqnDbOtpYfy,Wake The World - Remastered 2001,The Beach Boys,Friends (Remastered),0.559,0.265,9.0,-9.816,1.0,0.0289,0.746,0.0,0.104,0.252,110.722
+6aYThRa343GTBzDpDD3SaU,"Baby, Let Me Follow You Down - 1963-64 Home Recording",Lou Reed,"Gee Whiz, 1958-1964",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6an16oJkgHMlEgTMgtfIP9,Absolutely Curtains,Pink Floyd,Obscured by Clouds,0.126,0.23,7.0,-19.231,0.0,0.0382,0.095,0.612,0.0939,0.0371,85.271
 6aotqfVLywWWF4ZqdmLmig,Thank You for Sending Me an Angel - 2005 Remaster,Talking Heads,More Songs About Buildings and Food (Deluxe Version),0.565,0.856,0.0,-5.465,1.0,0.0533,0.0419,0.0415,0.119,0.47,138.026
 6b37xrsNCWYIUphFBazqD6,Me Gustas Tu,Manu Chao,Próxima Estación: Esperanza,0.657,0.741,11.0,-6.822,0.0,0.0825,0.663,0.494,0.222,0.908,175.949
@@ -2616,6 +2630,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6nsdJWUtyDghssA61cfwRD,Nineteen Hundred And Eighty Five - One Hand Clapping Sessions,"Paul McCartney, Wings",One Hand Clapping,0.417,0.596,8.0,-7.448,1.0,0.0301,0.329,0.106,0.112,0.192,117.473
 6ntEHLwaRT1yZeChOlE50h,I'll Survive,Country Joe & The Fish,Here We Are Again,0.537,0.426,0.0,-15.9,1.0,0.0287,0.916,0.468,0.204,0.809,91.425
 6nxd5cDRaMRIIg3pzq4twe,Cracklin' Rosie,Neil Diamond,All-Time Greatest Hits,0.6,0.667,1.0,-8.138,1.0,0.0328,0.257,0.0,0.115,0.846,127.413
+6oDG7viZn3OewaNYvuCbcX,Johnny Won't Surf No More,"Jeannie Larimore, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6oObBAmIFweYj7oXFZ9GvR,Guess I'm Falling In Love - Live In New York City _ 1967,The Velvet Underground,White Light / White Heat (Super Deluxe),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6oUjSwtifVaM8iIN01KVzC,Komm gib mir deine Hand - Remastered 2009,The Beatles,Past Masters (Vols. 1 & 2 / Remastered),0.549,0.797,7.0,-9.767,1.0,0.0343,0.71,0.000114,0.349,0.948,131.755
 6onsWIYj3OFJH8FV7Dkbib,I Just Found Out,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.673,0.414,4.0,-10.117,1.0,0.0256,0.854,4.08e-05,0.119,0.749,99.165
@@ -2833,6 +2848,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7Mo2Fb4LfnvlBVoWQkQEOD,I've Been Waiting for You - 2009 Remaster,Neil Young,Neil Young (2009 Remaster),0.552,0.716,4.0,-8.698,0.0,0.0256,0.0993,0.0562,0.44,0.717,100.352
 7Msq9qojB7yORuJvz49iUy,P.S. I Love You - Remastered 2009,The Beatles,Please Please Me (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7aHRctaQ7vjxVTVmY8OhAA,We Built This City,Starship,Knee Deep In The Hoopla,0.661,0.908,5.0,-4.897,1.0,0.039,0.052,0.0,0.0708,0.656,144.091
+7aO5YKBzZvWi97otXqEMKR,I'm Gonna Fight,"The Hi-Lifes, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7afDukwRRDs0rmg3leQ8ti,Monkberry Moon Delight - Remastered 2012,"Paul McCartney, Linda McCartney",Ram (Archive Collection),0.567,0.714,0.0,-8.036,0.0,0.0245,0.308,0.0583,0.537,0.939,97.417
 7agmAZLyraEqAV0lqpVmyH,Hey Pinky,Zoot,Zoot Out,0.413,0.732,8.0,-5.519,1.0,0.0321,0.0197,0.00117,0.1,0.316,88.456
 7b4yGtR0rujvLi5EBfKKJ2,Take Me Home Tonight,Eddie Money,Can't Hold Back,0.608,0.768,1.0,-9.911,1.0,0.0364,0.101,1.41e-06,0.0942,0.748,132.699
@@ -2856,6 +2872,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7cckVnBntUHhvwW11hK79P,The Last Words Of Dutch Schultz (This Is Insane),William S. Burroughs,Spare Ass Annie And Other Tales,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7cdnq45E9aP2XDStHg5vd7,Cherry Bomb,The Runaways,The Runaways,0.501,0.813,11.0,-8.192,1.0,0.0639,0.0455,4.75e-05,0.131,0.495,136.59
 7cgEc5WxwVDW3bNp3rOagQ,Rainy Windows,Bonnie Dobson,Bonnie Dobson,0.535,0.329,7.0,-11.806,1.0,0.0337,0.185,0.000147,0.118,0.0958,115.155
+7cm0Cf8Xp0JAfJpVpD7BSK,Cycle Annie,"The Beachnuts, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7cv28LXcjAC3GsXbUvXKbX,I Will Survive - Single Version,Gloria Gaynor,20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor,0.777,0.725,0.0,-8.681,1.0,0.05,0.0131,0.00805,0.246,0.529,116.669
 7dfSprhOy4FwnEQbSmxvn1,Flying,Zoot,Zoot Out,0.294,0.775,1.0,-3.861,0.0,0.0671,0.175,0.123,0.11,0.444,164.654
 7diJME6pNf7LVHG82rsJqo,Berlin - Demo,Lou Reed,I'm So Free: The 1971 RCA Demos,0.523,0.174,5.0,-14.266,1.0,0.0333,0.882,0.00174,0.149,0.29,90.467

@@ -16,6 +16,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0fonScmHUzC0MglSLn9saA,Da Doo Ron Ron (When He Walked Me Home),The Crystals,Da Doo Ron Ron: The Very Best of The Crystals,0.535,0.797,3.0,-7.533,1.0,0.0459,0.48,3.42e-05,0.141,0.613,148.835
 0gZAR2H3YVnTAD5c8cxPGk,Rosemary,Brian Hyland,His Days in the Sun,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 0iA3xXSkSCiJywKyo1UKjQ,Louie Louie,The Kingsmen,The Best of The Kingsmen,0.623,0.709,1.0,-9.818,0.0,0.0636,0.102,0.0,0.0967,0.948,122.394
+0mdSp4t6Rbg5dcNoWTEELk,Soul City,"The Hi-Lifes, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0noMw79nLyguA49zV6Gk3t,Heartbeat,"Buddy Holly, The Crickets",The Buddy Holly Story,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0pIVD83HhGXeSyuZ3aTfY2,Love Is Strange - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 154Fm1yWMHOUYWGmozeKgC,Let's Go Trippin' (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.619,0.744,9.0,-6.359,1.0,0.0348,0.00806,0.846,0.235,0.84,81.156
@@ -48,6 +49,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2DGOY2RcYWBHphi7eEq5hn,Your Summer Dream (Mono),The Beach Boys,Surfer Girl (Mono & Stereo),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2EPNyBKElcMYSpJZS4mNtP,Slippin' And Slidin' - Undubbed Fast Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2GvsTbSNoxkqNjusXaURUt,So Young,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.171,0.594,2.0,-6.896,1.0,0.0465,0.75,9.25e-05,0.154,0.287,174.719
+2McB1471Sl1GrLwhMPkPuW,Love Can Make You Cry,"Ronnie Dickerson, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2OARIMw1hpehr86Iwmv04c,Peggy Sue,"Buddy Holly, The Crickets",Buddy Holly,0.676,0.424,9.0,-8.132,1.0,0.0329,0.947,0.000494,0.119,0.493,148.373
 2OWhRU9coyPnfXM5A1rxgl,Well...All Right,Buddy Holly,Buddy Holly,0.71,0.667,1.0,-6.664,0.0,0.0397,0.334,0.0037,0.259,0.847,124.552
 2PoCFAeqx7VDDwljQpxjts,"You Know, I Know",John Lee Hooker,The Real Folk Blues,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -61,21 +63,25 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2dOFRBb7vn8q4PheZTMDH9,Right Or Wrong,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2dXKmxHvW3Wei4Wm4RjaBU,Where Did I Make My Mistake,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2g7LUitXlS3jlTqdydMPbR,I Guess I Was Just A Fool - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2kfI9ksQnIr8dlYGhtt6m1,Tell Mamma Not to Cry,"Robertha Williams, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2ocr9MG2cQz0h0H3rpQqqa,Blue Monday - Undubbed Version,Buddy Holly & The Crickets,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2phiHgwJfL1LphKfVmvd4A,Just Won't Do Right,James Brown & The Famous Flames,"Please, Please, Please",0.467,0.289,6.0,-13.393,1.0,0.0311,0.869,3.96e-06,0.0893,0.741,96.68
 2uEOLI3rxcHOBJOeHLtpjo,In The Back Of My Mind - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),0.325,0.327,5.0,-9.888,1.0,0.0298,0.358,0.0,0.116,0.429,103.297
 2wqMkjSJcNxUzOzJbtaKvG,Midnight Shift,Buddy Holly,Not Fade Away: The Complete Studio Recordings And More,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 2x28Yi9XnWxvAUnvVUFcDA,"You're So Square (Baby, I Don't Care)",Buddy Holly,Buddy Holly,0.658,0.753,11.0,-7.532,1.0,0.0563,0.319,0.00123,0.104,0.966,100.131
 2xKfXRhw5xaUXfevJJspZf,Why Do Fools Fall in Love,"Frankie Lymon, The Teenagers",The Best Of Frankie Lymon & The Teenagers,0.388,0.532,1.0,-8.685,1.0,0.102,0.51,3.06e-06,0.0974,0.845,173.586
+2xwwZ7hdKX2NKWPErHYrTe,Maybe Tomorrow,"Robertha Williams, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2yTzXsYOrevaVIzQQgB3YL,All I Have To Do Is Dream,The Everly Brothers,"The Cadence Years, Vol. 1",0.59,0.405,1.0,-10.268,0.0,0.0272,0.822,0.0,0.202,0.555,103.569
 30omZHpUvq4se5zsOiYWKV,Shama Lama Ding Dong,Band of Oz,Let It Roll,0.722,0.66,0.0,-7.707,1.0,0.0292,0.522,0.0,0.128,0.967,130.874
 33WOsI8MS7gTqD6dXyxgN8,"Wait Till The Sun Shines, Nellie - Undubbed Version",Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 33aYzW5ToRjiFOzkubeJ8H,Rave On,"Buddy Holly, The Crickets",Buddy Holly,0.566,0.711,0.0,-6.536,1.0,0.0335,0.611,6.59e-06,0.417,0.961,159.629
+370MqtfaJ6rMXfdgIoSpND,Teardrop In The Sand,"The Hollywoods, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 39FFlqltctkj6vkIcVgkec,You And Me,Penny & The Quarters,Penny & the Quarters EP,0.578,0.178,5.0,-7.812,1.0,0.033,0.946,8.65e-06,0.121,0.256,111.555
 39woPeTxfi48gt4qJqXIoV,I Have A Boyfriend,The Chiffons,The Chiffons Absolutely The Best!,0.549,0.654,0.0,-4.304,1.0,0.0482,0.592,3.01e-05,0.462,0.584,67.143
 3A2l8rscuhxPmnveklQaU3,Have You Ever Had The Blues_,Lloyd Price,Mr. Personality,0.765,0.492,10.0,-11.998,1.0,0.0381,0.786,0.0,0.333,0.957,120.739
 3Dd3FK9DSaoMoUKA5ZPVgw,In the Still of the Night,The Five Satins,Presenting The 5 Satins,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3EXJIJ7ptk54a8p8jXe0KI,Please Call Today,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3HKAWKgsg3R9Hmcqigs1qC,Oh No Don't Do It,"Ronnie Dickerson, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3LfUka6X3IR6NbJ1VcG8Vd,My Funny Valentine,Frankie Valli,Solo,0.47,0.798,7.0,-7.536,1.0,0.118,0.333,0.00205,0.448,0.679,97.513
 3MF0ayhAW2ymz0qcX5PN2e,I Don't Know,James Brown & The Famous Flames,"Please, Please, Please",0.487,0.352,5.0,-8.883,1.0,0.0354,0.848,1.09e-05,0.116,0.463,107.351
 3S7vncvqGpPMx0nkIYaSWk,Little Charm Bracelet,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -85,6 +91,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3UPdnK65E8lEvuT9EgdTlg,Slippin' And Slidin' - Undubbed Slow Version #1,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3VHbArYR0HVY6rXu3TR4an,Tenderly,Link Wray & The Wraymen,Link Wray: Slinky! The Epic Sessions: 1958-1960,0.633,0.551,4.0,-12.683,1.0,0.0404,0.249,0.9,0.345,0.418,83.913
 3Wphr9wFaEwBFvBlvIYxjp,Surfer Girl (Mono),The Beach Boys,Surfer Girl (Mono & Stereo),0.488,0.369,2.0,-8.96,1.0,0.0256,0.691,3.49e-06,0.121,0.652,105.073
+3YPKnlCMiJHFkPRrzlRAMk,We Got Trouble,"Beverley Ann, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3fy76k7I8YMUOR7bn7EcM5,Speedoo (Alternative Take),The Cadillacs,The Fabulous Cadillacs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3k63RLvRgkgPGx0keOH3P6,Different Drum,"Stone Poneys, Linda Ronstadt","Evergreen, Vol.2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3pU1CUgPiFfxPCpscwIwQR,I Should Have Known Better - Remastered 2009,The Beatles,A Hard Day's Night (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -137,6 +144,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6NIhm22UWaECPEdGm7VqEC,All Summer Long (Mono),The Beach Boys,All Summer Long (Mono & Stereo),0.568,0.688,11.0,-9.357,1.0,0.0543,0.115,0.000259,0.203,0.835,136.853
 6OzuS08PrSonUXkwESgvjO,Take Your Time,Buddy Holly,Buddy Holly,0.758,0.656,7.0,-5.249,1.0,0.0324,0.325,0.0,0.293,0.932,135.976
 6RErDMariUoam3dPCwBKuL,Hawaii (Mono),The Beach Boys,Surfer Girl (Mono & Stereo),0.389,0.587,8.0,-6.75,1.0,0.038,0.641,0.0,0.174,0.961,144.463
+6TAVcqT0sFhMkR9AyMtKwy,Soul City,"The Foxes, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6VllPFynJJwk1PxqbrKIk3,Baby Let's Play House - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6WeYHd10XThfbEO49e5RK8,Let's Dance,Chris Montez,National Lampoon's Animal House,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6YuqGJiWxVbmWb9uHGcmPD,Tell Me What I Did Wrong,James Brown & The Famous Flames,"Please, Please, Please",0.48,0.492,9.0,-10.944,1.0,0.0466,0.786,0.0,0.0993,0.756,119.976
@@ -162,6 +170,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7MJPH9KJ0dCpHFMnDViuiu,Walking In the Rain,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.5,0.655,10.0,-8.313,1.0,0.0308,0.386,0.0,0.0915,0.41,107.75
 7MVfPm6vfuyLJ0Yzvz2CJl,When I Get Low I Get High,"Ella Fitzgerald, Chick Webb",The Early Years - Part 1 (1935-1938),0.608,0.356,2.0,-11.422,0.0,0.468,0.852,0.00231,0.0737,0.748,199.399
 7Msq9qojB7yORuJvz49iUy,P.S. I Love You - Remastered 2009,The Beatles,Please Please Me (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7aO5YKBzZvWi97otXqEMKR,I'm Gonna Fight,"The Hi-Lifes, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7bFfjakySYhojqSPrAPtc3,Try Me,James Brown & The Famous Flames,"Please, Please, Please",0.676,0.224,0.0,-15.193,1.0,0.0293,0.931,0.0,0.302,0.665,101.47
 7cb2SdLm1UMLwdUoWwrZN1,Baby's In Black - Remastered 2009,The Beatles,Beatles For Sale - Remastered,0.374,0.596,9.0,-7.666,1.0,0.0416,0.434,0.0,0.098,0.876,202.97
 7fW1OwQPexk5OWCj7CSpqU,"Fun, Fun, Fun - Remastered 2001",The Beach Boys,"Shut Down, Vol. 2 (Remastered)",0.504,0.858,3.0,-6.927,1.0,0.0352,0.293,0.0,0.11,0.973,156.044
