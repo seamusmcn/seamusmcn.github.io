@@ -51,6 +51,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0RW8xlciQNWcbsBHgmqvHV,Nottamun Town,Bert Jansch,Jack Orion,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0Rb6Bg8PYA0dR8KVutPu9y,I've Got A Secret (Didn't We Shake Sugaree),Fred Neil,Fred Neil,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0SUzmYsULbheiVVoC6I1VF,Somebody Loves Me,Django Reinhardt,Djangologie Vol6 / 1937,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0Sd75ZDb49IKL8VBONMRq2,TV Song - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0TLGCDjvlwOhGFOQyuNZXH,Columbus Stockade Blues,"Willie Nelson, Shirley Collie",Country Willie,0.531,0.461,7.0,-11.464,1.0,0.189,0.563,0.0,0.0672,0.81,153.401
 0TnNahz8sbK6HU6Qr7XErU,Peach Picking Time In Georgia,Doc Watson,Good Deal!,0.624,0.251,2.0,-15.183,1.0,0.0342,0.744,1.73e-05,0.112,0.743,145.672
 0TnvDrn2StJYzMD2Da9HPy,Down in a Willow Garden,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.655,0.216,8.0,-10.544,1.0,0.0288,0.937,0.000342,0.139,0.313,86.538
@@ -262,6 +263,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2WaxBL2VVPUHqtfQE1yLbF,Midnight Special - Remastered 2002,Lead Belly,Take This Hammer - The Complete RCA Victor Recordings - When The Sun Goes Down Series,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2YGpMB79pDDrMaSpuA8Om4,Lay Down Your Weary Tune - Studio Outtake - 1963,Bob Dylan,Side Tracks,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2YehU3jLpb9bM5V6k8HmyA,Country Pie,Bob Dylan,Nashville Skyline,0.723,0.533,9.0,-17.939,1.0,0.0557,0.639,0.00037,0.23,0.68,99.079
+2ZrI2ztDDWOlGyUusXBvMr,Nova - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2aAYLg4QVTOBVsP72lAyzE,I Got a Woman,Elvis Presley,Elvis Presley,0.617,0.77,4.0,-10.331,1.0,0.0455,0.701,0.0,0.349,0.856,122.284
 2adU53j2QTuE7WIO8Ypu1b,Travelin' Man,Roy Bookbinder,Travelin' Man,0.589,0.418,8.0,-8.098,1.0,0.0366,0.849,0.0,0.262,0.766,96.152
 2anoyhd8D1GUnNOqH8PXgC,Bull Doze Blues,Henry Thomas,Lovin' Babe,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -374,7 +376,9 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3ZqtaqPy86Quf3St88AD0S,Pretty Little Girl Walkin' Down The Street,Jesse Fuller,Brother Lowdown,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3a2LCcSBxFOMx2pNzdooRk,Shame and Scandal,Odetta,Sings Ballads & Blues,0.706,0.294,9.0,-8.319,1.0,0.0408,0.87,0.000806,0.16,0.725,127.504
 3aGOyp9ty4PnRoQKDh0huq,I Belong To The Band,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3b93hWmizLOmEDTu0yLgsL,Going To Memphis - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3bM1p9F6b4btWTAO9IgXcb,Girl from the North Country - Rehearsal,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3bQiQnqOUgCDHm8POrzYDV,Black Bottom Blues - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3bSZlIcVkpKphNEmjqfnvS,I'll Fly Away,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.409,7.0,-7.607,1.0,0.0258,0.949,0.000597,0.186,0.178,97.789
 3bU8rIEuatTa7XjHl4Sw8f,Close My Eyes,Arthur Russell,Love Is Overtaking Me,0.655,0.245,7.0,-13.817,1.0,0.0392,0.747,0.0248,0.124,0.39,123.77
 3cY8cOjaN8Lwi08g9Fpr6D,North Country Blues,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -389,7 +393,9 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3hfPI0akrkb0t0zaRf5nJC,Unchained Melody,Willie Nelson,Stardust,0.42,0.191,7.0,-15.063,1.0,0.0315,0.894,0.128,0.143,0.135,76.246
 3kDONxMPikzWNH8Ax32vED,Santa-Fe - Studio Outtake - 1967,Bob Dylan,The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3kVvjTobEBP4aQIxY5HRc1,Ella Speed,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3kZoeJ48Q2qpTsOgy788at,Cocaine Blues - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3l7W8J8p5fZfE9DxdgliwC,Washington Blues,Elizabeth Cotten,Shake Sugaree,0.52,0.161,10.0,-18.448,1.0,0.0587,0.955,0.891,0.101,0.637,155.509
+3mde6qmy5xZ8vBgMUHm1JD,My Name Is Morgan - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3mhSFHTxdjCLDGd8zoNRaK,He's My Rock,The Wright Brothers Gospel Singers,Mitchell's Christian Singers Vol. 4 (1940),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3mqvTUq1kF4dVi2yBpiTuF,Salty Dog,Jack Elliott,Muleskinner,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3nDVlyydehkmIsnIEzW4Qu,Nobody Loves Me,Bill Monroe & His Blue Grass Boys,The Essential Bill Monroe (1945-1949),0.545,0.24,9.0,-16.601,1.0,0.046,0.911,0.00114,0.406,0.909,182.724
@@ -407,6 +413,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3v55o86xGDEiZCLioTrmy5,One More Night,Bob Dylan,Nashville Skyline,0.394,0.323,0.0,-19.551,1.0,0.059,0.72,0.00548,0.173,0.733,178.083
 3w5ecYEMUouguLjRh7CvsB,Wanted Man - Take 1,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3wMCnmNbKbtUm1OVq6td4y,Jug Band Music,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3x3dv2jmdNgIgnbp09zhV4,The Bird Song - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3xXVjwFwUoIbxb51qDizAm,I'll Walk Alone,Willie Nelson,Country Willie,0.469,0.117,8.0,-12.378,1.0,0.0339,0.932,0.00558,0.167,0.306,74.862
 3xqdcCI9J1bjO1HaPjRxTi,"North Country Blues - Live at Carnegie Hall, New York, NY - October 1963",Bob Dylan,Bob Dylan Live At Carnegie Hall 1963,0.615,0.0965,10.0,-15.977,1.0,0.0551,0.902,0.0,0.691,0.641,139.812
 3xuiLC6mcLNaYlRncJP3B0,Old Mountain Dew,The Delmore Brothers,Alton & Rabon,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -577,6 +584,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5D26ISJhvA9v7FNFth03M3,I Ain't Gonna Marry,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5DOeFOQ5y3YJtoR5JGlA1A,Mr. Record Man,Willie Nelson,Country Willie - His Own Songs,0.557,0.379,0.0,-11.211,1.0,0.0654,0.533,0.000687,0.177,0.575,146.536
 5ERtBxp7LS99coCz3Ilfg0,Superlover - Live At Soledad Prison_1972,John Lee Hooker,Live At Soledad Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5Ec9IRmUOmnzoauhCrMFmk,Snake in the Grass - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5EtRosdwCItQdmuPBJj0nJ,Sleep Walk,Pete Drake,Steel Funk,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5FSYrVYfxgPUMTIxGgL6Dy,My Creole Belle,Mississippi John Hurt,Candy Man Blues: Essential Recordings,0.614,0.15,1.0,-15.175,1.0,0.0366,0.586,0.00806,0.0932,0.891,178.177
 5FpY9uWJZS6dQLFGeDVGOH,These 23 Days in September,David Blue,These 23 Days In September,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -596,6 +604,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5Pvaycf1bu6dZfbXW9KPuj,Masters Of War,Odetta,Odetta Sings Dylan,0.533,0.174,9.0,-16.235,1.0,0.0342,0.936,0.00173,0.134,0.502,108.956
 5QyM9ihEh1vv8qJghyll37,Werewolf,Michael Hurley,Wolfways,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5RKPe1oN9lGayUCKn00fYi,Wabash Cannonball,Roy Acuff,The Essential Roy Acuff,0.717,0.37,9.0,-10.119,1.0,0.0365,0.763,0.0,0.424,0.881,99.425
+5RLRrRpxAuTwOtSrGpw0MI,Hippies Call It STP - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5RecPg6eh36SNp2kBFcDjx,Bury Me Under the Weeping Willow,The Carter Family,American Epic: The Best of The Carter Family,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5RegN6WEtzmnuRrhqQth8H,If Not for You (Alternate Take),Bob Dylan,The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5SUBBRz0SK6UXOuFdKeVnF,Special Delivery Blues,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -618,6 +627,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5Ys3TeaxdroLXxWWjI2Z68,Black Mountain Rag,Doc Watson,Doc Watson,0.421,0.689,3.0,-19.068,1.0,0.0332,0.816,0.879,0.105,0.952,123.568
 5ZUyfCfk908gXkPfKGf3Y2,Mansion On The Hill,"Hank Williams, Drifting Cowboys",Sings,0.579,0.302,9.0,-11.516,1.0,0.0247,0.777,0.0,0.257,0.774,76.826
 5aEGuo8ptjRHNnhX8RanY4,Living On The Trail,Eric Von Schmidt,Living On The Trail,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5aOAucJTv5DhULowNDizuJ,Moving Day - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5bpCzcx1DoguV8jEF2S9O1,Get Thee Behind Thee Satan,The Almanac Singers,State Of Arkansas,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5cicntULcN9AtVoCu1fT4n,Let Us Get Together Right Down Here,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5d6ZRqgbz26Sg4bk1oifQw,Blue Suede Shoes,Carl Perkins,The Dance Album,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -758,6 +768,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6uMtl6JNV57oe7oU9DN3G4,Hard Travelin',Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,0.6,0.186,2.0,-16.821,1.0,0.0558,0.935,0.305,0.135,0.866,128.435
 6vlR7PnWlUVhqPYmuPR8kp,Buddy's Bolden Blues,Dave Van Ronk,Hear Me Howl (Live 1964),0.511,0.18,5.0,-23.659,0.0,0.128,0.937,0.606,0.966,0.613,124.961
 6wrEYf9IyrjaLccRBhrsCO,Highway 51 Blues,Bob Dylan,Bob Dylan,0.634,0.505,4.0,-9.703,1.0,0.0471,0.841,0.00554,0.0887,0.62,132.521
+6x33Nb0FOPnKejhucST2NZ,Wabash Cannonball,Johnny Cash,Happiness Is You,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6xBBkjU2Y2ubs1ufnD0yZN,Ukelele Lady,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6xZZcFtU450AfYxwIGSXL9,John Hardy,Lead Belly,Tradition Masters Series,0.609,0.159,7.0,-10.214,1.0,0.067,0.994,0.0453,0.0772,0.797,119.376
 6xkyzOC39QTdvkaMzNcxTa,Doc & Dawg,"Doc Watson, David Grisman",Doc & Dawg,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -792,6 +803,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7D0Vzk7rZ6ncTFZj3AqT84,Django's Tiger,Django Reinhardt,Djangologie Vol15 / 1946 - 1947,0.741,0.572,9.0,-9.415,1.0,0.0456,0.957,0.707,0.107,0.96,112.832
 7D5WsIISgiaBTfgubAuU4Z,"Give My Love to Rose - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7DiwpnQaAkeZFd0NipluyO,Knock on the Door,Phil Ochs,All The News That's Fit To Sing,0.695,0.2,9.0,-14.098,1.0,0.0533,0.782,0.0,0.154,0.198,92.703
+7EmwPSmSo85h3CCfoHvWuv,Low Down Dog - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7Et5yl6orzIks2i95ZPztQ,Doc's Guitar,Doc Watson,Doc Watson,0.34,0.254,3.0,-26.119,1.0,0.0406,0.875,0.916,0.119,0.975,140.842
 7Fqi74LnCQhs6Xm4tHztT9,I Still Miss Someone,Johnny Cash,The Essential Johnny Cash,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7FryU3wjaDkSZdfb0vJdTP,Mule Skinner's Blues,Jack Elliott,Muleskinner,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
