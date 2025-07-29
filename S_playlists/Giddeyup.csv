@@ -82,6 +82,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0fAry8yLUdQix2nA9sw0DA,Just a Bum,Michael Hurley,First Songs,0.72,0.175,7.0,-17.7,1.0,0.0408,0.901,1.01e-06,0.0868,0.24,64.435
 0fBOgcY9wZVXgGNANMtp9j,Moanin' The Blues,"Hank Williams, Drifting Cowboys",Moanin' The Blues (Expanded Edition),0.709,0.28,2.0,-12.444,1.0,0.0343,0.653,0.0,0.152,0.89,76.073
 0fV6oSuWNXDUalG4Ycz2u9,Ruthie's Moan,"Billy Hults, Jimmy Boyer, Turtle Vandemarr, Spud Siegel, Dave Reisch, Jesse Carrot",Billy Hults...The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0fX4g6yZQZAebc9vTFEJkP,Oh Me Oh My - Live,"The Clamtones, Jeffrey Frederick",Clamtones B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0fkRfICuvdTVIoyZUgnInR,Poor Paddy,The Pogues,Red Roses for Me (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0gZwAM6vlMZwXqakynVXd6,Tell Me Who,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.626,0.082,2.0,-19.647,1.0,0.0449,0.831,0.0,0.108,0.524,176.654
 0hazpCb75R3Ku3qjxKxYny,"Baby, Don't You Love Me No More (Wnyc - Folk Songs of America, Recorded 2_6_1941, Pt. 6)","Lead Belly, Oleander Quartet",Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -164,6 +165,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1PRnkU9Ic6up4w6KOkSY8x,Jean Harlow,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1PeqMhnjHWM1b4FBvivScM,Martian Love Song,Pete Seeger,"Gazette, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Pl7xX5SnxQaKkXQcGL1HL,We Shall Overcome,Guy Carawan,Classic Protest Songs from Smithsonian Folkways,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1QDuCGeLwotpLUb436XZbz,Fooey Fooey - Live,"The Clamtones, Jeffrey Frederick",Clamtones B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1RLAl3xt06hKHTVYB1oIPo,Pack My Suitcase,"Billy Hults, Dave Reisch, Turtle Vandemarr, Jimmy Boyer, Spud Siegel, Jesse Carrot",Billy Hults...The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1SsEF3BFKv3rEgdsMRetUF,The Banks of the Ohio,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.245,3.0,-8.139,1.0,0.0505,0.988,0.0,0.17,0.589,81.591
 1SsXeDaRwSq78v2a91VNhk,I Can't Believe That You're in Love with Me,Django Reinhardt,Djangologie Vol6 / 1937,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -411,6 +413,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3nDVlyydehkmIsnIEzW4Qu,Nobody Loves Me,Bill Monroe & His Blue Grass Boys,The Essential Bill Monroe (1945-1949),0.545,0.24,9.0,-16.601,1.0,0.046,0.911,0.00114,0.406,0.909,182.724
 3nsiigmka0SsH45ALBiwrH,Kitty,The Pogues,Red Roses for Me (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3pZYRzUhf99HQJb0kb4dxk,We Shall Be Free,"Woody Guthrie, Lead Belly, Cisco Houston, Sonny Terry",Woody Guthrie Sings Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3pbw7bZl5klDDm7VNkmJX9,Penile Malfunction - live,"The Clamtones, Jeffrey Frederick",Clamtones B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3q1Bx4GURmhkVafAtU5tOQ,Who's Gonna Buy You Ribbons,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3qjiLjxJ4AZvLOtiE8znrD,Gospel Plow,Bob Dylan,Bob Dylan,0.563,0.796,2.0,-6.217,1.0,0.0451,0.802,0.00234,0.239,0.968,137.967
 3qn1XvK2qV4fVzqUHo3anX,Go Down Sunshine,Odetta,Odetta And The Blues,0.764,0.366,8.0,-12.526,1.0,0.0455,0.909,0.000858,0.144,0.745,113.462
@@ -538,6 +541,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4iZMmiAM3X720dVFxGTwu7,Dirtiest Little Darling,Jerron Paxton,Dirtiest Little Darling / Railroad Bill,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4jh6QSj0uHqxTEU1o0DmB6,Fishin' Blues,Taj Mahal,Giant Steps/De Old Folks At Home,0.654,0.175,2.0,-17.286,1.0,0.0517,0.988,0.0202,0.0964,0.521,77.484
 4jtxuAPoMo3plkBIyHkl8W,Sourwood Mountain,Woody Guthrie,The Early Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4jvu1EEn3O7Ln4Nr5eIkWL,Leroy - live,"The Clamtones, Jeffrey Frederick",Clamtones B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4k4CyMa0PNTXh5ma6wQVwy,Single Girl,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.629,0.218,10.0,-11.898,1.0,0.0296,0.941,0.0065,0.129,0.352,99.25
 4k8O80ugZaEBCHdZ7ntuWE,Alimoney,Shel Silverstein,Boy Named Sue,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4mpabpQcppE3Dw4nwFbHQL,T.B. Blues,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -666,6 +670,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5m8SaS3pEMRVpgdBnOZcGp,I Was the One,Elvis Presley,For LP Fans Only,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5nLYXDvcjlJJtbrpnbIkW4,Smokey Joe's Cafe - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5nVU5ZRoYF2nvRWaowcsX7,Spanish Flang Dang,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.287,0.112,7.0,-21.657,1.0,0.0353,0.973,0.941,0.111,0.395,200.82
+5nVbwOwVRAZiwY3UBkMxyz,Sweet Lucy - live,"Jeffrey Frederick, The Clamtones",Clamtones B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5ogaWpGXV2QHeRUuRNmavS,99 Year Blues,Jim Kweskin,America,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5olTMs4qi41XktvdB7OxWy,Yellow Submarine,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5pszJWk28NuKRMuTzE14up,Graduation march,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.613,0.134,10.0,-24.025,1.0,0.0584,0.995,0.972,0.111,0.913,105.106
@@ -700,6 +705,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 66yeaaGe4LYjACBa7vZeOh,Oklahoma Hills,James Talley,Woody Guthrie & Songs of My Oklahoma Home,0.682,0.308,0.0,-14.334,1.0,0.0534,0.744,1.1e-05,0.163,0.494,96.199
 672PNEfhkICYooZ3IOPoWi,Matchbox - Take 1,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 67dqJB1FQU0SfMFKFvfCG9,Do Re Mi,Woody Guthrie,Dust Bowl Ballads,0.72,0.273,4.0,-13.173,1.0,0.0428,0.848,2.11e-05,0.105,0.819,122.987
+67n22BpP5CpeHyWoA5F4GS,Mavis - live,"Jeffrey Frederick, The Clamtones",Clamtones B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 69WjO90WyjR8HmoitIbkDz,Lumberjack,Johnny Cash,Ride This Train,0.551,0.592,10.0,-10.861,1.0,0.575,0.856,0.0,0.173,0.372,98.945
 69bJKWX7LnRj2E7u2XdHDQ,Weepin' Willow Twist,Roy Clark,The Lightning Fingers Of Roy Clark,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6B9jtF3jk8SQ4uTn1zptGr,Worried Blues,Doc & Merle Watson,Elementary Doctor Watson,0.663,0.525,2.0,-12.104,1.0,0.0307,0.764,0.679,0.306,0.961,99.329
