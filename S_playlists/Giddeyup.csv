@@ -24,6 +24,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0BeL77kQEKgm8uFMTPh6qV,Go 'Way from My Window,John Jacob Niles,John Jacob Niles Sings Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0CS4pwHml8LCSdVJ1gIKU3,Big River - Take 1,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0D7qLnnev1iKpH5RNT7YsD,I Shall Be Free,Bob Dylan,The Freewheelin' Bob Dylan,0.64,0.314,2.0,-12.88,1.0,0.038,0.86,5.72e-06,0.0779,0.798,100.552
+0DPVxc77ao17VOjj7usXTz,Mississippi Delta Blues,Leon Redbone,Double Time,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0DPYCtNwxDxAFZD9S6W2Jk,"Maggie's Farm - Live at Newport Folk Festival, Newport, RI - July 1965",Bob Dylan,No Direction Home: Bootleg Volume 7 (Movie Soundtrack),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0DSzSnUcIFJ7DRYzMxcCh9,Dust Bowl Blues,Woody Guthrie,Dust Bowl Ballads,0.673,0.181,9.0,-13.041,1.0,0.0357,0.792,1.29e-05,0.085,0.412,95.593
 0Dcnab1NPhb3fAYMkRZwhR,Spiritual Trilogy _ Oh Freedom _ Come and Go with Me _ I'm on My Way,Odetta,Sings Ballads & Blues,0.37,0.274,0.0,-7.749,1.0,0.0372,0.858,0.0453,0.11,0.358,130.429
@@ -119,6 +120,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0vz0H81pU20hY4kzschfWU,The Wagoner's Lad,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.672,0.232,7.0,-9.573,1.0,0.0325,0.969,0.0,0.105,0.347,104.964
 0wBrXIcKnvLfRuiWWNyDH2,Tryin' To Get Home,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0wDHXosFXoZ6sPWtoTaMFP,Noted Rider (No Good Rider),Lead Belly,Tradition Masters Series,0.617,0.299,9.0,-11.429,1.0,0.0438,0.922,3.48e-05,0.111,0.901,143.077
+0yo1OQNlEM0beiZXmwUPRs,Alabama Jubilee,R. Crumb And His Cheap Suit Serenaders,Chasin' Rainbows,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0zVduthKvT1FEsUGFWT9Xo,900 Miles,Terry Callier,The New Folk Sound Of Terry Callier (Deluxe Edition),0.311,0.249,2.0,-16.052,1.0,0.0312,0.574,5.35e-05,0.108,0.0445,104.511
 0zi8HOHZsCRe7fXa3IW0TU,Sunday Street,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 10lBsVV61bhh8CJGl3i0eW,Jesse's New Midnight Special,Jesse Fuller,Brother Lowdown,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -139,6 +141,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 18CvvIlfbxh5jeYLIMuaxj,Stagger Lee,Dave Van Ronk,Hear Me Howl (Live 1964),0.638,0.399,0.0,-7.334,1.0,0.35,0.897,0.00172,0.657,0.617,112.747
 18GiV1BaXzPVYpp9rmOg0E,Blowin' in the Wind,Bob Dylan,The Freewheelin' Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 190Ag6YXRl0UCIDT9rXsJc,There Goes A Man,Willie Nelson,Country Willie,0.7,0.23,0.0,-13.448,1.0,0.0303,0.897,4.17e-06,0.102,0.642,99.474
+19x73dknMZ0PJFNhDjRWkz,Mr. Jelly Roll Baker,Leon Redbone,Double Time,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1AheEdxoDURGJfhB6GQvI3,Reel of the Hanged One (Reel du pendu),Jean Carignan,Old Time Fiddle Tunes Played by Jean Carignan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Bqxrcrx2q1nrHDn4aWTV4,Glory of Love,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.604,0.108,0.0,-19.051,1.0,0.0421,0.88,0.0158,0.125,0.852,164.702
 1CwiEbNy1Hm3aaEYBodrCB,"Who Killed Davey Moore_ - Live at Philharmonic Hall, New York, NY - October 1964",Bob Dylan,The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -284,6 +287,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2cr2rjdV2JOz1J0prTiPOG,Shake Your Money Maker,Elmore James,Shake Your Money Maker: The Best of the Fire Sessions,0.419,0.675,2.0,-5.491,1.0,0.0776,0.695,0.00032,0.0762,0.65,200.96
 2dLzyrwHEEK8umYoOYaSPc,"I Still Miss Someone - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2dOFRBb7vn8q4PheZTMDH9,Right Or Wrong,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2dlUfyB5mBtQWoLqgJ4gvD,Diddy Wa Diddie,Leon Redbone,Double Time,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2fDHuS1PTkHBbCWWZF1ph9,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2gPdx3Yugv715fTJeCS9Mf,Bye Bye Love,The Everly Brothers,"The Cadence Years, Vol. 1",0.551,0.552,9.0,-8.102,1.0,0.0565,0.754,1.29e-06,0.0951,0.926,168.709
 2hJ7E250KxFXuE0TCCfoI3,Dust Pneumonia Blues,Woody Guthrie,Dust Bowl Ballads,0.499,0.181,1.0,-15.788,1.0,0.069,0.877,0.0,0.173,0.65,195.028
@@ -325,6 +329,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 32ot0QjWDT87JAJdeB6JKy,Help!,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 32zj0yuQ9GvkcbtkSiYLFz,Baby's in Black,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 33LQxf2T3Jbgw3XQ1H3LMY,Blue Skies,Willie Nelson,Stardust,0.381,0.335,2.0,-12.797,1.0,0.0362,0.207,0.088,0.1,0.259,83.792
+33wrvvpayAUKPPSVkcib2D,Shine on Harvest Moon,Leon Redbone,Double Time,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 34CYKWLBoZABuxCt0ztNqT,Six More Miles (To The Graveyard),"Hank Williams, Drifting Cowboys",Sings,0.577,0.37,7.0,-11.061,1.0,0.0289,0.88,0.00244,0.159,0.658,89.061
 34hwPjXb0er1tpK5A1sUUx,"If You Gotta Go, Go Now (Or Else You Got to Stay All Night) - Live at Philharmonic Hall, New York, NY - October 1964",Bob Dylan,The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 35ipJ2lNpruiJPIzVyYgdU,Mama Let Me Lay It on You,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",0.464,0.366,2.0,-11.758,0.0,0.0357,0.978,0.00403,0.365,0.752,170.357
@@ -338,6 +343,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 37Y5foE58FSJZxxOmiSw7i,"Root, Hog Or Die","Mother Maybelle, The Carter Sisters",Keep On the Sunny Side - June Carter Cash: Her Life In Music,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 37sl5g00OpE8SzMSQ5ExVY,Flower Of My Heart - Undubbed Version,"Buddy Holly, Bob Montgomery",Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 38U0xHuJ0kDnzgS3gnOJOP,Minglewood,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+39DCUlb0BPlWVZdSchEcJd,Nobody's Sweetheart,Leon Redbone,Double Time,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3AHtI7H4nSzDjEEGZIAJoY,Ring A-Around-A-Rosy Rag,Arlo Guthrie,Alice's Restaurant,0.607,0.52,0.0,-12.73,1.0,0.033,0.461,0.0,0.0577,0.929,81.866
 3AJVBcW0cCwCZo54uLYYqD,Hunger and Cold,Phil Ochs,"Broadside Ballads, Vol. 6",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3BM7yIKKQNUhkmZyqttAlY,Single Girl,Roscoe Holcomb,An Untamed Sense of Control,0.54,0.531,1.0,-9.388,1.0,0.0336,0.869,0.954,0.688,0.566,136.392
@@ -881,6 +887,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7tGHNWy0AakpoO3AO9bp5c,Texas Twist,Roy Clark,The Lightning Fingers Of Roy Clark,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7tP0ribZqQZbmBxlh4ipcs,Battle Hymn Of The Republic,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7tem1vYGSIuBE59Q8aP7Yc,Tell Me That It Isn't True,Bob Dylan,Nashville Skyline,0.601,0.294,5.0,-20.909,1.0,0.0313,0.809,0.499,0.129,0.779,87.034
+7w2EJwJiQphML5kB2I6GD7,Crazy Blues,Leon Redbone,Double Time,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7xVpkVkd1klTzLJEysIR7z,Masters of War,Bob Dylan,The Freewheelin' Bob Dylan,0.556,0.273,5.0,-15.973,1.0,0.0372,0.613,3.27e-06,0.188,0.692,166.064
 7xrODhgXFNVsRtKoyt5rJo,"Cocaine Blues - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7y1rfJduBCRDaaeJ3El2pL,Mister Jim (Walkin' Dog Blues) - Instrumental,Rev. Gary Davis,The Guitar And Banjo Of Reverend Gary Davis,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
