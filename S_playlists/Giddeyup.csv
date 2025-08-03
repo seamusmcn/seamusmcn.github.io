@@ -114,6 +114,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0tBAT5NugCTPG3W5mKpbn4,Lungs,Townes Van Zandt,Townes Van Zandt,0.621,0.304,2.0,-16.648,1.0,0.0623,0.748,0.0,0.0684,0.573,100.548
 0tWof8xKmUD2V7oQYI4ADN,The Dying Cowboy,Cisco Houston,Cowboy Ballads,0.429,0.0281,8.0,-22.009,1.0,0.0363,0.992,0.00101,0.0993,0.451,91.673
 0tYYW7RK1Inj2OqWZuR72D,Bury Me Beneath the Willow,Woody Guthrie,The Early Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0taXjXwfxr3j3mdVkIDnpD,Okie Boogie,Jack Guthrie,Visit Oklahoma,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0tdDFdu7d6MJYWTPxqMpTE,Black Betty,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0uHTTNc54fzBnTAmOXdI29,Grey Goose,Jack Elliott,Muleskinner,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0udZHhCi7p1YzMlvI4fXoK,In My Time of Dyin',Bob Dylan,Bob Dylan,0.593,0.364,11.0,-8.346,1.0,0.0388,0.852,8.64e-06,0.148,0.388,125.854
@@ -293,6 +294,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2gPdx3Yugv715fTJeCS9Mf,Bye Bye Love,The Everly Brothers,"The Cadence Years, Vol. 1",0.551,0.552,9.0,-8.102,1.0,0.0565,0.754,1.29e-06,0.0951,0.926,168.709
 2hJ7E250KxFXuE0TCCfoI3,Dust Pneumonia Blues,Woody Guthrie,Dust Bowl Ballads,0.499,0.181,1.0,-15.788,1.0,0.069,0.877,0.0,0.173,0.65,195.028
 2hq6o5sOBus92ZK1b7FWKZ,Dusty Old Dust (So Long It's Been God to Know Yuh),Woody Guthrie,Dust Bowl Ballads,0.725,0.196,0.0,-15.176,1.0,0.0525,0.791,2.8e-06,0.0916,0.8,109.022
+2indfJy2dqgP7EGoIWzgDz,Ella Speed,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2jhjfGpaicxM2lFc25JZem,Mr. Tambourine Man - Witmark Demo - 1964,Bob Dylan,The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9),0.549,0.121,2.0,-15.08,1.0,0.0383,0.988,0.0168,0.107,0.462,132.553
 2m7ETwzyKFTKQSkkeYNBdA,Backwater Blues,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2mBPUd0QyBo6Rhzhn1vDwb,After A While,The Wright Brothers Gospel Singers,Mitchell's Christian Singers Vol. 4 (1940),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -458,12 +460,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 446igEwuGd1OV7jq0oDZuD,Frankie and Johnny,"Rolf Cahn, Eric Von Schmidt",Classic American Ballads from Smithsonian Folkways,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 45QEBxnCe3NANZhc2JzkB2,Fat Mama,Michael Hurley,First Songs,0.709,0.133,11.0,-22.293,0.0,0.0411,0.864,0.000736,0.12,0.26,118.194
 45STtJGyiJvht6jJWo09rn,Alabama Bound - 2003 Remastered,Lead Belly,Take This Hammer - The Complete RCA Victor Recordings - When The Sun Goes Down Series,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+45kmPEDS1f4KFhDsGi6DO8,Wrap Your Troubles in Dreams,Howard Armstrong,Louie Bluie,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 46HgyDTyTxJ3JvcAZmJ9h4,Steel Guitar Rag,Roy Smeck,Roy Smeck Plays Hawaiian Guitar,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 46gb7fjpnYkLFoFIWTQQVn,Tell Me That It Isn't True - Take 2,Bob Dylan,"Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 46qWzjcqItJRcBtcC9BFlK,In Care Of The Blues,Patsy Cline,Patsy Cline,0.728,0.337,4.0,-12.243,1.0,0.0316,0.885,0.0,0.345,0.74,94.781
 47gmoUrZV3w20JAnQOZMcO,Blue Suede Shoes,Elvis Presley,Elvis Presley,0.557,0.66,2.0,-7.706,1.0,0.056,0.654,1.66e-06,0.138,0.962,95.252
 48V57p4nHrBvbIKw3VB6I7,De Kalb Blues,Lead Belly,Tradition Masters Series,0.56,0.133,4.0,-15.47,1.0,0.061,0.995,0.0284,0.102,0.902,150.67
 48dTtNnoTBMtZb5Obud7HW,Blowin' Down This Road (I Ain't Going to Be Treated This Way),Woody Guthrie,Dust Bowl Ballads,0.718,0.305,2.0,-12.675,1.0,0.0355,0.74,8.19e-05,0.233,0.913,125.355
+48p2cbTCeHgqwNUVhb5UAJ,Sittin' On Top Of The World,"Howard Armstrong, Ralphe Armstrong - bass, Ray Kamalay - guitar, Howard Armstrong - violin, mandolin, guitar, vocal and storytelling",Louie Bluie,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 48p7zj5Ief2UIzbNWAMfPN,"Mama, You Been on My Mind - Live at Philharmonic Hall, New York, NY - October 1964","Bob Dylan, Joan Baez",The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall,0.559,0.759,11.0,-9.856,1.0,0.292,0.791,0.0,0.886,0.404,104.987
 49Cl45LNOx0cZ9qG5wGTCB,Pastures of Plenty,Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,0.611,0.171,2.0,-15.028,1.0,0.0751,0.959,0.0543,0.117,0.462,126.908
 49NfiXJHlZoexjMjqWIPQQ,"Green, Green Grass of Home - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -557,6 +561,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4pMuZSy1C2FoJXLv73poP0,I Am a Lonesome Hobo - Take 4,Bob Dylan,"Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4pUdm5ubvBAcR2eA0l8JLS,Spoken Introduction: Sometimes I Feel Like A Motherless Child,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4plJp1RXZPNIDFiwloAXh6,Cool Water,The Rooftop Singers,The Best Of,0.719,0.0338,6.0,-20.488,1.0,0.0433,0.94,0.0348,0.103,0.532,128.998
+4qcR0JcLSSgWEei9gNkEGK,This Troubled Mind of Mine,Jack Guthrie,Born to Be Wild,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4qxFlfpfHKTi70d4asPPgq,The Great Atomic Power,The Louvin Brothers,Weapon Of Prayer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4rhaDfV9y5UvGZ67BT8U35,The Bourgeois Blues,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4rsBr66s3ighYBSx05yh7Q,Ballad of William Worthy,Phil Ochs,All The News That's Fit To Sing,0.685,0.22,2.0,-14.722,1.0,0.0639,0.561,0.0,0.167,0.873,124.144
@@ -791,6 +796,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6qE6ADmLZd7V2YLkCJWFiL,No More Auction Block,Pete Seeger,"American Favorite Ballads, Vols. 1-5",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6qF6Ghoy5HlNNZNe8fsygD,Okie From Muskogee - 1970_Live At Carnegie Hall,Phil Ochs,Gunfight At Carnegie Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6qFJtlL73HIEh0maFhyQ6Z,The Boy Was Kissing The Girl (And Playing Guitar At The Same Time) - Instrumental,Rev. Gary Davis,The Guitar And Banjo Of Reverend Gary Davis,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6qztLCOiDxi65F1vnJMFGX,Exactly Like You,"Django Reinhardt, Stéphane Grappelli, Quintette du Hot Club de France",Djangologie Vol.2 / 1936 - 1937,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6r0ZMslFYegGxLVAaIKHKk,Nobody Knows The Way I Feel This Morning,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6sYdf0d7IaX848f5UChyij,Shady Grove,Doc Watson,The Essential Doc Watson,0.585,0.529,3.0,-12.003,0.0,0.0291,0.644,0.0131,0.0795,0.938,133.075
 6se4sK4ZbkNgOJUkmszbxX,Rocky Top,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -868,6 +874,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7igZXPqcTPIhnjqzlsKNyw,Walls of Red Wing - Studio Outtake - 1963,Bob Dylan,The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7ih3AofpgGTQLimwk6zrhB,Coney Isle,Roscoe Holcomb,An Untamed Sense of Control,0.592,0.398,5.0,-12.372,1.0,0.0308,0.924,0.00688,0.159,0.928,115.294
 7iyd0aOJ2J54hENgLeGxCk,Stardust,Willie Nelson,Stardust,0.549,0.267,9.0,-12.382,0.0,0.0416,0.881,0.0209,0.137,0.0993,144.546
+7jYFn8xwes5e7247BIryca,Darktown Strutter's Ball,Howard Armstrong,Louie Bluie,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7kSGnfvrStmQiNNPe6YuRD,Footprints In The Snow - Undubbed Version,"Buddy Holly, Bob Montgomery",Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7kfsMPZWCXK74eVTzzLQyI,Standing on the Outside of Your Shelter,Shel Silverstein,Inside Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7ls1MUdvOF6E2uwAloompw,Pretty Flower in Your Backyard,Lead Belly,Tradition Masters Series,0.539,0.435,5.0,-10.607,0.0,0.0515,0.992,0.691,0.107,0.807,137.698
