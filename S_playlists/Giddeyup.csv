@@ -52,6 +52,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0QTiGVI7OrYfTbBnw02cyo,It's Hard To Believe In Love For Long,Tim Hardin,Tim Hardin 2 (Expanded Edition),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0RW8xlciQNWcbsBHgmqvHV,Nottamun Town,Bert Jansch,Jack Orion,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0Rb6Bg8PYA0dR8KVutPu9y,I've Got A Secret (Didn't We Shake Sugaree),Fred Neil,Fred Neil,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0SNMAUHVy7B1UozfL7pGqU,Pretty Peggo-o,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0SUzmYsULbheiVVoC6I1VF,Somebody Loves Me,Django Reinhardt,Djangologie Vol6 / 1937,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0Sd75ZDb49IKL8VBONMRq2,TV Song - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0TLGCDjvlwOhGFOQyuNZXH,Columbus Stockade Blues,"Willie Nelson, Shirley Collie",Country Willie,0.531,0.461,7.0,-11.464,1.0,0.189,0.563,0.0,0.0672,0.81,153.401
@@ -159,6 +160,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1IweH8yYcVyr0CVE9G4wzP,Dust Bowl Refugee,Woody Guthrie,Dust Bowl Ballads,0.594,0.182,9.0,-13.756,1.0,0.036,0.786,0.00177,0.177,0.713,110.716
 1JO31DbbeEpHwNFZVbLPVI,Oregon Trail,Woody Guthrie,Woody Guthrie Sings Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Jgu2OQ870fj8x4Vse2V8i,Ground Hog,Frank Proffitt,Frank Proffitt Sings Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1KCTMOjUQ6BbFjfGEXtjyn,This Morning She Was Gone,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1L3p52pBRMRvEg3vb7aUUD,She's a Woman,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1L4RtuEiAiwdX5taX4meLI,"Corrina, Corrina",Bob Dylan,The Freewheelin' Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1LGmxVTktSQBIpKPymNrWl,Restless Farewell,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -179,6 +181,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1SsEF3BFKv3rEgdsMRetUF,The Banks of the Ohio,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.245,3.0,-8.139,1.0,0.0505,0.988,0.0,0.17,0.589,81.591
 1SsXeDaRwSq78v2a91VNhk,I Can't Believe That You're in Love with Me,Django Reinhardt,Djangologie Vol6 / 1937,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Sv7P3pIY2Zjzpen78OORc,Talkin' Dust Bowl Blues,Woody Guthrie,Dust Bowl Ballads,0.58,0.284,9.0,-13.668,1.0,0.0441,0.505,0.00691,0.111,0.694,115.975
+1SyKQEZQAh6vW6FEr4SasJ,All Around Man,Bo Carter,Mashing That Thing,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1USd34MPmAe841tseNdjez,Rhythm King,"Billy Hults, Johnnie Ward, Turtle Vandemarr, John D",Billy Hults...The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Uf4MJU7ckwuaHKrbBb16y,That's My Desire,Buddy Holly,Buddy Holly,0.424,0.361,7.0,-8.732,1.0,0.0306,0.639,0.0,0.159,0.581,122.63
 1UgCpSa9JuUvSXAx9puN2u,Blue Monday,Dave Van Ronk,Just Dave Van Ronk,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -221,6 +224,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1tAJyBJErRg2cGyPGb1kIS,Reconciled To The Blues,Michael Hurley,Long Journey,0.624,0.179,7.0,-17.006,1.0,0.0696,0.851,2.22e-05,0.082,0.24,79.9
 1tGj7HVqfV27WQGzs9j5jR,The Patriot Game,Dominic Behan,Easter Monday 1916 Songs of the IRA (Irish Republican Army),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1tV5iyA9RmDAvAajC4YWNG,Cool Water,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1ukn8k5PDFljQKmicyKvX7,Bully Of The Town,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1utdlV6OXT0jPgsQnytTr4,Black Mountain Rag,Mother Maybelle Carter,A Living Legend,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1v4EF7zZLvC8XkcEncOTue,Freight Train Blues,Bob Dylan,Bob Dylan,0.455,0.676,0.0,-6.533,1.0,0.0365,0.835,0.00051,0.322,0.517,132.422
 1vL9RAmcQBhQWl5iBQiKBs,Coal Creek,Roscoe Holcomb,An Untamed Sense of Control,0.573,0.516,2.0,-12.579,1.0,0.0335,0.803,0.944,0.114,0.936,121.289
@@ -262,6 +266,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2GTLX2CONNDS00o5RuLSed,Ruby - Are You Mad at Your Man,The Osborne Brothers,High Lonesome: The Story of Bluegrass Music,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2Gy4QwEEoxSAlWuCVx2s3W,Better World A-Comin',Woody Guthrie,"Hard Travelin': The Asch Recordings, Vol. 3",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2HXnjMxrO4QccqE3Grwmd0,I Threw It All Away,Bob Dylan,Nashville Skyline,0.476,0.194,0.0,-20.311,1.0,0.0335,0.603,0.0135,0.23,0.371,145.945
+2I9eZa2m8O0JLa1U5wij4l,If She's Gone,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2ISKrDt2omvwUQihTy9Ozs,Sweet Betsy from Pike,Cisco Houston,Cowboy Ballads,0.581,0.0536,8.0,-20.477,1.0,0.293,0.991,0.00114,0.122,0.933,207.697
 2LCkjJxBNfiibmlXlLPfqB,Mobile Line,The Sorry Muthas,Greatest Hits Vol 3,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2N84pPxNJmqo1ptSIh0M2B,Dust Cain't Kill Me,Woody Guthrie,Dust Bowl Ballads,0.573,0.212,2.0,-15.182,1.0,0.0382,0.732,0.000141,0.371,0.686,118.939
@@ -362,6 +367,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3BM7yIKKQNUhkmZyqttAlY,Single Girl,Roscoe Holcomb,An Untamed Sense of Control,0.54,0.531,1.0,-9.388,1.0,0.0336,0.869,0.954,0.688,0.566,136.392
 3BjQhYgz8hbNwPp5BqOw6W,"Tom Joad, Pt. 1",Woody Guthrie,Dust Bowl Ballads,0.654,0.271,7.0,-11.043,1.0,0.0405,0.77,0.000229,0.112,0.616,124.095
 3CBVxWIJosUAawosdAQCoR,Tumbling Tumbleweeds,Sons of the Pioneers,Anthology (1945-1952),0.35,0.49,2.0,-7.413,1.0,0.0308,0.863,1.68e-06,0.253,0.26,78.442
+3DEgor624j7uXOE1IxaGCl,Durango Jail,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3DNzrn8JZXJNTCK0biKRHX,Mean Old Southern,The Blues Project,Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3DdbrCxfTYdIpIIaEtlHu9,Vigilante Man,Woody Guthrie,Dust Bowl Ballads,0.603,0.162,2.0,-15.448,1.0,0.0362,0.809,2.44e-06,0.124,0.634,101.575
 3EGk3hQGXs7RAMkMleittc,Alberta,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.482,0.15,7.0,-14.964,1.0,0.0689,0.866,0.0,0.157,0.364,190.468
@@ -401,6 +407,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3V0Tt8iuWqjYMTDShQ0gKj,Bullets of Mexico,Phil Ochs,All The News That's Fit To Sing,0.559,0.293,8.0,-15.087,0.0,0.0434,0.773,0.0,0.107,0.782,85.378
 3VRyOEmGXiQ3lXcoUQ83X7,Working On The Railroad,The Rooftop Singers,The Best Of,0.635,0.15,8.0,-16.5,1.0,0.0401,0.884,8.05e-05,0.103,0.549,112.193
 3VYTZtFr1Up3hQhe5PQqoM,Lazin' in My Sleep,Kinloch Nelson,Partly on Time: Recordings (1968-1970),0.505,0.0871,4.0,-17.004,1.0,0.0369,0.896,0.666,0.112,0.261,113.756
+3WbeNe5Bdx5wEqFOjU3U5A,Love For Love,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3XJvJndzSkIFNTlg0X8X87,No More Auction Block For Me,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3XQcN8lRz5uGWnkMdo8NC5,I Still Miss Someone - Take 5,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3ZTjyCsILfq3cfcedFhHAI,Right Or Wrong,Willie Nelson,Country Willie,0.698,0.445,0.0,-10.111,1.0,0.0408,0.75,4.74e-06,0.223,0.722,96.026
@@ -447,6 +454,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3v55o86xGDEiZCLioTrmy5,One More Night,Bob Dylan,Nashville Skyline,0.394,0.323,0.0,-19.551,1.0,0.059,0.72,0.00548,0.173,0.733,178.083
 3w5ecYEMUouguLjRh7CvsB,Wanted Man - Take 1,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3wMCnmNbKbtUm1OVq6td4y,Jug Band Music,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3wRTBM8xOzOT9XAFMgAXom,Pharaoh's Army,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3x3dv2jmdNgIgnbp09zhV4,The Bird Song - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3xXVjwFwUoIbxb51qDizAm,I'll Walk Alone,Willie Nelson,Country Willie,0.469,0.117,8.0,-12.378,1.0,0.0339,0.932,0.00558,0.167,0.306,74.862
 3xqdcCI9J1bjO1HaPjRxTi,"North Country Blues - Live at Carnegie Hall, New York, NY - October 1963",Bob Dylan,Bob Dylan Live At Carnegie Hall 1963,0.615,0.0965,10.0,-15.977,1.0,0.0551,0.902,0.0,0.691,0.641,139.812
@@ -611,6 +619,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 54kJQb15wTK67vkFuOo663,Ring of Fire - Outtake,Bob Dylan,"Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 55yfZaURv6pjKmf2ud9WSF,Down The Line - Undubbed Version,"Buddy Holly, Bob Montgomery",Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 56IA2zZQwSUW6t7heX8gtn,On the Sunny Side of the Street,Willie Nelson,Stardust,0.685,0.371,7.0,-11.688,1.0,0.115,0.243,0.0161,0.109,0.429,120.931
+56TerS2ilx6LgE4oXR1H9y,Last Cigarette,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 56sA4uOaKwOjzI3JIyaMnv,Blind Lemon,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 57M2Tzakrrj4pecyVet6kM,Clocks and Spoons,John Prine,Diamonds in the Rough,0.555,0.145,9.0,-21.982,1.0,0.034,0.461,0.000113,0.093,0.668,139.77
 58vUkkt44ybuStzmoVHBl5,You Got To Find Me,Michael Hurley,Long Journey,0.713,0.333,0.0,-13.96,1.0,0.0449,0.943,0.0016,0.117,0.802,140.649
@@ -714,6 +723,8 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5v1HbmJ5PscyTj6Ogkg4KP,Handsome Molly,Bill Morrissey,Standing Eight,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5vZrcad1uM8DwxVcamlRA1,25 Minutes to Go,Shel Silverstein,Inside Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5vyw005QQ42hrzrLxb3xEX,I Shall Be Released - Studio Outtake - 1971,Bob Dylan,The Essential Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5wGfZ5xEWjxS2vfYkEp4U8,I Paint a Design,Michael Hurley,Wolfways,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5xUPoIxadOmiQbXwGLLriy,Cigarette Blues,Bo Carter,Mashing That Thing,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5xVFRG39Ty6W9QNILFgUCe,Maple Leaf Rag,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5xZtQV6fBON4AjG64HKsyU,God's Gonna Cut You Down,Odetta,The Tradition Masters,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5xxd4Qg5WsRY98DawMpC1E,Rosalee Mcfall,"Jerry Garcia, Tony Rice, David Grisman",The Pizza Tapes,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -805,6 +816,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6j1fiAG1NFBqPDRfJY19Yv,The Lonesome Death of Hattie Carroll,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6jF8A5joJKL4QbjIf4orEj,Ramona,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6jVPQHpdqJgPfE8lagHKBK,St. Louis Tickle,Dave Van Ronk,In The Tradition,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6kX0NbckooKHwoRsbXGdLb,On The Job Too Long,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6kyxVUBAsIBZT5lSEJahOg,Oklahoma Hills,Jack Guthrie,The Greatest Country Music Recordings Of All Time Vol. 2,0.8,0.329,7.0,-13.819,0.0,0.101,0.819,2.83e-06,0.0614,0.843,101.804
 6lib77q4koq52srysevRfT,Only a Pawn in Their Game,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6ngIWHdwkmHZe8zFP7lIJq,I'm Counting on You,Elvis Presley,Elvis Presley,0.496,0.163,2.0,-12.541,1.0,0.0383,0.894,0.0,0.109,0.509,135.638
@@ -818,6 +830,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6qztLCOiDxi65F1vnJMFGX,Exactly Like You,"Django Reinhardt, Stéphane Grappelli, Quintette du Hot Club de France",Djangologie Vol.2 / 1936 - 1937,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6r0ZMslFYegGxLVAaIKHKk,Nobody Knows The Way I Feel This Morning,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6sYdf0d7IaX848f5UChyij,Shady Grove,Doc Watson,The Essential Doc Watson,0.585,0.529,3.0,-12.003,0.0,0.0291,0.644,0.0131,0.0795,0.938,133.075
+6sb81E87XTUYMERvEw2ihS,Let's Get Drunk Again,Bo Carter,Bo Carter's Advice,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6se4sK4ZbkNgOJUkmszbxX,Rocky Top,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6tBAHbLdUuzAyLCvKSITeR,Long John,Woody Guthrie,The Early Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6tTrJus0cpKJ30xGKcnCOL,Chisholm Trail,Cisco Houston,Cowboy Ballads,0.634,0.203,1.0,-18.258,1.0,0.0408,0.952,5.43e-05,0.0767,0.856,110.808
