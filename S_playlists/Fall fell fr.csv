@@ -34,6 +34,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 286RkRWuFjPZD252MW334r,September Song,Eartha Kitt,The Collection,0.286,0.15,3.0,-17.659,1.0,0.0421,0.891,0.0536,0.144,0.105,134.931
 2BMorWMRsJPc1hEstsFKRU,I'll Remember April,George Shearing,September In The Rain,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2JEDACLvBw4Tw7AaNaQGlj,Autumn Leaves,Vince Guaraldi,The Definitive Vince Guaraldi,0.414,0.241,0.0,-16.502,0.0,0.0336,0.847,0.533,0.187,0.222,99.386
+2Pi0rY9FcbaecqO0AyhXbu,I'll Never Smile Again,"Tommy Dorsey, Frank Sinatra, The Pied Pipers",The Seventeen Number Ones,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2UWHpbnRVsH7s9CpY8X5yA,All Night Long,"George Shearing Quintet, Nancy Wilson",The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2f0GJdDxkHllLSIAIzrWIh,Rain,The Four Freshmen,Live From Las Vegas,0.493,0.444,10.0,-10.004,1.0,0.0397,0.142,8.3e-06,0.962,0.481,83.428
 2ktNcamVv0XK1rxbTuxnVc,Friendly Persuasion (Thee I Love),George Shearing,The Shearing Piano,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -50,7 +51,9 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3OifdbdBdgVGtns8uQbZO3,This October,The Four Freshmen,Angel Eyes,0.662,0.33,5.0,-13.589,0.0,0.0579,0.611,2.15e-05,0.283,0.683,89.022
 3TwEglf5aSCf3mf45sDn2t,Thanksgiving Theme,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.522,0.322,0.0,-13.385,1.0,0.0272,0.985,0.921,0.32,0.286,96.36
 3nuBkpDZWcZyRg8DI4Ol5w,Please (with Anson Weeks & His Orchestra),"Bing Crosby, Anson Weeks, His Orchestra",The Essential Bing Crosby,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3qZCqVg91I59UMhIek6ErM,On The Sunny Side Of The Street,The Pied Pipers,A Tribute to Tommy Dorsey,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3spdoTYpuCpmq19tuD0bOe,My Way,Frank Sinatra,My Way (Expanded Edition),0.401,0.381,2.0,-7.458,1.0,0.0274,0.7,0.0,0.122,0.229,75.454
+3v0F4czdzZdsUlurnp8zvG,Stardust I May Be Wrong,Hoagy Carmichael,Gonna Get a Girl,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3ziJFd6JeioC8Xfct0UXpJ,Moonlight Serenade,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.342,0.126,3.0,-11.857,1.0,0.0265,0.862,0.0998,0.146,0.147,77.873
 40dkGkXlOnvj75cbXGvjRf,A Flower Is A Lovesome Thing,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.501,0.0907,7.0,-18.746,1.0,0.0432,0.987,0.936,0.0974,0.0395,118.618
 40wB4dL1rMNaBFIX5nyTCI,Graduation Day,The Four Freshmen,Graduation Day,0.434,0.122,8.0,-11.407,1.0,0.0273,0.857,0.0,0.133,0.342,74.277
@@ -59,14 +62,17 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2.0,-9.885,0.0,0.0472,0.792,1.19e-06,0.125,0.817,83.729
 47v2cVYhIrpLKrInKyVjuU,Autumn Rain - Live,Ahmad Jamal,"Live at the Olympia - June 27, 2012",0.538,0.537,7.0,-16.643,1.0,0.0633,0.483,0.563,0.976,0.449,83.131
 49LHJe8RmY5ViMMQj0aMdb,(What Did I Do To Be So) Black And Blue,Louis Armstrong,This Is Jazz Louis Armstrong Sings,0.414,0.105,0.0,-14.907,1.0,0.0549,0.826,0.0119,0.269,0.223,72.332
+4HLYTkGtaXGcozWywPlBZP,My Happiness,The Pied Pipers,What is This Thing Called Love?,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4JW7GB5ekciDSTSLnuO0W7,New Year's Eve,Elizabeth Cotten,"Elizabeth Cotten, Volume 3: When I'm Gone",0.351,0.243,11.0,-21.961,1.0,0.0319,0.964,0.893,0.116,0.812,97.907
 4LGTaHEGnEoXGkXGroCttg,Love Turns Winter To Spring,The Four Freshmen,"Merry Christmas, Baby: Romance And Reindeer From Capitol",0.478,0.253,10.0,-13.507,0.0,0.0324,0.797,1.94e-06,0.325,0.366,86.949
 4QxDOjgpYtQDxxbWPuEJOy,L-O-V-E,Nat King Cole,L-O-V-E,0.425,0.373,4.0,-7.543,1.0,0.0801,0.686,0.0,0.077,0.663,78.231
 4V4hfhAK4RKXVWkQz0CQO8,A Dreamer's Holiday,Perry Como,Perry Como with the Fontane Sisters (with The Fontane Sisters),0.58,0.128,9.0,-14.541,1.0,0.0704,0.966,0.0,0.376,0.414,84.375
 4dZdUaWKR0w9PAbF8YExsp,It's A Pity To Say Goodnight,The Four Freshmen,Great Gentlemen Of Song / Spotlight On The Four Freshmen,0.56,0.238,0.0,-16.166,1.0,0.0445,0.615,0.0,0.117,0.629,147.71
 4l9hml2UCnxoNI3yCdL1BW,My Funny Valentine,Chet Baker,Chet Baker Sings,0.438,0.00756,0.0,-26.44,0.0,0.0382,0.941,0.00643,0.109,0.277,133.32
+4r1HXgQRdMk9sNLoGebC1O,Goodbye,The Four Freshmen,Graduation Day,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4yv8XcG09EeFphrdfFH9FV,Autumn In New York,George Shearing Quintet,The Shearing Spell,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4zPDjRgceGrR0Sm54YDTTf,Autumn Nocturne,Lou Donaldson,Blues Walk,0.539,0.0678,0.0,-18.039,1.0,0.0468,0.967,0.168,0.114,0.263,124.105
+52QqyuqnNuYtlSWqxubc8s,There's Frost On The Moon,Artie Shaw,In The Beginning,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 52XDumqYDUXX16R7FM5fpV,"It's Been a Long, Long Time (with Harry James & His Orchestra)","Kitty Kallen, Harry James",Best Of The Big Bands,0.272,0.219,0.0,-9.767,1.0,0.0305,0.938,0.00086,0.263,0.374,74.697
 54TTy0pWx7UGYJnCjScJIE,The Girl From Ipanema - Remastered,Nat King Cole,L-O-V-E,0.514,0.372,7.0,-11.193,1.0,0.0506,0.665,0.0,0.381,0.413,118.864
 59CJWG0sOr2Fd3L2GHn1mw,Autumn Leaves (Kareha) - Japanese Version,Nat King Cole,Autumn,0.26,0.364,2.0,-10.271,0.0,0.0337,0.675,0.000584,0.238,0.191,119.792
@@ -92,6 +98,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6QgoqQs8PjtKCGuahX310I,Manhattan Reflections - Live,Ahmad Jamal,Live in Paris (1971),0.439,0.359,10.0,-19.181,0.0,0.0329,0.77,0.898,0.142,0.27,94.164
 6QlkHjQmo2YncQN5MQXgPZ,It Never Entered My Mind,Miles Davis Quintet,Workin' With The Miles Davis Quintet,0.476,0.217,8.0,-10.75,1.0,0.0308,0.892,6.09e-05,0.0966,0.121,116.079
 6UyFhMPqpg95EDBtSP7IRm,Whisper Not - Remastered,George Shearing Quintet,The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6VD3TRB8HCGcVVUDlADGJP,Sleepy Time Gal,Hoagy Carmichael,Gonna Get a Girl,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6g82W4awZ4ZqSs2jUT5goS,Tis Autumn,Chet Baker,Chet (Keepnews Collection),0.56,0.0641,0.0,-19.546,0.0,0.0374,0.97,0.898,0.0694,0.257,107.802
 6onxtdIaUHiO2Uqm5PnG1l,Love Thy Neighbor - 1954 Version _ With Spoken Introduction,"Bing Crosby, Buddy Cole Trio",Bing: A Musical Autobiography,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6zK83IKs3vP6Uxm2UpYYpo,Moonlight In Vermont,"Ella Fitzgerald, Louis Armstrong",The Complete Ella And Louis On Verve,0.362,0.0387,0.0,-19.935,1.0,0.0448,0.974,0.000171,0.0902,0.139,170.937
