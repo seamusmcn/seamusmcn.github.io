@@ -181,6 +181,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1Pl7xX5SnxQaKkXQcGL1HL,We Shall Overcome,Guy Carawan,Classic Protest Songs from Smithsonian Folkways,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1QDuCGeLwotpLUb436XZbz,Fooey Fooey - Live,"The Clamtones, Jeffrey Frederick",Clamtones B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1RLAl3xt06hKHTVYB1oIPo,Pack My Suitcase,"Billy Hults, Dave Reisch, Turtle Vandemarr, Jimmy Boyer, Spud Siegel, Jesse Carrot",Billy Hults...The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1RXtfDDPRQls8oRgStIz8p,Freight Train,"Jack Elliott, Derroll Adams",Riding in Folkland,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1SsEF3BFKv3rEgdsMRetUF,The Banks of the Ohio,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.245,3.0,-8.139,1.0,0.0505,0.988,0.0,0.17,0.589,81.591
 1SsXeDaRwSq78v2a91VNhk,I Can't Believe That You're in Love with Me,Django Reinhardt,Djangologie Vol6 / 1937,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Sv7P3pIY2Zjzpen78OORc,Talkin' Dust Bowl Blues,Woody Guthrie,Dust Bowl Ballads,0.58,0.284,9.0,-13.668,1.0,0.0441,0.505,0.00691,0.111,0.694,115.975
@@ -254,6 +255,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2AGrpuftcUFutth0i7Va1y,Gotta Get You Near Me Blues - Undubbed Version,"Buddy Holly, Bob Montgomery",Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2AM4jDl9tWQeEFqmbRchtA,Honey Hush,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.727,0.643,11.0,-8.684,0.0,0.0404,0.783,8.08e-05,0.112,0.929,93.038
 2AyqRzXZ6ZmHcfZ1Mu4Vsj,Fixin' to Die,Bob Dylan,Bob Dylan,0.6,0.348,9.0,-9.66,0.0,0.036,0.817,5.38e-05,0.11,0.655,127.078
+2B88jDRMudhCXic2EuRuM6,Give Me Forty Acres,Willis Brothers,20 Great Truck Drivin' Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2BjVI7RWa24hvUGLnewANR,Spoken Introduction: Rambling Round Your City,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2CF2GawXxcVm836SIRHMqU,Born and Raised in Covington,Roscoe Holcomb,An Untamed Sense of Control,0.482,0.0389,8.0,-14.594,1.0,0.0837,0.974,0.0,0.0775,0.394,73.969
 2CPNZiEtEOJLOonAlFN7UE,San Francisco Bay Blues,Jesse Fuller,Move on Down the Line,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -557,6 +559,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4biXHBMoLHA2dHvyxuIkcq,Mama Don't Allow,The Rooftop Singers,Vanguard Visionaries,0.757,0.49,8.0,-12.198,1.0,0.0373,0.338,0.00481,0.342,0.961,114.151
 4cF3tmwlBqiXL1XyuWeTnb,This Land Is Your Land (Alternate Version),Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,0.533,0.203,2.0,-14.974,1.0,0.0374,0.939,0.000115,0.106,0.451,106.77
 4cen5a0z9D3ryLbCte2tCQ,All of Me,Willie Nelson,Stardust,0.594,0.481,7.0,-11.496,1.0,0.0655,0.47,0.0655,0.168,0.521,144.119
+4ciqD6Y91WvaUijWkxtsN2,Here's To The Workin' Man,Mike Morningstar,The Original,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4d2pZQgdqUiMLlvw4Ad4gc,Barbara Allen Blues,Roscoe Holcomb,An Untamed Sense of Control,0.437,0.183,7.0,-12.755,1.0,0.0388,0.86,0.000424,0.112,0.524,80.19
 4d4ynVxxtusjNTGdk5rOOs,Cocaine,Hoyt Axton,Thunder 'N Lightnin' (Digitally Remastered),0.58,0.221,2.0,-14.623,1.0,0.062,0.888,5.03e-05,0.275,0.535,126.386
 4dMAs5GoSMtbBJAA4AEosZ,Katusha,Guy Carawan,Songs with Guy Carawan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -719,6 +722,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5nVbwOwVRAZiwY3UBkMxyz,Sweet Lucy - live,"Jeffrey Frederick, The Clamtones",Clamtones B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5ogaWpGXV2QHeRUuRNmavS,99 Year Blues,Jim Kweskin,America,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5olTMs4qi41XktvdB7OxWy,Yellow Submarine,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5paKqSxxcauuMyVSDYk8fV,Rank Strangers,Willis Brothers,"Bluegrass Brothers, Volume 2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5pszJWk28NuKRMuTzE14up,Graduation march,Elizabeth Cotten,Freight Train and Other North Carolina Folk Songs and Tunes,0.613,0.134,10.0,-24.025,1.0,0.0584,0.995,0.972,0.111,0.913,105.106
 5qJwIIlBhKafAfCnbJHvoY,Guess Things Happen That Way - Take 3,"Bob Dylan, Johnny Cash","Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5qNyzWW91FhtUsryyzSrhu,Gypsy Davy,Woody Guthrie,"This Land is Your Land: The Asch Recordings, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
