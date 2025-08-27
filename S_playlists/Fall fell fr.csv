@@ -2,6 +2,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 06MI30ZipOyf7xXk1tFCrE,In the Moon Mist,The Pied Pipers,What is This Thing Called Love?,0.258,0.23,8.0,-10.324,1.0,0.028,0.821,2.99e-06,0.094,0.299,91.944
 06UkYE0SZ3Y8zGRFOuWGAe,It's Always You - Vocal Version,Chet Baker,Chet Baker Sings,0.499,0.0341,8.0,-22.31,1.0,0.0417,0.923,5.27e-05,0.131,0.31,81.735
 0AtVA7axXKVFnjQsN4xBIy,Dream,The Pied Pipers,What is This Thing Called Love?,0.198,0.276,7.0,-10.588,1.0,0.0289,0.919,0.00261,0.21,0.0692,88.422
+0BRvjLhMa3Qie8LMnRtY4f,I'm Beginning To See The Light,The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0HBc7nSv7tT4KXktKAaNYx,September Song,Willie Nelson,Stardust,0.295,0.114,8.0,-14.657,1.0,0.0333,0.916,0.0336,0.163,0.0684,69.427
 0NhQTMDVgspRfwgJ59kmc6,Effendi - Live,Ahmad Jamal,Live in Paris (1971),0.4,0.356,9.0,-18.512,0.0,0.0382,0.65,0.918,0.789,0.382,137.831
 0OFzGWNvMR7qvRsD14dxIT,'Tis Autumn,Nat King Cole Trio,The Complete Capitol Recordings Of The Nat King Cole Trio,0.403,0.0728,7.0,-20.622,0.0,0.0603,0.966,7.04e-05,0.106,0.152,178.645
@@ -57,6 +58,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3ziJFd6JeioC8Xfct0UXpJ,Moonlight Serenade,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.342,0.126,3.0,-11.857,1.0,0.0265,0.862,0.0998,0.146,0.147,77.873
 40dkGkXlOnvj75cbXGvjRf,A Flower Is A Lovesome Thing,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.501,0.0907,7.0,-18.746,1.0,0.0432,0.987,0.936,0.0974,0.0395,118.618
 40wB4dL1rMNaBFIX5nyTCI,Graduation Day,The Four Freshmen,Graduation Day,0.434,0.122,8.0,-11.407,1.0,0.0273,0.857,0.0,0.133,0.342,74.277
+43a4zqUZL1vHH93EKBFkLj,"We Three (My Echo, My Shadow, And Me)",The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 44JGGWZwWXNgnEiOQQ8ByI,The Good Times,Nat King Cole,Ramblin Rose,0.512,0.632,7.0,-9.476,0.0,0.0329,0.549,0.0,0.595,0.753,128.152
 44t2D1xsAwPRPrcfOQz5yL,Easy living,"Billie Holiday, Billie Holliday and her orchestra",Simply ... Lady Day! (2019 Remaster),0.656,0.106,8.0,-16.242,1.0,0.0492,0.989,0.0302,0.19,0.641,89.085
 47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2.0,-9.885,0.0,0.0472,0.792,1.19e-06,0.125,0.817,83.729
@@ -78,6 +80,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 54TTy0pWx7UGYJnCjScJIE,The Girl From Ipanema - Remastered,Nat King Cole,L-O-V-E,0.514,0.372,7.0,-11.193,1.0,0.0506,0.665,0.0,0.381,0.413,118.864
 59CJWG0sOr2Fd3L2GHn1mw,Autumn Leaves (Kareha) - Japanese Version,Nat King Cole,Autumn,0.26,0.364,2.0,-10.271,0.0,0.0337,0.675,0.000584,0.238,0.191,119.792
 5EJ9MfO86fEG7ICjhciyd1,The Enchanted Sea,Martin Denny,The Enchanted Sea,0.443,0.293,9.0,-14.393,0.0,0.0311,0.783,0.31,0.212,0.27,84.062
+5EQfcSb929cWIeLJPIZoby,We'll Meet Again,The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5GOFil3Umfp4yB75U2Ah4e,Georgia On My Mind,Willie Nelson,Stardust,0.533,0.215,1.0,-12.854,1.0,0.0396,0.8,0.0336,0.14,0.106,67.985
 5K0hy2QGGliIiiWatRq9ld,Linus And Lucy,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.457,0.471,8.0,-12.075,1.0,0.036,0.814,0.93,0.21,0.74,81.502
 5LMDR9OJOVfRAB99Vr96zn,Change Partners,"Antônio Carlos Jobim, Frank Sinatra",Sinatra/Jobim: The Complete Reprise Recordings,0.454,0.319,7.0,-14.334,1.0,0.0337,0.7,0.00196,0.32,0.308,132.336
@@ -101,8 +104,11 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6UyFhMPqpg95EDBtSP7IRm,Whisper Not - Remastered,George Shearing Quintet,The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6VD3TRB8HCGcVVUDlADGJP,Sleepy Time Gal,Hoagy Carmichael,Gonna Get a Girl,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6g82W4awZ4ZqSs2jUT5goS,Tis Autumn,Chet Baker,Chet (Keepnews Collection),0.56,0.0641,0.0,-19.546,0.0,0.0374,0.97,0.898,0.0694,0.257,107.802
+6jSOQzZ92aPKN0p2m09y2n,Maybe,The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6onxtdIaUHiO2Uqm5PnG1l,Love Thy Neighbor - 1954 Version _ With Spoken Introduction,"Bing Crosby, Buddy Cole Trio",Bing: A Musical Autobiography,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6zK83IKs3vP6Uxm2UpYYpo,Moonlight In Vermont,"Ella Fitzgerald, Louis Armstrong",The Complete Ella And Louis On Verve,0.362,0.0387,0.0,-19.935,1.0,0.0448,0.974,0.000171,0.0902,0.139,170.937
+70Hl6QYIJGmrR7NBl666Y6,Into Each Life Some Rain Must Fall - Single Version,"The Ink Spots, Ella Fitzgerald",20th Century Masters: The Millennium Collection: Best Of The Ink Spots,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+777zXDJpBufzttU4AJ2dGO,I Don't Want To Set The World On Fire,The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 77fcHU89KRyKKRDskWKOoY,On The Sunny Side Of The Street - 1993 Digital Remaster,Nat King Cole Trio,The Nat King Cole Trio - The Complete Capitol Transcription Sessions,0.87,0.0993,5.0,-17.241,0.0,0.0544,0.994,0.142,0.0879,0.482,125.725
 78MI7mu1LV1k4IA2HzKmHe,Dream A Little Dream Of Me - Single Version,"Ella Fitzgerald, Louis Armstrong","Love, Ella",0.443,0.104,0.0,-17.042,1.0,0.101,0.913,0.0,0.191,0.394,76.474
 7B21ssHl04pc9TsHtvt3aA,Orange Colored Sky,Nat King Cole,Autumn,0.524,0.361,7.0,-11.698,0.0,0.0779,0.793,0.0,0.105,0.541,129.805
