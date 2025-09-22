@@ -45,6 +45,8 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0K9Xk9AKGtvjXn063Ok6Eg,Riot In Cell Block Number Nine,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0KD3J7kuG555P3s7yOc6aO,Wreck of the Old '49,Shel Silverstein,Inside Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0LQb14wtNOmlcEpQkfnYX7,If I Had a Hammer (Hammer Song),Pete Seeger,If I Had a Hammer: Songs of Hope and Struggle,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0LfzezG9VV4XXbDhugCbda,Jesus Christ,Woody Guthrie,Woody At Home - Vol 1 + 2,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0M3biSl9Xp2ouEbIgsikxj,Biggest Thing That Man Has Ever Done,Woody Guthrie,Woody At Home - Vol 1 + 2,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0M7Mh2ypmVS1T0FvUVjXI8,Stealin',Jim Kweskin,America,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0MKqZjDlfeltCfcrtIDj47,"Ruby, Are You Mad At Your Man_","The New Lost City Ramblers, Cousin Emmy",New Lost City Ramblers with Cousin Emmy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0MSueU8MW1slgFKn2x3GFt,"Oh! Love of Mine (September 14, 2024)","Jesse Welles, Welles World",Under The Powerlines (April 24 – September 24),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -316,6 +318,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2awBEWKQxh6pyvlEj7HiFt,My Rough & Rowdy Ways,Doc & Merle Watson,Ballads From Deep Gap,0.609,0.299,7.0,-12.073,1.0,0.0286,0.646,0.0,0.342,0.881,75.309
 2bK3HJovfeZAWS5XXkjWU2,When I Was a Cowboy (Western Plains),Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2bbmdWor8U0QVHxLiwo4SP,Clay Pigeons,Blaze Foley,Sittin' by the Road,0.388,0.217,6.0,-14.624,1.0,0.0447,0.867,7.87e-06,0.116,0.307,81.0
+2cJPb35w3B5vbRr1uYf7RS,Great Ship,Woody Guthrie,Woody At Home - Vol 1 + 2,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2cnlS1FkZrJcTotYmHxVHj,Stackerlee,Dave Van Ronk,Folksinger,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2cr2rjdV2JOz1J0prTiPOG,Shake Your Money Maker,Elmore James,Shake Your Money Maker: The Best of the Fire Sessions,0.419,0.675,2.0,-5.491,1.0,0.0776,0.695,0.00032,0.0762,0.65,200.96
 2dLzyrwHEEK8umYoOYaSPc,"I Still Miss Someone - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -448,6 +451,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3bQiQnqOUgCDHm8POrzYDV,Black Bottom Blues - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3bSZlIcVkpKphNEmjqfnvS,I'll Fly Away,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.556,0.409,7.0,-7.607,1.0,0.0258,0.949,0.000597,0.186,0.178,97.789
 3bU8rIEuatTa7XjHl4Sw8f,Close My Eyes,Arthur Russell,Love Is Overtaking Me,0.655,0.245,7.0,-13.817,1.0,0.0392,0.747,0.0248,0.124,0.39,123.77
+3bg2cMxllawBKr0pphj9Ta,Lend Me Your Comb,Carl Perkins,Original Golden Hits,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3cY8cOjaN8Lwi08g9Fpr6D,North Country Blues,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3d6cdwul6DaNo4S4nLMtOW,Going Train Blues,Peg Leg Sam,Early in the Morning (feat. Louisiana Red),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3dY8NPI9s3MpEqOfGfHqlf,Trouble in Mind,Big Bill Broonzy,Trouble in Mind,0.64,0.022,7.0,-18.356,1.0,0.0761,0.852,0.0,0.0837,0.429,81.493
@@ -732,6 +736,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5aOAucJTv5DhULowNDizuJ,Moving Day - live,"Steve Weber, The Holy Modal Rounders",The Holy Modal Rounders B.C.,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5aRWbpGuItECDLfjw0n1Ba,I Don't Think I'm Ever Gonna Figure It Out - Remixed _ Remastered,Elliott Smith,Either/Or: Expanded Edition,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5ayQQ1Y98XzuCBhIEucjoO,Cocaine Blues,Dave Van Ronk,Folksinger,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5be1GrJVLztsBdzsMvEs3H,Pastures of Plenty,Woody Guthrie,Woody At Home - Vol 1 + 2,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5bpCzcx1DoguV8jEF2S9O1,Get Thee Behind Thee Satan,The Almanac Singers,State Of Arkansas,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5cicntULcN9AtVoCu1fT4n,Let Us Get Together Right Down Here,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5d6ZRqgbz26Sg4bk1oifQw,Blue Suede Shoes,Carl Perkins,The Dance Album,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -828,6 +833,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6R9JyXX5VjfEjOCYKeQBzy,One Little Thing An Atom Can't Do,Woody Guthrie,Woody At Home - Vol 1 + 2,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6Sr2e5J7WnRJ7sLpUpyie9,Funny How Time Slips Away,Willie Nelson,The Early Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6SzgsHHPmXN25wL4EoWwjp,Freight Train Boogie,Doc & Merle Watson,Elementary Doctor Watson,0.68,0.491,4.0,-12.423,1.0,0.0309,0.693,0.698,0.127,0.905,112.526
+6TTWrVWq0Grv2AWIWbS53t,Just Beyond The Moon,Tex Ritter,Capitol Collectors Series,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6TZBNFUqGzQfEVkIGrz6If,Saro Jane,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6TxNIlOAqC0QsYwscKlA8K,In the Sweet Bye and Bye,Elizabeth Cotten,"Close to Home: Old Time Music from Mike Seeger's Collection, 1952-1967",0.425,0.263,11.0,-17.089,1.0,0.035,0.946,0.871,0.121,0.82,91.632
 6U4O06kFIfmA9Vx2uYJFmA,Move on Down the Line,Jesse Fuller,Move on Down the Line,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -858,6 +864,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6dX6IohXTE9DnYeYiQp1sy,Take Me As I Am (Or Let Me Go),Willie Nelson,Country Willie,0.556,0.242,0.0,-11.649,1.0,0.0325,0.687,0.0179,0.206,0.439,83.989
 6ddW43iu0xvDjFeEVxTgXk,Barbecue Blues,Barbecue Bob,Presenting Barbecue Bob,0.585,0.4,11.0,-11.197,1.0,0.0292,0.975,0.000606,0.186,0.637,92.504
 6ePcDDP1t0GHmIQSBd7FwY,Tutti Frutti,Elvis Presley,Elvis Presley,0.635,0.618,7.0,-8.619,0.0,0.0589,0.68,0.0,0.189,0.912,114.188
+6epEFj8F51ex7ykDIaZvA7,I've Got To Know,Woody Guthrie,Woody At Home - Vol 1 + 2,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6eyDrhV4zBFZVKxRg0cYsH,Bye and Bye,"Jim Kweskin, Mel Lyman, Fritz Richmond",Relax Your Mind,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6fYU0tDUH4XKS3miU8gftP,Painted Eyelids,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6gQH02P9gxPnrccFGeShr4,My Old Man,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -869,12 +876,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6j1fiAG1NFBqPDRfJY19Yv,The Lonesome Death of Hattie Carroll,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6jF8A5joJKL4QbjIf4orEj,Ramona,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6jVPQHpdqJgPfE8lagHKBK,St. Louis Tickle,Dave Van Ronk,In The Tradition,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6jz5aQUI70vkyvZfInyvVU,Innocent Man,Woody Guthrie,Woody At Home - Vol 1 + 2,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6kX0NbckooKHwoRsbXGdLb,On The Job Too Long,Paul Clayton,Paul Clayton Sings Home Made Songs And Ballads,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6kyxVUBAsIBZT5lSEJahOg,Oklahoma Hills,Jack Guthrie,The Greatest Country Music Recordings Of All Time Vol. 2,0.8,0.329,7.0,-13.819,0.0,0.101,0.819,2.83e-06,0.0614,0.843,101.804
 6lib77q4koq52srysevRfT,Only a Pawn in Their Game,Bob Dylan,The Times They Are A-Changin',-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6ngIWHdwkmHZe8zFP7lIJq,I'm Counting on You,Elvis Presley,Elvis Presley,0.496,0.163,2.0,-12.541,1.0,0.0383,0.894,0.0,0.109,0.509,135.638
 6onsWIYj3OFJH8FV7Dkbib,I Just Found Out,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.673,0.414,4.0,-10.117,1.0,0.0256,0.854,4.08e-05,0.119,0.749,99.165
 6oxQMpuQV0XbHQC9HVjLBu,All By Myself,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.716,0.646,11.0,-8.139,1.0,0.0502,0.44,1.89e-05,0.0599,0.919,81.063
+6p19AVBHjgF8xpNMMnLUtM,Fooey Fooey,"Michael Hurley, Unholy Modal Rounders, Jeffrey Frederick & The Clamtones",Have Moicy!,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6pJgdaT7FzTdPE7NdGLQKw,Rockin' Chair Daddy,Harmonica Frank,Rockin' Chair Daddy / The Great Medical Menagerist,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6paukbgZzyfhCHQLU14XM1,Ticket to Ride,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6qE6ADmLZd7V2YLkCJWFiL,No More Auction Block,Pete Seeger,"American Favorite Ballads, Vols. 1-5",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -898,6 +907,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6xkyzOC39QTdvkaMzNcxTa,Doc & Dawg,"Doc Watson, David Grisman",Doc & Dawg,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6zD3VBPn2VNDdmLEg0coPt,Country Honk,The Rolling Stones,Let It Bleed,0.531,0.759,7.0,-10.992,1.0,0.0521,0.627,7.04e-06,0.351,0.888,120.96
 6zN4GO7LbjLqRjqedn2d2w,Mississippi River Blues,Leon Redbone,Double Time,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+70hL8ZilOzHJXdtDxHbkQ2,Blood On The Saddle,Tex Ritter,Capitol Collectors Series,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 70r9GGLXLAUqKwPefF7pL2,What's That I Hear,Phil Ochs,All The News That's Fit To Sing,0.478,0.347,6.0,-15.804,1.0,0.113,0.746,0.0,0.095,0.527,128.246
 70tW79dlZWyXccL5CPQrhy,Columbus Stockade,Woody Guthrie,The Early Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 716TKYoyVXFrXjz3rHwajp,Nashville Skyline Rag,Bob Dylan,Nashville Skyline,0.544,0.376,0.0,-22.38,1.0,0.033,0.314,0.798,0.161,0.732,121.264
