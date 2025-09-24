@@ -6,6 +6,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0CiJ1MUAXNBr376xtnFBwV,A Date With Jerry,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0DVRlAYFT7rxCuT7UYWGs0,What'd I Say,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.357,0.88,7.0,-7.609,1.0,0.0405,0.388,0.0259,0.893,0.613,97.056
 0ELvJjWaqYS2G5psM8FdH4,Blue Monday,Buddy Holly,Giant,0.301,0.766,2.0,-6.768,1.0,0.055,0.501,0.0,0.256,0.876,118.232
+0F3N8OIn6obTkJfZWbOMrm,Hello Little Girl - Decca Audition,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0QGwOFQChzflLAmPq5NwKo,A Teenager In Love,Dion & The Belmonts,Presenting Dion And The Belmonts,0.555,0.377,1.0,-9.123,1.0,0.0295,0.671,0.0,0.128,0.619,78.986
 0SBxkEMyacXzVLKYNudhgr,The Surfer Moon (Mono),The Beach Boys,Surfer Girl (Mono & Stereo),0.42,0.357,6.0,-11.511,1.0,0.0316,0.353,4.23e-05,0.341,0.374,111.084
 0VKhBoakXHimnQYGP4sbRN,Shut Down (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.584,0.72,8.0,-6.273,1.0,0.0332,0.613,0.0,0.0758,0.971,159.337
@@ -13,14 +14,17 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0WSy9JTzDKHCcAWg3tLWTS,Fool's Paradise - Undubbed Master,Buddy Holly,Down The Line: Rarities,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 0YB7qJ2NqEmtE3FNeyZBO2,I'm Gonna Love You Too,Buddy Holly,Buddy Holly,0.692,0.577,9.0,-7.861,1.0,0.0351,0.826,1.54e-06,0.0998,0.807,90.946
 0bz0PznD8eRojueEdAIPta,Aren't You Glad You're You,The Pied Pipers,What is This Thing Called Love?,0.717,0.178,1.0,-8.524,1.0,0.0397,0.915,0.0,0.164,0.64,135.32
+0cyR03TLxoLceHKWs7UDDM,How Do You Do It,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0fonScmHUzC0MglSLn9saA,Da Doo Ron Ron (When He Walked Me Home),The Crystals,Da Doo Ron Ron: The Very Best of The Crystals,0.535,0.797,3.0,-7.533,1.0,0.0459,0.48,3.42e-05,0.141,0.613,148.835
 0gZAR2H3YVnTAD5c8cxPGk,Rosemary,Brian Hyland,His Days in the Sun,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 0iA3xXSkSCiJywKyo1UKjQ,Louie Louie,The Kingsmen,The Best of The Kingsmen,0.623,0.709,1.0,-9.818,0.0,0.0636,0.102,0.0,0.0967,0.948,122.394
+0iuZO3btsNI2VyQ187XiBu,I'll Get You - Live On Sunday Night At The London Palladium,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0mdSp4t6Rbg5dcNoWTEELk,Soul City,"The Hi-Lifes, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0noMw79nLyguA49zV6Gk3t,Heartbeat,"Buddy Holly, The Crickets",The Buddy Holly Story,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0pIVD83HhGXeSyuZ3aTfY2,Love Is Strange - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 154Fm1yWMHOUYWGmozeKgC,Let's Go Trippin' (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.619,0.744,9.0,-6.359,1.0,0.0348,0.00806,0.846,0.235,0.84,81.156
 156z5BJH0XhCIEoQHDOwFC,Look At Me,Buddy Holly,Buddy Holly,0.722,0.567,2.0,-7.368,1.0,0.0398,0.835,0.0,0.132,0.5,143.893
+175jiRVJ6N6ayJQ1FXim57,You'll Be Mine - Home Demo,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 19QHvc2R7qbSyFcvzYCum0,Tonight I Met An Angel,The Chiffons,The Chiffons Absolutely The Best!,0.51,0.812,9.0,-3.199,1.0,0.0605,0.744,0.000123,0.366,0.638,139.69
 1F1k2AfEazW5GdPumG7ZW0,Cross My Heart,Joyce Heath,Joyce Heath,0.591,0.546,7.0,-8.071,1.0,0.0367,0.475,0.00255,0.364,0.783,130.849
 1GLmaPfulP0BrfijohQpN5,Don't Worry Baby - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",0.486,0.465,4.0,-9.821,1.0,0.03,0.0666,0.00491,0.105,0.851,121.243
@@ -53,16 +57,19 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2OARIMw1hpehr86Iwmv04c,Peggy Sue,"Buddy Holly, The Crickets",Buddy Holly,0.676,0.424,9.0,-8.132,1.0,0.0329,0.947,0.000494,0.119,0.493,148.373
 2OWhRU9coyPnfXM5A1rxgl,Well...All Right,Buddy Holly,Buddy Holly,0.71,0.667,1.0,-6.664,0.0,0.0397,0.334,0.0037,0.259,0.847,124.552
 2PoCFAeqx7VDDwljQpxjts,"You Know, I Know",John Lee Hooker,The Real Folk Blues,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2Qgak11t9BJHwkicG0WJQE,Besame Mucho - June 1962 Version,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2Syo9vgnbr6TkX7sV5DOmI,How Does It Feel,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.498,0.877,5.0,-7.4,0.0,0.0819,0.0665,0.000758,0.0676,0.482,139.854
 2TVglqfNeqy7DFbLLbxEjr,"Animal House - From ""National Lampoon's Animal House""",Stephen Bishop,National Lampoon's Animal House,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2VmB1rF9FtfKUmFHDVnq8Q,Baby It's You - Remastered 2009,The Beatles,Please Please Me (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2WnqwGtx6qbD3HFpj4NeJy,Do I Love You_,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.467,0.714,1.0,-8.796,1.0,0.0399,0.498,0.0034,0.046,0.364,144.915
+2XWLSham4kXI9ZSo75E4Rj,Cry For A Shadow,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2YZ2KFnnMNxqRJaBEegwXh,A Letter to a Disc Jockey,Joyce Heath,Joyce Heath,0.299,0.586,1.0,-7.401,1.0,0.0327,0.706,7.35e-06,0.176,0.675,75.855
 2Z5rJNI4Wdxud3vwm42l4n,A Love So Fine,The Chiffons,The Chiffons Absolutely The Best!,0.515,0.886,0.0,-3.494,1.0,0.0324,0.666,0.0,0.437,0.953,101.227
 2cSD2iV6RDf3a2pXyITeWW,Chapel Of Love,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.628,0.804,2.0,-8.529,1.0,0.0449,0.48,0.0,0.398,0.8,115.575
 2dOFRBb7vn8q4PheZTMDH9,Right Or Wrong,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2dXKmxHvW3Wei4Wm4RjaBU,Where Did I Make My Mistake,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2g7LUitXlS3jlTqdydMPbR,I Guess I Was Just A Fool - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2jlGyLNsfSRdcTynI1D08K,My Bonnie,"The Beatles, Tony Sheridan",Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2kfI9ksQnIr8dlYGhtt6m1,Tell Mamma Not to Cry,"Robertha Williams, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2ocr9MG2cQz0h0H3rpQqqa,Blue Monday - Undubbed Version,Buddy Holly & The Crickets,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2phiHgwJfL1LphKfVmvd4A,Just Won't Do Right,James Brown & The Famous Flames,"Please, Please, Please",0.467,0.289,6.0,-13.393,1.0,0.0311,0.869,3.96e-06,0.0893,0.741,96.68
@@ -84,6 +91,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3HKAWKgsg3R9Hmcqigs1qC,Oh No Don't Do It,"Ronnie Dickerson, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3LfUka6X3IR6NbJ1VcG8Vd,My Funny Valentine,Frankie Valli,Solo,0.47,0.798,7.0,-7.536,1.0,0.118,0.333,0.00205,0.448,0.679,97.513
 3MF0ayhAW2ymz0qcX5PN2e,I Don't Know,James Brown & The Famous Flames,"Please, Please, Please",0.487,0.352,5.0,-8.883,1.0,0.0354,0.848,1.09e-05,0.116,0.463,107.351
+3OUpVpFeNx5jeInhHqiNfs,Ain't She Sweet,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3S7vncvqGpPMx0nkIYaSWk,Little Charm Bracelet,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3SdBNJZGjIhuYMUWU01cvv,Louie Louie - Remastered 2001,The Beach Boys,"Shut Down, Vol. 2 (Remastered)",0.778,0.566,9.0,-9.02,1.0,0.041,0.067,0.0359,0.103,0.799,127.437
 3TXXtmutDBoMEMOaSo6D3a,"Mean, Mean Man",Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -92,6 +100,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3VHbArYR0HVY6rXu3TR4an,Tenderly,Link Wray & The Wraymen,Link Wray: Slinky! The Epic Sessions: 1958-1960,0.633,0.551,4.0,-12.683,1.0,0.0404,0.249,0.9,0.345,0.418,83.913
 3Wphr9wFaEwBFvBlvIYxjp,Surfer Girl (Mono),The Beach Boys,Surfer Girl (Mono & Stereo),0.488,0.369,2.0,-8.96,1.0,0.0256,0.691,3.49e-06,0.121,0.652,105.073
 3YPKnlCMiJHFkPRrzlRAMk,We Got Trouble,"Beverley Ann, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3eSgAvKnHbQNLdkVY7eagU,Like Dreamers Do - Decca Audition,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3fy76k7I8YMUOR7bn7EcM5,Speedoo (Alternative Take),The Cadillacs,The Fabulous Cadillacs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3k63RLvRgkgPGx0keOH3P6,Different Drum,"Stone Poneys, Linda Ronstadt","Evergreen, Vol.2",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3pU1CUgPiFfxPCpscwIwQR,I Should Have Known Better - Remastered 2009,The Beatles,A Hard Day's Night (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -101,12 +110,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3wTWJyoHLLJ9GHYf0Qwv0E,"Wait Till The Sun Shines, Nellie",Buddy Holly,Reminiscing,0.439,0.754,6.0,-6.646,1.0,0.0343,0.0897,0.000128,0.127,0.689,139.878
 3wUYLeIxhNi6rCSPb4uZLo,Pink Velvet Swing,Roy Clark,The Lightning Fingers Of Roy Clark,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2.0,-9.885,0.0,0.0472,0.792,1.19e-06,0.125,0.817,83.729
+48D9bTDrFiNGCGY32tDWKY,Love Me Do - First Version,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4CyjuvRQStesmMNV2ZEZve,Some Kinda Wonderful,Little Eva,Llllloco-Motion,0.788,0.353,0.0,-12.323,1.0,0.03,0.793,4.86e-05,0.338,0.901,109.179
 4Diae59s3yj7Lu5trBTDGs,A Maiden's Prayer,Roy Clark,The Lightning Fingers Of Roy Clark,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4JYOhR6kq2KYMmtVBGfnl6,Got No Reason To Cry,The Rooftop Singers,Vanguard Visionaries,0.525,0.763,4.0,-6.956,1.0,0.0391,0.733,2.25e-05,0.545,0.817,120.659
 4Qcjd9oQjWfbihYK7oievR,I'll Go Crazy,James Brown & The Famous Flames,Think!,0.568,0.518,0.0,-11.409,1.0,0.0465,0.741,0.0,0.0532,0.791,135.097
 4SLacxpEGYFcHaUpLolaee,Last Night - Undubbed Version,Buddy Holly,Down The Line: Rarities,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 4VDPfghlVxczF6n6w9QICJ,That Makes It Tough,Buddy Holly,Down The Line: Rarities,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+4VMOdHVfB57lNhSDadhOBc,I'll Get You - Remastered 2009,The Beatles,Past Masters (Vols. 1 & 2 / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4bB1B7khel7wADJiHCJ5Xj,I Wouldn't Dream of It,Joyce Heath,Joyce Heath,0.565,0.461,5.0,-8.977,0.0,0.029,0.544,1.57e-05,0.462,0.565,109.502
 4dGQaurapGQUWLAeQ3cvBg,Wake Up Little Susie,The Everly Brothers,"The Cadence Years, Vol. 1",0.705,0.725,1.0,-7.529,1.0,0.151,0.573,1.17e-05,0.0627,0.84,90.582
 4dessGxnKXmTbHPhVgqODq,There's A Place - Remastered 2009,The Beatles,Please Please Me (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -127,6 +138,9 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5GLr9bkV2czl8o7zJoWXca,Sweet Talkin' Guy,The Chiffons,The Chiffons Absolutely The Best!,0.539,0.66,11.0,-4.834,0.0,0.0319,0.461,0.00189,0.0564,0.735,148.268
 5JTSabBY52JpGuRp8tDXjm,Breaking up Is Hard to Do,Little Eva,Llllloco-Motion,0.724,0.493,0.0,-10.473,1.0,0.0338,0.846,0.0,0.116,0.946,116.495
 5Ms8YqYVd6gnhVGwD9KCoG,Queen Of The Ballroom,Buddy Holly,Not Fade Away: The Complete Studio Recordings And More,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5ZWOo4Ov1WohYXgSpBgd7G,Please Please Me - First Version,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5ZZWchqd0TY6QwVgKROk51,The Sheik Of Araby - Decca Audition,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5aOteYP6rA7vvBA7TG4Zpx,"Hallelujah, I Love Her So - Home Demo",The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5b0KMebx2ZOPv91U42xOSv,Rock Around With Ollie Vee - Alternate Version,Buddy Holly,That'll Be The Day,0.538,0.503,2.0,-10.341,1.0,0.0496,0.848,0.0826,0.117,0.887,202.563
 5bUwVVe93tLxxperyEoO9W,I Like God's Style,Isabel Baker,I Like God's Style,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5fxrwol6YSRq5qzu5WcHZg,Lana (Mono),The Beach Boys,Surfin' USA (Mono & Stereo),0.665,0.575,3.0,-8.501,1.0,0.0303,0.683,0.0,0.112,0.963,139.355

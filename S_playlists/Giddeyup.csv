@@ -166,6 +166,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1DgWCfYQYk4WOM2L2dU2WA,Jesus Met The Woman At The Well,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1EDjgsFptABkWWjdEbCjwJ,"Baby, Let Me Follow You Down",Bob Dylan,Bob Dylan,0.519,0.513,9.0,-6.495,1.0,0.0328,0.785,0.0039,0.1,0.634,133.622
 1FftkbfAdFJJXseUqiCOeO,Drinking Wine Spo-Dee-O-Dee,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.701,0.709,9.0,-9.71,1.0,0.0701,0.551,0.000109,0.101,0.894,172.127
+1I6ayuCPZQ5SHuiEqnyLSB,Searchin' - Decca Audition,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Ih6mseDBS50nIcAmecNXu,Georgia Mules And Country Boys,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1IweH8yYcVyr0CVE9G4wzP,Dust Bowl Refugee,Woody Guthrie,Dust Bowl Ballads,0.594,0.182,9.0,-13.756,1.0,0.036,0.786,0.00177,0.177,0.713,110.716
 1JO31DbbeEpHwNFZVbLPVI,Oregon Trail,Woody Guthrie,Woody Guthrie Sings Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -676,6 +677,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5AhCdumARG11GGAnn0IDbP,Should We Tell Him - by the Everly Brothers,"Chet Atkins, The Everly Brothers",The Essential Chet Atkins,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5AhlxqhVcbEcz2n3qyImW4,You've Been A Good Old Wagon,Dave Van Ronk,Hear Me Howl (Live 1964),0.526,0.156,11.0,-20.162,0.0,0.0765,0.94,0.0557,0.664,0.381,141.858
 5AvKhhpwm0bsuuwOz9NI0Q,I Love You Because,Elvis Presley,Elvis Presley,0.384,0.082,0.0,-14.678,1.0,0.0356,0.891,0.0,0.0845,0.246,80.079
+5AxDzt8VmHreQaDatK6TD5,That'll Be The Day,The Quarrymen,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5BXLeX48jByZSJ3ZP3JFlE,Graveyard Blues,Roscoe Holcomb,An Untamed Sense of Control,0.52,0.248,7.0,-10.822,1.0,0.0368,0.861,5.15e-05,0.344,0.365,119.399
 5BrrkPT2GSbyNWju1x4Ltj,"Streams Of Whiskey - The John Peel Show, as Pogue Mahone, April 1984, Live",The Pogues,The BBC Sessions 1984 -1986 (Live),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5CEy4GlL5t2S6gVTNaaLcn,What Did the Deep Sea Say_,Woody Guthrie,Woody Guthrie Sings Folk Songs,0.672,0.227,2.0,-13.192,1.0,0.0541,0.975,0.0,0.101,0.764,120.47
@@ -900,6 +902,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6ttVYsAi2ndk3YngDxr904,What Will We Do with the Baby O,The Kossoy Sisters,Bowling Green and Other Folk Songs from the Southern Mountains,0.762,0.407,8.0,-7.682,1.0,0.0744,0.969,0.0,0.264,0.497,98.839
 6uMtl6JNV57oe7oU9DN3G4,Hard Travelin',Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,0.6,0.186,2.0,-16.821,1.0,0.0558,0.935,0.305,0.135,0.866,128.435
 6vlR7PnWlUVhqPYmuPR8kp,Buddy's Bolden Blues,Dave Van Ronk,Hear Me Howl (Live 1964),0.511,0.18,5.0,-23.659,0.0,0.128,0.937,0.606,0.966,0.613,124.961
+6wZ3ovfn503Aj6nLoiSSuC,You'll Be Mine,Howlin' Wolf,Howlin' Wolf,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6wrEYf9IyrjaLccRBhrsCO,Highway 51 Blues,Bob Dylan,Bob Dylan,0.634,0.505,4.0,-9.703,1.0,0.0471,0.841,0.00554,0.0887,0.62,132.521
 6x33Nb0FOPnKejhucST2NZ,Wabash Cannonball,Johnny Cash,Happiness Is You,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6xBBkjU2Y2ubs1ufnD0yZN,Ukelele Lady,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -1011,3 +1014,4 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7y1rfJduBCRDaaeJ3El2pL,Mister Jim (Walkin' Dog Blues) - Instrumental,Rev. Gary Davis,The Guitar And Banjo Of Reverend Gary Davis,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7yNPHAxXVX49WwhXJjltkI,If You're a Viper,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7zirr0Qd0okiPvTyskJDqO,Knife Guitar,Roscoe Holcomb,An Untamed Sense of Control,0.363,0.358,7.0,-12.036,1.0,0.0302,0.744,0.948,0.358,0.604,91.482
+7zvMaTcCspbRMahT4DcjQG,In Spite Of All The Danger,The Quarrymen,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
