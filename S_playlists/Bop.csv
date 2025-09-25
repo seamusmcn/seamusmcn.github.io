@@ -34,6 +34,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1NmvxEO22XM0Uc7iWXmBTb,My Boyfriend's Back,The Chiffons,The Chiffons Absolutely The Best!,0.661,0.855,10.0,-6.202,0.0,0.194,0.0219,0.0,0.378,0.441,141.931
 1PKOM44lXQUUZrlvWvHVjf,Think Me A Kiss,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Qf3si9AhOhAgYkF1md0FB,I Can Hear Music,The Ronettes,Be My Baby: The Very Best of The Ronettes,0.604,0.51,2.0,-8.915,1.0,0.0299,0.489,0.0,0.318,0.808,121.56
+1S8yrFPr3n7K0szQCVu1Ta,She Loves You - Live From The Royal Variety Performance,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Uf4MJU7ckwuaHKrbBb16y,That's My Desire,Buddy Holly,Buddy Holly,0.424,0.361,7.0,-8.732,1.0,0.0306,0.639,0.0,0.159,0.581,122.63
 1WN4uNclrDuczTO3bCr8s1,Be My Baby,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.512,0.771,4.0,-7.006,1.0,0.0402,0.168,0.0,0.0895,0.803,129.639
 1YXQw0aG37hbdkyHXNTL8l,Do You Wanna Dance_ - US Version / Remastered 2001,The Beach Boys,The Beach Boys Today! (Remastered),0.424,0.828,10.0,-5.361,1.0,0.0522,0.695,1.07e-05,0.36,0.71,147.575
@@ -68,12 +69,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2cSD2iV6RDf3a2pXyITeWW,Chapel Of Love,The Ronettes,Presenting the Fabulous Ronettes Featuring Veronica,0.628,0.804,2.0,-8.529,1.0,0.0449,0.48,0.0,0.398,0.8,115.575
 2dOFRBb7vn8q4PheZTMDH9,Right Or Wrong,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2dXKmxHvW3Wei4Wm4RjaBU,Where Did I Make My Mistake,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2eAw0Q28Vl6O3XRVbocu1k,Till There Was You - Live From The Royal Variety Performance,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2g7LUitXlS3jlTqdydMPbR,I Guess I Was Just A Fool - Undubbed Version,Buddy Holly,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2jlGyLNsfSRdcTynI1D08K,My Bonnie,"The Beatles, Tony Sheridan",Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2kfI9ksQnIr8dlYGhtt6m1,Tell Mamma Not to Cry,"Robertha Williams, Lou Reed",Why Don't You Smile Now: Lou Reed at Pickwick Records 1964-65,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2ocr9MG2cQz0h0H3rpQqqa,Blue Monday - Undubbed Version,Buddy Holly & The Crickets,Down The Line: Rarities,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2phiHgwJfL1LphKfVmvd4A,Just Won't Do Right,James Brown & The Famous Flames,"Please, Please, Please",0.467,0.289,6.0,-13.393,1.0,0.0311,0.869,3.96e-06,0.0893,0.741,96.68
 2uEOLI3rxcHOBJOeHLtpjo,In The Back Of My Mind - Remastered,The Beach Boys,The Beach Boys Today! (Remastered),0.325,0.327,5.0,-9.888,1.0,0.0298,0.358,0.0,0.116,0.429,103.297
+2uVLF6SoCZCJzDyi3tdpIx,Only You,Carl Perkins,Original Golden Hits,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2wqMkjSJcNxUzOzJbtaKvG,Midnight Shift,Buddy Holly,Not Fade Away: The Complete Studio Recordings And More,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
 2x28Yi9XnWxvAUnvVUFcDA,"You're So Square (Baby, I Don't Care)",Buddy Holly,Buddy Holly,0.658,0.753,11.0,-7.532,1.0,0.0563,0.319,0.00123,0.104,0.966,100.131
 2xKfXRhw5xaUXfevJJspZf,Why Do Fools Fall in Love,"Frankie Lymon, The Teenagers",The Best Of Frankie Lymon & The Teenagers,0.388,0.532,1.0,-8.685,1.0,0.102,0.51,3.06e-06,0.0974,0.845,173.586
@@ -166,6 +169,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6WeYHd10XThfbEO49e5RK8,Let's Dance,Chris Montez,National Lampoon's Animal House,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6YuqGJiWxVbmWb9uHGcmPD,Tell Me What I Did Wrong,James Brown & The Famous Flames,"Please, Please, Please",0.48,0.492,9.0,-10.944,1.0,0.0466,0.786,0.0,0.0993,0.756,119.976
 6ZF1wsJEbWIv5wERVobR3m,I Get Around,The Beach Boys,All Summer Long,0.4,0.634,9.0,-8.234,0.0,0.0471,0.503,0.0,0.046,0.57,145.832
+6eLL7QTdMWdhhG4i3jHDR9,Crying,Roy Orbison,Crying,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6iQ0OIxisPxhzEICEXtaWS,I'm In The Mood,John Lee Hooker,The Real Folk Blues,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6lpDRL4z3LV2AbOuO8PR37,Girl On My Mind,Buddy Holly,That'll Be The Day,0.615,0.274,0.0,-8.249,1.0,0.03,0.86,0.0,0.101,0.639,77.151
 6p4O6ga4y7kVQF6xRDx0nK,Teasing But You're Pleasing,Irma Thomas,Take A Look,0.571,0.564,10.0,-9.411,0.0,0.032,0.631,0.0,0.256,0.971,132.791
@@ -191,6 +195,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7bFfjakySYhojqSPrAPtc3,Try Me,James Brown & The Famous Flames,"Please, Please, Please",0.676,0.224,0.0,-15.193,1.0,0.0293,0.931,0.0,0.302,0.665,101.47
 7cb2SdLm1UMLwdUoWwrZN1,Baby's In Black - Remastered 2009,The Beatles,Beatles For Sale - Remastered,0.374,0.596,9.0,-7.666,1.0,0.0416,0.434,0.0,0.098,0.876,202.97
 7fW1OwQPexk5OWCj7CSpqU,"Fun, Fun, Fun - Remastered 2001",The Beach Boys,"Shut Down, Vol. 2 (Remastered)",0.504,0.858,3.0,-6.927,1.0,0.0352,0.293,0.0,0.11,0.973,156.044
+7h0PH8SyWoXnkTdnRvoO8W,This Boy - Live On The Morecambe And Wise Show,The Beatles,Anthology 1,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7lk6vvcetCT6RcTndNpKj8,You're Ready Now,Frankie Valli,Solo,0.627,0.846,11.0,-7.545,1.0,0.0724,0.661,0.000682,0.242,0.866,136.33
 7oajF1cg9XquDLy0DUj4KQ,Savin' My Love,Wanda Jackson,The Capitol Singles 1959-1961,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7pWM2BexAFbq9C342miNVt,What To Do,Buddy Holly,Not Fade Away: The Complete Studio Recordings And More,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0

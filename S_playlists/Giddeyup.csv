@@ -160,6 +160,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 190Ag6YXRl0UCIDT9rXsJc,There Goes A Man,Willie Nelson,Country Willie,0.7,0.23,0.0,-13.448,1.0,0.0303,0.897,4.17e-06,0.102,0.642,99.474
 19x73dknMZ0PJFNhDjRWkz,Mr. Jelly Roll Baker,Leon Redbone,Double Time,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1AheEdxoDURGJfhB6GQvI3,Reel of the Hanged One (Reel du pendu),Jean Carignan,Old Time Fiddle Tunes Played by Jean Carignan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1BTGatAoNgvAvSDXXLr2tK,Movie Magg,Carl Perkins,The Dance Album,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Bqxrcrx2q1nrHDn4aWTV4,Glory of Love,Big Bill Broonzy,Big Bill Broonzy Sings Folk Songs,0.604,0.108,0.0,-19.051,1.0,0.0421,0.88,0.0158,0.125,0.852,164.702
 1CwiEbNy1Hm3aaEYBodrCB,"Who Killed Davey Moore_ - Live at Philharmonic Hall, New York, NY - October 1964",Bob Dylan,The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1DQd1JENvBB37yq2Mq25ar,I Ain't Got No Home in This World Anymore,Woody Guthrie,"Hard Travelin': The Asch Recordings, Vol. 3",0.606,0.222,2.0,-13.819,1.0,0.0418,0.972,0.000189,0.105,0.722,119.212
@@ -232,6 +233,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1mtGYXkuKpwUOU5utudOf1,Blues In The Bottle,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1nIRH6Jl7OB4d4aJSwVNqU,Country Willie,Willie Nelson,Country Willie,0.643,0.506,2.0,-9.153,1.0,0.0321,0.85,0.00374,0.3,0.835,132.627
 1nbGN4N63uCQq0pCIs3kIf,Idiot Wind,Bob Dylan,Blood On The Tracks,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1nwb82jrRK02Eh4ow9ofcu,Right String but the Wrong Yo Yo,Carl Perkins,Original Golden Hits,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1p7qv8hjHmkj1gtUkXKDgu,Chains Of Love,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.5,0.391,5.0,-11.573,1.0,0.0316,0.86,2.16e-05,0.279,0.593,114.095
 1r3N7MoEGPHJyCjBlWCsx3,The Unicorn,Shel Silverstein,Inside Folk Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1rJhtyKJFEEmVzIJdAp7qq,Going Down The Road Feeling Bad,Doc & Merle Watson,Elementary Doctor Watson,0.733,0.306,2.0,-14.57,1.0,0.0337,0.86,0.0369,0.192,0.882,115.956
@@ -340,10 +342,12 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2mBdAfAQ0zvbs1r3EfckCF,Hard Traveling,Woody Guthrie,"Hard Travelin': The Asch Recordings, Vol. 3",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2mEerzpFGUQzvKvVPHp65T,Banjo's Goin' Home,The Osborne Brothers,From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2mOoTm1KIDeZUP52I2mn74,When I Was a Cowboy,Lead Belly,Tradition Masters Series,0.71,0.373,4.0,-14.467,1.0,0.0598,0.99,0.000932,0.186,0.961,104.776
+2n4bd2uoRnqxMB2i9WaRVP,Blue Suede Shoes,Carl Perkins,Original Golden Hits,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2nIHJvqg8mQzUviTZfFcoQ,I Am The Light Of This World,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2nRuEFsz1Ianj2DU7RIgLz,Alabama Bound,Odetta,Sings Ballads & Blues,0.632,0.414,0.0,-4.948,1.0,0.0389,0.841,0.00669,0.159,0.704,125.32
 2nWvzzvR9CNpeIhGPOdbek,Anytime,Arlo Guthrie,Hobo's Lullaby (Remastered 2004),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2nssQeWdI3Iyws5bb1buSt,Candy Man - 1964 Version,Dave Van Ronk,Just Dave Van Ronk,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2o2dBjYD8Egqjlf3v5mgMy,Tennessee,Carl Perkins,Original Golden Hits,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2o5UFDGMtOsnvzP1QR14Kz,Talkin' Hava Negeilah Blues - Studio Outtake - 1962,Bob Dylan,The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2oSKc0WxmFSsHwXx6UVArA,Sister's Coming Home _ Down at the Corner Beer Joint,Willie Nelson,Phases And Stages,0.69,0.575,2.0,-12.854,1.0,0.0349,0.608,0.0529,0.0843,0.904,98.869
 2oYtpn6KHyVS1Q9c8B2uJh,The Wabash Cannonball,Pete Seeger,"American Favorite Ballads, Vols. 1-5 (Box Set)",0.642,0.512,7.0,-9.838,1.0,0.0343,0.916,0.000109,0.286,0.735,103.676
