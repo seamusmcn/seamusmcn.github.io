@@ -117,6 +117,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0ozBlp5mP7ALiw61VhutCM,I'll Fly Away (Acetate Version 204) (2019 - Remaster),Hank Williams,I'll Fly Away,0.609,0.3,7.0,-9.714,1.0,0.0246,0.872,2.26e-05,0.107,0.338,106.969
 0pwDaXboNy1UALAl3ZOZOF,Money Honey,Elvis Presley,Elvis Presley,0.635,0.616,2.0,-9.533,1.0,0.0345,0.463,0.0,0.144,0.942,133.34
 0pyKvtmrfUuCpErZnSC4jc,Nobody Knows You When You're Down And Out,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0qD4GH0uT7BkH6QSyfXATI,Eight More Miles To Louisville - Rerecorded,Grandpa Jones,An American Original,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0r4VJrNTjQD37kh9ig4FMx,I Love You So,Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,0.56,0.311,4.0,-10.369,1.0,0.0264,0.901,4.18e-06,0.107,0.763,91.629
 0rE8nugfCMtsC3mzNukV8Z,"Dark as the Dungeon - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0rI28La7fN9EciJAO7iDyI,White House Blues,"Charlie Poole, The North Carolina Ramblers",Old Time Songs,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -157,6 +158,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 17vwypfiO0MOENOLqw0kpU,"Lay, Lady, Lay - Take 2",Bob Dylan,"Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 18CvvIlfbxh5jeYLIMuaxj,Stagger Lee,Dave Van Ronk,Hear Me Howl (Live 1964),0.638,0.399,0.0,-7.334,1.0,0.35,0.897,0.00172,0.657,0.617,112.747
 18GiV1BaXzPVYpp9rmOg0E,Blowin' in the Wind,Bob Dylan,The Freewheelin' Bob Dylan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+18LwhRYqFsJjUH3Q4dMIr7,Blue Moon of Kentucky,Elvis Presley,A Boy From Tupelo: The Complete 1953-1955 Recordings,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 190Ag6YXRl0UCIDT9rXsJc,There Goes A Man,Willie Nelson,Country Willie,0.7,0.23,0.0,-13.448,1.0,0.0303,0.897,4.17e-06,0.102,0.642,99.474
 19x73dknMZ0PJFNhDjRWkz,Mr. Jelly Roll Baker,Leon Redbone,Double Time,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1AheEdxoDURGJfhB6GQvI3,Reel of the Hanged One (Reel du pendu),Jean Carignan,Old Time Fiddle Tunes Played by Jean Carignan,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -361,12 +363,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2tEyMUHnVmfm7zRa0dlLzg,"Don't Think Twice, It's All Right (Partial) - 1963-64 Home Recording",Lou Reed,"Gee Whiz, 1958-1964",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2tKasAq06QOpsr0ZAyOTQ0,Talking Centralia,Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2uRVPeQbsEpRQD0DKr1WTo,Blue Eyes Crying In the Rain,Willie Nelson,Red Headed Stranger,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2uVLF6SoCZCJzDyi3tdpIx,Only You,Carl Perkins,Original Golden Hits,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2uoOm55gLvLMALwXmKrwXc,Death Don't Have No Mercy,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2vw8dgWhUBxMYAXYS90pJf,"Goodnight, Irene",Pete Seeger,"American Favorite Ballads, Vols. 1-5 (Box Set)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2wqMkjSJcNxUzOzJbtaKvG,Midnight Shift,Buddy Holly,Not Fade Away: The Complete Studio Recordings And More,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2xTGp1koWEOrjQ2ZaGLypg,How We Got Back to the Woods Last Year,O.J. Abbott,Lumbering Songs from the Ontario Shanties,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2xuNVJKj1fnFV1O004IZ9C,Philadelphia Lawyer,Woody Guthrie,Woody at 100: The Woody Guthrie Centennial Collection,0.583,0.078,2.0,-16.023,1.0,0.21,0.994,6.62e-06,0.148,0.526,181.342
 2xyA4n0bCLCQzXYskm4EZV,Samson And Delilah,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2zDrc6fgQbv1UgjEyNSuBW,Blue Moon Of Kentucky,The Osborne Brothers,Once More,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2zNKjoZLJcZmrb46UZoslB,R.C. Frog,The Rooftop Singers,The Best Of,0.664,0.2,8.0,-22.026,1.0,0.0439,0.613,2.52e-05,0.0866,0.887,108.87
 2zQxPduqaNJLaNA6T7uz9w,I Saw Her Standing There,The Charles River Valley Boys,Beatle Country,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 30DiNVMuWhBwU24K16dk39,He's Got the Whole World in His Hands,Odetta,Sings Ballads & Blues,0.635,0.225,9.0,-11.899,1.0,0.0514,0.67,2.59e-06,0.126,0.888,119.978
@@ -848,6 +852,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6VqCe4PcokSekHPJQaDx0B,Blue Moon - Take 9_M,Elvis Presley,Elvis Presley,0.419,0.1,9.0,-22.829,0.0,0.0415,0.952,0.449,0.112,0.256,129.803
 6X89XYFoQElH0YORJPrp1B,The Hills of Mexico,Roscoe Holcomb,An Untamed Sense of Control,0.504,0.574,0.0,-8.804,1.0,0.0338,0.626,0.113,0.0654,0.654,125.166
 6XAKnvoU9rFHy5LO4facFj,The Pearls,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6XHbYnwTB7YoSV4TLeycuB,Blue Moon Of Kentucky,Bill Monroe & His Blue Grass Boys,Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6XPQEn0Bq7Jiz2vNBpVZDZ,I'm Gonna Sit Right Down and Cry (Over You),Elvis Presley,Elvis Presley,0.669,0.648,0.0,-9.28,1.0,0.0447,0.776,3.67e-05,0.265,0.805,106.832
 6XPSO6H90stw5Wd2c66Xos,Country Pie - Take 2,Bob Dylan,"Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6XYkf4CfvusFoiqo4vTaDr,Polly Woddle Doo - Remastered,Gid Tanner And His Skillet Lickers,Anthology: The Deluxe Collection (Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
