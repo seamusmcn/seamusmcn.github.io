@@ -9,6 +9,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0QGwOFQChzflLAmPq5NwKo,A Teenager In Love,Dion & The Belmonts,Presenting Dion And The Belmonts,0.555,0.377,1.0,-9.123,1.0,0.0295,0.671,0.0,0.128,0.619,78.986
 0Yh4igccFHplz0oP2NnujS,Christmas Time Is Here,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.427,0.12,5.0,-18.786,1.0,0.0315,0.976,0.771,0.154,0.0772,74.769
 0aFGcKZEC8vS7DXRluUUC7,Wait Till You See Her - Remastered,George Shearing Quintet,The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0cNc2tivyPqzgp13BSM7St,Chloe,Joe Pass,Intercontinental,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0hdNrtu4z3lHfP4YQOZUny,Old Devil Moon,Chet Baker,Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0iRfMzuIZweQSHkYlJT59P,I Wonder Who's Kissing Her Now,Ray Charles,The Complete Swing Time and Down Beat Recordings 1949-1952,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0s2h4GBGC4rcdSQhJX80Mv,Samba De Orpheus,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.581,0.428,2.0,-16.917,0.0,0.0486,0.889,0.845,0.173,0.606,126.033
@@ -91,6 +92,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5WPuFqw1PR4KKg2rSFzxry,"Oh, Look at Me Now",The Pied Pipers,What is This Thing Called Love?,0.806,0.167,2.0,-10.929,0.0,0.0441,0.843,0.0,0.413,0.675,115.419
 5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1.0,-15.485,1.0,0.035,0.968,1.55e-05,0.127,0.305,78.056
 5bqw1jBy6gacBpxsn8xFuF,Guilty,George Shearing,The Shearing Piano,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5l9c6bJmzvftumhz4TMPgk,Harvest Moon,Neil Young,Harvest Moon,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5nQ9snGTl5OBTHVFmT5QsF,Stardust,The Pied Pipers,What is This Thing Called Love?,0.472,0.0569,8.0,-14.495,1.0,0.0307,0.979,0.000449,0.175,0.261,66.976
 5wHTAt05hXx9Gp5WvdrVhk,"Softly, As In A Morning Sunrise",Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.626,0.199,0.0,-13.214,0.0,0.0486,0.978,0.932,0.0975,0.601,88.198
 6115ks6fGkf7KYRDAi8lNK,Almost Like Being In Love - Remastered,Nat King Cole,Sings For Two In Love,0.447,0.487,7.0,-6.783,1.0,0.062,0.843,0.0,0.177,0.696,182.515
@@ -115,6 +117,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 78MI7mu1LV1k4IA2HzKmHe,Dream A Little Dream Of Me - Single Version,"Ella Fitzgerald, Louis Armstrong","Love, Ella",0.443,0.104,0.0,-17.042,1.0,0.101,0.913,0.0,0.191,0.394,76.474
 7B21ssHl04pc9TsHtvt3aA,Orange Colored Sky,Nat King Cole,Autumn,0.524,0.361,7.0,-11.698,0.0,0.0779,0.793,0.0,0.105,0.541,129.805
 7CfcWWFD3PijcMjBSLso8q,Autumn In New York,Billie Holiday,Recital,0.564,0.105,10.0,-15.102,0.0,0.0647,0.962,2.78e-06,0.112,0.285,71.594
+7EnTL86j0jXu2IHEw14piE,'Tis Autumn,"Ella Fitzgerald, Joe Pass",Fitzgerald & Pass...Again,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7HaMDVyHbbmhtRwfrpzw5B,Moonray,George Shearing Quintet,The Shearing Spell,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7Kqk5EpwqiukPkDutSFFZk,Did I Remember,Catherine Russell,Send For Me,0.677,0.264,8.0,-9.111,1.0,0.0357,0.904,0.00601,0.0825,0.438,120.974
 7aXKEVn57uSQoJ3dQnOIkF,"Goodnight, My Love",George Shearing Quintet,The Shearing Spell,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
