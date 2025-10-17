@@ -118,37 +118,105 @@ document.getElementById('catalog-form').addEventListener('submit', function(even
 });
 
 // Handle Artist.cat Button Click
-document.getElementById('artist-cat-button').addEventListener('click', function() {
-    // Get userId from localStorage
+document.getElementById('artist-cat-button')
+  .addEventListener('click', async () => {
     const userId = localStorage.getItem('user_id');
-
     if (!userId) {
-        document.getElementById('status').innerText = 'Please authenticate first.';
-        return;
+      return document.getElementById('status')
+        .innerText = 'Please authenticate first.';
     }
 
-    // Make a POST request to the Flask route
-    fetch('https://seamusmcn-github-io.onrender.com/artist_playlist', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/x-www-form-urlencoded',
-        },
-        body: new URLSearchParams({
-            'user_id': userId
-        }).toString(),
-    })
-    .then(response => {
-        if (!response.ok) {
-            return response.text().then(err => { throw err; });
-        }
-        return response.text();
-    })
-    .then(data => {
-        // Display the response in the 'status' paragraph
-        document.getElementById('status').innerText = data;
-    })
-    .catch(error => {
-        document.getElementById('status').innerText = `An error occurred: ${error}`;
-        console.error('Error:', error);
+    // clean up any old UI
+    const old = document.getElementById('artist-options');
+    if (old) old.remove();
+
+    // 1) fetch the list of associated artists
+    const res1 = await fetch('https://seamusmcn-github-io.onrender.com/artist_playlist', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams({ user_id: userId })
     });
-});
+    const data1 = await res1.json();
+    const assoc = data1.associated_artists || [];
+
+    // 2) build the UI
+    const container = document.createElement('div');
+    container.id = 'artist-options';
+    container.style = 'border:1px solid #ccc; padding:10px; margin:10px 0;';
+
+    // If json indicates artists, show checkboxes
+    if (assoc.length) {
+        const title = document.createElement('p');
+        title.innerText = 'Include these artists?';
+        container.appendChild(title);
+  
+        assoc.forEach(name => {
+          const label = document.createElement('label');
+          label.style = 'display:block;';
+          const cb = document.createElement('input');
+          cb.type = 'checkbox';
+          cb.value = name;
+          label.appendChild(cb);
+          label.appendChild(document.createTextNode(' ' + name));
+          container.appendChild(label);
+        });
+      } else {
+        // otherwise add others
+        const note = document.createElement('p');
+        note.innerText = 'No pre-defined associated artists';
+        container.appendChild(note);
+      }
+
+    // free-form text box
+    const customLabel = document.createElement('label');
+    customLabel.style = 'display:block; margin-top:8px;';
+    customLabel.innerText = 'Add other artists (comma-separated): ';
+    const customInput = document.createElement('input');
+    customInput.type = 'text';
+    customInput.placeholder = '';
+    customInput.style = 'width:100%;';
+    customLabel.appendChild(customInput);
+    container.appendChild(customLabel);
+
+    // final “Create playlist” button
+    const go = document.createElement('button');
+    go.innerText = 'Create playlist';
+    go.style = 'margin-top:10px;';
+    go.onclick = async () => {
+      // collect selections
+      const picked = Array.from(
+        container.querySelectorAll('input[type="checkbox"]:checked')
+      ).map(cb => cb.value);
+
+      const extraText = customInput.value
+        .split(',')
+        .map(s => s.trim())
+        .filter(s => s);
+      const allExtras = picked.concat(extraText);
+
+      const params = new URLSearchParams();
+      params.append('user_id', userId);
+      // append each artist separately
+        allExtras.forEach(artist => {
+            params.append('include_artists', artist);
+        }); 
+
+      // 3) POST again, with include_artists
+      const res2 = await fetch('https://seamusmcn-github-io.onrender.com/artist_playlist', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: params.toString()
+      });
+      const data2 = await res2.json();
+      document.getElementById('status').innerText = data2.message;
+      container.remove();
+    };
+
+    container.appendChild(go);
+    document.body.appendChild(container);
+
+    // 3) Insertyour button, instead of at the very bottom
+    const btn = document.getElementById('artist-cat-button');
+    btn.insertAdjacentElement('afterend', container);
+
+  });
