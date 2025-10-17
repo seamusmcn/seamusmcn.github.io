@@ -1,77 +1,122 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
-1zoyHU5tY6IUa5GB4mSloE,Now You Know,The Four Freshmen,Blue World,0.507,0.0164,0,-17.365,0,0.0291,0.983,0.0,0.144,0.166,95.098
-7qD2NFCwPPrXJdzPadE2lF,It's A Blue World,The Four Freshmen,Blue World,0.324,0.0387,3,-14.596,1,0.0287,0.961,1.35e-05,0.0927,0.127,77.966
-6o9vjQPWUwoLcyhrVPfxjD,Stormy Weather,The Four Freshmen,Blue World,0.483,0.157,5,-13.42,1,0.0521,0.792,1.3e-06,0.217,0.534,80.314
-5q2gl6mXx9143VGC6BXQAd,The Day Isn't Long Enough,The Four Freshmen,Blue World,0.47,0.0714,2,-13.939,1,0.0346,0.935,0.0,0.115,0.278,84.729
-0kH2sn0Xy2OC5fgi31EYAW,Poinciana,The Four Freshmen,Blue World,0.455,0.0287,0,-16.85,1,0.0296,0.901,0.0,0.111,0.279,90.808
-4Cd4NGdUjQV2TVDx95fh8M,I'll Be Seeing You,The Four Freshmen,Blue World,0.525,0.0646,9,-15.706,1,0.0288,0.88,0.0,0.148,0.195,85.887
-0oo4keuQavD0b9JgR71x7C,It Happened Once Before,The Four Freshmen,Blue World,0.608,0.129,0,-11.593,1,0.0279,0.936,3.73e-06,0.102,0.36,82.947
-1yEOPub8qjg2k584F2FRlE,Over The Rainbow,The Four Freshmen,Blue World,0.35,0.158,7,-11.734,1,0.0326,0.903,0.0,0.244,0.425,165.244
-3xpB9FWoqfMaKr0uqckkXC,Mood Indigo,The Four Freshmen,Blue World,0.583,0.157,7,-12.073,1,0.0265,0.913,0.0,0.114,0.31,75.511
-1rvXymShkt4ClhiWEsn4ad,It Never Occurred To Me,The Four Freshmen,Blue World,0.275,0.219,0,-9.164,0,0.027,0.753,0.0,0.161,0.236,90.935
-47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2,-9.885,0,0.0472,0.792,1.19e-06,0.125,0.817,83.729
-25PRJaqKr4IEp9KVIu8FGB,How Can I Tell Her,The Four Freshmen,Blue World,0.248,0.26,9,-11.099,1,0.0274,0.767,0.0,0.0568,0.261,100.411
-0JjmPqE3vaI72Opp7prAZD,In The Whole Wide World,The Four Freshmen,Blue World,0.318,0.225,0,-10.383,0,0.0277,0.806,4.32e-06,0.0543,0.305,80.187
-06wdcXqI8cFTjt5gMSFZ2e,Mam'selle,The Four Freshmen,Blue World,0.287,0.13,1,-12.033,1,0.0305,0.899,0.0,0.122,0.185,145.629
-1Hxjhn358s6bqj75grk9q1,Speak Low,The Four Freshmen,Blue World,0.403,0.375,7,-11.905,0,0.0461,0.814,0.0,0.135,0.637,133.858
-4evsnNyj6uFphmVlTYVw2v,Our Love Is Here To Stay,The Four Freshmen,Blue World,0.35,0.122,0,-12.053,1,0.03,0.916,0.0,0.0861,0.115,73.185
-1twS3AKB6npXZaTlZUCChm,Somebody Loves Me,The Four Freshmen,Blue World,0.475,0.342,0,-10.111,1,0.0681,0.709,0.0,0.357,0.653,159.476
-1tFIcrCl8ps1zyuXfWHvaI,We'll Be Together Again,The Four Freshmen,Blue World,0.282,0.0756,2,-15.441,1,0.0316,0.936,2.01e-06,0.143,0.0729,75.653
-0koYj8WQHGj8I7AIhRzehz,My Heart Stood Still,The Four Freshmen,Voices In Modern,0.603,0.358,7,-10.577,0,0.0759,0.747,9.5e-06,0.0965,0.576,116.945
-5FQCWdV9sRzymMJAn1zbSG,Holiday,The Four Freshmen,Voices In Modern,0.594,0.619,10,-11.347,0,0.0764,0.85,1.55e-05,0.0818,0.831,87.426
-3DgXc9eIP0JSg46lV0Jd2t,Street of Dreams,The Four Freshmen,Voices In Modern,0.433,0.0875,5,-13.742,1,0.0282,0.974,0.0,0.103,0.157,142.797
-18Uf8HIzVZuIUdYeLsImbj,Circus,The Four Freshmen,Voices In Modern,0.488,0.3,10,-12.055,0,0.121,0.964,0.0206,0.12,0.273,82.229
-4ijN2nWMuwH3BAUeHMl7Jv,Out of the Blue,Esther Phillips,And I Love Him,0.0,0.24,8,-11.041,1,0.0,0.514,0.0,0.155,0.0,0.0
-3CWeCDosHFPC35xQlwnmpI,Angel Eyes,The Four Freshmen,Four Freshmen And 5 Trombones,0.387,0.181,8,-13.41,0,0.0298,0.859,0.0,0.142,0.265,135.094
-6MZtsBRoqp1BDIejm5rK4T,Love Is Just Around The Corner,The Four Freshmen,Four Freshmen And 5 Trombones,0.624,0.347,8,-9.68,1,0.0606,0.549,0.0,0.121,0.639,144.975
-4cVbVRcFZZlDZhSlrN6V01,You Stepped Out Of A Dream,The Four Freshmen,Four Freshmen And 5 Trombones,0.424,0.263,8,-13.523,1,0.0417,0.78,0.0,0.106,0.309,130.943
-2thJElYZJ5TORtuBK48oNj,I Remember You,The Four Freshmen,Four Freshmen And 5 Trombones,0.211,0.127,3,-14.918,1,0.0311,0.905,0.0,0.0993,0.084,78.761
-3FzBRKgDtjtv0Xu0diOzib,On a Clear Day You Can See Forever,The Peddlers,Part One,0.527,0.323,2,-18.418,0,0.0312,0.264,0.000168,0.296,0.439,90.711
-0AtVA7axXKVFnjQsN4xBIy,Dream,The Pied Pipers,What is This Thing Called Love?,0.198,0.276,7,-10.588,1,0.0289,0.919,0.00261,0.21,0.0692,88.422
-0bz0PznD8eRojueEdAIPta,Aren't You Glad You're You,The Pied Pipers,What is This Thing Called Love?,0.717,0.178,1,-8.524,1,0.0397,0.915,0.0,0.164,0.64,135.32
-5nQ9snGTl5OBTHVFmT5QsF,Stardust,The Pied Pipers,What is This Thing Called Love?,0.472,0.0569,8,-14.495,1,0.0307,0.979,0.000449,0.175,0.261,66.976
-4zUdKEvznqPXjjzOHBuzc9,Kiss Me Goodnight,The Pied Pipers,What is This Thing Called Love?,0.259,0.368,2,-9.137,1,0.0313,0.819,9.9e-05,0.133,0.37,81.318
-4u3RCc3fqZgsC7xXjElHhJ,Mam'selle,The Pied Pipers,What is This Thing Called Love?,0.31,0.198,3,-12.179,1,0.0289,0.903,2.55e-05,0.322,0.199,82.646
-1Bek8fB7OeWTqNghvNqCrf,You Grow Sweeter as the Years Go By,The Pied Pipers,What is This Thing Called Love?,0.276,0.258,0,-9.135,1,0.0278,0.88,3.24e-05,0.155,0.305,88.781
-0ubuFo0j8jD6zuPAf5yFUk,I'll Never Smile Again,The Pied Pipers,What is This Thing Called Love?,0.46,0.0961,0,-15.639,1,0.0271,0.972,0.208,0.228,0.0731,69.263
+03Ys3c92RIsLqVWM2ukTuh,Melancholy Mood,"Harry James, Frank Sinatra",The Complete Harry James And His Orchestra featuring Frank Sinatra (feat. Frank Sinatra),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 06MI30ZipOyf7xXk1tFCrE,In the Moon Mist,The Pied Pipers,What is This Thing Called Love?,0.258,0.23,8,-10.324,1,0.028,0.821,2.99e-06,0.094,0.299,91.944
-1QX55tmWOC2OSxI1WaLHk1,There Are Such Things,The Pied Pipers,What is This Thing Called Love?,0.258,0.181,10,-10.456,1,0.0265,0.886,0.00013,0.177,0.155,78.776
-2qXsuj2z9Y27LP8W07a2XY,Candy,The Pied Pipers,What is This Thing Called Love?,0.383,0.186,9,-10.069,0,0.0264,0.848,0.0,0.296,0.327,83.537
-1AtkEAxuC3tn0xvfzaLGCo,My ! My !,The Pied Pipers,What is This Thing Called Love?,0.81,0.375,7,-9.0,1,0.0455,0.82,0.106,0.0299,0.724,142.223
-22dKumbnRum9SdNXelKzJ5,What is This Thing Called Love,The Pied Pipers,What is This Thing Called Love?,0.702,0.28,3,-10.225,1,0.037,0.86,0.0,0.127,0.692,78.225
-2h4m68wLbG6g75thqhNA1T,Should I,The Pied Pipers,What is This Thing Called Love?,0.747,0.534,7,-5.683,0,0.0597,0.738,0.0,0.0868,0.949,107.047
-5WPuFqw1PR4KKg2rSFzxry,"Oh, Look at Me Now",The Pied Pipers,What is This Thing Called Love?,0.806,0.167,2,-10.929,0,0.0441,0.843,0.0,0.413,0.675,115.419
-3axzERaSp7ZLPzZTiIOT7x,Polly Wolly Doodle All the Day,The Pied Pipers,What is This Thing Called Love?,0.842,0.487,0,-8.689,1,0.0391,0.849,3.36e-06,0.36,0.845,97.897
-6DF63ZuNh927Gbt85my9CN,Mahogany Hall Stomp,King Oliver,Papa Joe,0.677,0.408,0,-8.742,1,0.0744,0.984,0.883,0.0944,0.863,95.721
-2X1TSIrhRQedpsayv0e2Np,Canal Street Blues,King Oliver,Papa Joe,0.656,0.443,5,-9.989,1,0.047,0.936,0.469,0.136,0.893,94.119
-6rqrN2bLrxW5ZB7OmWUwQe,Don't You Think I Love You,King Oliver,Papa Joe,0.675,0.541,10,-4.257,1,0.0528,0.947,0.93,0.14,0.951,176.958
-0rEP2CDOuvUm4zbhIPZAkK,Gut Bucket Blues,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.573,0.295,5,-10.096,1,0.0525,0.988,0.000139,0.0784,0.678,146.336
-3mWcoPBHsrmcs1lj6uBfvz,Georgia Grind,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.73,0.213,8,-14.635,1,0.0554,0.897,0.0,0.152,0.706,140.34
-5CLkYMVMOfqW3VWcjKKr1n,Heebie Jeebies,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.671,0.324,8,-10.637,1,0.106,0.983,8.34e-05,0.143,0.57,164.628
-2D1c80s1UfhDgriG89Fhms,Dreaming,"Cosmic Rays, Sun Ra Arkestra, Sun Ra",Singles,0.545,0.43,3,-9.916,1,0.0325,0.872,0.0,0.154,0.772,121.896
-7K0EOXrr9E0bR70LQlr8KA,Lazy Afternoon,Irene Kral,The Band And I,0.0,0.0379,5,-17.819,0,0.0,0.908,0.0,0.108,0.0,0.0
-63nw4Q8BIkMx2giaKjiAxu,Pennies From Heaven - Remastered,The Four Freshmen,Great Gentlemen Of Song / Spotlight On The Four Freshmen,0.6,0.213,5,-15.037,0,0.0674,0.485,1.23e-06,0.0929,0.565,138.889
-3zUNElWju6YpcM7mDMqgDs,Ivy,Frankie Valli,Solo,0.31,0.482,3,-6.356,1,0.03,0.687,4.39e-06,0.349,0.264,78.915
-22M3T4C7IegXSrDNqFQ1gU,Sure Gonna Miss Her,"The Mariachi Brass, Chet Baker",Hats Off,0.0,0.502,5,-9.005,1,0.0,0.676,0.248,0.513,0.0,0.0
-39FFlqltctkj6vkIcVgkec,You And Me,Penny & The Quarters,Penny & the Quarters EP,0.578,0.178,5,-7.812,1,0.033,0.946,8.65e-06,0.121,0.256,111.555
-2phiHgwJfL1LphKfVmvd4A,Just Won't Do Right,James Brown & The Famous Flames,"Please, Please, Please",0.467,0.289,6,-13.393,1,0.0311,0.869,3.96e-06,0.0893,0.741,96.68
+06wdcXqI8cFTjt5gMSFZ2e,Mam'selle,The Four Freshmen,Blue World,0.287,0.13,1,-12.033,1,0.0305,0.899,0.0,0.122,0.185,145.629
+0AtVA7axXKVFnjQsN4xBIy,Dream,The Pied Pipers,What is This Thing Called Love?,0.198,0.276,7,-10.588,1,0.0289,0.919,0.00261,0.21,0.0692,88.422
 0E8q2Fx2XuzXCO2NSAppkR,In A Sentimental Mood,"Duke Ellington, John Coltrane",Duke Ellington & John Coltrane,0.464,0.305,3,-12.435,0,0.0316,0.936,0.0848,0.208,0.281,107.854
-11XR0tRT4g5ov4u8M92wbF,Earth Angel (Will You Be Mine),The Penguins,The Best Of The Penguins,0.524,0.177,8,-12.306,1,0.0302,0.865,0.0,0.21,0.466,69.125
-6Dq2LzijkY9WNPwBGDah4L,Didn't I,Darondo,Let My People Go,0.463,0.382,5,-11.682,1,0.0278,0.897,0.263,0.108,0.638,74.573
-0sjxRg1VlYfx4YG7uxurrq,I Put A Spell On You,Nina Simone,I Put A Spell On You,0.428,0.398,6,-9.13,0,0.0295,0.755,0.000537,0.172,0.365,88.886
-3cfz4PB3iCqG12StNkKvRo,Tomorrow Is My Turn,Nina Simone,I Put A Spell On You,0.348,0.325,7,-12.696,0,0.0382,0.927,6.6e-05,0.15,0.625,59.615
-6illsnZ2rn1lCzXY9gBC28,Ne Me Quitte Pas,Nina Simone,I Put A Spell On You,0.413,0.243,4,-11.578,0,0.0433,0.941,4.65e-05,0.156,0.25,97.784
-29R1sVUoQnAMyZITR5Q7X1,Gimme Some,Nina Simone,I Put A Spell On You,0.441,0.582,0,-8.427,1,0.0626,0.741,0.0,0.122,0.757,174.108
-6Rqn2GFlmvmV4w9Ala0I1e,Feeling Good,Nina Simone,I Put A Spell On You,0.451,0.326,7,-9.239,0,0.0372,0.863,0.0,0.192,0.55,81.726
+0FqP5VKJwi8bD04zgvcpzc,For You,Slim Gaillard,Slim Gaillard Cavorts,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0HmJZ9DpTkKp27RNqYSSQA,This Beautiful Day,Brian Wilson,No Pier Pressure,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0JjmPqE3vaI72Opp7prAZD,In The Whole Wide World,The Four Freshmen,Blue World,0.318,0.225,0,-10.383,0,0.0277,0.806,4.32e-06,0.0543,0.305,80.187
+0VX8ptOQhUt1SIOHYLZGNN,Stardust,Hoagy Carmichael,The Stardust Road,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0aAdPAlrBJqqqkkhttZIKU,When You're Smiling (The Whole World Smiles With You) - Without Intro,Louis Armstrong,Highlights From His Decca Years,0.443,0.182,8,-10.395,1,0.0462,0.84,0.000403,0.114,0.325,80.417
-5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1,-15.485,1,0.035,0.968,1.55e-05,0.127,0.305,78.056
-4apDKupCu7oqynDhkO67HZ,I'd Rather Go Blind (Live - Montreux Jazz Festival 1975),Etta James,Etta James: The Montreux Years (Live),0.38,0.141,11,-19.577,0,0.238,0.857,0.000558,0.968,0.413,86.918
-2orJrKTYGiP307GTZS07zg,The More I See You,The Four Freshmen,Harmonies Best,0.35,0.303,0,-9.165,0,0.0276,0.826,0.0,0.131,0.0999,75.919
-3OifdbdBdgVGtns8uQbZO3,This October,The Four Freshmen,Angel Eyes,0.662,0.33,5,-13.589,0,0.0579,0.611,2.15e-05,0.283,0.683,89.022
-4dZdUaWKR0w9PAbF8YExsp,It's A Pity To Say Goodnight,The Four Freshmen,Great Gentlemen Of Song / Spotlight On The Four Freshmen,0.56,0.238,0,-16.166,1,0.0445,0.615,0.0,0.117,0.629,147.71
-4LGTaHEGnEoXGkXGroCttg,Love Turns Winter To Spring,The Four Freshmen,"Merry Christmas, Baby: Romance And Reindeer From Capitol",0.478,0.253,10,-13.507,0,0.0324,0.797,1.94e-06,0.325,0.366,86.949
-5LXU0Oa1nV8ZCrSNNk8CAF,"Oh, Lonely Winter",The Faux Freshmen,Scratchin' the Surface,0.331,0.267,0,-13.263,1,0.0275,0.926,4.85e-06,0.281,0.17,135.656
+0bPe4xAb2fSoqBAfl4ErCI,Nobody Knows the Way I Feel This Morning,"Dinah Washington, Malcolm Addey",Back To The Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0bz0PznD8eRojueEdAIPta,Aren't You Glad You're You,The Pied Pipers,What is This Thing Called Love?,0.717,0.178,1,-8.524,1,0.0397,0.915,0.0,0.164,0.64,135.32
+0eRHaqF1lJDIJ0GTy5SGC6,Choo Choo Ch'Boogie,Louis Jordan & His Tympany Five,At The Swing Cat's Ball,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0kH2sn0Xy2OC5fgi31EYAW,Poinciana,The Four Freshmen,Blue World,0.455,0.0287,0,-16.85,1,0.0296,0.901,0.0,0.111,0.279,90.808
+0koYj8WQHGj8I7AIhRzehz,My Heart Stood Still,The Four Freshmen,Voices In Modern,0.603,0.358,7,-10.577,0,0.0759,0.747,9.5e-06,0.0965,0.576,116.945
+0oQtjAjUeksVd9gHE5fl02,Drown in My Own Tears,Ray Charles,"Ray Charles (aka: Hallelujah, I Love Her So)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0oo4keuQavD0b9JgR71x7C,It Happened Once Before,The Four Freshmen,Blue World,0.608,0.129,0,-11.593,1,0.0279,0.936,3.73e-06,0.102,0.36,82.947
+0pyKvtmrfUuCpErZnSC4jc,Nobody Knows You When You're Down And Out,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0rEP2CDOuvUm4zbhIPZAkK,Gut Bucket Blues,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.573,0.295,5,-10.096,1,0.0525,0.988,0.000139,0.0784,0.678,146.336
+0sjxRg1VlYfx4YG7uxurrq,I Put A Spell On You,Nina Simone,I Put A Spell On You,0.428,0.398,6,-9.13,0,0.0295,0.755,0.000537,0.172,0.365,88.886
+0ubuFo0j8jD6zuPAf5yFUk,I'll Never Smile Again,The Pied Pipers,What is This Thing Called Love?,0.46,0.0961,0,-15.639,1,0.0271,0.972,0.208,0.228,0.0731,69.263
+11XR0tRT4g5ov4u8M92wbF,Earth Angel (Will You Be Mine),The Penguins,The Best Of The Penguins,0.524,0.177,8,-12.306,1,0.0302,0.865,0.0,0.21,0.466,69.125
+14gEDPQtsTcbZOWs7EXg4V,Pick Yourself Up,"Nat King Cole, George Shearing",Nat King Cole Sings George Shearing Plays,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+18Uf8HIzVZuIUdYeLsImbj,Circus,The Four Freshmen,Voices In Modern,0.488,0.3,10,-12.055,0,0.121,0.964,0.0206,0.12,0.273,82.229
+19RQazIT04qugNWgnnkAxU,Imagination,Slim Gaillard,"Slim Gaillard At Birdland, 1951",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1AtkEAxuC3tn0xvfzaLGCo,My ! My !,The Pied Pipers,What is This Thing Called Love?,0.81,0.375,7,-9.0,1,0.0455,0.82,0.106,0.0299,0.724,142.223
+1Bek8fB7OeWTqNghvNqCrf,You Grow Sweeter as the Years Go By,The Pied Pipers,What is This Thing Called Love?,0.276,0.258,0,-9.135,1,0.0278,0.88,3.24e-05,0.155,0.305,88.781
+1HNqTDPJtcFyRQG2tLGPEy,Tell The Lady I Said Goodbye,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1Htz4yfV19sV5xYFkbtpcQ,Don't Blame Me,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1Hxjhn358s6bqj75grk9q1,Speak Low,The Four Freshmen,Blue World,0.403,0.375,7,-11.905,0,0.0461,0.814,0.0,0.135,0.637,133.858
+1NMjdhoAQ0QXQ9NBC1taD1,"Gee Baby, Ain't I Good to You",Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1QX55tmWOC2OSxI1WaLHk1,There Are Such Things,The Pied Pipers,What is This Thing Called Love?,0.258,0.181,10,-10.456,1,0.0265,0.886,0.00013,0.177,0.155,78.776
+1UVETAQbq7tKLdfrSjeWST,I'll Never Smile Again,The Pied Pipers,I'll Never Smile Again,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1eRznw1ZY1WsR4imR48oCX,Their Hearts Were Full Of Spring - Remastered,The Four Freshmen,Capitol Collectors Series,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1iyHSMjQabRL06FeCPokei,Atomic Cocktail,Slim Gaillard,"Beat Scene: Jack Kerouac, His Contemporaries and Influences",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1owGm6QDclYTJ40SMz97rW,No Moon At All - Remastered,Julie London,Julie Is Her Name,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1rvXymShkt4ClhiWEsn4ad,It Never Occurred To Me,The Four Freshmen,Blue World,0.275,0.219,0,-9.164,0,0.027,0.753,0.0,0.161,0.236,90.935
+1tFIcrCl8ps1zyuXfWHvaI,We'll Be Together Again,The Four Freshmen,Blue World,0.282,0.0756,2,-15.441,1,0.0316,0.936,2.01e-06,0.143,0.0729,75.653
+1twS3AKB6npXZaTlZUCChm,Somebody Loves Me,The Four Freshmen,Blue World,0.475,0.342,0,-10.111,1,0.0681,0.709,0.0,0.357,0.653,159.476
+1yEOPub8qjg2k584F2FRlE,Over The Rainbow,The Four Freshmen,Blue World,0.35,0.158,7,-11.734,1,0.0326,0.903,0.0,0.244,0.425,165.244
+1zoyHU5tY6IUa5GB4mSloE,Now You Know,The Four Freshmen,Blue World,0.507,0.0164,0,-17.365,0,0.0291,0.983,0.0,0.144,0.166,95.098
+22M3T4C7IegXSrDNqFQ1gU,Sure Gonna Miss Her,"The Mariachi Brass, Chet Baker",Hats Off,0.0,0.502,5,-9.005,1,0.0,0.676,0.248,0.513,0.0,0.0
+22dKumbnRum9SdNXelKzJ5,What is This Thing Called Love,The Pied Pipers,What is This Thing Called Love?,0.702,0.28,3,-10.225,1,0.037,0.86,0.0,0.127,0.692,78.225
+25PRJaqKr4IEp9KVIu8FGB,How Can I Tell Her,The Four Freshmen,Blue World,0.248,0.26,9,-11.099,1,0.0274,0.767,0.0,0.0568,0.261,100.411
+29R1sVUoQnAMyZITR5Q7X1,Gimme Some,Nina Simone,I Put A Spell On You,0.441,0.582,0,-8.427,1,0.0626,0.741,0.0,0.122,0.757,174.108
+2D1c80s1UfhDgriG89Fhms,Dreaming,"Cosmic Rays, Sun Ra Arkestra, Sun Ra",Singles,0.545,0.43,3,-9.916,1,0.0325,0.872,0.0,0.154,0.772,121.896
+2UWHpbnRVsH7s9CpY8X5yA,All Night Long,"George Shearing Quintet, Nancy Wilson",The Swingin's Mutual! (Expanded Edition),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2X1TSIrhRQedpsayv0e2Np,Canal Street Blues,King Oliver,Papa Joe,0.656,0.443,5,-9.989,1,0.047,0.936,0.469,0.136,0.893,94.119
+2aHI6YjUUME3rg0XL13Bgz,He's My Guy,"Sarah Vaughan, Clifford Brown",Jazz Love,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2f0GJdDxkHllLSIAIzrWIh,Rain,The Four Freshmen,Live From Las Vegas,0.493,0.444,10,-10.004,1,0.0397,0.142,8.3e-06,0.962,0.481,83.428
-4xz4TKwES9r2F4IeUkMfSn,Laura,The Four Freshmen,Graduation Day,0.409,0.0552,2,-14.635,0,0.0304,0.971,0.0,0.0951,0.0587,96.932
+2h4m68wLbG6g75thqhNA1T,Should I,The Pied Pipers,What is This Thing Called Love?,0.747,0.534,7,-5.683,0,0.0597,0.738,0.0,0.0868,0.949,107.047
 2htH7r8oqqEwp3BB6oh2cU,Come Rain or Come Shine,Ray Charles,The Genius Of Ray Charles,0.357,0.216,3,-12.833,1,0.0343,0.767,4.31e-06,0.531,0.283,119.57
+2orJrKTYGiP307GTZS07zg,The More I See You,The Four Freshmen,Harmonies Best,0.35,0.303,0,-9.165,0,0.0276,0.826,0.0,0.131,0.0999,75.919
+2phiHgwJfL1LphKfVmvd4A,Just Won't Do Right,James Brown & The Famous Flames,"Please, Please, Please",0.467,0.289,6,-13.393,1,0.0311,0.869,3.96e-06,0.0893,0.741,96.68
+2qXsuj2z9Y27LP8W07a2XY,Candy,The Pied Pipers,What is This Thing Called Love?,0.383,0.186,9,-10.069,0,0.0264,0.848,0.0,0.296,0.327,83.537
+2thJElYZJ5TORtuBK48oNj,I Remember You,The Four Freshmen,Four Freshmen And 5 Trombones,0.211,0.127,3,-14.918,1,0.0311,0.905,0.0,0.0993,0.084,78.761
+2waiAcLQiqlX5bzvLtNUA0,Fly Me To The Moon (In Other Words),"Nat King Cole, George Shearing",Nat King Cole Sings George Shearing Plays,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+39CdOo5GPGSIdxWDvyyWkr,The Nearness Of You,"Ella Fitzgerald, Louis Armstrong",The Complete Ella And Louis On Verve,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+39FFlqltctkj6vkIcVgkec,You And Me,Penny & The Quarters,Penny & the Quarters EP,0.578,0.178,5,-7.812,1,0.033,0.946,8.65e-06,0.121,0.256,111.555
+3CWeCDosHFPC35xQlwnmpI,Angel Eyes,The Four Freshmen,Four Freshmen And 5 Trombones,0.387,0.181,8,-13.41,0,0.0298,0.859,0.0,0.142,0.265,135.094
+3Dd3FK9DSaoMoUKA5ZPVgw,In the Still of the Night,The Five Satins,Presenting The 5 Satins,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3DgXc9eIP0JSg46lV0Jd2t,Street of Dreams,The Four Freshmen,Voices In Modern,0.433,0.0875,5,-13.742,1,0.0282,0.974,0.0,0.103,0.157,142.797
+3FzBRKgDtjtv0Xu0diOzib,On a Clear Day You Can See Forever,The Peddlers,Part One,0.527,0.323,2,-18.418,0,0.0312,0.264,0.000168,0.296,0.439,90.711
+3OifdbdBdgVGtns8uQbZO3,This October,The Four Freshmen,Angel Eyes,0.662,0.33,5,-13.589,0,0.0579,0.611,2.15e-05,0.283,0.683,89.022
+3Z0PGLxK7iNftaG0qlhW4V,The Little White Cloud That Cried,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3axzERaSp7ZLPzZTiIOT7x,Polly Wolly Doodle All the Day,The Pied Pipers,What is This Thing Called Love?,0.842,0.487,0,-8.689,1,0.0391,0.849,3.36e-06,0.36,0.845,97.897
+3cfz4PB3iCqG12StNkKvRo,Tomorrow Is My Turn,Nina Simone,I Put A Spell On You,0.348,0.325,7,-12.696,0,0.0382,0.927,6.6e-05,0.15,0.625,59.615
+3mWcoPBHsrmcs1lj6uBfvz,Georgia Grind,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.73,0.213,8,-14.635,1,0.0554,0.897,0.0,0.152,0.706,140.34
+3qp5KhPDwAkDw1HoHECX0q,(Here Am I) Broken Hearted,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3v0F4czdzZdsUlurnp8zvG,Stardust I May Be Wrong,Hoagy Carmichael,Gonna Get a Girl,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3xpB9FWoqfMaKr0uqckkXC,Mood Indigo,The Four Freshmen,Blue World,0.583,0.157,7,-12.073,1,0.0265,0.913,0.0,0.114,0.31,75.511
+3zUNElWju6YpcM7mDMqgDs,Ivy,Frankie Valli,Solo,0.31,0.482,3,-6.356,1,0.03,0.687,4.39e-06,0.349,0.264,78.915
+40wB4dL1rMNaBFIX5nyTCI,Graduation Day,The Four Freshmen,Graduation Day,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2,-9.885,0,0.0472,0.792,1.19e-06,0.125,0.817,83.729
+49LHJe8RmY5ViMMQj0aMdb,(What Did I Do To Be So) Black And Blue,Louis Armstrong,This Is Jazz Louis Armstrong Sings,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4Cd4NGdUjQV2TVDx95fh8M,I'll Be Seeing You,The Four Freshmen,Blue World,0.525,0.0646,9,-15.706,1,0.0288,0.88,0.0,0.148,0.195,85.887
+4HLYTkGtaXGcozWywPlBZP,My Happiness,The Pied Pipers,What is This Thing Called Love?,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4KJW2PyNAW1GASy75C57Ql,Bless You,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4LGTaHEGnEoXGkXGroCttg,Love Turns Winter To Spring,The Four Freshmen,"Merry Christmas, Baby: Romance And Reindeer From Capitol",0.478,0.253,10,-13.507,0,0.0324,0.797,1.94e-06,0.325,0.366,86.949
+4apDKupCu7oqynDhkO67HZ,I'd Rather Go Blind (Live - Montreux Jazz Festival 1975),Etta James,Etta James: The Montreux Years (Live),0.38,0.141,11,-19.577,0,0.238,0.857,0.000558,0.968,0.413,86.918
+4cVbVRcFZZlDZhSlrN6V01,You Stepped Out Of A Dream,The Four Freshmen,Four Freshmen And 5 Trombones,0.424,0.263,8,-13.523,1,0.0417,0.78,0.0,0.106,0.309,130.943
+4dZdUaWKR0w9PAbF8YExsp,It's A Pity To Say Goodnight,The Four Freshmen,Great Gentlemen Of Song / Spotlight On The Four Freshmen,0.56,0.238,0,-16.166,1,0.0445,0.615,0.0,0.117,0.629,147.71
+4evsnNyj6uFphmVlTYVw2v,Our Love Is Here To Stay,The Four Freshmen,Blue World,0.35,0.122,0,-12.053,1,0.03,0.916,0.0,0.0861,0.115,73.185
+4ijN2nWMuwH3BAUeHMl7Jv,Out of the Blue,Esther Phillips,And I Love Him,0.0,0.24,8,-11.041,1,0.0,0.514,0.0,0.155,0.0,0.0
+4r1HXgQRdMk9sNLoGebC1O,Goodbye,The Four Freshmen,Graduation Day,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4u3RCc3fqZgsC7xXjElHhJ,Mam'selle,The Pied Pipers,What is This Thing Called Love?,0.31,0.198,3,-12.179,1,0.0289,0.903,2.55e-05,0.322,0.199,82.646
+4vMbOAxNQjqMQzJZ9DvV26,The Glory Of Love,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4wnFpRgQu2gLN8d76dYOGr,Cry,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4xz4TKwES9r2F4IeUkMfSn,Laura,The Four Freshmen,Graduation Day,0.409,0.0552,2,-14.635,0,0.0304,0.971,0.0,0.0951,0.0587,96.932
+4zUdKEvznqPXjjzOHBuzc9,Kiss Me Goodnight,The Pied Pipers,What is This Thing Called Love?,0.259,0.368,2,-9.137,1,0.0313,0.819,9.9e-05,0.133,0.37,81.318
+50YVzAYxXi058siKNiJ0JF,Ghost Of Yesterday,Nancy Wilson,The Swingin's Mutual! (Expanded Edition),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5CLkYMVMOfqW3VWcjKKr1n,Heebie Jeebies,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.671,0.324,8,-10.637,1,0.106,0.983,8.34e-05,0.143,0.57,164.628
+5FQCWdV9sRzymMJAn1zbSG,Holiday,The Four Freshmen,Voices In Modern,0.594,0.619,10,-11.347,0,0.0764,0.85,1.55e-05,0.0818,0.831,87.426
+5JNfwF7ZoOkXJWZgcWEnQL,Losing Hand,Ray Charles,"Ray Charles (aka: Hallelujah, I Love Her So)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5LXU0Oa1nV8ZCrSNNk8CAF,"Oh, Lonely Winter",The Faux Freshmen,Scratchin' the Surface,0.331,0.267,0,-13.263,1,0.0275,0.926,4.85e-06,0.281,0.17,135.656
+5VjD8Hw3mWX46bSAi2DwvX,Livin' With The Blues,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5WPuFqw1PR4KKg2rSFzxry,"Oh, Look at Me Now",The Pied Pipers,What is This Thing Called Love?,0.806,0.167,2,-10.929,0,0.0441,0.843,0.0,0.413,0.675,115.419
+5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1,-15.485,1,0.035,0.968,1.55e-05,0.127,0.305,78.056
+5g7kIVNpOOOzRtRdH0JvHM,"As Time Goes By (with Percy Faith & His Orchestra) - From ""Casablanca""","Johnnie Ray, Percy Faith & His Orchestra",16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5n07Qq7XrGE3w9OAnd871P,"Please, Mr. Sun",Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5nQ9snGTl5OBTHVFmT5QsF,Stardust,The Pied Pipers,What is This Thing Called Love?,0.472,0.0569,8,-14.495,1,0.0307,0.979,0.000449,0.175,0.261,66.976
+5q2gl6mXx9143VGC6BXQAd,The Day Isn't Long Enough,The Four Freshmen,Blue World,0.47,0.0714,2,-13.939,1,0.0346,0.935,0.0,0.115,0.278,84.729
+63nw4Q8BIkMx2giaKjiAxu,Pennies From Heaven - Remastered,The Four Freshmen,Great Gentlemen Of Song / Spotlight On The Four Freshmen,0.6,0.213,5,-15.037,0,0.0674,0.485,1.23e-06,0.0929,0.565,138.889
+6BDI8tJZLePuf70SzCiX42,Como Fue,Beny Moré,Romántico,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6DF63ZuNh927Gbt85my9CN,Mahogany Hall Stomp,King Oliver,Papa Joe,0.677,0.408,0,-8.742,1,0.0744,0.984,0.883,0.0944,0.863,95.721
+6Dq2LzijkY9WNPwBGDah4L,Didn't I,Darondo,Let My People Go,0.463,0.382,5,-11.682,1,0.0278,0.897,0.263,0.108,0.638,74.573
+6FYeRy9LuMYTEMXOVCRCJ5,I Remember You - Remastered 2004,Chet Baker,Chet Baker Sings And Plays (Remastered 2004),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6MUHAvKGAmKXojn8wdFB71,The Windmills of Your Mind,Dusty Springfield,Dusty In Memphis [Deluxe Edition],0.281,0.276,0,-11.752,0,0.038,0.51,0.0,0.135,0.238,154.097
+6MZtsBRoqp1BDIejm5rK4T,Love Is Just Around The Corner,The Four Freshmen,Four Freshmen And 5 Trombones,0.624,0.347,8,-9.68,1,0.0606,0.549,0.0,0.121,0.639,144.975
+6Rqn2GFlmvmV4w9Ala0I1e,Feeling Good,Nina Simone,I Put A Spell On You,0.451,0.326,7,-9.239,0,0.0372,0.863,0.0,0.192,0.55,81.726
+6illsnZ2rn1lCzXY9gBC28,Ne Me Quitte Pas,Nina Simone,I Put A Spell On You,0.413,0.243,4,-11.578,0,0.0433,0.941,4.65e-05,0.156,0.25,97.784
+6nLTEE7AW97ECxq5WQxyXW,I Told Myself A Lie,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6o9vjQPWUwoLcyhrVPfxjD,Stormy Weather,The Four Freshmen,Blue World,0.483,0.157,5,-13.42,1,0.0521,0.792,1.3e-06,0.217,0.534,80.314
+6rqrN2bLrxW5ZB7OmWUwQe,Don't You Think I Love You,King Oliver,Papa Joe,0.675,0.541,10,-4.257,1,0.0528,0.947,0.93,0.14,0.951,176.958
+777zXDJpBufzttU4AJ2dGO,I Don't Want To Set The World On Fire,The Ink Spots,The Anthology,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7ByqcF6qaOqWHE7HjGuUIB,Why Should I Be Sorry,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7K0EOXrr9E0bR70LQlr8KA,Lazy Afternoon,Irene Kral,The Band And I,0.0,0.0379,5,-17.819,0,0.0,0.908,0.0,0.108,0.0,0.0
+7haEgYJODsinfED0SAdtzy,Nobody Knows the Way I Feel This Morning,Dinah Washington,"Blues, Soul & Ballads",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7qD2NFCwPPrXJdzPadE2lF,It's A Blue World,The Four Freshmen,Blue World,0.324,0.0387,3,-14.596,1,0.0287,0.961,1.35e-05,0.0927,0.127,77.966
+7tUOn1zan4s4kWaVGcC1Jx,Born To Be Blue,"George Shearing Quintet, Nancy Wilson",The Swingin's Mutual! (Expanded Edition),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7u17w29WWTiftzGHs8rhpw,Funny (But I Still Love You),Ray Charles,"Ray Charles (aka: Hallelujah, I Love Her So)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0

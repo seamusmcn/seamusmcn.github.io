@@ -2,6 +2,7 @@ from flask import Flask, request, render_template, session, redirect, jsonify
 from flask_cors import CORS
 import requests
 import spotipy
+import json
 from uuid import uuid4
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
@@ -13,6 +14,7 @@ import time
 import re
 import os
 import glob
+import sys
 
 """
 List : 5 closest/similar to Song playing
@@ -24,6 +26,11 @@ Key playlists: 12 small buttons for each key, 1 for each key.
 
 Document my favorite songs parameters as a scatter plot against the other parameters - look for trends with a specific number of that parameter
 BOAT: make a playlist of all the songs within that parameter space - one gaussian distribution around the mean of that parameter space
+
+When creating an artist catalog, retrieve artist listening to, on JS return checkboxes of other associated artists to add to the catalog
++ have a text box to add other artists to the catalog (separate by commas)
++ Also can look in master catalog for covers by other artists of songs by that artist that is being listened to (need to search all songs of artist in master catalog, and then check if there are duplicate names?)
+
 """
 
 
@@ -36,14 +43,15 @@ CORS(app,
      allow_headers=['Content-Type']
 )
 
-# Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
 # grab secret key from my server
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default_secret_key')
 
 # Configure logging
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(
+    level=logging.DEBUG, 
+    format='%(asctime)s - %(levelname)s - %(message)s', 
+    stream=sys.stdout  # Ensures logs appear in Render
+)
 
 # Temporary in-memory store for state data
 state_data_store = {}
@@ -55,7 +63,8 @@ def authenticate_spotify(client_id, client_secret, redirect_uri, state):
         client_secret=client_secret,
         redirect_uri=redirect_uri,
         state=state,
-        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public'
+        scope='user-library-read playlist-read-private user-read-currently-playing user-read-playback-state user-modify-playback-state playlist-modify-private playlist-modify-public',
+        show_dialog=True
     )
     auth_url = sp_oauth.get_authorize_url()
     return auth_url
@@ -126,6 +135,8 @@ def best_next_songs(sp, MC, n_songs=3):
         current_track_id = track_info['id']  # Get the current track ID
         current_features = sp.audio_features(current_track_id)[0]  # Get audio features
 
+        logging.debug(f"Requesting audio features for track ID: {current_track_id}")
+
         # Convert the current track features into a NumPy array (excluding None values)
         current_values = np.array([current_features[param] for param in [
             'danceability', 'energy', 'loudness', 'mode', 'speechiness', 
@@ -171,20 +182,25 @@ def best_next_songs(sp, MC, n_songs=3):
             print(f"Added {song_name} to queue.")
 
         return closest_songs[0][0] if closest_songs else "No similar song found."
+    
+with open('artist_associations.json', 'r') as f:
+    artist_associations = json.load(f)
+
 
 # makes a playlist from the master catalog based on artist you are listening to and most similar song.
-def artist_cat(sp, MC):
+def artist_cat(sp, MC, artists_to_include, discription = None):
+
     # Get current playback information
     current_track = sp.current_playback()
+    if not current_track or 'item' not in current_track:
+        return "No song currently playing", 400
     
     if current_track and 'item' in current_track:
         track_info = current_track['item']
         current_track_id = track_info['id']  # Get current track ID
-        current_artists = [artist['name'] for artist in track_info['artists']]
-        current_features = sp.audio_features(track_info['id'])[0]  # Get features of current song
 
         # Define playlist name based on the artist
-        playlist_name = current_artists[0] + ' .cat'
+        playlist_name = artists_to_include[0] + ' .cat'
         user_id = sp.current_user()['id']
 
         # Check if the playlist already exists
@@ -196,40 +212,16 @@ def artist_cat(sp, MC):
             sp.user_playlist_unfollow(user=user_id, playlist_id=existing_playlist['id'])
 
         # Filter Master Catalog for songs by the current artist(s)
-        filtered_catalog = MC[MC['Artist(s)'].apply(lambda x: any(artist in x for artist in current_artists))]
+        filtered_catalog = MC[MC['Artist(s)'].apply(lambda x: any(artist in x for artist in artists_to_include))]
 
         # Remove the current song from the filtered catalog
         filtered_catalog = filtered_catalog[filtered_catalog['Track ID'] != current_track_id]
 
-        # Calculate Euclidean distance for each song
-        distances = []
-        for _, row in filtered_catalog.iterrows():
-            features = np.array([row[param] for param in [
-                'Danceability Rating', 'Energy Rating', 'Loudness Rating', 'Mode Rating', 
-                'Speechiness Rating', 'Acousticness Rating', 'Instrumentalness Rating', 
-                'Liveness Rating', 'Valence Rating', 'Tempo Rating'
-            ] if row[param] is not None])
-            
-            current_values = np.array([current_features[param] for param in [
-                'danceability', 'energy', 'loudness', 'mode', 'speechiness', 
-                'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo'
-            ] if current_features[param] is not None])
-
-            if len(features) == len(current_values):
-                distance = np.linalg.norm(current_values - features)
-                distances.append(distance)
-
-        # Add distances to the filtered catalog
-        filtered_catalog['Distance'] = distances
-
-        # Sort the catalog by distance
-        sorted_catalog = filtered_catalog.sort_values(by='Distance')
-
         # Create a new Spotify playlist
-        new_playlist = sp.user_playlist_create(user=user_id, name=playlist_name)
+        new_playlist = sp.user_playlist_create(user=user_id, name=playlist_name, description=discription, public=True)
 
         # Get sorted track URIs (excluding current song)
-        track_uris = sorted_catalog['Track ID'].tolist()
+        track_uris = filtered_catalog['Track ID'].tolist()
 
         # Add the current song URI at the end of the track URIs
         current_track_uri = track_info['uri']
@@ -243,8 +235,8 @@ def artist_cat(sp, MC):
         for chunk in track_uri_chunks:
             sp.user_playlist_add_tracks(user=user_id, playlist_id=new_playlist['id'], tracks=chunk)
 
-        # Turn off shuffle to ensure ordered playback (affects the current playback device)
-        sp.shuffle(state=False)
+        # Turn On shuffle because Spotify took away all the audio features
+        sp.shuffle(state=True)
 
         # Play the new playlist
         sp.start_playback(context_uri=new_playlist['uri'])
@@ -252,17 +244,19 @@ def artist_cat(sp, MC):
 
         return playlist_name
 
-
 # Route to handle Spotify credentials submission
 @app.route('/submit_credentials', methods=['POST'])
 def submit_credentials():
+
     # Parse form data
     user_name = request.form.get('user_name')
+    logging.debug(f"Received credential submission for user: {user_name}")
     if user_name == os.environ.get('USER_NAME_S'): # Make this so we only have to login a user name, and then it grabs our secret keys/user_id for spotify
         user_abbrev = 'S'
     elif user_name == os.environ.get('USER_NAME_C'):
         user_abbrev = 'C'
     else:
+        logging.warning("Unknown user attempted to login.")
         return jsonify({"error": "You're not in my system, bozo"}), 400
     
     client_id = os.environ.get(f'CLIENT_ID_{user_abbrev}')
@@ -271,7 +265,7 @@ def submit_credentials():
     redirect_uri = 'https://seamusmcn-github-io.onrender.com/callback'  # Deployed URL
 
     if not client_id or not client_secret:
-        logging.error("Missing credentials in form submission.")
+        logging.error("Missing credentials, submit credentials function")
         return jsonify({"error": "Missing credentials."}), 400
 
     # Generate a unique state string
@@ -285,14 +279,14 @@ def submit_credentials():
         # You can add a timestamp here to expire old states
     }
 
-    logging.info(f"Generated state {state} for client_id: {client_id}")
+    logging.debug(f"Generated state {state} for user: {user_name}, initializing authentication.")
 
     try:
         # Use the state parameter in the auth URL
         auth_url = authenticate_spotify(client_id, client_secret, redirect_uri, state)
         return jsonify({"auth_url": auth_url}), 200
     except Exception as e:
-        logging.error(f"Error during Spotify authentication: {e}")
+        logging.error(f"Error during Spotify authentication: {e}, submit_credentials function")
         return jsonify({"error": "Internal Server Error"}), 500
 
 @app.route('/callback')
@@ -300,10 +294,10 @@ def callback():
     code = request.args.get('code')
     state = request.args.get('state')
 
-    logging.info(f"Callback received with state: {state}")
+    logging.debug(f"Callback received with state: {state}")
 
     if not state or state not in state_data_store:
-        logging.warning("Invalid or missing state parameter.")
+        logging.warning("Invalid or missing state parameter, callback function 1")
         return jsonify({"error": "Invalid or missing state parameter."}), 400
 
     # Retrieve stored data using state
@@ -317,7 +311,7 @@ def callback():
     # Retrieve client_secret from environment variables
     client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
     if not client_secret:
-        logging.error("Spotify client_secret not set in environment variables.")
+        logging.error("Spotify client_secret not set in environment variables, callback function 2.")
         return jsonify({"error": "Server configuration error."}), 500
 
     sp_oauth = SpotifyOAuth(
@@ -342,13 +336,17 @@ def callback():
                 'user_abbrev': user_abbrev 
             }
 
-            logging.info("Spotify authentication successful.")
+            logging.debug(f"Refresh Token: {token_info.get('refresh_token', 'NO REFRESH TOKEN')}")
 
+            logging.debug("Spotify authentication successful, callback.")
+            # Log token details to check for missing scopes
+            logging.debug(f"Token scopes received: {token_info.get('scope', 'NO SCOPE RETURNED')}")
+            
             # Redirect back to the main HTML page with user_id as a query parameter
             redirect_url = f"https://seamusmcn.github.io/templates/Spotify_buttons.html?user_id={user_id}&auth_success=true"
             return redirect(redirect_url)
         except Exception as e:
-            logging.error(f"Error obtaining access token: {e}")
+            logging.error(f"Error obtaining access token: {e}, callback function 3")
             return jsonify({"error": "Failed to obtain access token."}), 500
     else:
         logging.warning("Authorization code not found in callback.")
@@ -378,8 +376,10 @@ def ensure_token():
 def most_similar_song():
     # Get user_id from the request
     user_id = request.form.get('user_id')
+    logging.debug(f"Received request to queue most similar song for user {user_id}")
 
     if not user_id or user_id not in user_tokens:
+        logging.warning(f"Unauthorized request for most_similar_song. User ID: {user_id}")
         return "User not authenticated. Please authenticate first.", 401
 
     # Retrieve the access token
@@ -387,28 +387,43 @@ def most_similar_song():
     access_token = token_info['access_token']
     user_abbrev = token_info['user_abbrev']
 
+    logging.debug(f"User info: {token_info}")
+
     # Optionally refresh the token if expired
     if time.time() > token_info['expires_at']:
-        # Refresh the token
+        logging.debug(f"Refreshing token for user: {user_id}")
         client_id = os.environ.get(f'SPOTIFY_CLIENT_ID_{user_abbrev}')
         client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
+        
         sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
-        token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
-        user_tokens[user_id] = token_info
-        access_token = token_info['access_token']
+        
+        new_token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
+        
+        # Store the refreshed token properly
+        user_tokens[user_id] = {
+            'access_token': new_token_info['access_token'],
+            'refresh_token': new_token_info['refresh_token'],
+            'expires_at': new_token_info['expires_at'],
+            'user_abbrev': user_abbrev
+        }
+        
+        access_token = new_token_info['access_token']
+        logging.debug(f"New token stored for user: {user_id}")
+        logging.debug(f"Using access token: {access_token}")
 
     # Use the access token to authenticate Spotify requests
     sp = spotipy.Spotify(auth=access_token)
 
     # Fetch catalog data and find the best next song
     Catalog = request.form.get('Catalog')
+    logging.debug(f"Fetching {Catalog} Catalog")
 
         # Read the master catalog
     if Catalog == 'Liked':
-        logging.info("Using Liked Songs catalog.")
+        logging.debug("Using Liked Songs catalog.")
         MC = read_csv_with_encoding(requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Liked_Songs.csv'))
     elif Catalog == 'Master':
-        logging.info("Using Master catalog.")
+        logging.debug("Using Master catalog.")
         MC = read_csv_with_encoding(requests.get(f'https://raw.githubusercontent.com/seamusmcn/seamusmcn.github.io/main/{user_abbrev}_playlists/Master_Catalog.csv'))
     elif Catalog == 'Current':
         # Get the currently playing playlist
@@ -426,11 +441,14 @@ def most_similar_song():
                     return "Playlist not documented, Master instead.", 404
 
             except Exception as e:
+                logging.error(f"Error fetching current playlist: {str(e)}, most similar song")
                 return f"Error fetching current playlist: {str(e)}", 500
         else:
             return "No playlist found", 404
 
     song_name = best_next_songs(sp, MC)
+
+    logging.debug(f"Added {song_name} to queue for user {user_id}")
 
     return f"Added {song_name} to queue."
 
@@ -451,13 +469,25 @@ def make_artist_playlist():
 
         # Optionally refresh the token if expired
         if time.time() > token_info['expires_at']:
-            # Refresh the token
+            logging.debug(f"Refreshing token for user: {user_id}")
             client_id = os.environ.get(f'SPOTIFY_CLIENT_ID_{user_abbrev}')
             client_secret = os.environ.get(f'SPOTIFY_CLIENT_SECRET_{user_abbrev}')
+            
             sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri='https://seamusmcn-github-io.onrender.com/callback')
-            token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
-            user_tokens[user_id] = token_info
-            access_token = token_info['access_token']
+            
+            new_token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
+            
+            # Store the refreshed token properly
+            user_tokens[user_id] = {
+                'access_token': new_token_info['access_token'],
+                'refresh_token': new_token_info['refresh_token'],
+                'expires_at': new_token_info['expires_at'],
+                'user_abbrev': user_abbrev
+            }
+            
+            access_token = new_token_info['access_token']
+            logging.debug(f"New token stored for user: {user_id}")
+
 
         # Use the access token to authenticate Spotify requests
         sp = spotipy.Spotify(auth=access_token)
@@ -467,14 +497,35 @@ def make_artist_playlist():
             return "Failed to fetch Master Catalog.", 500
         
         MC = read_csv_with_encoding(response_master)
+        
+        logging.debug("Read master Catalog")
 
-        playlist = artist_cat(sp, MC)
+        track = sp.current_playback().get('item', {})
+        if not track:
+            return "No song playing.", 400
+        primary_artist = track['artists'][0]['name']
 
-        return f"Now playing {playlist}"
+        include = request.form.getlist('include_artists')
+        if include:
+            desc = f"+ {', '.join(include)}"
+            playlist = artist_cat(sp, MC, [primary_artist] + include, discription=desc)
+            return f"Now playing {playlist}", 200
+        
+        assoc = artist_associations.get(primary_artist, [])
+        if assoc:
+            return jsonify({ 'associated_artists': assoc }), 200
+        else:
+            # no associates defined → just build immediately
+            playlist = artist_cat(sp, MC, [primary_artist])
+            return f"Now playing {playlist}", 200
+        
     except Exception as e:
         logging.error(f"Error in make_artist_playlist: {e}")
         return "Internal Server Error.", 500
 
+    except Exception as e:
+        logging.error(f"Exception Error fetching playback info: {str(e)}")
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True)

@@ -1,0 +1,10 @@
+{
+    "The Beatles": ["Paul McCartney", "John Lennon", "George Harrison"],
+    "Paul McCartney": ["The Beatles", "Wings", "Linda McCartney", "John Lennon", "George Harrison"],
+    "John Lennon": ["The Beatles", "Paul McCartney", "George Harrison"],
+    "George Harrison": ["The Beatles", "Paul McCartney", "John Lennon"],
+    "The Velvet Underground": ["Lou Reed"],
+    "Lou Reed": ["The Velvet Underground"],
+    "Bob Dylan": ["Joan Baez", "The Band", "Johnny Cash"],
+    "The Beach Boys": ["The Four Freshmen"]
+}

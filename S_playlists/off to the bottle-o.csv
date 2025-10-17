@@ -1,111 +1,112 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
-5Mi2nbkabMbZAPtrWHYwjW,About Time,Zoot,Zoot Out,0.599,0.732,7,-5.813,1,0.0359,0.00873,1.48e-05,0.244,0.973,136.517
-5HyHsZCOo92xkIqwGZzqmM,Monty & Me,Zoot,Zoot Out,0.433,0.697,1,-6.305,0,0.0482,0.0314,0.0,0.111,0.628,83.136
-2TLHD1z32lcNydQdMsoRIK,Strange Things,Zoot,Zoot Out,0.412,0.527,6,-5.965,0,0.0352,0.302,1.17e-05,0.29,0.207,135.342
-195BSMZC1sjaNqt8NziMh5,Eleanor Rigby,Zoot,Zoot Out,0.238,0.669,3,-5.008,1,0.0588,0.402,6.03e-05,0.0843,0.301,75.873
-25acZHUELpJpPS00IwPWaX,Universal,Sons Of Bacchus,"Upside Down, VOL. 5: Coloured Dreams from the Underworld 1966 - 1971",0.461,0.643,7,-7.293,0,0.0498,0.00291,1.7e-05,0.103,0.565,84.188
+01E4LxSBkicxbOlPQKu98Z,Stinker,The Chats,High Risk Behaviour,0.279,0.92,11,-5.847,0,0.167,0.00296,2.12e-06,0.327,0.762,188.91
+08kB9HSfrcIi83rymwgjMz,Weapon of Choice,Fatboy Slim,The Greatest Hits: Why Try Harder,0.626,0.947,8,-4.608,0,0.057,0.136,0.78,0.209,0.959,195.972
 0Jh0IqRtR34uqZYd6jR2Rz,Sailing,Zoot,Archaeology,0.582,0.792,5,-6.308,1,0.0665,0.729,0.0,0.152,0.595,120.126
-33UHORQ2f7b78SXl17ZeTx,Evie (I'm Losing You),Stevie Wright,Hard Road,0.478,0.828,6,-5.539,0,0.0451,0.00172,0.0,0.361,0.547,125.36
-6nIEHGbxwL5qJI61up1NiU,Silver Lizard,Tumbleweed,Return To Earth,0.534,0.79,9,-7.646,0,0.0309,7.84e-06,0.917,0.108,0.97,135.661
-2EoKhQD4Qz5Ghs02WX4sDA,Berlin Chair - Remastered 2013,You Am I,Sound As Ever (Superunreal Edition),0.256,0.94,7,-4.396,1,0.0675,0.032,0.00116,0.0774,0.437,143.209
-4TMIi2pweQzuxG1UDFjGXk,Dont It Get You Down,Deadstar,Milk,0.44,0.88,7,-6.484,1,0.0435,0.0372,7.33e-05,0.23,0.477,124.331
-376QwtHvmpIQ27yQVEEoLz,You're Not The Only One Who Feels This Way,Ammonia,Eleventh Avenue,0.332,0.659,5,-8.211,0,0.0455,0.00334,0.00329,0.063,0.307,123.196
-6qWG7dpOSs5dfgJ7d35am5,Calypso,Spiderbait,Ivy & The Big Apples,0.383,0.739,9,-6.841,1,0.0345,0.0034,0.218,0.1,0.306,92.879
-2WheuVAKcZsQOZREbYtMvm,Apartment,Custard,Wisenheimer,0.454,0.93,0,-5.986,1,0.0472,8.65e-05,0.054,0.0843,0.932,169.648
-2vmsqXnxL8UTx5s79sJr5C,Just Ace,Grinspoon,Guide To Better Living,0.586,0.858,2,-6.83,1,0.0254,6.77e-05,0.00894,0.318,0.82,100.244
-5ztnzBtXLZBSjZu5sk8fcI,My Girl - Remaster 2005,Hoodoo Gurus,Stoneage Romeos,0.573,0.862,4,-3.9,1,0.0583,0.0119,0.0,0.21,0.777,111.266
-4r2zqSABrEZUTqDpqHeKfm,Victoria - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.506,0.752,7,-9.016,1,0.0389,0.0711,0.00712,0.06,0.778,142.239
-6w7nfriuQ06F7BVLUyfJ36,Some Mother's Son - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.23,0.596,2,-8.567,0,0.0387,0.581,0.0,0.155,0.249,162.03
-1JcK9HW92JOEWntbBaFh4L,Drivin' - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.572,0.621,2,-9.402,1,0.0365,0.193,3.59e-06,0.467,0.545,118.543
-5jqasTlmERm4xXg22iN9Ii,Australia - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.325,0.79,8,-8.776,1,0.0526,0.0307,0.00612,0.0908,0.639,97.965
-1U9aBW5mGvUSptkZz1UzPs,Shangri-La - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.395,0.723,0,-8.048,1,0.0585,0.202,0.0,0.108,0.311,112.834
+0Zkl62OzclSAO8CYkAvDDK,Pub Feed,The Wiggles,ReWiggled,0.572,0.821,11,-8.448,1,0.05,0.0243,0.00111,0.341,0.81,95.896
+0afA0xQaCexNESUYfN0BAC,Climbing To The Moon,Eels,Electro-Shock Blues,0.429,0.36,3,-13.084,1,0.0306,0.789,0.0058,0.0717,0.209,139.909
+0huTXMuytB0jdah8wapKE7,Treaty,Yothu Yindi,Tribal Voice,0.738,0.72,2,-10.882,1,0.0485,0.00165,3.36e-05,0.0697,0.751,121.181
+0kUB9YvDQzUFCxUbHeE6Fl,Sex Sell,Deadstar,Milk,0.241,0.866,7,-6.532,1,0.0513,0.0196,0.848,0.283,0.377,172.529
+0ozzcGQjmlmvmM9BWHtRrw,Can You (Point Your Fingers and Do the Twist_),The Chats,ReWiggled,0.527,0.804,4,-6.614,1,0.0501,0.016,0.0,0.0808,0.888,96.343
+0p6zIp0G0Or5QSdJX7cLhk,Temperature,The Chats,Get This In Ya,0.441,0.678,2,-7.935,1,0.141,0.103,0.00011,0.11,0.188,175.753
+0rWq91aOVmzagnKJMfCtl9,I Was Made To Love Her - Remastered 2001,The Beach Boys,Wild Honey (Remastered),0.515,0.64,10,-7.417,1,0.0269,0.0165,0.0,0.251,0.948,100.11
+0sYJr89AznFrfAv6knnVtp,Feeding the Family,Spacey Jane,Feeding the Family,0.529,0.861,0,-4.654,1,0.0404,0.00212,0.00782,0.18,0.566,104.996
+13pyGLYmBjYgvOMIEivX2K,I Don't Feel Like Dancin',Scissor Sisters,Ta Dah,0.71,0.917,7,-3.385,1,0.0287,0.018,0.0,0.335,0.83,108.031
+17rAUcoyso7DzCeVNlxeTe,Don't Stop the Blues,The Chats,The Chats,0.272,0.942,7,-2.316,1,0.047,0.346,0.321,0.337,0.971,163.287
+195BSMZC1sjaNqt8NziMh5,Eleanor Rigby,Zoot,Zoot Out,0.238,0.669,3,-5.008,1,0.0588,0.402,6.03e-05,0.0843,0.301,75.873
 1AEiKr56njftNDp67QCnHH,Dylan Thomas,"Better Oblivion Community Center, Conor Oberst, Phoebe Bridgers",Better Oblivion Community Center,0.593,0.807,2,-7.995,1,0.0371,0.000125,0.00021,0.0914,0.521,116.077
+1BUZChy9ZrfUgr7v5z1rqy,The Surfer Moon (Stereo),The Beach Boys,Surfer Girl (Mono & Stereo),0.409,0.308,6,-11.482,1,0.0305,0.811,0.0,0.109,0.522,110.636
+1JcK9HW92JOEWntbBaFh4L,Drivin' - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.572,0.621,2,-9.402,1,0.0365,0.193,3.59e-06,0.467,0.545,118.543
+1KdwPeY1WRWQGHCmRJTveb,Cannonball,The Breeders,Last Splash,0.502,0.758,3,-9.76,1,0.0407,0.00915,0.783,0.284,0.729,112.499
 1LOZMYF5s8qhW7Rv4w2gun,Dreadlock Holiday,10cc,Bloody Tourists,0.837,0.38,7,-13.341,0,0.064,0.541,0.00789,0.198,0.892,104.995
-6TwAaOX8aS0N50GzLeNHsd,Dirty Cigarettes,Beach Slang,Cheap Thrills on a Dead End Street,0.318,0.889,8,-5.349,0,0.0415,0.000188,0.000794,0.179,0.402,134.924
-75GrCcIHJjigCl6X6CiCIZ,Never Stop the Rot,Dan Kelly,Leisure Panic!,0.557,0.845,7,-6.183,1,0.0319,0.0278,3.03e-05,0.165,0.669,141.459
-6cV2kCltJRpKmkRj7LWOZW,Red Rubber Ball,The Seekers,The Seekers,0.604,0.636,6,-9.92,0,0.0327,0.648,0.0,0.053,0.911,97.396
-73XQBWHSVLL1939hb8cQTm,Georgy Girl,The Seekers,The Seekers,0.515,0.496,4,-7.446,1,0.0324,0.265,0.0,0.182,0.651,153.582
-74D87XkpPozTefTJaGs1oH,Forever - Remastered 2009,The Beach Boys,Sunflower,0.432,0.35,0,-9.852,0,0.0266,0.672,0.000847,0.0932,0.263,73.411
+1NyKTFbyijTvsomrDmw8eX,Here You Come,Deadstar,Somewhere Over The Radio,0.546,0.771,2,-5.09,1,0.0313,0.0304,0.0,0.322,0.664,128.512
+1U9aBW5mGvUSptkZz1UzPs,Shangri-La - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.395,0.723,0,-8.048,1,0.0585,0.202,0.0,0.108,0.311,112.834
+1ZAYsScO4yNVYPD07TSpXN,Jamaica Farewell,Harry Belafonte,The Essential Harry Belafonte,0.598,0.195,2,-16.053,1,0.0925,0.951,0.0,0.101,0.745,145.178
+1wXE6zvNWRz8GuMfEUgETz,Hair Of The Dog,Nazareth,Hair Of The Dog,0.688,0.745,4,-10.323,1,0.0519,0.00285,0.238,0.114,0.688,128.556
+1yeCajimfmJA0yAjwUScQf,Solid Rock - Remastered Version,Goanna,Spirit Of Place (Remastered Version),0.552,0.741,9,-7.388,0,0.0476,0.00709,0.00136,0.0317,0.506,148.995
+1zXzWaLAZNqB7LKfB7HfSZ,Don't Change,Grinspoon,Best In Show,0.343,0.918,9,-5.671,1,0.0447,2.57e-05,0.000146,0.0878,0.281,175.076
+25acZHUELpJpPS00IwPWaX,Universal,Sons Of Bacchus,"Upside Down, VOL. 5: Coloured Dreams from the Underworld 1966 - 1971",0.461,0.643,7,-7.293,0,0.0498,0.00291,1.7e-05,0.103,0.565,84.188
+27qY1ae3jfgfNZz8wDx3hH,Billy Backwash's Day,The Chats,High Risk Behaviour,0.376,0.787,0,-6.316,1,0.0452,0.00731,5.52e-05,0.0786,0.571,97.947
+2CdS3DRqWR5LAhy4hM5X9W,Laid,James,Laid,0.457,0.909,0,-9.451,1,0.0317,0.0016,0.000276,0.135,0.755,115.998
+2DdWaZntvVfsOBpO5QEXkW,House In the Country,The Kinks,Face to Face (Deluxe),0.55,0.706,4,-6.241,1,0.0489,0.241,0.0,0.0574,0.921,145.866
+2E6UuBKftLoOvD0YMRLtoD,Over the Radio,Deadstar,Somewhere Over The Radio,0.555,0.821,7,-5.759,1,0.029,0.00133,0.00114,0.134,0.817,131.054
+2EnHSj3GZ0pr7S3fka1zcf,Duncan - 1998 Remaster,Slim Dusty,The Very Best Of Slim Dusty (Remastered),0.746,0.747,0,-8.361,0,0.0315,0.299,0.00784,0.227,0.95,92.521
+2EoKhQD4Qz5Ghs02WX4sDA,Berlin Chair - Remastered 2013,You Am I,Sound As Ever (Superunreal Edition),0.256,0.94,7,-4.396,1,0.0675,0.032,0.00116,0.0774,0.437,143.209
+2PVcIk04d6AG2fqno5UG8Q,Please,Deadstar,Milk,0.193,0.647,9,-8.166,1,0.0484,0.191,5.68e-06,0.105,0.333,200.642
+2TLHD1z32lcNydQdMsoRIK,Strange Things,Zoot,Zoot Out,0.412,0.527,6,-5.965,0,0.0352,0.302,1.17e-05,0.29,0.207,135.342
+2WheuVAKcZsQOZREbYtMvm,Apartment,Custard,Wisenheimer,0.454,0.93,0,-5.986,1,0.0472,8.65e-05,0.054,0.0843,0.932,169.648
+2mDfKLnRES5CGRADE57UyA,Got On My Skateboard,Skegss,Holiday Food,0.498,0.962,7,-3.33,1,0.0731,0.141,0.000425,0.0948,0.673,78.681
+2nIVheVpEYNABxmWsltzX1,Deeper Water,Deadstar,Somewhere Over The Radio,0.487,0.875,7,-6.054,1,0.0301,0.000103,0.000483,0.0873,0.275,128.944
+2pxxVkNhrRST8fpgA12ru8,My Happiness,Powderfinger,Odyssey Number Five,0.445,0.823,0,-5.415,1,0.0302,0.00163,0.0,0.43,0.487,85.935
+2vmsqXnxL8UTx5s79sJr5C,Just Ace,Grinspoon,Guide To Better Living,0.586,0.858,2,-6.83,1,0.0254,6.77e-05,0.00894,0.318,0.82,100.244
+2wNK1PjIS9NbBIchakaL7k,Siberian Breaks,MGMT,Congratulations,0.305,0.77,2,-6.694,1,0.0276,0.062,0.203,0.0976,0.374,107.367
+33UHORQ2f7b78SXl17ZeTx,Evie (I'm Losing You),Stevie Wright,Hard Road,0.478,0.828,6,-5.539,0,0.0451,0.00172,0.0,0.361,0.547,125.36
+376QwtHvmpIQ27yQVEEoLz,You're Not The Only One Who Feels This Way,Ammonia,Eleventh Avenue,0.332,0.659,5,-8.211,0,0.0455,0.00334,0.00329,0.063,0.307,123.196
+3ES9dBjha6huNi9vHAsQAo,Waltzing Matilda,Slim Dusty,The Slim Dusty Heritage Album,0.67,0.271,2,-15.75,1,0.0455,0.572,0.0,0.156,0.646,110.637
+3FYDkfPfPwFREohfO9uUel,Home Among the Gumtrees,John Williamson,J.W.'s Family Album,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3P1xzYd6oH5PweQzdJCcB9,Nambored,The Chats,Get This In Ya,0.383,0.725,0,-9.383,1,0.0525,0.019,0.00998,0.379,0.487,90.466
+3QRtThEX4NXbnsqdNbiPVI,Do the Propeller,Custard,ReWiggled,0.483,0.803,0,-7.683,1,0.0365,0.00121,0.144,0.132,0.758,150.079
+3n78qHQ2OVUU5ywVHJjysb,We're All Fruit Salad!,Melbourne Ska Orchestra,ReWiggled,0.774,0.849,9,-6.989,1,0.0476,0.0316,0.00416,0.198,0.974,143.005
+3ohcBvLoTdNGdiQuupDUms,Henry and Godiva at the Bar,Deadstar,Milk,0.384,0.328,9,-13.099,1,0.0321,0.172,0.024,0.109,0.485,180.987
+3uVqNgg8r4TEWhBOQ0Wuix,To Her Door,Paul Kelly,Songs From The South,0.539,0.779,7,-7.823,1,0.0334,0.0289,0.000177,0.0504,0.457,164.166
+3zEN0ii6s4DHHBpnTp3RP7,We Are The People,Empire Of The Sun,Walking On A Dream (10th Anniversary Edition),0.675,0.781,4,-5.404,0,0.0306,0.0801,0.0143,0.422,0.534,122.989
+4GJorpNVRxPdnJs955Dysi,Good Light in Broome,Neil Murray,The Wondering Kind,0.724,0.824,2,-4.871,0,0.0676,0.269,7.46e-05,0.275,0.793,127.904
+4GOX4AU9b2wtyq9r9MXOWq,Getting Better,The Chats,Get Fucked,0.275,0.953,5,-4.707,1,0.116,0.00819,9.63e-06,0.37,0.277,111.697
+4NyQwUbqvKp9RQAdhqAHX0,Drunk n Disorderly,The Chats,High Risk Behaviour,0.509,0.733,9,-5.909,1,0.126,0.0165,0.0,0.404,0.676,109.736
+4RSOcm4YNf5gghhkqWHXhB,Dancing In The Moonlight,Coloured Stone,Human Love,0.488,0.762,9,-12.069,0,0.064,0.00359,0.23,0.123,0.797,94.26
+4TMIi2pweQzuxG1UDFjGXk,Dont It Get You Down,Deadstar,Milk,0.44,0.88,7,-6.484,1,0.0435,0.0372,7.33e-05,0.23,0.477,124.331
+4ernkUJcLLxS9nBvjULyPg,Salon Baby,Deadstar,Somewhere Over The Radio,0.622,0.695,9,-5.955,1,0.0283,0.328,0.0698,0.11,0.52,132.888
+4gENKjBd76hTOrRmlca2Jp,Nutbush City Limits,Tina Turner,What's Love Got to Do with It?,0.741,0.765,11,-9.683,0,0.0304,0.145,0.00175,0.0191,0.963,150.203
+4oygvOZ6PxF5cFQDyI1Qb3,Ooh My Love,Deadstar,Milk,0.504,0.82,2,-7.759,1,0.0314,0.0571,0.000441,0.231,0.807,130.876
+4r2zqSABrEZUTqDpqHeKfm,Victoria - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.506,0.752,7,-9.016,1,0.0389,0.0711,0.00712,0.06,0.778,142.239
+4vfa5t5VLbM0UW5N6lGpE8,Don't Go Away,Grinspoon,Guide To Better Living,0.4,0.789,9,-6.583,0,0.0319,5.2e-06,0.0499,0.12,0.484,88.936
+4yLvWkiGacPp3BAOSxiiHf,Sounds Of Then (This Is Australia),GANGgajang,GANGgajang,0.701,0.696,11,-11.313,0,0.0276,0.0266,0.0354,0.275,0.922,130.294
+53o6scaSjxQV6Ew0Jw9ru4,Not for Money,Deadstar,Somewhere Over The Radio,0.372,0.987,11,-4.145,0,0.13,0.00225,0.138,0.274,0.14,155.21
+5A8p0P89C6lSGxwcj3JYgX,The Old You,Looch,The Old You,0.492,0.924,9,-6.501,1,0.0392,0.00462,0.000215,0.163,0.518,138.016
+5AKOGzfRX3Yq9yC0pcQvSr,Attack of the Crab Women,Daikaiju,Daikaiju,0.321,0.933,10,-5.643,0,0.0343,0.000126,0.791,0.0932,0.937,91.421
+5GJhtKP7EgUVhDjrHGbF4P,Identity Theft,The Chats,High Risk Behaviour,0.316,0.905,0,-4.888,1,0.0455,0.00381,2.55e-05,0.0691,0.901,184.75
+5HyHsZCOo92xkIqwGZzqmM,Monty & Me,Zoot,Zoot Out,0.433,0.697,1,-6.305,0,0.0482,0.0314,0.0,0.111,0.628,83.136
+5Mi2nbkabMbZAPtrWHYwjW,About Time,Zoot,Zoot Out,0.599,0.732,7,-5.813,1,0.0359,0.00873,1.48e-05,0.244,0.973,136.517
+5RKtqp85lascT6MyHIXA76,Viceroy,Violent Soho,WACO,0.69,0.73,4,-5.54,1,0.0491,0.00284,0.000112,0.0696,0.572,124.019
+5TF8ilZCTU2PjKiZOYg4WX,The Nosebleed Section,Hilltop Hoods,RAP DNA,0.845,0.828,1,-5.447,1,0.164,0.513,1.35e-06,0.0906,0.909,97.45
+5b10YgbraRyefVi5DcvacM,The Price Of Smokes,The Chats,Get Fucked,0.316,0.948,2,-5.254,1,0.164,0.00156,0.00223,0.103,0.517,198.117
+5fJlYjcplmCPOvXIVWQ8ML,Yeah Nah,The Chats,The Chats,0.395,0.954,4,-1.968,1,0.18,0.0738,0.0,0.359,0.622,115.988
+5jqasTlmERm4xXg22iN9Ii,Australia - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.325,0.79,8,-8.776,1,0.0526,0.0307,0.00612,0.0908,0.639,97.965
+5mU37Su8OlOBKcz7Cv7JbF,Come On Aussie,Frankie Davidson,Great Classic Aussie Pub Songs,0.747,0.581,2,-6.681,1,0.0767,0.419,0.0,0.0791,0.569,124.107
+5qBanJS9VIUPY6Dj3WvvoM,Do What I Want,The Chats,High Risk Behaviour,0.48,0.865,4,-5.56,1,0.046,0.00938,0.00187,0.293,0.84,92.266
+5rq2IzbcPXZP4djchQqDwo,New Planet,Ausmuteants,Band of the Future,0.193,0.942,3,-5.318,1,0.0719,8.88e-05,0.00295,0.111,0.746,165.313
 5rxGMcN6GRJmvyRAZ71chn,Steppin' Out - Single Version,Chuck Mangione,The Best Of Chuck Mangione,0.553,0.589,5,-9.178,1,0.0289,0.448,0.623,0.0923,0.714,118.041
+5tLcsd5k2IcHQBc00f8gxi,Cartoons,Looch,Cartoons,0.281,0.594,5,-13.912,1,0.0359,1.37e-05,0.706,0.875,0.561,153.456
+5ztnzBtXLZBSjZu5sk8fcI,My Girl - Remaster 2005,Hoodoo Gurus,Stoneage Romeos,0.573,0.862,4,-3.9,1,0.0583,0.0119,0.0,0.21,0.777,111.266
+63iGCDUYdcThwOsZOWPIl2,Big,Matt Scullion,Aussie As,0.759,0.685,0,-6.238,1,0.0373,0.556,8.93e-06,0.347,0.598,124.024
+67m1J0k09f2GoTw5Tab6rL,Dreamland,Sticky Fingers,Land Of Pleasure,0.544,0.74,6,-6.133,0,0.0524,0.000924,2.73e-05,0.13,0.583,146.955
+6DL44bNYvHzr1E58BAx5zx,Horseshit on Route 66,The Garden,HORSESHIT ON ROUTE 66,0.498,0.978,1,-5.115,1,0.142,0.0283,0.000191,0.345,0.435,112.328
+6IrE8rH9lQ70LybMQIrIju,H.O.L.I.D.A.Y,San Cisco,ReWiggled,0.722,0.541,0,-9.994,1,0.0281,0.0275,0.0,0.182,0.299,124.986
+6M7bA3wfkTGgRHHUdqvKRC,Our sky's smile,gingerbee,Our Skies Smile,0.227,0.844,5,-2.183,1,0.114,0.0295,0.0538,0.285,0.0623,182.189
+6Mr4T5TGGz1JQmZaz9dojh,VB Anthem,The Chats,The Chats,0.383,0.689,0,-4.975,1,0.0285,0.164,0.00437,0.129,0.339,76.077
 6NWKU8irhXtkNtl59OfQ5k,Brainwashed - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.482,0.604,2,-9.497,0,0.0416,0.062,0.000316,0.114,0.801,148.922
 6Rz6yXr3RWpYdGst26tSYF,Pub Feed,The Chats,High Risk Behaviour,0.549,0.953,11,-6.29,1,0.0423,0.00639,2.15e-05,0.328,0.836,96.901
-6IrE8rH9lQ70LybMQIrIju,H.O.L.I.D.A.Y,San Cisco,ReWiggled,0.722,0.541,0,-9.994,1,0.0281,0.0275,0.0,0.182,0.299,124.986
-3n78qHQ2OVUU5ywVHJjysb,We're All Fruit Salad!,Melbourne Ska Orchestra,ReWiggled,0.774,0.849,9,-6.989,1,0.0476,0.0316,0.00416,0.198,0.974,143.005
-3QRtThEX4NXbnsqdNbiPVI,Do the Propeller,Custard,ReWiggled,0.483,0.803,0,-7.683,1,0.0365,0.00121,0.144,0.132,0.758,150.079
-0ozzcGQjmlmvmM9BWHtRrw,Can You (Point Your Fingers and Do the Twist_),The Chats,ReWiggled,0.527,0.804,4,-6.614,1,0.0501,0.016,0.0,0.0808,0.888,96.343
-0Zkl62OzclSAO8CYkAvDDK,Pub Feed,The Wiggles,ReWiggled,0.572,0.821,11,-8.448,1,0.05,0.0243,0.00111,0.341,0.81,95.896
-738AqFBtvxMS3X3joFq86u,We're Going to Be Friends,The Wiggles,ReWiggled,0.654,0.597,7,-11.085,1,0.0283,0.0298,1.39e-06,0.0919,0.667,98.007
-5fJlYjcplmCPOvXIVWQ8ML,Yeah Nah,The Chats,The Chats,0.395,0.954,4,-1.968,1,0.18,0.0738,0.0,0.359,0.622,115.988
-7BTIJhmLUVywM30TEc3GCl,Mum Stole My Darts,The Chats,The Chats,0.362,0.939,4,-2.18,1,0.0527,0.613,2.95e-05,0.175,0.749,165.387
-17rAUcoyso7DzCeVNlxeTe,Don't Stop the Blues,The Chats,The Chats,0.272,0.942,7,-2.316,1,0.047,0.346,0.321,0.337,0.971,163.287
-6Mr4T5TGGz1JQmZaz9dojh,VB Anthem,The Chats,The Chats,0.383,0.689,0,-4.975,1,0.0285,0.164,0.00437,0.129,0.339,76.077
-5rq2IzbcPXZP4djchQqDwo,New Planet,Ausmuteants,Band of the Future,0.193,0.942,3,-5.318,1,0.0719,8.88e-05,0.00295,0.111,0.746,165.313
-3P1xzYd6oH5PweQzdJCcB9,Nambored,The Chats,Get This In Ya,0.383,0.725,0,-9.383,1,0.0525,0.019,0.00998,0.379,0.487,90.466
-0p6zIp0G0Or5QSdJX7cLhk,Temperature,The Chats,Get This In Ya,0.441,0.678,2,-7.935,1,0.141,0.103,0.00011,0.11,0.188,175.753
-01E4LxSBkicxbOlPQKu98Z,Stinker,The Chats,High Risk Behaviour,0.279,0.92,11,-5.847,0,0.167,0.00296,2.12e-06,0.327,0.762,188.91
-4NyQwUbqvKp9RQAdhqAHX0,Drunk n Disorderly,The Chats,High Risk Behaviour,0.509,0.733,9,-5.909,1,0.126,0.0165,0.0,0.404,0.676,109.736
-6XBVxi3Nqbrq3jpxIegjVW,The Clap,The Chats,High Risk Behaviour,0.651,0.693,2,-6.15,1,0.0929,0.0177,5.93e-06,0.0411,0.967,91.035
-5GJhtKP7EgUVhDjrHGbF4P,Identity Theft,The Chats,High Risk Behaviour,0.316,0.905,0,-4.888,1,0.0455,0.00381,2.55e-05,0.0691,0.901,184.75
-27qY1ae3jfgfNZz8wDx3hH,Billy Backwash's Day,The Chats,High Risk Behaviour,0.376,0.787,0,-6.316,1,0.0452,0.00731,5.52e-05,0.0786,0.571,97.947
-5qBanJS9VIUPY6Dj3WvvoM,Do What I Want,The Chats,High Risk Behaviour,0.48,0.865,4,-5.56,1,0.046,0.00938,0.00187,0.293,0.84,92.266
-5b10YgbraRyefVi5DcvacM,The Price Of Smokes,The Chats,Get Fucked,0.316,0.948,2,-5.254,1,0.164,0.00156,0.00223,0.103,0.517,198.117
-7Do1J8qmhM94tNSwD3ejxR,I've Been Drunk In Every Pub In Brisbane,The Chats,Get Fucked,0.367,0.964,11,-3.648,0,0.078,0.0276,0.0,0.169,0.663,115.94
-4GOX4AU9b2wtyq9r9MXOWq,Getting Better,The Chats,Get Fucked,0.275,0.953,5,-4.707,1,0.116,0.00819,9.63e-06,0.37,0.277,111.697
-79y39naVOPTUt8clHsdjBp,Covered In Chrome,Violent Soho,Hungry Ghost,0.565,0.757,5,-5.225,1,0.043,0.00509,2.53e-06,0.167,0.42,152.064
-5RKtqp85lascT6MyHIXA76,Viceroy,Violent Soho,WACO,0.69,0.73,4,-5.54,1,0.0491,0.00284,0.000112,0.0696,0.572,124.019
-6WyayF5g9MedQ558aboodL,Anyday Anyhow,Grinspoon,New Detention,0.497,0.874,4,-5.939,0,0.0483,6.62e-05,5.77e-06,0.0556,0.774,162.056
-4vfa5t5VLbM0UW5N6lGpE8,Don't Go Away,Grinspoon,Guide To Better Living,0.4,0.789,9,-6.583,0,0.0319,5.2e-06,0.0499,0.12,0.484,88.936
-2nIVheVpEYNABxmWsltzX1,Deeper Water,Deadstar,Somewhere Over The Radio,0.487,0.875,7,-6.054,1,0.0301,0.000103,0.000483,0.0873,0.275,128.944
-713vcqEM8gfvHgNzp2j64z,Highway 31,Deadstar,Somewhere Over The Radio,0.325,0.873,0,-4.595,1,0.0368,0.00462,0.126,0.0518,0.324,114.03
-1NyKTFbyijTvsomrDmw8eX,Here You Come,Deadstar,Somewhere Over The Radio,0.546,0.771,2,-5.09,1,0.0313,0.0304,0.0,0.322,0.664,128.512
-2E6UuBKftLoOvD0YMRLtoD,Over the Radio,Deadstar,Somewhere Over The Radio,0.555,0.821,7,-5.759,1,0.029,0.00133,0.00114,0.134,0.817,131.054
-4ernkUJcLLxS9nBvjULyPg,Salon Baby,Deadstar,Somewhere Over The Radio,0.622,0.695,9,-5.955,1,0.0283,0.328,0.0698,0.11,0.52,132.888
-53o6scaSjxQV6Ew0Jw9ru4,Not for Money,Deadstar,Somewhere Over The Radio,0.372,0.987,11,-4.145,0,0.13,0.00225,0.138,0.274,0.14,155.21
-7Dz66wEysideoF6f9SJZ2n,Ive Got Something to Tell You,Deadstar,Milk,0.375,0.863,4,-6.619,0,0.0438,0.00305,0.067,0.231,0.421,130.208
-7xMaB7vxZtHs1aFOPTPpVh,Fifteen,Deadstar,Milk,0.484,0.436,11,-10.315,0,0.0242,0.0248,0.0315,0.116,0.424,80.705
-4oygvOZ6PxF5cFQDyI1Qb3,Ooh My Love,Deadstar,Milk,0.504,0.82,2,-7.759,1,0.0314,0.0571,0.000441,0.231,0.807,130.876
-3ohcBvLoTdNGdiQuupDUms,Henry and Godiva at the Bar,Deadstar,Milk,0.384,0.328,9,-13.099,1,0.0321,0.172,0.024,0.109,0.485,180.987
-2CdS3DRqWR5LAhy4hM5X9W,Laid,James,Laid,0.457,0.909,0,-9.451,1,0.0317,0.0016,0.000276,0.135,0.755,115.998
-2PVcIk04d6AG2fqno5UG8Q,Please,Deadstar,Milk,0.193,0.647,9,-8.166,1,0.0484,0.191,5.68e-06,0.105,0.333,200.642
-0kUB9YvDQzUFCxUbHeE6Fl,Sex Sell,Deadstar,Milk,0.241,0.866,7,-6.532,1,0.0513,0.0196,0.848,0.283,0.377,172.529
-6g6qMRK4ck1CrWfVienDqc,Was a Sunny Day,Paul Simon,There Goes Rhymin' Simon,0.744,0.249,0,-16.639,1,0.0396,0.575,1.08e-05,0.195,0.653,119.931
-1KdwPeY1WRWQGHCmRJTveb,Cannonball,The Breeders,Last Splash,0.502,0.758,3,-9.76,1,0.0407,0.00915,0.783,0.284,0.729,112.499
-6aNVEIjxBi4gm0t1CFg7uk,The Sun Comes Up,Mako Road,The Sun Comes Up,0.699,0.481,9,-10.247,0,0.0353,0.225,0.00482,0.0938,0.752,146.665
-2mDfKLnRES5CGRADE57UyA,Got On My Skateboard,Skegss,Holiday Food,0.498,0.962,7,-3.33,1,0.0731,0.141,0.000425,0.0948,0.673,78.681
-67m1J0k09f2GoTw5Tab6rL,Dreamland,Sticky Fingers,Land Of Pleasure,0.544,0.74,6,-6.133,0,0.0524,0.000924,2.73e-05,0.13,0.583,146.955
-5AKOGzfRX3Yq9yC0pcQvSr,Attack of the Crab Women,Daikaiju,Daikaiju,0.321,0.933,10,-5.643,0,0.0343,0.000126,0.791,0.0932,0.937,91.421
-1BUZChy9ZrfUgr7v5z1rqy,The Surfer Moon (Stereo),The Beach Boys,Surfer Girl (Mono & Stereo),0.409,0.308,6,-11.482,1,0.0305,0.811,0.0,0.109,0.522,110.636
-6eBtWLeIcimzxOoX0fk42Z,My Beloved Monster,Eels,Beautiful Freak,0.479,0.285,9,-12.805,1,0.0314,0.261,0.431,0.651,0.462,97.661
-1wXE6zvNWRz8GuMfEUgETz,Hair Of The Dog,Nazareth,Hair Of The Dog,0.688,0.745,4,-10.323,1,0.0519,0.00285,0.238,0.114,0.688,128.556
-0afA0xQaCexNESUYfN0BAC,Climbing To The Moon,Eels,Electro-Shock Blues,0.429,0.36,3,-13.084,1,0.0306,0.789,0.0058,0.0717,0.209,139.909
-74icrHrhUsXAfXp07cthdP,I Need Some Sleep,Eels,Meet The EELS: Essential EELS 1996-2006 Vol. 1,0.664,0.307,0,-10.14,1,0.0325,0.869,0.458,0.107,0.193,128.029
-1ZAYsScO4yNVYPD07TSpXN,Jamaica Farewell,Harry Belafonte,The Essential Harry Belafonte,0.598,0.195,2,-16.053,1,0.0925,0.951,0.0,0.101,0.745,145.178
-2DdWaZntvVfsOBpO5QEXkW,House In the Country,The Kinks,Face to Face (Deluxe),0.55,0.706,4,-6.241,1,0.0489,0.241,0.0,0.0574,0.921,145.866
+6TwAaOX8aS0N50GzLeNHsd,Dirty Cigarettes,Beach Slang,Cheap Thrills on a Dead End Street,0.318,0.889,8,-5.349,0,0.0415,0.000188,0.000794,0.179,0.402,134.924
 6WiAqVX5uUSw9guuUlWbTO,Little Miss Queen of Darkness,The Kinks,Face to Face (Deluxe),0.679,0.498,2,-6.477,1,0.0325,0.179,2.77e-06,0.0525,0.179,129.816
-0rWq91aOVmzagnKJMfCtl9,I Was Made To Love Her - Remastered 2001,The Beach Boys,Wild Honey (Remastered),0.515,0.64,10,-7.417,1,0.0269,0.0165,0.0,0.251,0.948,100.11
-2wNK1PjIS9NbBIchakaL7k,Siberian Breaks,MGMT,Congratulations,0.305,0.77,2,-6.694,1,0.0276,0.062,0.203,0.0976,0.374,107.367
-0sYJr89AznFrfAv6knnVtp,Feeding the Family,Spacey Jane,Feeding the Family,0.529,0.861,0,-4.654,1,0.0404,0.00212,0.00782,0.18,0.566,104.996
-3zEN0ii6s4DHHBpnTp3RP7,We Are The People,Empire Of The Sun,Walking On A Dream (10th Anniversary Edition),0.675,0.781,4,-5.404,0,0.0306,0.0801,0.0143,0.422,0.534,122.989
-5mU37Su8OlOBKcz7Cv7JbF,Come On Aussie,Frankie Davidson,Great Classic Aussie Pub Songs,0.747,0.581,2,-6.681,1,0.0767,0.419,0.0,0.0791,0.569,124.107
-6M7bA3wfkTGgRHHUdqvKRC,Our sky's smile,gingerbee,Our Skies Smile,0.227,0.844,5,-2.183,1,0.114,0.0295,0.0538,0.285,0.0623,182.189
+6WyayF5g9MedQ558aboodL,Anyday Anyhow,Grinspoon,New Detention,0.497,0.874,4,-5.939,0,0.0483,6.62e-05,5.77e-06,0.0556,0.774,162.056
+6XBVxi3Nqbrq3jpxIegjVW,The Clap,The Chats,High Risk Behaviour,0.651,0.693,2,-6.15,1,0.0929,0.0177,5.93e-06,0.0411,0.967,91.035
+6aNVEIjxBi4gm0t1CFg7uk,The Sun Comes Up,Mako Road,The Sun Comes Up,0.699,0.481,9,-10.247,0,0.0353,0.225,0.00482,0.0938,0.752,146.665
+6cV2kCltJRpKmkRj7LWOZW,Red Rubber Ball,The Seekers,The Seekers,0.604,0.636,6,-9.92,0,0.0327,0.648,0.0,0.053,0.911,97.396
+6eBtWLeIcimzxOoX0fk42Z,My Beloved Monster,Eels,Beautiful Freak,0.479,0.285,9,-12.805,1,0.0314,0.261,0.431,0.651,0.462,97.661
+6g6qMRK4ck1CrWfVienDqc,Was a Sunny Day,Paul Simon,There Goes Rhymin' Simon,0.744,0.249,0,-16.639,1,0.0396,0.575,1.08e-05,0.195,0.653,119.931
+6nIEHGbxwL5qJI61up1NiU,Silver Lizard,Tumbleweed,Return To Earth,0.534,0.79,9,-7.646,0,0.0309,7.84e-06,0.917,0.108,0.97,135.661
+6qWG7dpOSs5dfgJ7d35am5,Calypso,Spiderbait,Ivy & The Big Apples,0.383,0.739,9,-6.841,1,0.0345,0.0034,0.218,0.1,0.306,92.879
+6w7nfriuQ06F7BVLUyfJ36,Some Mother's Son - 2019 Remaster,The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),0.23,0.596,2,-8.567,0,0.0387,0.581,0.0,0.155,0.249,162.03
+713vcqEM8gfvHgNzp2j64z,Highway 31,Deadstar,Somewhere Over The Radio,0.325,0.873,0,-4.595,1,0.0368,0.00462,0.126,0.0518,0.324,114.03
+738AqFBtvxMS3X3joFq86u,We're Going to Be Friends,The Wiggles,ReWiggled,0.654,0.597,7,-11.085,1,0.0283,0.0298,1.39e-06,0.0919,0.667,98.007
+73XQBWHSVLL1939hb8cQTm,Georgy Girl,The Seekers,The Seekers,0.515,0.496,4,-7.446,1,0.0324,0.265,0.0,0.182,0.651,153.582
+74D87XkpPozTefTJaGs1oH,Forever - Remastered 2009,The Beach Boys,Sunflower,0.432,0.35,0,-9.852,0,0.0266,0.672,0.000847,0.0932,0.263,73.411
+74icrHrhUsXAfXp07cthdP,I Need Some Sleep,Eels,Meet The EELS: Essential EELS 1996-2006 Vol. 1,0.664,0.307,0,-10.14,1,0.0325,0.869,0.458,0.107,0.193,128.029
+75GrCcIHJjigCl6X6CiCIZ,Never Stop the Rot,Dan Kelly,Leisure Panic!,0.557,0.845,7,-6.183,1,0.0319,0.0278,3.03e-05,0.165,0.669,141.459
+79y39naVOPTUt8clHsdjBp,Covered In Chrome,Violent Soho,Hungry Ghost,0.565,0.757,5,-5.225,1,0.043,0.00509,2.53e-06,0.167,0.42,152.064
+7BTIJhmLUVywM30TEc3GCl,Mum Stole My Darts,The Chats,The Chats,0.362,0.939,4,-2.18,1,0.0527,0.613,2.95e-05,0.175,0.749,165.387
+7Do1J8qmhM94tNSwD3ejxR,I've Been Drunk In Every Pub In Brisbane,The Chats,Get Fucked,0.367,0.964,11,-3.648,0,0.078,0.0276,0.0,0.169,0.663,115.94
+7Dz66wEysideoF6f9SJZ2n,Ive Got Something to Tell You,Deadstar,Milk,0.375,0.863,4,-6.619,0,0.0438,0.00305,0.067,0.231,0.421,130.208
 7GqIDx2QVGOpd4r1fZaUUW,25 or 6 to 4 - 2002 Remaster,Chicago,Chicago II,0.604,0.905,4,-7.059,0,0.0578,0.309,0.0632,0.0837,0.723,147.448
-13pyGLYmBjYgvOMIEivX2K,I Don't Feel Like Dancin',Scissor Sisters,Ta Dah,0.71,0.917,7,-3.385,1,0.0287,0.018,0.0,0.335,0.83,108.031
-5A8p0P89C6lSGxwcj3JYgX,The Old You,Looch,The Old You,0.492,0.924,9,-6.501,1,0.0392,0.00462,0.000215,0.163,0.518,138.016
-5tLcsd5k2IcHQBc00f8gxi,Cartoons,Looch,Cartoons,0.281,0.594,5,-13.912,1,0.0359,1.37e-05,0.706,0.875,0.561,153.456
-08kB9HSfrcIi83rymwgjMz,Weapon of Choice,Fatboy Slim,The Greatest Hits: Why Try Harder,0.626,0.947,8,-4.608,0,0.057,0.136,0.78,0.209,0.959,195.972
-1zXzWaLAZNqB7LKfB7HfSZ,Don't Change,Grinspoon,Best In Show,0.343,0.918,9,-5.671,1,0.0447,2.57e-05,0.000146,0.0878,0.281,175.076
-2pxxVkNhrRST8fpgA12ru8,My Happiness,Powderfinger,Odyssey Number Five,0.445,0.823,0,-5.415,1,0.0302,0.00163,0.0,0.43,0.487,85.935
-6DL44bNYvHzr1E58BAx5zx,Horseshit on Route 66,The Garden,HORSESHIT ON ROUTE 66,0.498,0.978,1,-5.115,1,0.142,0.0283,0.000191,0.345,0.435,112.328
-7qr3EzjE7YbLkq04lXaDE7,AMPM Truck,The Garden,Kiss My Super Bowl Ring,0.501,0.831,6,-5.382,0,0.143,0.00782,1.59e-05,0.0668,0.59,183.088
-4gENKjBd76hTOrRmlca2Jp,Nutbush City Limits,Tina Turner,What's Love Got to Do with It?,0.741,0.765,11,-9.683,0,0.0304,0.145,0.00175,0.0191,0.963,150.203
-5TF8ilZCTU2PjKiZOYg4WX,The Nosebleed Section,Hilltop Hoods,RAP DNA,0.845,0.828,1,-5.447,1,0.164,0.513,1.35e-06,0.0906,0.909,97.45
-3ES9dBjha6huNi9vHAsQAo,Waltzing Matilda,Slim Dusty,The Slim Dusty Heritage Album,0.67,0.271,2,-15.75,1,0.0455,0.572,0.0,0.156,0.646,110.637
-63iGCDUYdcThwOsZOWPIl2,Big,Matt Scullion,Aussie As,0.759,0.685,0,-6.238,1,0.0373,0.556,8.93e-06,0.347,0.598,124.024
-4yLvWkiGacPp3BAOSxiiHf,Sounds Of Then (This Is Australia),GANGgajang,GANGgajang,0.701,0.696,11,-11.313,0,0.0276,0.0266,0.0354,0.275,0.922,130.294
-4RSOcm4YNf5gghhkqWHXhB,Dancing In The Moonlight,Coloured Stone,Human Love,0.488,0.762,9,-12.069,0,0.064,0.00359,0.23,0.123,0.797,94.26
-0huTXMuytB0jdah8wapKE7,Treaty,Yothu Yindi,Tribal Voice,0.738,0.72,2,-10.882,1,0.0485,0.00165,3.36e-05,0.0697,0.751,121.181
 7LLfKjyNAzIe53b1n3K73S,Look Girl,Barrington Levy,Englishman,0.701,0.679,7,-6.802,1,0.109,0.268,5.6e-05,0.368,0.793,149.798
-3uVqNgg8r4TEWhBOQ0Wuix,To Her Door,Paul Kelly,Songs From The South,0.539,0.779,7,-7.823,1,0.0334,0.0289,0.000177,0.0504,0.457,164.166
-4GJorpNVRxPdnJs955Dysi,Good Light in Broome,Neil Murray,The Wondering Kind,0.724,0.824,2,-4.871,0,0.0676,0.269,7.46e-05,0.275,0.793,127.904
-2EnHSj3GZ0pr7S3fka1zcf,Duncan - 1998 Remaster,Slim Dusty,The Very Best Of Slim Dusty (Remastered),0.746,0.747,0,-8.361,0,0.0315,0.299,0.00784,0.227,0.95,92.521
-1yeCajimfmJA0yAjwUScQf,Solid Rock - Remastered Version,Goanna,Spirit Of Place (Remastered Version),0.552,0.741,9,-7.388,0,0.0476,0.00709,0.00136,0.0317,0.506,148.995
+7qr3EzjE7YbLkq04lXaDE7,AMPM Truck,The Garden,Kiss My Super Bowl Ring,0.501,0.831,6,-5.382,0,0.143,0.00782,1.59e-05,0.0668,0.59,183.088
+7xMaB7vxZtHs1aFOPTPpVh,Fifteen,Deadstar,Milk,0.484,0.436,11,-10.315,0,0.0242,0.0248,0.0315,0.116,0.424,80.705
