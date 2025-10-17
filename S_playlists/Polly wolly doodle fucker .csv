@@ -1,27 +1,124 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
-6DF63ZuNh927Gbt85my9CN,Mahogany Hall Stomp,King Oliver,Papa Joe,0.677,0.408,0,-8.742,1,0.0744,0.984,0.883,0.0944,0.863,95.721
-2X1TSIrhRQedpsayv0e2Np,Canal Street Blues,King Oliver,Papa Joe,0.656,0.443,5,-9.989,1,0.047,0.936,0.469,0.136,0.893,94.119
-6rqrN2bLrxW5ZB7OmWUwQe,Don't You Think I Love You,King Oliver,Papa Joe,0.675,0.541,10,-4.257,1,0.0528,0.947,0.93,0.14,0.951,176.958
-3mWcoPBHsrmcs1lj6uBfvz,Georgia Grind,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.73,0.213,8,-14.635,1,0.0554,0.897,0.0,0.152,0.706,140.34
-7aFcRO7E77cIQhZAqtnIet,I've Got A Heart Full Of Rhythm,Louis Armstrong,The Decca Singles 1935-1946,0.57,0.424,7,-6.296,0,0.0471,0.939,0.299,0.074,0.841,176.621
-7Gr4VaB5iIN8gzu3pKHwel,After You've Gone (vocal),Louis Armstrong,Vol. V: Louis In New York,0.736,0.26,9,-13.202,0,0.166,0.981,0.0542,0.146,0.459,96.611
-495frOi0oyFWB6WE5Nwen2,Showboat Shuffle,Duke Ellington,The Duke: The Columbia Years (1927-1962),0.715,0.706,0,-8.607,1,0.374,0.92,0.777,0.779,0.882,104.746
-63kd4m3VFxcJjPVVtbVNAu,"Hello, Dolly!",Louis Armstrong,"Hello, Dolly! (Remastered)",0.0,0.405,0,-9.935,1,0.0,0.842,0.00114,0.198,0.0,0.0
-4Oykg2FfhKRkDyrKaBc9Gu,Battery Bounce,Art Tatum,Art's Way of Piano,0.501,0.27,5,-14.238,1,0.0939,0.982,0.904,0.234,0.873,213.628
-21G5Ka1AqNd199GvAEnyPX,East St. Louis Toodle-Oo,Steely Dan,Pretzel Logic,0.637,0.318,0,-12.272,0,0.0383,0.909,0.43,0.123,0.595,153.647
-6GqI1hKw1380bir7XBvTZ5,The Calypso Way,Wilmoth Houdini,The Calypso Way,0.656,0.608,0,-9.334,1,0.0567,0.984,0.00078,0.15,0.869,136.934
-6Dc1xg0fXNY36eQ3DUIXyQ,Stop Coming and Come,Wilmoth Houdini,The Calypso Way,0.735,0.284,5,-13.056,1,0.064,0.982,0.0498,0.106,0.961,88.283
-6jS5q1bqJSa8vmRubSPJ9v,Glorious Centenary,Wilmoth Houdini,The Calypso Way,0.628,0.338,2,-11.789,1,0.131,0.987,0.000411,0.0644,0.89,103.958
-1vaPEEls3vcI3IcFtRoHkc,Bandsman Shooting Case,Wilmoth Houdini,The Calypso Way,0.63,0.478,6,-11.773,0,0.154,0.994,0.0109,0.121,0.858,103.815
+00WwIdBVbLYRNbDpA4n9I5,Ain't Nothin' To It,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+01OVi8BhYJP5Dx96tNZX4u,These Draftin' Blues,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+03Xz8sQw3kIV2MSXcM35UO,Jack Palance,Van Dyke Parks,Discover America,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+03Ys3c92RIsLqVWM2ukTuh,Melancholy Mood,"Harry James, Frank Sinatra",The Complete Harry James And His Orchestra featuring Frank Sinatra (feat. Frank Sinatra),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+06mPXA7h6ZuD58af4r8LfW,The Music Goes 'Round and Around,Tommy Dorsey & His Clambake Seven,The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0Cosey579p65NbyuIkNySa,In The Blue of Evening,"Tommy Dorsey, Frank Sinatra",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0DPVxc77ao17VOjj7usXTz,Mississippi Delta Blues,Leon Redbone,Double Time,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0EYRLGRgsgnKetAVziaaLT,Honeysuckle Rose,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0HFWS5C6ThNeuOr10Xz21U,Polka Dots and Moonbeams,"Tommy Dorsey, Frank Sinatra",The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0IHFglyHKyEDgbiufcNhmi,War Declaration,Wilmoth Houdini,The Calypso Way,0.602,0.546,2,-7.502,0,0.165,0.987,0.000934,0.33,0.936,102.896
-1yKL15Ahp2TD4SN0n2Jfhf,Poor but Ambitious,Wilmoth Houdini,The Calypso Way,0.598,0.368,2,-14.767,1,0.0902,0.965,0.0,0.0396,0.965,165.804
-2Ud4ur2SnjfQ7fE5RMU8vi,"Rum and Coca-Cola, Pt. 1",Wilmoth Houdini,The Calypso Way,0.64,0.294,11,-12.828,1,0.0464,0.976,0.00143,0.421,0.676,146.133
-54KdnduEWo7AhHjw8vz8JE,"Rum and Coca-Cola, Pt. 2",Wilmoth Houdini,The Calypso Way,0.661,0.26,11,-13.268,1,0.039,0.986,0.00252,0.162,0.764,145.78
-6ksv3rnq44sVUe3RKTXHR0,Bobby Sox Idol (Frank Sinatra),Wilmoth Houdini,The Calypso Way,0.723,0.417,0,-10.9,0,0.0854,0.577,0.0,0.414,0.946,82.249
-1vCfETuE8rQ5FMd8XXXYyB,Queen of the Amazon,Wilmoth Houdini,The Calypso Way,0.684,0.41,10,-9.542,0,0.093,0.768,0.0,0.0844,0.925,91.031
-4AE032Y0x1WPOi5CsmggnU,Maple Leaf Rag,"Scott Joplin, Alexander Peskanov","Joplin: Piano Rags, Vol. 1",0.406,0.226,8,-22.866,1,0.0477,0.991,0.882,0.245,0.937,116.267
+0JTMckIuqdT0KwMa2FVDHZ,There Are Such Things,"Tommy Dorsey, Frank Sinatra, The Pied Pipers",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0RBxCZ9JiJ3FRmLFnTjzMI,Honey I'm Bound to Go,"Wilmoth Houdini, Gerald Clark's Night Owls",Calypso Legends - Wilmoth Houdini (1929 - 1940),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0ZykyOOqAPdp2P2XrDEFyG,If I Had To Do It All Over Again I'd Do It All Over You,"Dave Van Ronk, The Red Onion Jazz Band",In The Tradition,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0bKewqEAZeQkFqWd3XW3CK,The Ragtime Dance,"Scott Joplin, Joshua Rifkin",Scott Joplin Piano Rags,0.46,0.137,3,-26.688,1,0.046,0.98,0.919,0.156,0.485,92.139
+0cWDkXcvOmftNxOUWQjAwv,"You Break It, You Buy It",Annie and the Fur Trappers,Muskrat Ramble,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0fkAuAYfIGalY8Cx1OL7uZ,12th Street Rag,Pee Wee Hunt,Jazz Collection,0.66,0.55,10,-10.395,1,0.055,0.654,0.852,0.143,0.905,105.629
-7MVfPm6vfuyLJ0Yzvz2CJl,When I Get Low I Get High,"Ella Fitzgerald, Chick Webb",The Early Years - Part 1 (1935-1938),0.608,0.356,2,-11.422,0,0.468,0.852,0.00231,0.0737,0.748,199.399
-7vFAgXW6On2kjvcirKHKfz,"In the Year 2,000!!!",Lucia Pamela,Into Outer Space with Lucia Pamela,0.597,0.473,0,-13.916,1,0.116,0.966,7.79e-06,0.438,0.815,107.877
+0j6AbJTM0Cp00rfvDSH0wf,Shine,"Billy Hults, Johnnie Ward, John D, Turtle Vandemarr, Teddy Deane, Richard Tyler",Billy Hults...The Anthology,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0jjlZkgW74WnLxZVaCAqTk,1919 March,"Michael White, Old Time Jazz Band",Old Time Jazz Band,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0x42aUKYoG96TfvKWqDZJr,Nobody's Fault but Mine,"Michael White, Michael White's Original New Orleans Liberty Street 3",'Taint Nobody's Business,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+19x73dknMZ0PJFNhDjRWkz,Mr. Jelly Roll Baker,Leon Redbone,Double Time,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1C9J0ABRPNKWzIN4dMXLCH,16 Tons,Dirty Rotten Vipers,16 Tons,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1JIBpBfVipDJ15b402jOjB,Alexander's Ragtime Band,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1Mul7pn6F4LwQv3Qtlm9cG,Basin Street Blues,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1TATJn6M4aQBt8GYBt90qV,Never Swat A Fly,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1UWn5VNaRozTLLk66UGgbO,Ducks Yas Yas,"Jim Kweskin, Annie Linders",Doing Things Right,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1UgjUBwaTMxPutMY4CQlV6,You,"Tommy Dorsey, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1kl0XDY0NdCJugYOcx3m3e,Tiger Rag,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1qyag7MVWzXSlaVFiYwux9,Our Love,"Tommy Dorsey, Jack Leonard",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1vCfETuE8rQ5FMd8XXXYyB,Queen of the Amazon,Wilmoth Houdini,The Calypso Way,0.684,0.41,10,-9.542,0,0.093,0.768,0.0,0.0844,0.925,91.031
+1vaPEEls3vcI3IcFtRoHkc,Bandsman Shooting Case,Wilmoth Houdini,The Calypso Way,0.63,0.478,6,-11.773,0,0.154,0.994,0.0109,0.121,0.858,103.815
+1yKL15Ahp2TD4SN0n2Jfhf,Poor but Ambitious,Wilmoth Houdini,The Calypso Way,0.598,0.368,2,-14.767,1,0.0902,0.965,0.0,0.0396,0.965,165.804
+1ynfNhO5ra2vGj7Ennr9PW,Prove It On Me Blues,Annie and the Fur Trappers,Muskrat Ramble,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1zmNQpuOv1O3OBsBUSCSNz,Let's Get Happy Together,"Jim Kweskin, Maria Muldaur",Never Too Late,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+21G5Ka1AqNd199GvAEnyPX,East St. Louis Toodle-Oo,Steely Dan,Pretzel Logic,0.637,0.318,0,-12.272,0,0.0383,0.909,0.43,0.123,0.595,153.647
+25w2Qcpb7P9u6mCRM0Oki2,"Rastus, Take Me Back",Marie Dressler,Historic Recordings - Novelty Songs of the 1920s,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+276VSVHnTtEjRzoezBGUvz,Porto Rico,"Sidney Bechet, Bunk Johnson",The Best Of Sidney Bechet,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2I1ju2vQN5ulDMA8BgD48p,Once In a While,"Tommy Dorsey, Four Esquires",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2JOJBxwRHWYcdXiOxZmoFv,Minnie the Moocher (Theme Song),Cab Calloway,Best Of The Big Bands,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2LYWKeRdvIdS4m6l4R45p3,You Always Hurt the One You Love,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2NkYE8xCJEe3zJDDMfNejp,Huggin' Chalkin',Hoagy Carmichael,Gonna Get a Girl,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2Pi0rY9FcbaecqO0AyhXbu,I'll Never Smile Again,"Tommy Dorsey, Frank Sinatra, The Pied Pipers",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2Ud4ur2SnjfQ7fE5RMU8vi,"Rum and Coca-Cola, Pt. 1",Wilmoth Houdini,The Calypso Way,0.64,0.294,11,-12.828,1,0.0464,0.976,0.00143,0.421,0.676,146.133
+2UiR72KXilqgAkQ3CvvxWN,Mi Amor Fugaz,Beny Moré,La Historia en Boleros,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2VNmhG9AfD0SYWe7sllvIY,Sweet Papa Willie,"Wilmoth Houdini, Gerald Clark's Night Owls",Calypso Legends - Wilmoth Houdini (1929 - 1940),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2VkkqiSJswQfVJEFP2Xcw4,Sister Kate,"Dave Van Ronk, The Red Onion Jazz Band",In The Tradition,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2X1TSIrhRQedpsayv0e2Np,Canal Street Blues,King Oliver,Papa Joe,0.656,0.443,5,-9.989,1,0.047,0.936,0.469,0.136,0.893,94.119
+2alnDMcYj6zkNHQaiZuHz8,Nobody's Sweetheart,The Mills Brothers,The Anthology: 1931 - 1968,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2dlUfyB5mBtQWoLqgJ4gvD,Diddy Wa Diddie,Leon Redbone,Double Time,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2jF5ZkKnxh4pnW4Gv1FQ4B,Dedicated To You,"Ella Fitzgerald, The Mills Brothers",The Anthology: 1931 - 1968,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2jy1wczC6Fuym2eT2XVQQ6,"All The Things You Are (From ""Very Warm for May"" and ""Broadway Rhythm"")",Tommy Dorsey,The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2lpiqthZ7D0XbhVwqNVK86,Doctor Jazz,King Oliver,Doctor Jazz,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2oEm6kcz0Vksq5Q0BrB2D3,When the Saints Go Marching In,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+315M9V9URmaa6wJjTrW7ag,Gonna Get a Girl,Hoagy Carmichael,Gonna Get a Girl,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+33wrvvpayAUKPPSVkcib2D,Shine on Harvest Moon,Leon Redbone,Double Time,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+35cCTT5JoDNRARlzu6MQKZ,Cake Walking Babies From Home,"Dave Van Ronk, The Red Onion Jazz Band",In The Tradition,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+39DCUlb0BPlWVZdSchEcJd,Nobody's Sweetheart,Leon Redbone,Double Time,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3LgD4JPNPfbOkrjzAKeJmN,Russian Lullaby,Dirty Rotten Vipers,Russian Lullaby,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3XW8d2ofHbNdkUB1w7SEXc,I Ain't Gonna Give Nobody None of This Jelly Roll,"Alvin Alcorn, Albert Burbank, Irving Verret, Octave Crosby, Jimmy Davis, Chester Jones",Southland Sessions,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3Xg7xWr1me7QgfcVUtbMnN,Dolores,"Tommy Dorsey, Frank Sinatra, The Pied Pipers",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3g6Nk4C6HDpwVjDO20rz4N,Livin' in the Sunlight (Lovin' in the Moonlight),Geoff Muldaur,Is Having A Wonderful Time,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3mWcoPBHsrmcs1lj6uBfvz,Georgia Grind,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.73,0.213,8,-14.635,1,0.0554,0.897,0.0,0.152,0.706,140.34
+3qaDdnyJPvQgrAIbSQPi2z,Anita,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3si7Ne23ehkWCHB83XgcYA,Willow Tree,Mildred Bailey & Her Alley Cats,The Rockin' Chair Lady,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3wPiJPl2X2IvzgKqj22baD,Jumpin Jive,Cab Calloway,Hi De Ho Man,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+46LL9IOd4JWypIjvWGpsEx,Hesitation Blues,"Dave Van Ronk, The Red Onion Jazz Band",In The Tradition,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+46QBnqvA3NN4kPS4xMV2Bl,No Mo' Bench and Board,"Wilmoth Houdini, Gerald Clark's Night Owls",Calypso Legends - Wilmoth Houdini (1929 - 1940),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+495frOi0oyFWB6WE5Nwen2,Showboat Shuffle,Duke Ellington,The Duke: The Columbia Years (1927-1962),0.715,0.706,0,-8.607,1,0.374,0.92,0.777,0.779,0.882,104.746
+4AE032Y0x1WPOi5CsmggnU,Maple Leaf Rag,"Scott Joplin, Alexander Peskanov","Joplin: Piano Rags, Vol. 1",0.406,0.226,8,-22.866,1,0.0477,0.991,0.882,0.245,0.937,116.267
+4BEEGXGduGnD6D02FSyM4u,"Music, Maestro, Please","Tommy Dorsey, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4Cz5b86PJbP581TqfoNtvN,Low Down Blues,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4HLYTkGtaXGcozWywPlBZP,My Happiness,The Pied Pipers,What is This Thing Called Love?,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4Oykg2FfhKRkDyrKaBc9Gu,Battery Bounce,Art Tatum,Art's Way of Piano,0.501,0.27,5,-14.238,1,0.0939,0.982,0.904,0.234,0.873,213.628
+4RrEtOK6lDuvAUHaUgK6os,When I Leave This World Behind,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4er6DOjO0UT3gsYEbJDLAK,Marie,Tommy Dorsey,The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4iVkyOkfONFnRbzVhfSGGc,Rockin' Chair,"The Mills Brothers, Donald Mills, Herbert Mills, Harry Mills, John Mills Jr",The Anthology: 1931 - 1968,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4iutyirLMHdDXJe1wVeGxX,I Ain't Gonna Give Nobody None Of This Jelly Roll,Louis Armstrong,Satchmo Plays King Oliver,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4mo3AVxhJPwV4yQMIAhMou,The Joint Is Jumpin',Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4zC4COjgpINYWZfAULgHs2,Honey Hush,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+52EXr4KPccQSsFNRHu8r1P,Trifling Men,Wilmoth Houdini,Calypso Legends - Wilmoth Houdini (1929 - 1940),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+54KdnduEWo7AhHjw8vz8JE,"Rum and Coca-Cola, Pt. 2",Wilmoth Houdini,The Calypso Way,0.661,0.26,11,-13.268,1,0.039,0.986,0.00252,0.162,0.764,145.78
+575F747gQWkmowDG5QiOLs,Old Grand Dad,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5HwUwDJk51mWphH96lXuaL,That's When I'll Come Back To You,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5LHzQRQpnxXeKMn3pmusSK,Doctor Jazz,Jelly Roll Morton,Doctor Jazz,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5THB5UExa5XTrm2s2MpfdU,Alone,"Tommy Dorsey, Cliff Weston",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5bTLfXbUwBU5jKhGgrPy9z,Exactly Like You - 1983 Satchmo Version,Louis Armstrong,Sings - Back Through The Years/A Centennial Celebration,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5iud1hVg0GZSu5xFh3S3ub,Indian Summer,"Tommy Dorsey, Jack Leonard",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5tlLRDd1GRkHKFWIf4I0Il,"Bessie, Bessie, Bessie",Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5v3LmKOJZy0ufApBp1BL1G,Franklin Street Blues,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5xL5UikEuneu8sJsSqUaha,The Dipsy Doodle,"Tommy Dorsey, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5xyfGgNkKCrW81WFo7N5Jo,King Porter Stomp,Annie and the Fur Trappers,Muskrat Ramble,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+63CYjCjxjq0bUUDFE8Mh5w,Song No. 99,Wilmoth Houdini,Calypso Legends - Wilmoth Houdini (1929 - 1940),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+63kd4m3VFxcJjPVVtbVNAu,"Hello, Dolly!",Louis Armstrong,"Hello, Dolly! (Remastered)",0.0,0.405,0,-9.935,1,0.0,0.842,0.00114,0.198,0.0,0.0
+6BDI8tJZLePuf70SzCiX42,Como Fue,Beny Moré,Romántico,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6Cb60oD0p1zJqjrxwQBA3v,Mama's Gone Goodbye,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6DF63ZuNh927Gbt85my9CN,Mahogany Hall Stomp,King Oliver,Papa Joe,0.677,0.408,0,-8.742,1,0.0744,0.984,0.883,0.0944,0.863,95.721
+6Dc1xg0fXNY36eQ3DUIXyQ,Stop Coming and Come,Wilmoth Houdini,The Calypso Way,0.735,0.284,5,-13.056,1,0.064,0.982,0.0498,0.106,0.961,88.283
+6F4BqjPU1slfo0ohb7jJ54,On Treasure Island,"Tommy Dorsey, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6FfxBy2B7s65v7IR15Xr0T,When Winter Comes,Artie Shaw,When Winter Comes,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6GqI1hKw1380bir7XBvTZ5,The Calypso Way,Wilmoth Houdini,The Calypso Way,0.656,0.608,0,-9.334,1,0.0567,0.984,0.00078,0.15,0.869,136.934
+6Ifu8ZCwvWoncgcdBD7WoI,Paper Doll,The Mills Brothers,Souvenir Album,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6Jj7BhZime1gC8QlO1HYtM,Tin Roof Blues,Annie and the Fur Trappers,Muskrat Ramble,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6Oq4ShQlEPjuZFLeAzkecC,Careless Love,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6VvB8qLHXSrQ5hcqdIJl1U,When I Move to the Sky,"Michael White, Michael White's Original New Orleans Liberty Street 3",'Taint Nobody's Business,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6WxcOtGXQ6tWgTbpX6pVKS,Walking on the Moon,Lucia Pamela,Into Outer Space with Lucia Pamela,0.426,0.834,5,-8.749,0,0.148,0.929,7.43e-05,0.364,0.572,171.705
+6X5Viwfm2gWYjaEuEdKelA,Lost Love,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6eBH8hP9nhP0tw3MD9BHcv,He's My Soft-Shelled Crab on Toast (Edison Wax Cylinder 499) [Recorded 1910],Marie Dressler,"Comic Vaudeville Rarities, Vol. 3 (Edison & Victor) [Recorded 1909 - 1917]",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6jS5q1bqJSa8vmRubSPJ9v,Glorious Centenary,Wilmoth Houdini,The Calypso Way,0.628,0.338,2,-11.789,1,0.131,0.987,0.000411,0.0644,0.89,103.958
+6kQlfgcEkPQjDSlkDXmR9J,Walking In The Park With Eloise - Remastered 2014,Wings,Venus And Mars (Archive Collection),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6ksv3rnq44sVUe3RKTXHR0,Bobby Sox Idol (Frank Sinatra),Wilmoth Houdini,The Calypso Way,0.723,0.417,0,-10.9,0,0.0854,0.577,0.0,0.414,0.946,82.249
+6nUJnuKvGXf1UDk79zSNsq,The Big Apple,"Tommy Dorsey & His Clambake Seven, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6rqrN2bLrxW5ZB7OmWUwQe,Don't You Think I Love You,King Oliver,Papa Joe,0.675,0.541,10,-4.257,1,0.0528,0.947,0.93,0.14,0.951,176.958
+6sopJT570BxVowIaKxnNhL,Desperate Man Blues,Daniel Johnston,Hi How Are You,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7FwTP9tlB7L0fzXOnJYTXk,Cash for Your Trash,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7Gr4VaB5iIN8gzu3pKHwel,After You've Gone (vocal),Louis Armstrong,Vol. V: Louis In New York,0.736,0.26,9,-13.202,0,0.166,0.981,0.0542,0.146,0.459,96.611
+7HTijXtRVkHnoMYwB9auhE,Trouble in Mind,"Michael White, Michael White's Original New Orleans Liberty Street 3",'Taint Nobody's Business,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7JLE3b6WzY9ds1ENqFLVMN,Ballin' the Jack,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7LxOgB5j5Hocq04BFSjD4w,Garden of Joy,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7MVfPm6vfuyLJ0Yzvz2CJl,When I Get Low I Get High,"Ella Fitzgerald, Chick Webb",The Early Years - Part 1 (1935-1938),0.608,0.356,2,-11.422,0,0.468,0.852,0.00231,0.0737,0.748,199.399
+7aFcRO7E77cIQhZAqtnIet,I've Got A Heart Full Of Rhythm,Louis Armstrong,The Decca Singles 1935-1946,0.57,0.424,7,-6.296,0,0.0471,0.939,0.299,0.074,0.841,176.621
+7j2o9r4OnGORFmIcXJQayA,Keep Punching Joe,Daniel Johnston,Hi How Are You,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7s74E5JefyqDNweUh5uj9Z,The Sheik of Araby,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7vFAgXW6On2kjvcirKHKfz,"In the Year 2,000!!!",Lucia Pamela,Into Outer Space with Lucia Pamela,0.597,0.473,0,-13.916,1,0.116,0.966,7.79e-06,0.438,0.815,107.877
+7w1PzGJdjrcKdZRxBHKW9y,Satan Takes a Holiday,Tommy Dorsey,The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
