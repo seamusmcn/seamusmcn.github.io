@@ -1,127 +1,141 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
-4FmCUATNIarCQh72JYdvnm,That's Life,Frank Sinatra,That's Life,0.56,0.434,4,-14.151,0,0.0729,0.55,0.0,0.346,0.664,112.803
-5b7OgznPJJr1vHNYGyvxau,Fly Me To The Moon (In Other Words),"Frank Sinatra, Count Basie",Sinatra/Basie: The Complete Reprise Studio Recordings,0.668,0.26,7,-14.256,1,0.0523,0.453,0.0,0.0621,0.368,119.416
-3spdoTYpuCpmq19tuD0bOe,My Way,Frank Sinatra,My Way (Expanded Edition),0.401,0.381,2,-7.458,1,0.0274,0.7,0.0,0.122,0.229,75.454
-4hHbeIIKO5Y5uLyIEbY9Gn,Come Fly With Me - Remastered 1998,Frank Sinatra,Come Fly With Me (Expanded Edition),0.494,0.338,6,-11.376,1,0.0464,0.847,0.0,0.165,0.499,134.106
-4I4aQGNJ2HufloNtB65nxR,That's Amore,"Dean Martin, Dick Stabile And His Orchestra","Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",0.471,0.146,10,-13.6,1,0.0309,0.782,0.0,0.0888,0.595,78.554
-2WaYW84yWij5NSCpgSeU2R,You Make Me Feel So Young - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.577,0.307,9,-11.556,1,0.0428,0.378,0.0,0.18,0.575,125.165
-3KzgdYUlqV6TOG7JCmx2Wg,Beyond the Sea,Bobby Darin,That's All,0.521,0.516,2,-7.456,0,0.0369,0.723,0.0,0.257,0.569,136.483
-5XeUMqS6mpTEspPgd5TLtg,Dream Lover,Bobby Darin,Sing & Swing with Bobby Darin,0.526,0.774,5,-1.692,1,0.0459,0.715,0.0,0.437,0.715,131.715
-40fD7ct05FvQHLdQTgJelG,Splish Splash,Bobby Darin,Bobby Darin,0.645,0.943,0,-1.526,1,0.0393,0.385,0.0,0.37,0.965,147.768
-7gxW8hMXEUkc1G3m7z9vei,More - Remastered 2004,Bobby Darin,The Legendary Bobby Darin,0.498,0.484,5,-8.74,0,0.0315,0.481,0.0,0.243,0.691,152.498
-5OkKOkdVTKFrYi6GWXkMzR,Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998,Dean Martin,This Is Dean Martin,0.612,0.144,6,-12.204,0,0.0352,0.88,0.0,0.203,0.343,128.629
-3aEJMh1cXKEjgh52claxQp,I've Got You Under My Skin - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.583,0.247,1,-12.612,1,0.04,0.448,9.7e-06,0.107,0.592,127.145
-78MI7mu1LV1k4IA2HzKmHe,Dream A Little Dream Of Me - Single Version,"Ella Fitzgerald, Louis Armstrong","Love, Ella",0.443,0.104,0,-17.042,1,0.101,0.913,0.0,0.191,0.394,76.474
-3E5ndyOfO6vFDEIE42HA8o,Mack the Knife,Bobby Darin,That's All,0.549,0.529,3,-12.291,0,0.108,0.76,0.0,0.206,0.464,82.755
-1xsY8IFXUrxeet1Fcmk4oC,In the Mood,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.624,0.304,8,-14.496,1,0.0822,0.929,0.173,0.0693,0.874,80.582
-3zBhihYUHBmGd2bcQIobrF,(Sittin' On) the Dock of the Bay,Otis Redding,The Dock of the Bay (Mono),0.768,0.367,2,-11.226,1,0.0315,0.683,1.79e-05,0.081,0.532,103.621
 00Y89Ir6nXEQdKQb3GLjet,Sh Boom (Life Could Be A Dream),Kenny Vance and the Planotones,Soundtrack To The Doo Wop Era: A Kenny Vance Collection,0.715,0.439,5,-8.904,1,0.037,0.588,0.0,0.0826,0.886,130.481
-29U7stRjqHU6rMiS8BfaI9,What A Wonderful World,Louis Armstrong,What A Wonderful World,0.271,0.165,5,-20.652,1,0.0351,0.726,1.54e-06,0.118,0.202,77.082
-4tmy6FB76bR5eLmx0zO1mn,Pennies From Heaven,"Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.515,0.408,8,-11.96,1,0.194,0.452,0.0,0.0682,0.915,185.767
-4ODWgs1CVAZKDbryEodjiz,"Theme From New York, New York",Frank Sinatra,Ultimate Sinatra,0.387,0.591,2,-5.32,1,0.0304,0.551,0.0,0.281,0.56,109.005
-4LfgeOiPsAjDgDYSgmntCU,I've Got The World On A String,Frank Sinatra,Ultimate Sinatra,0.572,0.372,2,-7.022,1,0.0513,0.809,0.0,0.3,0.499,123.437
-2xar08Fq5xra2KKZs5Bw9j,I've Got a Woman,Ray Charles,"Ray Charles (aka: Hallelujah, I Love Her So)",0.556,0.61,9,-4.729,1,0.213,0.833,2.22e-06,0.258,0.665,199.373
-4gphxUgq0JSFv2BCLhNDiE,Jailhouse Rock,Elvis Presley,Elvis' Golden Records,0.647,0.582,10,-9.538,0,0.0755,0.41,1.93e-06,0.0715,0.915,167.396
-1H5IfYyIIAlgDX8zguUzns,Suspicious Minds,Elvis Presley,From Elvis in Memphis,0.487,0.382,7,-10.889,1,0.0309,0.0422,4.74e-06,0.411,0.714,116.557
-64Ny7djQ6rNJspquof2KoX,Hound Dog,Elvis Presley,Elvis' Golden Records,0.494,0.756,0,-8.492,1,0.0499,0.733,0.00505,0.76,0.949,86.895
-4QxDOjgpYtQDxxbWPuEJOy,L-O-V-E,Nat King Cole,L-O-V-E,0.425,0.373,4,-7.543,1,0.0801,0.686,0.0,0.077,0.663,78.231
-0OFzGWNvMR7qvRsD14dxIT,'Tis Autumn,Nat King Cole Trio,The Complete Capitol Recordings Of The Nat King Cole Trio,0.403,0.0728,7,-20.622,0,0.0603,0.966,7.04e-05,0.106,0.152,178.645
-3898C4AbdbptwYet6547e5,The Girl From Ipanema,Stan Getz,The Girl From Ipanema - The Bossa Nova Years,0.666,0.194,5,-15.487,0,0.0357,0.91,4.03e-05,0.0829,0.443,129.86
-6ft9PAgNOjmZ2kFVP7LGqb,Can't Take My Eyes off You,Frankie Valli,The Very Best of Frankie Valli & The 4 Seasons,0.575,0.764,4,-7.448,1,0.0746,0.566,1.07e-05,0.0692,0.536,123.821
-6YYu8qFzcY1ZyzzsJIQM12,"Straight, No Chaser",Thelonious Monk,"Straight, No Chaser",0.465,0.35,3,-12.977,1,0.0403,0.41,0.279,0.135,0.62,93.336
-5D4yBkYPvTRQXNhOPtS6QR,When You're Smiling/The Sheik Of Araby,"Louis Prima, Sam Butera & The Witnesses, Keely Smith",The Call Of The Wildest (Expanded Edition),0.603,0.688,7,-9.69,0,0.197,0.188,0.0,0.0688,0.803,117.789
-0Juciz8gOjrO89qw5KwQV5,Call Me Irresponsible - 2001 Remaster,Bobby Darin,From Hello Dolly To Goodbye Charlie,0.607,0.347,7,-12.241,1,0.0369,0.695,0.0,0.121,0.644,125.485
-2CqLn79cH5biDHtgNU4u8t,"Blow, Red, Blow","Keely Smith, Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.669,0.447,0,-12.368,1,0.351,0.471,0.00161,0.0651,0.772,128.571
-7oFF3RCyHHQwKmPQuAOS1g,The Pump Song,"Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.57,0.411,5,-9.539,1,0.445,0.582,0.0,0.265,0.861,175.372
-1hM17GopJXPqKaUVDVWzAD,Closer To The Bone,"Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.541,0.41,0,-12.274,0,0.303,0.387,0.0,0.0853,0.938,177.527
-4HVqqvvkVfFtdTZ5oXIZX2,Sentimental Journey,"Keely Smith, Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.667,0.195,10,-14.464,1,0.0424,0.554,0.0,0.224,0.424,98.807
-1AyfLdcECHCAThbj46yF3i,Beep! Beep!,"Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.636,0.489,0,-11.162,1,0.0974,0.526,0.0,0.122,0.864,79.045
-79kiNjpdE0SJxgYZxNMDsC,Softly as in a Early Morning Sunrise,Bobby Darin,That's All,0.48,0.409,2,-12.748,0,0.111,0.804,0.0,0.167,0.626,66.518
-15MKQ6uU9E4vyyzpXCAoXo,I'll Remember April,Bobby Darin,That's All,0.434,0.336,7,-13.413,1,0.0483,0.817,0.0,0.199,0.604,135.924
-3JgcUoDbj2OMtan66M5DiW,That's the Way Love Is,Bobby Darin,That's All,0.582,0.587,2,-1.823,0,0.0373,0.64,0.0,0.28,0.699,129.316
-1ObPvYLwpxURIEKgdDUoxt,That's All,Bobby Darin,That's All,0.508,0.874,9,-0.764,0,0.207,0.667,0.0,0.198,0.888,152.642
-27R6BDUt3ePcUWO8C9PIje,It Happened In Monterey - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.56,0.264,7,-12.828,1,0.0355,0.435,0.0,0.057,0.491,120.0
-5lJlcm51WrBe4JuqFURvDP,You Brought A New Kind Of Love To Me - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.539,0.205,0,-13.896,1,0.032,0.465,0.0,0.117,0.491,107.954
-6CjyHSmy4kNSeMG19rRHNu,Too Marvelous For Words - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.62,0.266,5,-11.963,1,0.0419,0.655,0.0,0.0589,0.574,125.983
-0AykdQHQQv8GFTcWCRa9q9,Old Devil Moon - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.476,0.227,10,-12.879,1,0.0288,0.479,0.0,0.179,0.422,100.985
-3EvdZDyOBgEb5vuKpVNSg6,I Thought About You - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.583,0.233,1,-13.053,1,0.0367,0.69,4.72e-06,0.1,0.543,115.909
-4CeqTwwR2VUOqAyXz1vSMn,Anything Goes - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.649,0.217,8,-12.861,1,0.0434,0.761,0.0,0.19,0.622,120.013
-5k1gg6B8q7Zj3M2FjHVqdY,Swingin' Down The Lane - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.44,0.273,6,-12.346,0,0.0394,0.437,1.19e-06,0.136,0.614,123.375
-7fQ3PYTYdu208fQ3JEm2U7,Ain't That A Kick In The Head,Dean Martin,"Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",0.586,0.253,6,-11.93,0,0.0538,0.604,0.0,0.3,0.718,108.168
-6mcDe5GXUZn6eF7mC5l3Hg,I Can't Believe That You're In Love With Me - Remastered/1998,Dean Martin,This Time I'm Swingin',0.589,0.202,1,-13.74,1,0.0376,0.672,0.0,0.348,0.769,135.329
-2x12Sb0lxMB5DR6Llzq5GA,True Love - Remastered,Dean Martin,This Time I'm Swingin',0.533,0.138,7,-16.204,1,0.034,0.721,0.0,0.0601,0.445,112.346
-4WUcNkpoNSKoe5MUuyzrfC,You're Nobody 'Til Somebody Loves You - Remastered/1997,Dean Martin,This Time I'm Swingin',0.503,0.182,0,-16.651,0,0.0323,0.776,0.0,0.178,0.652,63.684
-4R6rf3KbP45JST6Cr3Enry,Mean To Me - Remastered/1998,Dean Martin,This Time I'm Swingin',0.615,0.145,7,-14.283,1,0.0422,0.748,0.0,0.0292,0.505,102.633
-5MHAl3WVEOYgEmA7RXIrSv,Just In Time - Remastered 1998,Dean Martin,This Time I'm Swingin',0.57,0.196,2,-14.374,0,0.0442,0.667,0.0,0.104,0.612,127.3
-54TTy0pWx7UGYJnCjScJIE,The Girl From Ipanema - Remastered,Nat King Cole,L-O-V-E,0.514,0.372,7,-11.193,1,0.0506,0.665,0.0,0.381,0.413,118.864
-3F4W9lrEsEcpVnlcGSBXb0,My Kind Of Girl,Nat King Cole,L-O-V-E,0.435,0.489,6,-8.054,1,0.0489,0.594,0.0,0.0621,0.581,148.04
-2thCpvqBi9k1drA2oEZ2Co,How I'd Love To Love You,Nat King Cole,L-O-V-E,0.417,0.454,9,-8.118,0,0.0443,0.775,0.0,0.312,0.466,106.208
-1938FeAi8kI7w9TpbgQWgP,If I Loved You,Dick Haymes,Imagination,0.0,0.214,10,-18.376,0,0.0,0.98,0.916,0.12,0.0,0.0
-6115ks6fGkf7KYRDAi8lNK,Almost Like Being In Love - Remastered,Nat King Cole,Sings For Two In Love,0.447,0.487,7,-6.783,1,0.062,0.843,0.0,0.177,0.696,182.515
-7Kqk5EpwqiukPkDutSFFZk,Did I Remember,Catherine Russell,Send For Me,0.677,0.264,8,-9.111,1,0.0357,0.904,0.00601,0.0825,0.438,120.974
-52XDumqYDUXX16R7FM5fpV,"It's Been a Long, Long Time (with Harry James & His Orchestra)","Kitty Kallen, Harry James",Best Of The Big Bands,0.272,0.219,0,-9.767,1,0.0305,0.938,0.00086,0.263,0.374,74.697
-0m7jSL1UmvJR3So3gtqgZr,All Or Nothing At All,"Harry James, Frank Sinatra",Ultimate Big Band Collection: Harry James,0.314,0.105,2,-16.065,0,0.0333,0.985,0.00639,0.242,0.253,130.771
-05quYx9JXaDX7CGLpZA62V,"Moon Love (Adapted From Tchaikovsky's 5th Symphony, 2nd Movement)","Harry James, Frank Sinatra",The Complete Harry James And His Orchestra featuring Frank Sinatra (feat. Frank Sinatra),0.315,0.361,8,-12.534,1,0.039,0.986,0.238,0.64,0.458,123.144
-5L8ta4ECl5zeA6bGqY7G38,"Sing, Sing, Sing",Benny Goodman,The Essential Benny Goodman,0.62,0.67,2,-11.575,0,0.0591,0.853,0.896,0.156,0.295,113.492
-53p58HCd2GdLKzIwvBX2ZV,The Lip - Remastered,"Louis Prima, Keely Smith",Capitol Collectors Series,0.71,0.261,0,-14.961,1,0.454,0.858,0.0,0.0539,0.664,142.423
-1xXydFs62EqOXFMPizVhn4,Salt Peanuts,Dizzy Gillespie,Groovin' High,0.701,0.393,5,-9.868,1,0.155,0.919,0.384,0.0964,0.791,75.908
-6PzJKbXZwPEF5BcNWd9c4H,Hour of Parting - stereo,Sun Ra & His Arkestra,Jazz in Silhouette (Expanded Edition),0.261,0.148,0,-12.811,1,0.0326,0.967,0.253,0.218,0.112,64.953
-2rVgZETOgFAuW8p8Uoq9as,You Never Told Me That You Care - stereo,Sun Ra & His Arkestra,Jazz in Silhouette (Expanded Edition),0.254,0.294,1,-11.875,1,0.0292,0.881,0.0955,0.419,0.15,144.112
-3FsrG1TIB79ONER5Fr1cCt,For Once In My Life,Frank Sinatra,My Way (Expanded Edition),0.412,0.523,10,-6.104,1,0.0493,0.636,0.0,0.337,0.526,83.164
-10FqpvfLZAKnmtAFKOrHC6,Mrs. Robinson,"Frank Sinatra, Don Costa",My Way (Expanded Edition),0.456,0.532,7,-5.871,0,0.0361,0.485,0.0,0.0605,0.89,156.562
-6Pkh51kA4YuxbtrnEgb3PJ,There's Love,Nat King Cole,L-O-V-E,0.467,0.356,6,-8.477,1,0.0281,0.704,0.0,0.15,0.325,95.306
-5qfnFTHPBMsU2A8X7nMryZ,More,Nat King Cole,L-O-V-E,0.372,0.348,7,-9.198,1,0.0375,0.783,0.0,0.332,0.398,108.307
-7xjItXmWnl7AmXCsLBbq1j,Swiss Retreat,Nat King Cole,L-O-V-E,0.576,0.453,6,-7.319,1,0.127,0.757,0.0,0.157,0.694,68.976
-5uqqN7z9UNZ5jEzHHbKFN6,Through a Long and Sleepless Night,Bobby Darin,That's All,0.26,0.0664,3,-25.006,1,0.0404,0.609,0.0432,0.0856,0.155,64.93
-32aADiWAHmOVzz0iLqyXZH,She Needs Me (aka He Needs Me),Bobby Darin,That's All,0.304,0.0701,3,-23.402,1,0.0346,0.794,0.000134,0.241,0.184,65.38
-0gojjDOqNz2233UWGCYkqo,Was There a Call for Me,Bobby Darin,That's All,0.251,0.139,10,-19.396,1,0.0355,0.864,3.33e-06,0.412,0.242,137.044
-5NHYLN9SIwUSOKowWDPt3L,Some of These Days,Bobby Darin,That's All,0.461,0.32,2,-13.653,0,0.0474,0.614,0.0,0.0485,0.483,105.909
-382jcNwe10dnUcEJQ9xtgz,Where Is the One,Bobby Darin,That's All,0.227,0.0928,3,-22.175,1,0.0425,0.869,0.071,0.12,0.0893,83.71
-6g82W4awZ4ZqSs2jUT5goS,Tis Autumn,Chet Baker,Chet (Keepnews Collection),0.56,0.0641,0,-19.546,0,0.0374,0.97,0.898,0.0694,0.257,107.802
-1FdulvpRiLgkseCz7RrNOR,Quiet Nights of Quiet Stars (Corcovado),"Antônio Carlos Jobim, Frank Sinatra",Sinatra/Jobim: The Complete Reprise Recordings,0.388,0.255,0,-16.496,1,0.0332,0.77,0.0737,0.0838,0.25,107.426
-77fcHU89KRyKKRDskWKOoY,On The Sunny Side Of The Street - 1993 Digital Remaster,Nat King Cole Trio,The Nat King Cole Trio - The Complete Capitol Transcription Sessions,0.87,0.0993,5,-17.241,0,0.0544,0.994,0.142,0.0879,0.482,125.725
-0vrS4oA5PHHsVEjVa1pqo8,No If's - No And's,Lloyd Price,Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings,0.506,0.54,8,-5.963,1,0.0385,0.747,0.0,0.209,0.771,119.999
-4gUDdUr5yK0JGlR49zSRVt,Sea Of Love,Phil Phillips & The Twilights,Sea Of Love: The Collection,0.449,0.571,7,-5.848,1,0.0281,0.786,0.0,0.385,0.308,127.565
-4l9hml2UCnxoNI3yCdL1BW,My Funny Valentine,Chet Baker,Chet Baker Sings,0.438,0.00756,0,-26.44,0,0.0382,0.941,0.00643,0.109,0.277,133.32
-4zPDjRgceGrR0Sm54YDTTf,Autumn Nocturne,Lou Donaldson,Blues Walk,0.539,0.0678,0,-18.039,1,0.0468,0.967,0.168,0.114,0.263,124.105
-286RkRWuFjPZD252MW334r,September Song,Eartha Kitt,The Collection,0.286,0.15,3,-17.659,1,0.0421,0.891,0.0536,0.144,0.105,134.931
-2uyySHlUXP9AkOKaVWOqHS,Moonglow,"Eddy De Lange, Irving Mills, Will Hudson, Dick Hyman",Moonstruck - Original Motion Picture Soundtrack,0.681,0.217,5,-19.411,1,0.0476,0.772,0.484,0.12,0.438,131.361
-3ziJFd6JeioC8Xfct0UXpJ,Moonlight Serenade,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.342,0.126,3,-11.857,1,0.0265,0.862,0.0998,0.146,0.147,77.873
-3BFRqZFLSrqtQr6cjHbAxU,Ain't Misbehavin',Fats Waller,"If You Got To Ask, You Ain't Got It!",0.515,0.222,0,-16.918,0,0.0575,0.821,0.00193,0.19,0.35,98.358
-7uyZDmvtrj60HzN1OmV3ZC,Moonglow - Take 1,Benny Goodman Quartet,Ultimate Big Band Collection: Benny Goodman,0.631,0.113,0,-19.537,0,0.0463,0.993,0.864,0.104,0.301,103.649
-4PGVC97OCoHgUSJ2651PTI,Babalucci,Lou Monte,Shaddap You Face,0.627,0.827,10,-10.456,1,0.0817,0.597,0.0,0.43,0.722,109.057
-1smChL3Aq1U9DZA83LuDtp,I Wanna Be Around...,Tony Bennett,I Wanna Be Around,0.498,0.266,10,-13.425,1,0.0348,0.768,0.0,0.0828,0.376,69.601
-18Psr6uiBMT6KTGt7s82Rd,Bogota - Live,Ahmad Jamal,Live in Paris (1971),0.301,0.439,9,-16.132,0,0.0332,0.597,0.314,0.742,0.403,79.274
-6QgoqQs8PjtKCGuahX310I,Manhattan Reflections - Live,Ahmad Jamal,Live in Paris (1971),0.439,0.359,10,-19.181,0,0.0329,0.77,0.898,0.142,0.27,94.164
-0NhQTMDVgspRfwgJ59kmc6,Effendi - Live,Ahmad Jamal,Live in Paris (1971),0.4,0.356,9,-18.512,0,0.0382,0.65,0.918,0.789,0.382,137.831
-7a5VuzvBrtbqYT7kNlQlFd,Chattanooga Choo Choo,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.588,0.312,5,-10.461,1,0.074,0.947,2.07e-05,0.445,0.639,144.768
-47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2,-9.885,0,0.0472,0.792,1.19e-06,0.125,0.817,83.729
-1rvXymShkt4ClhiWEsn4ad,It Never Occurred To Me,The Four Freshmen,Blue World,0.275,0.219,0,-9.164,0,0.027,0.753,0.0,0.161,0.236,90.935
-1twS3AKB6npXZaTlZUCChm,Somebody Loves Me,The Four Freshmen,Blue World,0.475,0.342,0,-10.111,1,0.0681,0.709,0.0,0.357,0.653,159.476
-0AtVA7axXKVFnjQsN4xBIy,Dream,The Pied Pipers,What is This Thing Called Love?,0.198,0.276,7,-10.588,1,0.0289,0.919,0.00261,0.21,0.0692,88.422
-0bz0PznD8eRojueEdAIPta,Aren't You Glad You're You,The Pied Pipers,What is This Thing Called Love?,0.717,0.178,1,-8.524,1,0.0397,0.915,0.0,0.164,0.64,135.32
-7rba4qJ8IV3MYpD0ayPsmE,St. Louis Blues,The Pied Pipers,What is This Thing Called Love?,0.601,0.454,3,-6.532,1,0.0545,0.877,0.0,0.313,0.964,165.598
-7panOKXXXEswxSNbNCToi2,Dolores,The Pied Pipers,What is This Thing Called Love?,0.584,0.247,5,-12.074,0,0.0293,0.896,1.33e-06,0.213,0.593,102.628
-2J0bqrTQEzMWdutO6mX4CA,Sugar Foot Stomp,The Pied Pipers,What is This Thing Called Love?,0.742,0.243,10,-11.013,1,0.105,0.926,0.0,0.0873,0.773,73.438
-7EqqjTZRfZiIx2bIvCMrXk,Gone to Chicago,The Pied Pipers,What is This Thing Called Love?,0.659,0.594,10,-7.279,1,0.0881,0.825,0.0,0.485,0.635,128.094
 00fyMzz6xVK3Atx476wiVE,Limehouse Blues,The Pied Pipers,What is This Thing Called Love?,0.67,0.428,0,-9.881,1,0.112,0.868,1.21e-05,0.581,0.789,107.951
-1AtkEAxuC3tn0xvfzaLGCo,My ! My !,The Pied Pipers,What is This Thing Called Love?,0.81,0.375,7,-9.0,1,0.0455,0.82,0.106,0.0299,0.724,142.223
-22dKumbnRum9SdNXelKzJ5,What is This Thing Called Love,The Pied Pipers,What is This Thing Called Love?,0.702,0.28,3,-10.225,1,0.037,0.86,0.0,0.127,0.692,78.225
-6tKwEX4XMj9lsYiADOwM9P,The Trolley Song,The Pied Pipers,What is This Thing Called Love?,0.75,0.216,0,-9.151,1,0.0347,0.842,0.0,0.569,0.818,123.58
-2h4m68wLbG6g75thqhNA1T,Should I,The Pied Pipers,What is This Thing Called Love?,0.747,0.534,7,-5.683,0,0.0597,0.738,0.0,0.0868,0.949,107.047
-5WPuFqw1PR4KKg2rSFzxry,"Oh, Look at Me Now",The Pied Pipers,What is This Thing Called Love?,0.806,0.167,2,-10.929,0,0.0441,0.843,0.0,0.413,0.675,115.419
-3axzERaSp7ZLPzZTiIOT7x,Polly Wolly Doodle All the Day,The Pied Pipers,What is This Thing Called Love?,0.842,0.487,0,-8.689,1,0.0391,0.849,3.36e-06,0.36,0.845,97.897
-4Jvp4ztd2sDa7Vimwhfj04,Tennessee Saturday Night,The Pied Pipers,What is This Thing Called Love?,0.682,0.639,10,-6.842,1,0.0953,0.819,0.0,0.227,0.776,140.376
-4V4hfhAK4RKXVWkQz0CQO8,A Dreamer's Holiday,Perry Como,Perry Como with the Fontane Sisters (with The Fontane Sisters),0.58,0.128,9,-14.541,1,0.0704,0.966,0.0,0.376,0.414,84.375
-1vLPTWPfJSIrqOhNUWNfNY,It Was A Very Good Year - 2008 Remastered,Frank Sinatra,Nothing But The Best (2008 Remastered),0.259,0.242,7,-11.623,0,0.0307,0.902,2.15e-06,0.0808,0.132,128.819
-3LfUka6X3IR6NbJ1VcG8Vd,My Funny Valentine,Frankie Valli,Solo,0.47,0.798,7,-7.536,1,0.118,0.333,0.00205,0.448,0.679,97.513
-49LHJe8RmY5ViMMQj0aMdb,(What Did I Do To Be So) Black And Blue,Louis Armstrong,This Is Jazz Louis Armstrong Sings,0.414,0.105,0,-14.907,1,0.0549,0.826,0.0119,0.269,0.223,72.332
+05quYx9JXaDX7CGLpZA62V,"Moon Love (Adapted From Tchaikovsky's 5th Symphony, 2nd Movement)","Harry James, Frank Sinatra",The Complete Harry James And His Orchestra featuring Frank Sinatra (feat. Frank Sinatra),0.315,0.361,8,-12.534,1,0.039,0.986,0.238,0.64,0.458,123.144
+0AtVA7axXKVFnjQsN4xBIy,Dream,The Pied Pipers,What is This Thing Called Love?,0.198,0.276,7,-10.588,1,0.0289,0.919,0.00261,0.21,0.0692,88.422
+0AykdQHQQv8GFTcWCRa9q9,Old Devil Moon - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.476,0.227,10,-12.879,1,0.0288,0.479,0.0,0.179,0.422,100.985
+0Juciz8gOjrO89qw5KwQV5,Call Me Irresponsible - 2001 Remaster,Bobby Darin,From Hello Dolly To Goodbye Charlie,0.607,0.347,7,-12.241,1,0.0369,0.695,0.0,0.121,0.644,125.485
 0NI42v4l2AxIbgoIrWKiBU,Just A Gigolo / I Ain't Got Nobody - Medley / Remastered 2002,"Louis Prima, Keely Smith, Sam Butera & The Witnesses",The Wildest! (Expanded Edition),0.519,0.638,8,-5.226,1,0.0942,0.683,0.0,0.0561,0.67,124.878
-62eAoNfrrS84177LOzJMQx,Papa Loves Mambo,Perry Como,Pure Gold,0.674,0.498,0,-10.07,1,0.13,0.512,2.05e-06,0.404,0.747,81.075
-7xy0PAZxzGDOcYzyptvprd,Swinging On A Star - Single Version,Bing Crosby,Swinging On A Star,0.705,0.167,0,-13.137,1,0.0603,0.897,0.0,0.101,0.724,139.817
-6FfxBy2B7s65v7IR15Xr0T,When Winter Comes,Artie Shaw,When Winter Comes,0.569,0.435,5,-10.527,0,0.171,0.924,0.11,0.808,0.752,167.101
+0NhQTMDVgspRfwgJ59kmc6,Effendi - Live,Ahmad Jamal,Live in Paris (1971),0.4,0.356,9,-18.512,0,0.0382,0.65,0.918,0.789,0.382,137.831
+0OFzGWNvMR7qvRsD14dxIT,'Tis Autumn,Nat King Cole Trio,The Complete Capitol Recordings Of The Nat King Cole Trio,0.403,0.0728,7,-20.622,0,0.0603,0.966,7.04e-05,0.106,0.152,178.645
 0aAdPAlrBJqqqkkhttZIKU,When You're Smiling (The Whole World Smiles With You) - Without Intro,Louis Armstrong,Highlights From His Decca Years,0.443,0.182,8,-10.395,1,0.0462,0.84,0.000403,0.114,0.325,80.417
-5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1,-15.485,1,0.035,0.968,1.55e-05,0.127,0.305,78.056
+0bz0PznD8eRojueEdAIPta,Aren't You Glad You're You,The Pied Pipers,What is This Thing Called Love?,0.717,0.178,1,-8.524,1,0.0397,0.915,0.0,0.164,0.64,135.32
+0eRHaqF1lJDIJ0GTy5SGC6,Choo Choo Ch'Boogie,Louis Jordan & His Tympany Five,At The Swing Cat's Ball,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0gojjDOqNz2233UWGCYkqo,Was There a Call for Me,Bobby Darin,That's All,0.251,0.139,10,-19.396,1,0.0355,0.864,3.33e-06,0.412,0.242,137.044
+0m7jSL1UmvJR3So3gtqgZr,All Or Nothing At All,"Harry James, Frank Sinatra",Ultimate Big Band Collection: Harry James,0.314,0.105,2,-16.065,0,0.0333,0.985,0.00639,0.242,0.253,130.771
+0vrS4oA5PHHsVEjVa1pqo8,No If's - No And's,Lloyd Price,Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings,0.506,0.54,8,-5.963,1,0.0385,0.747,0.0,0.209,0.771,119.999
+10FqpvfLZAKnmtAFKOrHC6,Mrs. Robinson,"Frank Sinatra, Don Costa",My Way (Expanded Edition),0.456,0.532,7,-5.871,0,0.0361,0.485,0.0,0.0605,0.89,156.562
+15MKQ6uU9E4vyyzpXCAoXo,I'll Remember April,Bobby Darin,That's All,0.434,0.336,7,-13.413,1,0.0483,0.817,0.0,0.199,0.604,135.924
+18Psr6uiBMT6KTGt7s82Rd,Bogota - Live,Ahmad Jamal,Live in Paris (1971),0.301,0.439,9,-16.132,0,0.0332,0.597,0.314,0.742,0.403,79.274
+1938FeAi8kI7w9TpbgQWgP,If I Loved You,Dick Haymes,Imagination,0.0,0.214,10,-18.376,0,0.0,0.98,0.916,0.12,0.0,0.0
+1AtkEAxuC3tn0xvfzaLGCo,My ! My !,The Pied Pipers,What is This Thing Called Love?,0.81,0.375,7,-9.0,1,0.0455,0.82,0.106,0.0299,0.724,142.223
+1AyfLdcECHCAThbj46yF3i,Beep! Beep!,"Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.636,0.489,0,-11.162,1,0.0974,0.526,0.0,0.122,0.864,79.045
+1FdulvpRiLgkseCz7RrNOR,Quiet Nights of Quiet Stars (Corcovado),"Antônio Carlos Jobim, Frank Sinatra",Sinatra/Jobim: The Complete Reprise Recordings,0.388,0.255,0,-16.496,1,0.0332,0.77,0.0737,0.0838,0.25,107.426
+1H5IfYyIIAlgDX8zguUzns,Suspicious Minds,Elvis Presley,From Elvis in Memphis,0.487,0.382,7,-10.889,1,0.0309,0.0422,4.74e-06,0.411,0.714,116.557
+1NVQAySBhgFMn9HUtnm4bk,In The Mood,Roy Clark,The Lightning Fingers Of Roy Clark,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1ObPvYLwpxURIEKgdDUoxt,That's All,Bobby Darin,That's All,0.508,0.874,9,-0.764,0,0.207,0.667,0.0,0.198,0.888,152.642
+1UgjUBwaTMxPutMY4CQlV6,You,"Tommy Dorsey, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1hM17GopJXPqKaUVDVWzAD,Closer To The Bone,"Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.541,0.41,0,-12.274,0,0.303,0.387,0.0,0.0853,0.938,177.527
+1rvXymShkt4ClhiWEsn4ad,It Never Occurred To Me,The Four Freshmen,Blue World,0.275,0.219,0,-9.164,0,0.027,0.753,0.0,0.161,0.236,90.935
+1smChL3Aq1U9DZA83LuDtp,I Wanna Be Around...,Tony Bennett,I Wanna Be Around,0.498,0.266,10,-13.425,1,0.0348,0.768,0.0,0.0828,0.376,69.601
+1twS3AKB6npXZaTlZUCChm,Somebody Loves Me,The Four Freshmen,Blue World,0.475,0.342,0,-10.111,1,0.0681,0.709,0.0,0.357,0.653,159.476
+1vLPTWPfJSIrqOhNUWNfNY,It Was A Very Good Year - 2008 Remastered,Frank Sinatra,Nothing But The Best (2008 Remastered),0.259,0.242,7,-11.623,0,0.0307,0.902,2.15e-06,0.0808,0.132,128.819
+1xXydFs62EqOXFMPizVhn4,Salt Peanuts,Dizzy Gillespie,Groovin' High,0.701,0.393,5,-9.868,1,0.155,0.919,0.384,0.0964,0.791,75.908
+1xicvSO4CJ2ymqYgpk7DFh,"Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)","Miles Davis, John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers, Philly Joe Jones",Milestones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1xsY8IFXUrxeet1Fcmk4oC,In the Mood,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.624,0.304,8,-14.496,1,0.0822,0.929,0.173,0.0693,0.874,80.582
+22dKumbnRum9SdNXelKzJ5,What is This Thing Called Love,The Pied Pipers,What is This Thing Called Love?,0.702,0.28,3,-10.225,1,0.037,0.86,0.0,0.127,0.692,78.225
+27R6BDUt3ePcUWO8C9PIje,It Happened In Monterey - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.56,0.264,7,-12.828,1,0.0355,0.435,0.0,0.057,0.491,120.0
+286RkRWuFjPZD252MW334r,September Song,Eartha Kitt,The Collection,0.286,0.15,3,-17.659,1,0.0421,0.891,0.0536,0.144,0.105,134.931
+29U7stRjqHU6rMiS8BfaI9,What A Wonderful World,Louis Armstrong,What A Wonderful World,0.271,0.165,5,-20.652,1,0.0351,0.726,1.54e-06,0.118,0.202,77.082
+2CqLn79cH5biDHtgNU4u8t,"Blow, Red, Blow","Keely Smith, Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.669,0.447,0,-12.368,1,0.351,0.471,0.00161,0.0651,0.772,128.571
+2J0bqrTQEzMWdutO6mX4CA,Sugar Foot Stomp,The Pied Pipers,What is This Thing Called Love?,0.742,0.243,10,-11.013,1,0.105,0.926,0.0,0.0873,0.773,73.438
+2WaYW84yWij5NSCpgSeU2R,You Make Me Feel So Young - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.577,0.307,9,-11.556,1,0.0428,0.378,0.0,0.18,0.575,125.165
+2h4m68wLbG6g75thqhNA1T,Should I,The Pied Pipers,What is This Thing Called Love?,0.747,0.534,7,-5.683,0,0.0597,0.738,0.0,0.0868,0.949,107.047
+2jy1wczC6Fuym2eT2XVQQ6,"All The Things You Are (From ""Very Warm for May"" and ""Broadway Rhythm"")",Tommy Dorsey,The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2rVgZETOgFAuW8p8Uoq9as,You Never Told Me That You Care - stereo,Sun Ra & His Arkestra,Jazz in Silhouette (Expanded Edition),0.254,0.294,1,-11.875,1,0.0292,0.881,0.0955,0.419,0.15,144.112
+2rtIVB6FRsFuZluJLoKrrx,Oh Lady Be Good,Slim Gaillard,Slim Gaillard Cavorts,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2thCpvqBi9k1drA2oEZ2Co,How I'd Love To Love You,Nat King Cole,L-O-V-E,0.417,0.454,9,-8.118,0,0.0443,0.775,0.0,0.312,0.466,106.208
+2uyySHlUXP9AkOKaVWOqHS,Moonglow,"Eddy De Lange, Irving Mills, Will Hudson, Dick Hyman",Moonstruck - Original Motion Picture Soundtrack,0.681,0.217,5,-19.411,1,0.0476,0.772,0.484,0.12,0.438,131.361
+2x12Sb0lxMB5DR6Llzq5GA,True Love - Remastered,Dean Martin,This Time I'm Swingin',0.533,0.138,7,-16.204,1,0.034,0.721,0.0,0.0601,0.445,112.346
+2xar08Fq5xra2KKZs5Bw9j,I've Got a Woman,Ray Charles,"Ray Charles (aka: Hallelujah, I Love Her So)",0.556,0.61,9,-4.729,1,0.213,0.833,2.22e-06,0.258,0.665,199.373
+315M9V9URmaa6wJjTrW7ag,Gonna Get a Girl,Hoagy Carmichael,Gonna Get a Girl,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+32aADiWAHmOVzz0iLqyXZH,She Needs Me (aka He Needs Me),Bobby Darin,That's All,0.304,0.0701,3,-23.402,1,0.0346,0.794,0.000134,0.241,0.184,65.38
+382jcNwe10dnUcEJQ9xtgz,Where Is the One,Bobby Darin,That's All,0.227,0.0928,3,-22.175,1,0.0425,0.869,0.071,0.12,0.0893,83.71
+3898C4AbdbptwYet6547e5,The Girl From Ipanema,Stan Getz,The Girl From Ipanema - The Bossa Nova Years,0.666,0.194,5,-15.487,0,0.0357,0.91,4.03e-05,0.0829,0.443,129.86
+3BFRqZFLSrqtQr6cjHbAxU,Ain't Misbehavin',Fats Waller,"If You Got To Ask, You Ain't Got It!",0.515,0.222,0,-16.918,0,0.0575,0.821,0.00193,0.19,0.35,98.358
+3E5ndyOfO6vFDEIE42HA8o,Mack the Knife,Bobby Darin,That's All,0.549,0.529,3,-12.291,0,0.108,0.76,0.0,0.206,0.464,82.755
+3EvdZDyOBgEb5vuKpVNSg6,I Thought About You - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.583,0.233,1,-13.053,1,0.0367,0.69,4.72e-06,0.1,0.543,115.909
+3F4W9lrEsEcpVnlcGSBXb0,My Kind Of Girl,Nat King Cole,L-O-V-E,0.435,0.489,6,-8.054,1,0.0489,0.594,0.0,0.0621,0.581,148.04
+3FsrG1TIB79ONER5Fr1cCt,For Once In My Life,Frank Sinatra,My Way (Expanded Edition),0.412,0.523,10,-6.104,1,0.0493,0.636,0.0,0.337,0.526,83.164
+3JgcUoDbj2OMtan66M5DiW,That's the Way Love Is,Bobby Darin,That's All,0.582,0.587,2,-1.823,0,0.0373,0.64,0.0,0.28,0.699,129.316
+3KzgdYUlqV6TOG7JCmx2Wg,Beyond the Sea,Bobby Darin,That's All,0.521,0.516,2,-7.456,0,0.0369,0.723,0.0,0.257,0.569,136.483
+3LfUka6X3IR6NbJ1VcG8Vd,My Funny Valentine,Frankie Valli,Solo,0.47,0.798,7,-7.536,1,0.118,0.333,0.00205,0.448,0.679,97.513
+3aEJMh1cXKEjgh52claxQp,I've Got You Under My Skin - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.583,0.247,1,-12.612,1,0.04,0.448,9.7e-06,0.107,0.592,127.145
+3axzERaSp7ZLPzZTiIOT7x,Polly Wolly Doodle All the Day,The Pied Pipers,What is This Thing Called Love?,0.842,0.487,0,-8.689,1,0.0391,0.849,3.36e-06,0.36,0.845,97.897
+3nuBkpDZWcZyRg8DI4Ol5w,Please (with Anson Weeks & His Orchestra),"Bing Crosby, Anson Weeks, His Orchestra",The Essential Bing Crosby,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3spdoTYpuCpmq19tuD0bOe,My Way,Frank Sinatra,My Way (Expanded Edition),0.401,0.381,2,-7.458,1,0.0274,0.7,0.0,0.122,0.229,75.454
+3zBhihYUHBmGd2bcQIobrF,(Sittin' On) the Dock of the Bay,Otis Redding,The Dock of the Bay (Mono),0.768,0.367,2,-11.226,1,0.0315,0.683,1.79e-05,0.081,0.532,103.621
+3ziJFd6JeioC8Xfct0UXpJ,Moonlight Serenade,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.342,0.126,3,-11.857,1,0.0265,0.862,0.0998,0.146,0.147,77.873
+40fD7ct05FvQHLdQTgJelG,Splish Splash,Bobby Darin,Bobby Darin,0.645,0.943,0,-1.526,1,0.0393,0.385,0.0,0.37,0.965,147.768
+47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2,-9.885,0,0.0472,0.792,1.19e-06,0.125,0.817,83.729
+49LHJe8RmY5ViMMQj0aMdb,(What Did I Do To Be So) Black And Blue,Louis Armstrong,This Is Jazz Louis Armstrong Sings,0.414,0.105,0,-14.907,1,0.0549,0.826,0.0119,0.269,0.223,72.332
+4CeqTwwR2VUOqAyXz1vSMn,Anything Goes - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.649,0.217,8,-12.861,1,0.0434,0.761,0.0,0.19,0.622,120.013
+4FmCUATNIarCQh72JYdvnm,That's Life,Frank Sinatra,That's Life,0.56,0.434,4,-14.151,0,0.0729,0.55,0.0,0.346,0.664,112.803
+4HVqqvvkVfFtdTZ5oXIZX2,Sentimental Journey,"Keely Smith, Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.667,0.195,10,-14.464,1,0.0424,0.554,0.0,0.224,0.424,98.807
+4I4aQGNJ2HufloNtB65nxR,That's Amore,"Dean Martin, Dick Stabile And His Orchestra","Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",0.471,0.146,10,-13.6,1,0.0309,0.782,0.0,0.0888,0.595,78.554
+4Jvp4ztd2sDa7Vimwhfj04,Tennessee Saturday Night,The Pied Pipers,What is This Thing Called Love?,0.682,0.639,10,-6.842,1,0.0953,0.819,0.0,0.227,0.776,140.376
+4LfgeOiPsAjDgDYSgmntCU,I've Got The World On A String,Frank Sinatra,Ultimate Sinatra,0.572,0.372,2,-7.022,1,0.0513,0.809,0.0,0.3,0.499,123.437
+4ODWgs1CVAZKDbryEodjiz,"Theme From New York, New York",Frank Sinatra,Ultimate Sinatra,0.387,0.591,2,-5.32,1,0.0304,0.551,0.0,0.281,0.56,109.005
+4PGVC97OCoHgUSJ2651PTI,Babalucci,Lou Monte,Shaddap You Face,0.627,0.827,10,-10.456,1,0.0817,0.597,0.0,0.43,0.722,109.057
+4QxDOjgpYtQDxxbWPuEJOy,L-O-V-E,Nat King Cole,L-O-V-E,0.425,0.373,4,-7.543,1,0.0801,0.686,0.0,0.077,0.663,78.231
+4R6rf3KbP45JST6Cr3Enry,Mean To Me - Remastered/1998,Dean Martin,This Time I'm Swingin',0.615,0.145,7,-14.283,1,0.0422,0.748,0.0,0.0292,0.505,102.633
+4V4hfhAK4RKXVWkQz0CQO8,A Dreamer's Holiday,Perry Como,Perry Como with the Fontane Sisters (with The Fontane Sisters),0.58,0.128,9,-14.541,1,0.0704,0.966,0.0,0.376,0.414,84.375
+4WUcNkpoNSKoe5MUuyzrfC,You're Nobody 'Til Somebody Loves You - Remastered/1997,Dean Martin,This Time I'm Swingin',0.503,0.182,0,-16.651,0,0.0323,0.776,0.0,0.178,0.652,63.684
+4gUDdUr5yK0JGlR49zSRVt,Sea Of Love,Phil Phillips & The Twilights,Sea Of Love: The Collection,0.449,0.571,7,-5.848,1,0.0281,0.786,0.0,0.385,0.308,127.565
+4gphxUgq0JSFv2BCLhNDiE,Jailhouse Rock,Elvis Presley,Elvis' Golden Records,0.647,0.582,10,-9.538,0,0.0755,0.41,1.93e-06,0.0715,0.915,167.396
+4hHbeIIKO5Y5uLyIEbY9Gn,Come Fly With Me - Remastered 1998,Frank Sinatra,Come Fly With Me (Expanded Edition),0.494,0.338,6,-11.376,1,0.0464,0.847,0.0,0.165,0.499,134.106
+4l9hml2UCnxoNI3yCdL1BW,My Funny Valentine,Chet Baker,Chet Baker Sings,0.438,0.00756,0,-26.44,0,0.0382,0.941,0.00643,0.109,0.277,133.32
+4tmy6FB76bR5eLmx0zO1mn,Pennies From Heaven,"Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.515,0.408,8,-11.96,1,0.194,0.452,0.0,0.0682,0.915,185.767
+4zPDjRgceGrR0Sm54YDTTf,Autumn Nocturne,Lou Donaldson,Blues Walk,0.539,0.0678,0,-18.039,1,0.0468,0.967,0.168,0.114,0.263,124.105
+52XDumqYDUXX16R7FM5fpV,"It's Been a Long, Long Time (with Harry James & His Orchestra)","Kitty Kallen, Harry James",Best Of The Big Bands,0.272,0.219,0,-9.767,1,0.0305,0.938,0.00086,0.263,0.374,74.697
+53p58HCd2GdLKzIwvBX2ZV,The Lip - Remastered,"Louis Prima, Keely Smith",Capitol Collectors Series,0.71,0.261,0,-14.961,1,0.454,0.858,0.0,0.0539,0.664,142.423
+54TTy0pWx7UGYJnCjScJIE,The Girl From Ipanema - Remastered,Nat King Cole,L-O-V-E,0.514,0.372,7,-11.193,1,0.0506,0.665,0.0,0.381,0.413,118.864
 54igi8hshj93y8PjIaL5Fa,Get Happy/Happy Days Are Here Again (feat. Judy Garland),"Barbra Streisand, Judy Garland",Duets,0.226,0.392,8,-8.674,1,0.0333,0.972,3.04e-05,0.688,0.335,80.037
+5D4yBkYPvTRQXNhOPtS6QR,When You're Smiling/The Sheik Of Araby,"Louis Prima, Sam Butera & The Witnesses, Keely Smith",The Call Of The Wildest (Expanded Edition),0.603,0.688,7,-9.69,0,0.197,0.188,0.0,0.0688,0.803,117.789
+5L8ta4ECl5zeA6bGqY7G38,"Sing, Sing, Sing",Benny Goodman,The Essential Benny Goodman,0.62,0.67,2,-11.575,0,0.0591,0.853,0.896,0.156,0.295,113.492
+5MHAl3WVEOYgEmA7RXIrSv,Just In Time - Remastered 1998,Dean Martin,This Time I'm Swingin',0.57,0.196,2,-14.374,0,0.0442,0.667,0.0,0.104,0.612,127.3
+5NHYLN9SIwUSOKowWDPt3L,Some of These Days,Bobby Darin,That's All,0.461,0.32,2,-13.653,0,0.0474,0.614,0.0,0.0485,0.483,105.909
+5OkKOkdVTKFrYi6GWXkMzR,Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998,Dean Martin,This Is Dean Martin,0.612,0.144,6,-12.204,0,0.0352,0.88,0.0,0.203,0.343,128.629
 5RLzsVW6UNiV2YrOlKwzNN,Blue Moon - 1999 Remastered,Frank Sinatra,Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition),0.644,0.156,1,-16.529,1,0.0329,0.532,0.0,0.105,0.744,113.96
+5UfOTKJ286FZcqwJGV5IJr,I've Got The World On A String,"Keely Smith, Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5WPuFqw1PR4KKg2rSFzxry,"Oh, Look at Me Now",The Pied Pipers,What is This Thing Called Love?,0.806,0.167,2,-10.929,0,0.0441,0.843,0.0,0.413,0.675,115.419
+5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1,-15.485,1,0.035,0.968,1.55e-05,0.127,0.305,78.056
+5XeUMqS6mpTEspPgd5TLtg,Dream Lover,Bobby Darin,Sing & Swing with Bobby Darin,0.526,0.774,5,-1.692,1,0.0459,0.715,0.0,0.437,0.715,131.715
+5b7OgznPJJr1vHNYGyvxau,Fly Me To The Moon (In Other Words),"Frank Sinatra, Count Basie",Sinatra/Basie: The Complete Reprise Studio Recordings,0.668,0.26,7,-14.256,1,0.0523,0.453,0.0,0.0621,0.368,119.416
+5bTLfXbUwBU5jKhGgrPy9z,Exactly Like You - 1983 Satchmo Version,Louis Armstrong,Sings - Back Through The Years/A Centennial Celebration,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5k1gg6B8q7Zj3M2FjHVqdY,Swingin' Down The Lane - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.44,0.273,6,-12.346,0,0.0394,0.437,1.19e-06,0.136,0.614,123.375
+5lJlcm51WrBe4JuqFURvDP,You Brought A New Kind Of Love To Me - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.539,0.205,0,-13.896,1,0.032,0.465,0.0,0.117,0.491,107.954
+5qfnFTHPBMsU2A8X7nMryZ,More,Nat King Cole,L-O-V-E,0.372,0.348,7,-9.198,1,0.0375,0.783,0.0,0.332,0.398,108.307
+5uqqN7z9UNZ5jEzHHbKFN6,Through a Long and Sleepless Night,Bobby Darin,That's All,0.26,0.0664,3,-25.006,1,0.0404,0.609,0.0432,0.0856,0.155,64.93
+6115ks6fGkf7KYRDAi8lNK,Almost Like Being In Love - Remastered,Nat King Cole,Sings For Two In Love,0.447,0.487,7,-6.783,1,0.062,0.843,0.0,0.177,0.696,182.515
+62eAoNfrrS84177LOzJMQx,Papa Loves Mambo,Perry Como,Pure Gold,0.674,0.498,0,-10.07,1,0.13,0.512,2.05e-06,0.404,0.747,81.075
+64Ny7djQ6rNJspquof2KoX,Hound Dog,Elvis Presley,Elvis' Golden Records,0.494,0.756,0,-8.492,1,0.0499,0.733,0.00505,0.76,0.949,86.895
+6CjyHSmy4kNSeMG19rRHNu,Too Marvelous For Words - Remastered 1998,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),0.62,0.266,5,-11.963,1,0.0419,0.655,0.0,0.0589,0.574,125.983
+6FfxBy2B7s65v7IR15Xr0T,When Winter Comes,Artie Shaw,When Winter Comes,0.569,0.435,5,-10.527,0,0.171,0.924,0.11,0.808,0.752,167.101
+6Pkh51kA4YuxbtrnEgb3PJ,There's Love,Nat King Cole,L-O-V-E,0.467,0.356,6,-8.477,1,0.0281,0.704,0.0,0.15,0.325,95.306
+6PzJKbXZwPEF5BcNWd9c4H,Hour of Parting - stereo,Sun Ra & His Arkestra,Jazz in Silhouette (Expanded Edition),0.261,0.148,0,-12.811,1,0.0326,0.967,0.253,0.218,0.112,64.953
+6QgoqQs8PjtKCGuahX310I,Manhattan Reflections - Live,Ahmad Jamal,Live in Paris (1971),0.439,0.359,10,-19.181,0,0.0329,0.77,0.898,0.142,0.27,94.164
+6WdcvzQADmrL8nucimUV6r,We'll Meet Again,"Vera Lynn, Sailors, Soldiers & Airmen of Her Majesty's Forces, Roland Shaw And His Orchestra",Silver Memories: Our Vera,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6YYu8qFzcY1ZyzzsJIQM12,"Straight, No Chaser",Thelonious Monk,"Straight, No Chaser",0.465,0.35,3,-12.977,1,0.0403,0.41,0.279,0.135,0.62,93.336
+6ft9PAgNOjmZ2kFVP7LGqb,Can't Take My Eyes off You,Frankie Valli,The Very Best of Frankie Valli & The 4 Seasons,0.575,0.764,4,-7.448,1,0.0746,0.566,1.07e-05,0.0692,0.536,123.821
+6g82W4awZ4ZqSs2jUT5goS,Tis Autumn,Chet Baker,Chet (Keepnews Collection),0.56,0.0641,0,-19.546,0,0.0374,0.97,0.898,0.0694,0.257,107.802
+6mcDe5GXUZn6eF7mC5l3Hg,I Can't Believe That You're In Love With Me - Remastered/1998,Dean Martin,This Time I'm Swingin',0.589,0.202,1,-13.74,1,0.0376,0.672,0.0,0.348,0.769,135.329
+6nUJnuKvGXf1UDk79zSNsq,The Big Apple,"Tommy Dorsey & His Clambake Seven, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6onxtdIaUHiO2Uqm5PnG1l,Love Thy Neighbor - 1954 Version _ With Spoken Introduction,"Bing Crosby, Buddy Cole Trio",Bing: A Musical Autobiography,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6tKwEX4XMj9lsYiADOwM9P,The Trolley Song,The Pied Pipers,What is This Thing Called Love?,0.75,0.216,0,-9.151,1,0.0347,0.842,0.0,0.569,0.818,123.58
+77fcHU89KRyKKRDskWKOoY,On The Sunny Side Of The Street - 1993 Digital Remaster,Nat King Cole Trio,The Nat King Cole Trio - The Complete Capitol Transcription Sessions,0.87,0.0993,5,-17.241,0,0.0544,0.994,0.142,0.0879,0.482,125.725
+78MI7mu1LV1k4IA2HzKmHe,Dream A Little Dream Of Me - Single Version,"Ella Fitzgerald, Louis Armstrong","Love, Ella",0.443,0.104,0,-17.042,1,0.101,0.913,0.0,0.191,0.394,76.474
+79kiNjpdE0SJxgYZxNMDsC,Softly as in a Early Morning Sunrise,Bobby Darin,That's All,0.48,0.409,2,-12.748,0,0.111,0.804,0.0,0.167,0.626,66.518
+7EqqjTZRfZiIx2bIvCMrXk,Gone to Chicago,The Pied Pipers,What is This Thing Called Love?,0.659,0.594,10,-7.279,1,0.0881,0.825,0.0,0.485,0.635,128.094
+7Kqk5EpwqiukPkDutSFFZk,Did I Remember,Catherine Russell,Send For Me,0.677,0.264,8,-9.111,1,0.0357,0.904,0.00601,0.0825,0.438,120.974
 7MVfPm6vfuyLJ0Yzvz2CJl,When I Get Low I Get High,"Ella Fitzgerald, Chick Webb",The Early Years - Part 1 (1935-1938),0.608,0.356,2,-11.422,0,0.468,0.852,0.00231,0.0737,0.748,199.399
+7a5VuzvBrtbqYT7kNlQlFd,Chattanooga Choo Choo,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.588,0.312,5,-10.461,1,0.074,0.947,2.07e-05,0.445,0.639,144.768
+7fQ3PYTYdu208fQ3JEm2U7,Ain't That A Kick In The Head,Dean Martin,"Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",0.586,0.253,6,-11.93,0,0.0538,0.604,0.0,0.3,0.718,108.168
+7gxW8hMXEUkc1G3m7z9vei,More - Remastered 2004,Bobby Darin,The Legendary Bobby Darin,0.498,0.484,5,-8.74,0,0.0315,0.481,0.0,0.243,0.691,152.498
+7h5vX0dpOU8SZQYcYnsEAh,Choo Choo Ch'Boogie,Louis Jordan,No Moe! Louis Jordan's Greatest Hits,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7oFF3RCyHHQwKmPQuAOS1g,The Pump Song,"Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.57,0.411,5,-9.539,1,0.445,0.582,0.0,0.265,0.861,175.372
+7panOKXXXEswxSNbNCToi2,Dolores,The Pied Pipers,What is This Thing Called Love?,0.584,0.247,5,-12.074,0,0.0293,0.896,1.33e-06,0.213,0.593,102.628
+7rba4qJ8IV3MYpD0ayPsmE,St. Louis Blues,The Pied Pipers,What is This Thing Called Love?,0.601,0.454,3,-6.532,1,0.0545,0.877,0.0,0.313,0.964,165.598
+7uyZDmvtrj60HzN1OmV3ZC,Moonglow - Take 1,Benny Goodman Quartet,Ultimate Big Band Collection: Benny Goodman,0.631,0.113,0,-19.537,0,0.0463,0.993,0.864,0.104,0.301,103.649
+7xjItXmWnl7AmXCsLBbq1j,Swiss Retreat,Nat King Cole,L-O-V-E,0.576,0.453,6,-7.319,1,0.127,0.757,0.0,0.157,0.694,68.976
+7xy0PAZxzGDOcYzyptvprd,Swinging On A Star - Single Version,Bing Crosby,Swinging On A Star,0.705,0.167,0,-13.137,1,0.0603,0.897,0.0,0.101,0.724,139.817

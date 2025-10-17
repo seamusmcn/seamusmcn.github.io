@@ -1,418 +1,436 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
-5nw2rQXAjfpZNaMzAJ8qTX,Smoko,The Chats,Get This In Ya,0.675,0.615,11,-10.674,1,0.0538,0.00395,0.0041,0.166,0.25,86.703
-3bg0C4y3BvpaB0TPj5sQlf,Bus Money,The Chats,Get This In Ya,0.47,0.62,0,-9.26,1,0.195,0.0772,0.00449,0.0999,0.656,175.385
-5fbQCQt91LsVgXusFS0CCD,Disorder - 2007 Remaster,Joy Division,Unknown Pleasures (Collector's Edition),0.32,0.798,10,-7.078,0,0.124,0.00033,0.692,0.176,0.74,84.696
-150NSrON3DeZM1aLyz3MoM,Born to Lose,Johnny Thunders & The Heartbreakers,L.A.M.F. - The Lost '77 Mixes,0.395,0.892,11,-8.07,1,0.0537,0.0797,0.0,0.706,0.67,148.43
-29Nv2tMZ6NuVwGpQkgz51x,Bare Feet on Wet Griptape,Chad VanGaalen,Soft Airplane,0.642,0.914,0,-6.079,1,0.0394,0.249,0.368,0.0948,0.673,130.385
-2g0SftYdRnQVZw8qEdC0Ut,Diamonds in the Rough,Dead Moon,Nervous Sooner Changes,0.323,0.715,9,-6.722,1,0.0451,0.00146,0.565,0.0895,0.71,174.787
-76HbcynjAd321EQGFqgLIQ,Almost ready,Dinosaur Jr.,Beyond,0.188,0.97,7,-4.135,1,0.106,0.0767,0.00153,0.367,0.224,159.604
-15ryA6NGMbP51thG1V2Dd9,The Gravy,Japanther,Yer Living Grave,0.551,0.859,2,-5.364,1,0.0552,0.503,0.832,0.0911,0.889,92.92
-4gqNhC8zmLjfoWb2DqIF6J,Punching Goodbye Out Front,Kinski,Down Below It's Chaos,0.244,0.804,0,-7.072,1,0.0343,2.22e-05,0.769,0.397,0.45,82.479
-56VEsTg2eYBhSrBp85HUWo,The Other Side,Love City,Love City EP,0.212,0.927,11,-2.993,0,0.174,0.0769,0.00251,0.0352,0.327,164.204
-3FzKPS0oVknVlCW3PhxIHl,Debaser,Pixies,Doolittle,0.487,0.885,5,-12.005,1,0.0427,0.000397,0.347,0.0973,0.579,135.516
-20A08NCQknognYF4i9EyGu,Eyes Of A Panther,Steel Panther,Feel The Steel,0.392,0.961,5,-3.323,0,0.127,0.000744,0.0,0.0924,0.576,88.627
-69YhLz5ooQkgSXRElQbkd6,750-4,The Demonics,Formaldehyde Injection,0.427,0.929,9,-5.512,1,0.0862,1.73e-05,1.36e-05,0.472,0.736,113.321
-3hplBjBmQqR49L8THyjTdb,London Dungeon,Misfits,Collection,0.344,0.912,0,-11.219,1,0.164,0.109,0.0973,0.19,0.273,170.842
-41mVbwPB5Gq9yfMdM9zPbb,A Pillar Of Salt,The Thermals,"The Body, The Blood, The Machine",0.218,0.982,11,-3.067,1,0.161,0.0015,0.0,0.42,0.224,171.099
-5ByJlcDmUzK69tpub789AB,Dead End Friends,Them Crooked Vultures,Them Crooked Vultures,0.343,0.963,6,-3.354,1,0.106,0.00338,0.0136,0.72,0.55,151.496
-4ZuC5MfGjRQs3pZtPxqMYP,Shadowplay - 2007 Remaster,Joy Division,Unknown Pleasures (Collector's Edition),0.433,0.756,9,-7.855,1,0.0565,0.000997,0.761,0.124,0.117,145.443
-0rcLhYRihks3t4lFPtHhQV,She's Lost Control - 2007 Remaster,Joy Division,Unknown Pleasures (Collector's Edition),0.485,0.846,11,-7.63,0,0.0528,0.0157,0.0287,0.0766,0.743,144.246
-1UWbBFaZNksb3AmgldkprR,Isolation - 2007 Remaster,Joy Division,Closer (Collector's Edition),0.544,0.783,0,-8.12,1,0.054,0.048,0.00734,0.0917,0.697,151.522
-1783hGvOoFRkxtW8QxjGWS,Little League,Cap'n Jazz,Analphabetapolothology,0.299,0.913,9,-7.645,1,0.0598,0.00158,0.00331,0.122,0.156,101.059
-5UGOuPyoMT5XHNA75LJlQE,Oh Messy Life,Cap'n Jazz,Analphabetapolothology,0.472,0.907,7,-6.386,1,0.0545,0.000691,0.000532,0.102,0.376,107.294
-3WS9ak7rsRENV3cV9VRf2D,Flashpoint: Catheter,Cap'n Jazz,Analphabetapolothology,0.335,0.568,2,-9.642,1,0.0313,0.000947,8.01e-05,0.245,0.126,148.592
-39wTY67FQ9UBbhXJMECw89,Basil's Kite,Cap'n Jazz,Analphabetapolothology,0.258,0.825,4,-6.065,1,0.035,0.0301,0.067,0.0725,0.318,107.92
-52N5LDX2m2NUcfChskyeRw,The Sands've Turned Purple,Cap'n Jazz,Analphabetapolothology,0.325,0.914,7,-6.285,1,0.159,0.0394,0.000307,0.119,0.187,147.241
-39Govw9YdNxaFgAqM4DBp0,Que Suerte!,Cap'n Jazz,Analphabetapolothology,0.279,0.92,9,-6.031,1,0.104,0.0106,0.00156,0.122,0.179,126.831
-6kkNs6XdyUSIWZ4piwxxYS,Take On Me,Cap'n Jazz,Analphabetapolothology,0.437,0.703,6,-6.958,0,0.0376,0.00104,0.000719,0.0857,0.524,93.134
-3gEgqQth1OY9XkDmYX1U9F,Ooh Do I Love You,Cap'n Jazz,Analphabetapolothology,0.32,0.877,9,-6.26,1,0.0757,0.0014,0.0378,0.302,0.349,114.095
-1N9jgehBjc3XVjxMv7Eiue,Puddle Splashers,Cap'n Jazz,Analphabetapolothology,0.451,0.846,9,-7.01,1,0.0332,0.00977,2.05e-06,0.0923,0.436,97.711
-709jSf28wullbohwDoGP3k,Rocky Rococo,Cap'n Jazz,Analphabetapolothology,0.255,0.674,2,-9.865,1,0.0379,0.286,0.0461,0.258,0.389,171.432
-4Oowss1JKwLSd1aL9Bf9vs,Jesus Chrysler Super Stock,The Demonics,Formaldehyde Injection,0.402,0.96,6,-5.695,1,0.0647,0.000118,1.51e-05,0.299,0.462,103.424
-18DlbpndqmCBHdjNbUgUzs,Super Bee,The Demonics,Formaldehyde Injection,0.302,0.963,11,-4.908,1,0.0573,1.68e-06,0.000422,0.212,0.745,105.956
-1YAvNI0QfzHhIucLv5nezB,Regan,The Demonics,Formaldehyde Injection,0.424,0.905,9,-5.945,1,0.0503,0.000207,0.00113,0.287,0.403,106.253
-7wCmS9TTVUcIhRalDYFgPy,Where Is My Mind_ - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.519,0.441,4,-14.178,1,0.0353,0.0204,0.000453,0.076,0.25,81.334
-55Uj19sHmOFYccIbTPE3gV,Ed Is Dead,Pixies,Come On Pilgrim,0.574,0.716,9,-11.664,0,0.0392,0.0119,3.54e-05,0.277,0.688,127.014
-3tc5tmcnmuZ2xTdHCqhfSe,The Holiday Song,Pixies,Come On Pilgrim,0.314,0.846,0,-10.787,1,0.0524,0.175,0.0,0.0972,0.604,161.323
-6JSUd8Xqzfiopc31BL6bqL,Levitate Me,Pixies,Come On Pilgrim,0.484,0.66,4,-10.049,1,0.0581,0.0717,0.0,0.0807,0.544,121.914
-6ptzEN5p1hdSxFiLfArq3G,Tony's Theme - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.479,0.692,2,-11.988,1,0.179,0.0206,0.0,0.231,0.584,165.307
-6uaj6U0RWkjtXnk5550ZTC,Brick Is Red - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.573,0.524,7,-14.983,1,0.0332,0.0615,0.0104,0.259,0.74,120.842
-51Z2IzJvLCnZaIpBV0IYRr,Wave Of Mutilation,Pixies,Doolittle,0.587,0.811,5,-10.824,1,0.0328,0.000135,0.472,0.0901,0.75,132.727
-4IvZLDtwBHmBmwgDIUbuwa,Here Comes Your Man,Pixies,Doolittle,0.669,0.795,2,-10.865,1,0.0285,0.00772,0.0781,0.401,0.882,124.594
-6YhMbOm0HwrGvnAyu4b6dL,I Bleed,Pixies,Doolittle,0.487,0.518,11,-13.004,0,0.0361,0.000421,0.0251,0.11,0.762,170.856
-6BT7qiDY4A5tOyklohjQuW,Monkey Gone to Heaven,Pixies,Doolittle,0.654,0.39,6,-10.638,0,0.0307,0.00418,0.0069,0.271,0.566,116.572
-6IS6LHFGa3Et5XRD78F4Ow,AOK,Cap'n Jazz,Analphabetapolothology,0.292,0.887,2,-6.949,1,0.0583,0.00033,8.64e-06,0.184,0.496,100.447
-1kV1258EHwYDPeTi5BlE3O,Theme To 90210,Cap'n Jazz,Analphabetapolothology,0.669,0.442,7,-13.881,1,0.0396,0.885,0.872,0.109,0.439,120.284
-5VCmFl6YgKZqSnyxwYGQGj,Ooh Do I Love You,Cap'n Jazz,Analphabetapolothology,0.386,0.34,11,-13.195,1,0.0394,0.929,0.0689,0.11,0.145,94.19
-6x0cOqPP07gTXusQfK9COQ,La La Love You,Pixies,Doolittle,0.702,0.653,2,-12.886,1,0.0376,0.00089,0.178,0.11,0.597,124.499
-7GbTJsrNPXCoOWJ5vu2vSe,There Goes My Gun,Pixies,Doolittle,0.572,0.843,11,-12.046,0,0.0458,0.0122,0.737,0.0992,0.717,126.322
-20I8RduZC2PWMWTDCZuuAN,Take Me Out,Franz Ferdinand,Franz Ferdinand,0.277,0.663,4,-8.821,0,0.0377,0.000409,0.00051,0.136,0.527,104.561
-4YbslGpDoOgJgH8wqSdfaP,Garbage Truck,Sex Bob-Omb,Scott Pilgrim vs. the World (Original Motion Picture Soundtrack),0.494,0.839,2,-4.458,1,0.127,0.299,0.0,0.467,0.668,133.481
-5QLHGv0DfpeXLNFo7SFEy1,1979 - Remastered 2012,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),0.767,0.787,3,-9.897,1,0.0331,0.0163,0.583,0.0513,0.964,126.879
-3CbAW3GjkBKfErt4LLbSzr,Stop Whispering,Radiohead,Pablo Honey,0.212,0.696,2,-10.059,1,0.0472,0.000849,0.0165,0.129,0.298,122.35
-23oUaizFBFVFI5PxJrkiO5,Anyone Can Play Guitar,Radiohead,Pablo Honey,0.293,0.812,4,-10.772,0,0.0546,0.000101,0.000756,0.332,0.555,150.743
-6HbWoyinLdXPZmk6xONuKw,Vegetable,Radiohead,Pablo Honey,0.382,0.717,6,-8.868,1,0.0339,0.00281,0.569,0.187,0.419,105.82
-2wOvYLilnDJfuPXGHGFAWZ,Ripcord,Radiohead,Pablo Honey,0.255,0.906,2,-10.436,1,0.0548,1.98e-05,0.358,0.322,0.256,137.951
-7oDFvnqXkXuiZa1sACXobj,The Bends,Radiohead,The Bends,0.23,0.755,7,-8.065,1,0.0658,0.0115,0.141,0.363,0.312,91.608
-2a1iMaoWQ5MnvLFBDv4qkf,High and Dry,Radiohead,The Bends,0.419,0.383,4,-11.782,1,0.0256,0.0724,0.0176,0.0896,0.35,87.568
-73CKjW3vsUXRpy3NnX4H7F,Fake Plastic Trees,Radiohead,The Bends,0.463,0.229,2,-12.592,1,0.0297,0.167,0.0997,0.202,0.135,73.543
-1tZcw7GtIqviL32bzaKdSo,(Nice Dream),Radiohead,The Bends,0.263,0.566,9,-11.075,1,0.0344,0.163,0.261,0.225,0.375,172.851
-5qsgK2wcodYCEbgbdCpYOG,How Do You_,Radiohead,Pablo Honey,0.185,0.964,9,-8.316,1,0.084,0.000659,0.879,0.107,0.238,147.351
-6UO72VSXEONxdfLyABihs9,Black Star,Radiohead,The Bends,0.289,0.555,7,-7.434,1,0.0402,0.00312,0.0496,0.27,0.306,158.671
-6LgJvl0Xdtc73RJ1mmpotq,Paranoid Android,Radiohead,OK Computer,0.251,0.848,5,-6.501,1,0.0579,0.0377,0.00591,0.0545,0.207,163.709
-2CVV8PtUYYsux8XOzWkCP0,Subterranean Homesick Alien,Radiohead,OK Computer,0.312,0.595,0,-8.919,1,0.0298,0.0484,0.00139,0.103,0.337,150.502
-0z1o5L7HJx562xZSATcIpY,Exit Music (For A Film),Radiohead,OK Computer,0.293,0.276,4,-11.357,0,0.0349,0.224,0.122,0.167,0.195,121.603
-2fuYa3Lx06QQJAm0MjztKr,Let Down,Radiohead,OK Computer,0.351,0.676,9,-9.017,1,0.0313,0.000121,0.113,0.18,0.143,102.46
-63OQupATfueTdZMWTxW03A,Karma Police,Radiohead,OK Computer,0.36,0.501,7,-9.129,1,0.0258,0.0638,9.32e-05,0.172,0.324,74.807
-14xj58ZexBaEaHARb11Cqs,Lucky,Radiohead,OK Computer,0.213,0.4,11,-9.813,0,0.0324,0.053,0.612,0.111,0.195,133.369
-0YJ9FWWHn9EfnN0lHwbzvV,Jigsaw Falling Into Place,Radiohead,In Rainbows,0.462,0.832,11,-6.085,0,0.0479,0.108,0.00416,0.0741,0.807,165.653
-3ow0TQVttXQF8rLckmXgRx,Cherub Rock - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.382,0.867,9,-7.426,1,0.0399,5.91e-06,0.581,0.196,0.453,87.309
-0u5aO1GYsIhAWCPuXdwnak,Today - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.456,0.826,8,-7.611,1,0.0268,3.35e-05,0.57,0.0548,0.415,82.539
-59d0TRQ1IlsRQfBEtGmj5N,Rocket - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.195,0.665,0,-9.097,1,0.0345,2.8e-06,0.928,0.0723,0.358,89.005
-6YIggUJW3ttAAPRdnki8RM,Disarm - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.527,0.418,4,-10.205,0,0.0277,0.142,0.775,0.139,0.218,129.516
-1EGa3uFmvkGChrZeIKxGwB,Soma - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.291,0.281,7,-11.798,1,0.0324,0.0241,0.83,0.115,0.0981,134.683
-4KcH1ZRV2W1q7Flq0QqC76,Blitzkrieg Bop - 2016 Remaster,Ramones,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),0.385,0.783,9,-2.533,1,0.233,0.000269,0.47,0.108,0.902,176.701
-5ALCHMO9Fmvn1Ly18Q3apL,Last Caress - C.I. Recording 1978,Misfits,The Misfits Box Set,0.33,0.906,0,-9.607,1,0.0513,0.533,0.0208,0.15,0.418,91.186
-4vsoWZcvtvSsE0OiVvDDvX,Harness Your Hopes - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.604,0.573,2,-7.804,1,0.037,0.289,0.0406,0.133,0.581,107.862
-3H7lUDRaFAXi5hcEzd2GsU,Bikeage,Descendents,Milo Goes to College,0.251,0.86,5,-8.505,1,0.0517,0.00121,0.0,0.356,0.749,194.06
-7CGCtE7X2QNH2jeBroGqDq,In a Jar,Dinosaur Jr.,You're Living All Over Me,0.317,0.941,2,-5.632,1,0.0729,0.000825,0.000651,0.1,0.625,157.958
-5Og9VyCOfxmZCuv1UhIyxE,Six Pack,Black Flag,Damaged,0.33,0.784,2,-15.285,1,0.19,0.157,2.08e-05,0.58,0.196,115.402
-4kFfFe38CRVnTsakUTL4E4,Rise Above,Black Flag,Damaged,0.374,0.816,2,-13.88,1,0.0578,0.119,8.01e-06,0.0808,0.138,104.56
-7HHle8A6urSZT4RxkDQIiz,Good Good Things,Descendents,I Don't Want to Grow Up,0.317,0.7,0,-11.784,1,0.0367,0.0929,3.2e-06,0.109,0.519,175.646
-3LI4MmibTkXH5cGpCGZgyw,Teenage Dirtbag,Wheatus,"Songs From Dawson's Creek, Vol. II",0.617,0.84,4,-4.063,1,0.0512,0.36,8.85e-05,0.179,0.57,94.676
-7ap5NaoYRB6TJdrhX5Fej8,Hybrid Moments - C.I. Recording 1978,Misfits,The Misfits Box Set,0.17,0.81,2,-9.339,1,0.0521,0.27,0.0445,0.104,0.547,193.791
-2JEu7iASb118tsMC53yQ3t,Bulbs of Passion,Dinosaur Jr.,Dinosaur,0.122,0.947,2,-4.735,1,0.195,0.00578,0.848,0.158,0.28,85.668
-0lWSwb3y9pqMQ4AcaMbs7x,Forget The Swan,Dinosaur Jr.,Dinosaur,0.346,0.944,9,-3.733,0,0.0934,0.0022,0.00922,0.0548,0.709,75.872
-11Jn1q1hKzfrSCy6bjaOYs,Cats In a Bowl,Dinosaur Jr.,Dinosaur,0.304,0.991,0,-3.206,1,0.218,8.28e-05,0.377,0.303,0.395,78.62
-3gnECjoda7OKT4qD18rKfa,The Leper,Dinosaur Jr.,Dinosaur,0.261,0.99,9,-3.432,1,0.167,0.00221,0.165,0.0854,0.39,90.243
-2YM0kfevj552icN9DisbT9,I'm Straight,The Modern Lovers,The Modern Lovers (Expanded Version),0.559,0.444,9,-9.664,1,0.0876,0.378,0.0,0.149,0.493,138.435
-3TtILP6ufeAsUQ6eH41ILA,Repulsion,Dinosaur Jr.,Dinosaur,0.379,0.967,11,-3.953,0,0.0821,0.000347,0.00678,0.0688,0.798,145.744
-1DKTXW8RFn6c1yYRQAPlGP,Little Fury Things,Dinosaur Jr.,You're Living All Over Me,0.211,0.952,6,-4.169,0,0.0972,0.069,0.03,0.262,0.395,128.376
-3UjkBG3I1rs4GKvbqcJ8YP,Sludgefeast,Dinosaur Jr.,You're Living All Over Me,0.131,0.961,9,-3.582,1,0.0618,0.019,0.0436,0.207,0.573,165.976
-4GpfNpkzSwYfATmZJhVuJB,The Lung,Dinosaur Jr.,You're Living All Over Me,0.122,0.996,0,-3.929,1,0.156,0.00136,0.361,0.204,0.181,177.865
-5xH7X05cbp7vtwFSdOUPEb,Raisans,Dinosaur Jr.,You're Living All Over Me,0.112,0.982,7,-3.46,1,0.0881,0.00593,0.43,0.344,0.144,167.136
-7oDDV1cal0M0RIjr4HuuJ9,Gouge Away,Pixies,Doolittle,0.658,0.475,4,-12.688,1,0.033,0.000892,0.0194,0.105,0.461,125.747
-1XFG00rEeHaDIPOQv9LTYs,I'm Not a Loser,Descendents,Milo Goes to College,0.33,0.883,6,-8.22,0,0.0533,0.0013,0.0,0.359,0.832,100.842
-0R4l2uRfvKmalvsl6XJtrm,Kracked,Dinosaur Jr.,You're Living All Over Me,0.166,0.969,0,-5.324,1,0.096,0.0598,0.0201,0.947,0.312,164.24
-5E5HYgxGMp3BPakHGfKfIB,Roadrunner,The Modern Lovers,The Modern Lovers (Expanded Version),0.462,0.84,2,-6.666,1,0.0346,4.98e-05,6.47e-05,0.0893,0.804,75.54
-69u4YVuqKoVp3nZmpyxC8I,Just Like Heaven,Dinosaur Jr.,You're Living All Over Me,0.223,0.962,7,-4.963,1,0.0993,0.103,0.0289,0.24,0.518,162.51
-4tBl1xhBg5PETpBvFnQmGl,Cut Your Hair,Pavement,"Crooked Rain, Crooked Rain",0.472,0.735,4,-9.822,0,0.0305,0.00596,0.00124,0.166,0.643,110.809
-6jR6FMCEoWGdEpFVRlMZM7,Range Life,Pavement,"Crooked Rain, Crooked Rain",0.557,0.735,9,-9.43,1,0.0295,0.0405,1.31e-05,0.102,0.702,112.805
-6qmFqZpBMbPEDw4vniOdMv,Spit on a Stranger,Pavement,Terror Twilight,0.275,0.529,2,-11.084,1,0.0377,0.187,0.238,0.116,0.445,164.896
-3QVtDnXU5zqGWxWDFBMiDj,Gold Soundz,Pavement,"Crooked Rain, Crooked Rain",0.448,0.614,9,-9.357,1,0.031,0.0675,0.0,0.14,0.479,126.459
-28c4nfBHdb3xviamRCEsIe,Feel the Pain,Dinosaur Jr.,Without a Sound,0.34,0.804,0,-8.355,1,0.0516,0.00331,0.0191,0.0727,0.854,131.5
-0lBO2VOhlNNx879Fjd9XY3,Velouria,Pixies,Bossanova,0.488,0.634,6,-12.596,1,0.0329,0.00181,0.245,0.0819,0.508,124.624
-7yHKJKvbi5xfHj0QTWUdDT,Mildred Pierce,Sonic Youth,Goo,0.324,0.925,9,-10.644,0,0.0612,3.85e-05,0.652,0.695,0.502,159.519
-0WIbzDVEpmOyBnqqdtqIL9,Teen Age Riot (Album Version),Sonic Youth,Daydream Nation (Deluxe Edition),0.286,0.907,7,-9.67,1,0.0374,0.000277,0.202,0.0837,0.746,156.395
-1ZozGivTAYsOwhy6LVHsPX,Kool Thing,Sonic Youth,Goo,0.262,0.82,7,-11.621,1,0.0428,0.0103,0.0914,0.101,0.254,155.197
-5Ext9ObPEi7wIcv5AiQWJy,Superstar,Sonic Youth,If I Were A Carpenter,0.317,0.498,5,-9.137,0,0.0315,0.0515,0.306,0.121,0.141,84.563
-5ZNdRdZ2inm4ksA8keadDs,Sunday,Sonic Youth,A Thousand Leaves,0.619,0.888,1,-6.983,1,0.0301,0.00457,0.623,0.119,0.424,130.1
-0lDoG5fQ9cmpvpenwR7Jln,Incinerate,Sonic Youth,Rather Ripped,0.446,0.866,8,-8.016,1,0.0342,0.0794,0.543,0.137,0.455,152.172
-22t3vCXfjQhIiXzGVSZNOz,Schizophrenia,Sonic Youth,Sister,0.356,0.696,2,-11.461,1,0.0366,0.19,0.867,0.104,0.562,134.66
-5X9c0LL84kJN8Ok2UC6B6w,Dirty Boots,Sonic Youth,Goo,0.314,0.665,11,-13.868,0,0.039,0.208,0.216,0.0751,0.182,141.906
-5qZ4c1EBVWpmz1GBaks8Uq,Bloodhail,Have A Nice Life,Deathconsciousness,0.182,0.607,8,-9.543,0,0.0349,0.0332,0.00786,0.166,0.41,75.562
-0oPnyCLqcn2ZNzwy5pLKDR,"Holy Fucking Shit: 40,000",Have A Nice Life,Deathconsciousness,0.427,0.388,0,-11.005,0,0.0332,0.89,0.96,0.268,0.139,122.274
-72WzLBoSQggMZ0S5hm95VH,Soul And Fire,Sebadoh,Bubble & Scrape,0.431,0.618,8,-9.404,1,0.0266,0.0257,0.000697,0.0837,0.325,99.329
-56Q8GaEPssuYI7VyqxPzxh,Skull - Remastered,Sebadoh,Bakesale: Deluxe Edition,0.281,0.635,6,-9.885,1,0.0315,8.87e-05,0.495,0.111,0.386,138.551
-5D6e2eR7ibXaeYCM9SkLts,Not Too Amused - Remastered,Sebadoh,Bakesale: Deluxe Edition,0.367,0.824,6,-7.783,1,0.0619,0.399,0.0255,0.107,0.446,105.756
-4hjMwtr7tPmU62d32Hwia5,License to Confuse - Remastered,Sebadoh,Bakesale: Deluxe Edition,0.333,0.871,8,-5.805,0,0.0375,0.000204,0.128,0.349,0.881,136.479
-4l27J9YJWlSnwRYR1m2Oxa,Flame,Sebadoh,The Sebadoh,0.488,0.962,6,-6.737,1,0.063,0.0397,0.429,0.178,0.486,130.341
-7pADnbKBmN6bY2YfLXCIgU,Minor Threat,Minor Threat,First Two Seven Inches,0.272,0.909,2,-7.476,1,0.0529,0.00145,0.00221,0.207,0.947,166.453
-1x8N5sNHdQtY328uP5DxIp,Straight Edge,Minor Threat,First Two Seven Inches,0.258,0.96,5,-6.44,1,0.0602,0.000658,0.0192,0.339,0.789,188.899
-6DOJgDuUVDaJ98GQxwyLTh,What You Do To Me,Teenage Fanclub,Bandwagonesque,0.507,0.595,2,-12.754,1,0.0314,0.00055,0.156,0.264,0.785,115.013
-1vnKvlb6cj5NLpd1BMJ2jD,Summer Babe - Winter Version,Pavement,Slanted & Enchanted,0.371,0.854,2,-5.91,1,0.0288,4.84e-06,0.845,0.0617,0.568,97.517
-6PZ7dOM7QOPhPPaC4JJP7K,Trigger Cut/Wounded-Kite At :17,Pavement,Slanted & Enchanted,0.543,0.849,0,-5.76,1,0.0543,0.271,7.76e-05,0.0708,0.2,122.367
-0aHSNMugqIGHxc1G1haX8B,No Life Singed Her,Pavement,Slanted & Enchanted,0.403,0.902,7,-5.209,1,0.0728,0.000907,0.0854,0.297,0.0731,131.766
-4HVJbdy5mP3OiOLmcN8zeg,In The Mouth A Desert,Pavement,Slanted & Enchanted,0.454,0.749,0,-4.201,1,0.0335,0.00397,0.0045,0.0942,0.443,105.399
-54aFuAQ048II4Trz9ZwhLP,Zurich Is Stained,Pavement,Slanted & Enchanted,0.624,0.676,0,-8.134,1,0.0291,0.235,0.00301,0.0957,0.377,128.537
-1D9HqfQrkUc5Ru0C9KCDHp,Loretta's Scars,Pavement,Slanted & Enchanted,0.255,0.91,5,-5.644,0,0.045,5.73e-06,0.907,0.328,0.635,109.261
-5Kf86o9j8foGuExTJVoejE,Here,Pavement,Slanted & Enchanted,0.521,0.401,9,-6.699,1,0.0349,0.84,0.0137,0.113,0.294,92.465
-38gZfTSpU9M60STTmkmkNh,Two States,Pavement,Slanted & Enchanted,0.605,0.736,2,-6.168,1,0.0431,0.000595,7.27e-05,0.275,0.866,130.103
-4AXlzJXXEdmNoCBgLosO9q,Perfume-V,Pavement,Slanted & Enchanted,0.472,0.793,0,-6.095,1,0.0333,1.63e-05,0.742,0.135,0.442,126.345
-5euU7XkSz3QoOrkEOBGHZs,"Jackals, False Grails: The Lonesome Era",Pavement,Slanted & Enchanted,0.416,0.973,2,-5.836,0,0.0401,0.000435,0.828,0.148,0.866,98.961
-7xGxYR5TH0yaftnppHmOPy,Open,The Cure,Wish,0.482,0.787,7,-11.485,0,0.0481,0.0232,0.399,0.0831,0.39,112.108
-2iVtt0mYIL26IGAgRkhHT5,High,The Cure,Wish,0.618,0.717,9,-12.107,1,0.03,0.0164,0.000339,0.0594,0.761,114.802
-2vwBL9RVyr0vA4Og5VH0i3,From the Edge of the Deep Green Sea,The Cure,Wish,0.467,0.678,4,-10.581,0,0.0313,0.0135,0.000569,0.174,0.345,111.106
-2A2ep0i1wPwhdz6LtKbWLd,Wendy Time,The Cure,Wish,0.568,0.589,9,-12.683,0,0.0288,0.497,0.00355,0.234,0.656,108.219
-4RzI4cQpnS5rQH8ZeFRlgr,Doing the Unstuck,The Cure,Wish,0.553,0.784,6,-12.679,0,0.0424,0.212,0.0654,0.0897,0.53,128.195
-263aNAQCeFSWipk896byo6,Friday I'm in Love,The Cure,Wish,0.526,0.762,0,-12.437,0,0.0342,0.000972,0.000116,0.338,0.505,136.203
-4DdXOLc1VMAY34ourCn1Xa,A Letter to Elise,The Cure,Wish,0.528,0.592,9,-13.59,1,0.0321,0.16,0.000916,0.223,0.728,150.187
-0QVOp4pk3QuADsg1Atroe2,Cut,The Cure,Wish,0.427,0.866,4,-10.822,0,0.051,0.0402,0.0,0.482,0.498,134.134
-4dneV7C1yDt9UtyxrQY375,Boys Don't Cry - Single Version,The Cure,Three Imaginary Boys (Deluxe Edition),0.465,0.841,11,-5.767,0,0.0633,0.00486,0.0,0.109,0.689,168.743
-76GlO5H5RT6g7y0gev86Nk,Just like Heaven,The Cure,"Kiss Me, Kiss Me, Kiss Me",0.43,0.971,9,-3.845,1,0.0524,0.0271,2.16e-05,0.185,0.764,151.219
-2pYqOHeENOQgroTumpIOkr,Filler,Minor Threat,First Two Seven Inches,0.171,0.977,1,-6.716,0,0.101,0.000181,0.00405,0.0636,0.571,184.916
-0DSzVr2600Pc0TLXwF48wB,Words Come Back,The Hated,The Best Piece of Shit Vol. 3,0.227,0.993,0,-4.213,1,0.0912,0.000112,0.00391,0.224,0.113,142.273
-7LagVPEBG2Gu7Qwiqz0W8P,I Don't Think So,Dinosaur Jr.,Without a Sound,0.191,0.936,0,-6.727,1,0.0716,0.00795,4.52e-06,0.0736,0.629,159.11
-6ZbVg3ouIacMZxNigTMbyE,Outta Hand,Dinosaur Jr.,Without a Sound,0.206,0.601,3,-10.9,1,0.0342,0.525,0.396,0.115,0.422,175.49
-4HNE2vvso4Eaz7FOz8suQu,Grab It,Dinosaur Jr.,Without a Sound,0.0887,0.902,5,-7.4,1,0.0669,8.24e-05,2.23e-05,0.238,0.29,184.311
-7t7fyzErmZ6jabxiZLQvlg,Even You,Dinosaur Jr.,Without a Sound,0.123,0.921,5,-5.642,1,0.0763,0.00455,0.0724,0.108,0.281,163.191
-5ERGhYZH1fqdhF7H5ZXNoK,Mind Glow,Dinosaur Jr.,Without a Sound,0.247,0.72,11,-9.231,1,0.042,0.194,0.00046,0.177,0.489,150.772
-7CcCSfZqsW7UkYn8ms2V8R,Get Out of This,Dinosaur Jr.,Without a Sound,0.252,0.853,5,-6.703,1,0.0493,0.000648,0.00245,0.141,0.611,81.323
-13OggkoCanZSYFiovWltzn,On the Brink,Dinosaur Jr.,Without a Sound,0.242,0.888,7,-7.214,0,0.0663,0.00286,0.00516,0.197,0.612,109.807
-7FIhuHZUdUxWX2hDMGdIbF,Freak Scene,Dinosaur Jr.,Bug,0.241,0.94,9,-3.519,1,0.0706,0.00749,0.00266,0.327,0.199,154.133
-2JAxHyZt1UUNV5fZpnnGaR,They Always come,Dinosaur Jr.,Bug,0.0993,0.955,2,-4.113,1,0.0948,0.0446,0.00136,0.163,0.166,161.024
-3wJ0BJkhldu9GKRAEZHZ1V,Pond Song,Dinosaur Jr.,Bug,0.225,0.952,7,-7.284,1,0.0599,0.032,0.000207,0.0453,0.862,157.512
-5vjBTqxTkT94GiXq3DtqGD,Budge,Dinosaur Jr.,Bug,0.174,0.987,2,-5.031,1,0.088,0.00139,0.22,0.226,0.26,168.853
-6oo6VQtCWER0Havn92qyvY,Keep the Glove,Dinosaur Jr.,Bug,0.308,0.928,7,-5.11,1,0.095,0.00857,0.000421,0.0812,0.37,129.266
-5G2g1EbEtFSMkMbAnhl7FV,Gigantic - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.39,0.694,7,-11.783,1,0.0399,0.00299,0.304,0.0757,0.795,115.197
-0PFRTA04YOjj4VT3O6MpgP,Old World,The Modern Lovers,The Modern Lovers (Expanded Version),0.528,0.796,9,-8.668,0,0.0294,0.0104,0.00251,0.115,0.889,136.418
-72Qah3a1mle94iArhw6P63,Pablo Picasso,The Modern Lovers,The Modern Lovers (Expanded Version),0.617,0.729,2,-9.174,1,0.0306,0.00269,0.131,0.109,0.835,109.639
-0TxnjSeZXBJkojjHV9GEhq,She Cracked,The Modern Lovers,The Modern Lovers (Expanded Version),0.518,0.831,2,-6.823,1,0.0292,0.000149,2.96e-05,0.202,0.506,146.322
-706yOGnWFkzW3XvMefTkCn,Someone I Care About,The Modern Lovers,The Modern Lovers (Expanded Version),0.419,0.938,9,-7.189,0,0.0681,5.2e-05,0.000541,0.0533,0.811,150.631
-3VFpxTDq4UR5jeZCuq50Nm,Girlfriend,The Modern Lovers,The Modern Lovers (Expanded Version),0.625,0.394,7,-10.876,1,0.0361,0.171,0.000308,0.137,0.414,128.235
-1iQ9wn7X6X9MRJVpVqLPC1,Modern World,The Modern Lovers,The Modern Lovers (Expanded Version),0.569,0.862,11,-7.437,0,0.0358,0.000604,0.000183,0.0967,0.828,143.771
-2auixWUJgcIGsiI94GwRzU,Dignified and Old,The Modern Lovers,The Modern Lovers (Expanded Version),0.527,0.856,4,-7.339,0,0.0676,0.0192,0.0,0.0567,0.899,144.619
-21wOSmPAIfOcM0Uv2oJi9P,Government Center,The Modern Lovers,The Modern Lovers (Expanded Version),0.592,0.601,9,-6.946,1,0.0341,0.192,0.0,0.0825,0.959,143.473
-6RYIEWGlQYQhxsBhcfxhQt,Someone I Care About - Alternative Version,The Modern Lovers,The Modern Lovers (Expanded Version),0.486,0.81,2,-7.172,1,0.0442,0.0773,0.000445,0.128,0.752,143.493
-7kojIqSTAcUqx3HPShLgv2,Bye Bye Kitty Cat,The Mice,For Almost Ever,0.191,0.937,7,-5.857,0,0.0946,0.000158,0.000362,0.332,0.456,147.471
-7cGwqXXVav9Tg0XNoONPlo,Up on the Sun,Meat Puppets,Up on the Sun,0.477,0.697,4,-9.277,1,0.0273,0.198,0.308,0.127,0.774,111.855
-1JDMLfTob9Uq84a6JqBbOC,Stereo,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.718,0.659,2,-7.392,1,0.0528,0.175,4.45e-05,0.139,0.429,109.099
-5iBdOv97ozQXJFxcG3CMro,Shady Lane/J Vs. S,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.482,0.646,0,-6.746,1,0.0419,0.301,0.000532,0.193,0.119,110.852
-4QTWogucT9i3DJPBVt6AkN,Transport Is Arranged,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.394,0.556,6,-5.495,1,0.0292,0.333,0.00227,0.129,0.137,140.159
-243FAlEz4Ac3EdxdXPGbY1,Type Slowly,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.49,0.495,7,-7.131,1,0.0282,0.0382,0.00335,0.108,0.187,143.8
-2aYjIiRV11yjsGr9Pywlrz,Embassy Row,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.464,0.75,9,-5.513,0,0.0346,0.0143,0.0,0.0793,0.292,136.43
-6LE2zfgso6qF1jVdEHGBKl,Blue Hawaiian,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.651,0.561,9,-7.963,0,0.0256,0.275,0.000365,0.0959,0.324,110.673
-66mSbRh4bsb6oLyJbpa2tn,Winner Of The - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.358,0.744,7,-5.61,1,0.0329,0.00585,0.312,0.536,0.357,113.062
-10w9aorg0Evm4K9jI8c8Zj,Roll with the Wind - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.547,0.81,2,-5.884,1,0.0382,0.024,0.0128,0.187,0.803,130.263
-4IIPo1lJY4IfdGBC0UsnKt,Wanna Mess You Around - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.399,0.976,11,-4.379,0,0.229,0.0156,0.0,0.308,0.123,115.458
-7BHWcnkpDKdRtGGw1brrjg,No Tan Lines - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.469,0.662,4,-4.97,1,0.0295,0.312,0.000667,0.0911,0.954,142.518
-1VpenLkKxrcdjYX0tKV4Es,"The Killing Moon - BBC Evening Session January 15, 1997",Pavement,Brighten the Corners: Nicene Creedence Ed.,0.427,0.818,0,-6.392,1,0.0308,7.24e-06,0.00711,0.0903,0.171,101.91
-2UajC10rDdG4sFuNWLmUgD,Nigel - Unreleased Song,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.48,0.63,0,-7.748,1,0.0318,0.0971,0.804,0.115,0.237,100.998
-6Ri0iTsHP898Ax2m18thgX,Roll With The Wind (Roxy) - Alternate Mix,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.563,0.822,2,-7.332,1,0.0378,0.00534,3.23e-05,0.321,0.834,130.427
-1biYwMzMvAWwZnqsJ3wPAl,"Oddity - From ""God Save The Clean""",Pavement,Brighten the Corners: Nicene Creedence Ed.,0.543,0.919,4,-6.302,1,0.0478,0.0871,0.000275,0.214,0.517,125.857
-0R0m9mTXa81zp1qtcU3dSR,Regular John,Queens of the Stone Age,Queens of the Stone Age,0.342,0.938,5,-6.368,1,0.0325,0.0187,0.125,0.272,0.757,145.547
-2GuPGJfqHFVQysmw90IeVR,Shoot The Singer (1 Sick Verse),Pavement,"Watery, Domestic",0.557,0.736,7,-7.091,1,0.0261,0.00118,0.84,0.286,0.288,132.17
-4Ktcqm6ipx09fyJRUKJFTS,21st Dead Rats - 2021 Remaster,Joyce Manor,Joyce Manor (2021 Remaster),0.359,0.848,9,-4.636,1,0.157,0.00225,0.0,0.128,0.668,151.366
-7I5eQZFdlPV8LZWH2FeqaW,Goodbye Horses,Q Lazzarus,Goodbye Horses - Single,0.772,0.409,5,-15.061,1,0.0355,0.0896,0.252,0.0522,0.495,125.476
-2OQS3xvoKKSayJMJT8dVuZ,Trash,New York Dolls,New York Dolls,0.478,0.698,7,-9.255,1,0.0321,0.00114,0.0,0.191,0.85,112.99
-45uN41QTl8pitqs8f9FhAp,I've Been Tired,Pixies,Come On Pilgrim,0.603,0.62,7,-12.109,1,0.0315,0.0101,8.04e-05,0.374,0.769,148.305
-0zClrkFd5UQuUFys243KjP,Caribou,Pixies,Come On Pilgrim,0.432,0.643,0,-10.678,1,0.0398,0.0643,0.00738,0.361,0.277,115.043
-17GMg1ZyQJtm3HkXQFZ31f,Lola,The Raincoats,The Raincoats,0.523,0.854,9,-8.27,1,0.0954,0.478,0.000939,0.271,0.83,146.688
-1acjIzGS1YUrx6nSuktnqU,Safe In Your Skin,Title Fight,Shed,0.437,0.252,0,-11.114,1,0.0787,0.664,0.908,0.181,0.255,108.881
-6wyGIeHqYgfJrqrmaR7EKj,Symmetry,Title Fight,The Last Thing You Forget,0.425,0.967,6,-6.053,1,0.102,4.07e-06,0.00451,0.206,0.511,95.123
-1z9qvZfQZAAZwdPjDMZwPo,Chicago New York,The Aislers Set,The Last Match,0.639,0.45,7,-11.758,1,0.0287,0.193,0.000847,0.0974,0.561,136.054
-19diA2wKSfi1AlAFOfErGi,Big Sleep,FRAUD,FRAUD,0.147,0.994,7,-3.239,1,0.0974,1.16e-06,0.293,0.237,0.0398,91.179
-6X3EFIbzweumLGvqxRBxQK,Cut My Teeth,FRAUD,FRAUD,0.285,0.969,1,-3.307,1,0.0823,1.06e-06,0.95,0.481,0.135,124.857
-0UQHlRhFOUsoCzh2BqpLvk,Cabaret,FRAUD,FRAUD,0.0691,0.953,1,-3.394,1,0.0871,0.0,0.899,0.212,0.147,183.262
-5xgxbzWzlEPz04ZlGm0pKl,Narcissus,FRAUD,FRAUD,0.261,0.847,5,-3.252,0,0.0659,1.18e-06,0.837,0.137,0.218,85.386
-4OHVCeQYPncEwZOtNAJZZx,Beetlebum - 2012 Remaster,Blur,Blur (Special Edition),0.542,0.627,0,-7.105,1,0.0243,0.0794,0.000517,0.277,0.814,89.734
-37hmXRRWd9cM1jBy5QHOw8,Tarpit,Dinosaur Jr.,You're Living All Over Me,0.172,0.871,0,-3.131,1,0.0748,0.000338,0.071,0.0766,0.42,122.457
-5oXm58OdnsRPy2wyz3ES5u,Fairytale in the Supermarket,The Raincoats,The Raincoats,0.506,0.94,4,-5.973,1,0.0843,0.0356,0.424,0.0516,0.633,144.704
-2fWxcJeDQiLStdAdwF4ms6,No Side to Fall In,The Raincoats,The Raincoats,0.434,0.614,6,-8.334,1,0.0525,0.486,0.000196,0.394,0.787,147.681
-6WhnZL1squnpYrJfhdLGak,In Love,The Raincoats,The Raincoats,0.369,0.795,4,-8.838,1,0.185,0.0398,0.792,0.122,0.39,103.331
-536z8B5w6EtvjvRgeCaE5s,Want,The High Curbs,Empty Bottles / Want,0.175,0.971,9,-3.934,1,0.1,6.54e-05,0.000898,0.344,0.224,91.779
-4tjrhez9Jz2euetdgNqS7W,Seer,Witch,Witch,0.182,0.869,4,-5.173,0,0.0713,0.0187,0.881,0.287,0.161,150.778
-0MLliNQoGVuYmjkrLVORhC,Halloween 3.5,Rozwell Kid,Too Shabby,0.151,0.723,10,-5.826,1,0.0638,0.00163,0.000188,0.133,0.254,92.265
-6S8OFyUelocGsCK27jmDfg,Are You Sure_,Glitterer,Life Is Not A Lesson,0.414,0.427,4,-6.456,1,0.041,0.0158,0.565,0.224,0.372,219.91
-482cObBzbfgI4i00PDolDY,Room 200,Title Fight,The Last Thing You Forget,0.434,0.978,7,-5.839,1,0.106,8.77e-05,3.97e-06,0.206,0.298,103.537
-5yNbprUaJXG7SPppQeNEMR,Call From You,Anxious,Little Green House,0.31,0.991,9,-4.088,1,0.102,3.32e-05,0.00557,0.454,0.316,189.838
-1KAbkJk4wblIcS4zTNJox0,Adventures Close to Home,The Raincoats,The Raincoats,0.875,0.676,6,-9.637,0,0.157,0.77,0.35,0.322,0.962,116.743
-77EIe4Q2YYU3JPhIMBcCDl,Black and White,The Raincoats,The Raincoats,0.563,0.786,2,-8.15,1,0.0554,0.0122,0.299,0.122,0.965,150.148
 007mKIn7XPKaX4XtBDSOSP,The Void,The Raincoats,The Raincoats,0.374,0.675,2,-8.016,1,0.0401,0.055,0.0164,0.0732,0.267,105.273
-1rANkGdRoHdiZYcOG63TuW,No Looking,The Raincoats,The Raincoats,0.47,0.671,7,-7.021,1,0.0959,0.218,2.95e-06,0.0909,0.586,94.202
-4BwKxKoTqpwyQ4zOXXvp6T,Whatever's Cool With Me,Dinosaur Jr.,Whatever's Cool With Me,0.177,0.98,0,-7.963,1,0.0876,0.0246,0.000116,0.736,0.0562,151.386
-2bkMizvDbij4FMel1cgIB6,Sideways,Dinosaur Jr.,Whatever's Cool With Me,0.442,0.284,9,-14.962,1,0.0377,0.551,0.0671,0.0366,0.239,139.686
-375v3z9j4hGuhyzuaveTXK,Not You Again,Dinosaur Jr.,Whatever's Cool With Me,0.25,0.782,2,-7.308,1,0.0562,0.0015,9.96e-05,0.129,0.739,160.774
-3X2rGQn3sPi57la0N6TDkP,Quicksand,Dinosaur Jr.,Whatever's Cool With Me,0.466,0.44,7,-12.196,1,0.032,0.749,0.0,0.0803,0.544,72.398
-3pHShv6bWLfUWrgDFFVd0X,The Wagon - 2019 Remaster,Dinosaur Jr.,Green Mind,0.254,0.984,7,-6.369,1,0.0954,4.09e-05,0.000447,0.38,0.21,171.787
-7dQlzKNAbQPfeYFLmBRiuM,Puke _ Cry - 2019 Remaster,Dinosaur Jr.,Green Mind,0.382,0.934,0,-7.122,1,0.0452,0.000384,4.83e-06,0.143,0.642,103.044
-6sG5MO9zvARtdeti8zPd3t,Blowing It - 2019 Remaster,Dinosaur Jr.,Green Mind,0.496,0.881,7,-8.687,1,0.0457,0.000346,8.38e-05,0.0947,0.783,145.67
-4ZUXkfD2kOXpbMAPCQrhSq,I Live For That Look - 2019 Remaster,Dinosaur Jr.,Green Mind,0.296,0.947,0,-5.777,1,0.0649,2.5e-05,0.0,0.129,0.351,146.074
-1N5XVGv55JPk5BioDU8Fu5,How'd You Pin That One On Me - 2019 Remaster,Dinosaur Jr.,Green Mind,0.207,0.99,1,-5.383,0,0.105,3.15e-05,0.00141,0.109,0.289,99.359
-1Eo0C0r1jBGeJIpQuqQ3cI,Water - 2019 Remaster,Dinosaur Jr.,Green Mind,0.296,0.935,7,-7.651,1,0.112,0.00348,0.000818,0.11,0.474,137.708
-4IAIa6Ugyn5AUFOjYQZ5SJ,Green Mind - 2019 Remaster,Dinosaur Jr.,Green Mind,0.379,0.911,1,-7.463,0,0.0568,5.89e-05,0.0,0.369,0.618,134.244
-3hQJXPHlkBitMU1RXiK6Du,Frontwards,Pavement,"Watery, Domestic",0.34,0.783,2,-7.158,1,0.0359,3.56e-05,0.411,0.0809,0.541,114.76
-1tZeHEchoo62G0xpEcjbAj,Devotion,Weezer,Pinkerton - Deluxe Edition,0.315,0.636,10,-4.271,1,0.0348,0.000305,6.1e-05,0.144,0.471,127.65
-4iDydJhc5O3koTOCur9kqK,Fireman,Jawbreaker,Dear You,0.392,0.886,10,-6.549,1,0.0617,0.013,0.0808,0.12,0.655,165.39
-4y15tYrvSv1c0HxFEJR3wl,What Happened,Sublime,40oz. To Freedom,0.515,0.718,7,-7.241,1,0.228,0.000112,0.0027,0.162,0.687,100.71
-1qxkzHlZBXFv5HfyYqJ8cy,Depression,Black Flag,Damaged,0.147,0.958,1,-13.427,1,0.107,0.0957,0.972,0.893,0.0368,137.829
-5ADKQyUHRleVWuzMLkFS8x,I Don't Wanna Hear It,Minor Threat,First Two Seven Inches,0.202,0.97,11,-6.301,1,0.0826,0.00225,0.00155,0.283,0.803,190.059
-2mgBdz0PWtEq6nVtddnauR,Seeing Red,Minor Threat,First Two Seven Inches,0.319,0.836,2,-6.999,1,0.137,0.00787,0.00805,0.527,0.643,168.764
-4YHBwHr2hKkE5GzrEm7sgh,Wanna Be Manor,The Vandals,Peace Thru Vandalism,0.336,0.891,4,-9.563,1,0.0488,0.000274,3.43e-06,0.101,0.458,123.947
-0s3HklFRJdU1HgxQbLOo2k,"Small Man, Big Mouth",Minor Threat,First Two Seven Inches,0.41,0.9,0,-7.486,1,0.0566,0.00941,0.00268,0.353,0.875,98.437
-5JhZWM8gnhG3FywK8mckZX,Bottled Violence,Minor Threat,First Two Seven Inches,0.423,0.948,2,-6.558,1,0.107,0.00122,0.0128,0.126,0.615,93.476
-0yqqYhd983z1qTU9yAU5Rv,Stand Up,Minor Threat,First Two Seven Inches,0.277,0.975,4,-6.416,1,0.162,0.00279,4.64e-05,0.0882,0.731,184.308
-16xuW1EznfNaJT343lUb2G,12XU,Minor Threat,First Two Seven Inches,0.354,0.924,4,-8.342,0,0.0904,0.00019,0.855,0.0887,0.802,181.885
-6DBF8s9LClcwi7TBY2kPpR,In My Eyes,Minor Threat,First Two Seven Inches,0.276,0.959,7,-5.86,1,0.143,0.0343,0.0094,0.0554,0.449,161.114
-07aj67H7LBe0oRakh3YBeh,Guilty Of Being White,Minor Threat,First Two Seven Inches,0.338,0.98,2,-5.693,1,0.0677,0.155,2.59e-06,0.257,0.35,92.894
-1XIVotuRVgzRgVPBbmAPSh,Steppin' Stone,Minor Threat,First Two Seven Inches,0.233,0.925,0,-8.347,1,0.147,0.0549,0.0943,0.91,0.294,178.942
-3yKUkABUurP8i3z69b3hnO,Battling Against the Police,Disability,Public Service,0.343,0.978,7,-3.29,1,0.0491,0.0025,0.0146,0.0722,0.738,128.095
-0WtFmCcUzJwfz0xpwziODV,Graveyard,Dead Moon,In the Graveyard,0.358,0.956,4,-5.782,0,0.0826,0.00111,8.53e-06,0.25,0.251,150.165
-660u9agQuREtEDmETVWSts,Three Imaginary Boys - 2005 Remaster,The Cure,Three Imaginary Boys (Deluxe Edition),0.601,0.631,11,-8.472,0,0.0557,0.0828,0.00119,0.0854,0.477,169.552
-1jZKqbGJL62N2SeUyx2RYm,Fuck Me Blind,Turnstile,Move Thru Me,0.382,0.938,7,-4.051,1,0.0429,0.000141,0.816,0.187,0.929,132.541
-5YriQ8D6opAfaw32Ox3oIG,Suicidal Failure,Suicidal Tendencies,Suicidal Tendencies,0.454,0.711,0,-8.327,1,0.033,0.00585,0.0,0.114,0.642,97.566
-2DBlfjL5chsdeULzhTp5K8,Waiting Room,Fugazi,13 Songs,0.618,0.716,6,-8.224,0,0.0367,0.00473,0.822,0.179,0.545,92.174
-1MkqBhP5byDttRYtZsDC6p,Bad Mouth,Fugazi,13 Songs,0.456,0.649,9,-8.315,1,0.036,0.000593,0.564,0.321,0.64,91.173
-1qxkzHlZBXFv5HfyYqJ8cy,Depression,Black Flag,Damaged,0.147,0.958,1,-13.427,1,0.107,0.0957,0.972,0.893,0.0368,137.829
-7r1ns5TjJTdj0mVs4cKEat,"Sex Bomb - 7""",Flipper,Sex Bomb Baby,0.192,0.932,2,-6.494,1,0.152,9.33e-06,0.289,0.0756,0.268,127.952
-1qyAlCzezPlmBJ1VAtcs2b,Blow Up The Embassy,Fearless Iranians From Hell,Fearless Iranians From Hell,0.422,0.787,7,-10.159,1,0.056,0.00253,7.32e-06,0.682,0.569,113.512
-7cJpBiryQKfKtQW97Swofi,Die for Allah,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.242,0.821,4,-12.755,1,0.0571,0.00179,0.207,0.0916,0.516,167.841
-2vVHf461WNqqZsfr5mXIFr,Living For The Depression,Flipper,Album - Generic Flipper,0.184,0.985,9,-5.98,1,0.114,0.311,3.31e-05,0.926,0.344,196.365
-6mfy4Q8P3fVXMeuD5d19oi,Ballad Of Big Nothing,Elliott Smith,Either/Or,0.655,0.517,0,-10.261,1,0.0302,0.36,0.00629,0.144,0.636,109.242
-6PvAGVrBOBlVNdvdi0A7Xt,Heart Tattoo,Joyce Manor,Never Hungover Again,0.474,0.992,11,-0.902,1,0.0912,0.0017,0.0,0.258,0.438,115.69
-3pkmP2kzsMImhKYyVac3ux,Land Of The Free,Fearless Iranians From Hell,Fearless Iranians From Hell,0.463,0.552,6,-10.71,1,0.0942,0.0141,1.97e-05,0.316,0.636,119.38
-2NFaqSPtrm5HKNKFmOitxP,Iranian Klan,Fearless Iranians From Hell,Fearless Iranians From Hell,0.442,0.796,0,-12.136,0,0.0457,0.00227,6.88e-05,0.294,0.329,105.009
-7uwUumUJamXEWQHhYysd1y,New Gods,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.459,0.806,7,-12.033,1,0.0885,0.00152,6.68e-05,0.508,0.494,122.482
-6aqg7Pu0GUFjK5z2zfLoW7,Big Crime '89,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.602,0.832,7,-12.725,1,0.0528,0.00436,0.0,0.276,0.522,134.283
-3nwJe1e5fmuEW0grAYVo5v,A Martyr in Every Home,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.442,0.673,2,-13.896,1,0.0482,0.000114,0.00732,0.0812,0.309,125.969
-0gql41c0VDulEy6oRGtnuc,Foolish Americans,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.479,0.939,2,-13.127,1,0.0607,0.0103,1.02e-06,0.291,0.156,123.54
-2WrvnCyorYRG26bjLrjo8C,We Own the World,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.37,0.68,4,-12.413,1,0.0816,0.000808,0.000214,0.0872,0.224,106.982
-4FTPM7xbjGcGEuTgFoal8h,Special Delivery,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.49,0.713,2,-13.758,1,0.0448,0.000869,0.131,0.308,0.545,106.57
-4gJMBum76QqDnYbkQCOTrm,Decade,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.35,0.48,6,-16.318,1,0.0468,5.89e-05,0.819,0.0593,0.414,108.33
-1KdwPeY1WRWQGHCmRJTveb,Cannonball,The Breeders,Last Splash,0.502,0.758,3,-9.76,1,0.0407,0.00915,0.783,0.284,0.729,112.499
-532GcM2m0edyHHLHNtMRpr,She's Calling You,Bad Brains,I Against I,0.725,0.64,2,-12.948,1,0.0431,0.00915,0.000734,0.106,0.835,127.406
-6EMAoUEgfk2WtfwiBRG8hd,Politicians In My Eyes,Death,…For The Whole World To See,0.437,0.81,1,-7.329,1,0.234,0.0035,0.0624,0.204,0.198,97.22
-14sjvL99735m1roUUrSbPY,Lose,Dinosaur Jr.,You're Living All Over Me,0.0922,0.98,11,-3.022,0,0.153,0.00166,0.144,0.308,0.249,170.076
-1mNlVIYiDrriumuXZ7Jy7M,No Bones,Dinosaur Jr.,Bug,0.166,0.98,9,-3.185,0,0.115,0.0189,0.521,0.112,0.237,111.379
-4m2jfBoZ62ne75683ujxmu,Let It Ride,Dinosaur Jr.,Bug,0.31,0.99,11,-4.671,0,0.119,0.00839,0.164,0.317,0.177,91.395
-3zvyEX9xo3IJiXrXdeQnCX,Violent Closure,GEL,Violent Closure,0.379,0.979,6,-2.829,0,0.0718,2.25e-06,0.938,0.0917,0.214,102.897
-2QJFqtEhJynY6ZY1KNeDQF,Out There - 2019 Remaster,Dinosaur Jr.,Where You Been,0.18,0.921,5,-8.126,0,0.139,0.00048,0.362,0.227,0.248,139.067
-6Rl7bI0f22xipMeYxZaSU7,Start Choppin - 2019 Remaster,Dinosaur Jr.,Where You Been,0.387,0.675,2,-9.761,1,0.0852,0.00314,0.00119,0.0839,0.541,111.84
-48IBmfaCUQaXP4JGdjSuBI,On The Way - 2019 Remaster,Dinosaur Jr.,Where You Been,0.265,0.871,1,-8.827,0,0.0653,7.47e-05,0.0134,0.0483,0.278,95.237
-1MCn5yASakJJoz2llobeMP,Goin Home - 2019 Remaster,Dinosaur Jr.,Where You Been,0.518,0.617,0,-11.513,1,0.0341,0.0049,0.134,0.116,0.468,139.198
-3Wr6nJVfrxS165lPFhw4OT,Crumble,Dinosaur Jr.,Beyond,0.31,0.949,5,-5.125,1,0.0677,0.0214,0.363,0.126,0.341,139.736
-1qgltMSZa5UpbHK4U2reI3,Pick Me Up,Dinosaur Jr.,Beyond,0.206,0.918,5,-4.088,1,0.0754,0.00999,0.258,0.109,0.359,113.339
-5PFaM9JXG92xm6mQ2cAN3K,Back To Your Heart,Dinosaur Jr.,Beyond,0.206,0.864,9,-4.772,0,0.0622,0.00349,0.703,0.15,0.299,115.289
-7yYxp3imvEcS6I6nOcVDVz,This Is All I Came To Do,Dinosaur Jr.,Beyond,0.342,0.973,5,-3.875,1,0.11,0.0176,0.102,0.102,0.317,136.031
-2dN4SyvKiCvoU5RAcIU53a,We're Not Alone,Dinosaur Jr.,Beyond,0.21,0.936,5,-3.617,1,0.113,0.102,0.587,0.335,0.326,148.118
-3CpIyCfgCI2JQrCoyRsU2m,Over It,Dinosaur Jr.,Farm,0.103,0.987,0,-4.76,0,0.117,0.00914,0.0773,0.145,0.0947,158.15
-2GzxSkpCsg7DfpbmzUcTCF,Tiny,Dinosaur Jr.,Tiny,0.26,0.92,9,-5.096,1,0.0891,0.0234,0.00309,0.112,0.494,157.085
-5po4iBu6pAOAy8I6TM4a0e,Watch the Corners,Dinosaur Jr.,I Bet On Sky,0.259,0.943,4,-4.215,1,0.0816,0.0997,0.00357,0.102,0.353,97.917
-0kbYm57pZ3V3VEjcXQzHAq,I Ran Away,Dinosaur Jr.,Sweep It Into Space,0.366,0.887,7,-6.592,1,0.102,0.0692,1.48e-05,0.136,0.669,152.601
-3ZkURqO753fN0SgtzqMmIs,Garden,Dinosaur Jr.,Sweep It Into Space,0.541,0.672,4,-7.364,1,0.027,0.00834,0.0759,0.147,0.542,134.337
-3NoOwvxhI2yMYknxqnFUVx,Nervous Breakdown,Black Flag,Nervous Breakdown,0.401,0.907,11,-11.422,0,0.0679,0.524,0.0,0.48,0.317,90.302
-4rrbptVnZifk4wC5mvNDPm,My War,Black Flag,My War,0.215,0.503,1,-16.318,0,0.0463,0.65,0.0283,0.098,0.35,186.866
-1UWRqfZoYYONXB1Azj9OKv,Spray Paint,Black Flag,Damaged,0.269,0.846,2,-13.391,0,0.0386,0.243,0.0,0.906,0.278,85.115
-5FQ1ZPkIyYss4XhhDBvnC5,(David Bowie I Love You) Since I Was Six,The Brian Jonestown Massacre,Take It From The Man,0.201,0.647,10,-6.842,1,0.0363,0.000926,7.9e-05,0.176,0.32,115.609
-6rtYb4BGOlLvcy76N8yFbw,Teenage Lobotomy - 2017 Remaster,Ramones,Rocket to Russia (40th Anniversary Deluxe Edition),0.494,0.849,9,-2.306,1,0.0397,0.00092,0.0043,0.0598,0.97,184.666
-5NoQvINZLBV1wMYPdNmReL,I Wanna Be Sedated,Ramones,Road to Ruin (40th Anniversary Deluxe Edition),0.56,0.965,11,-2.341,1,0.0409,0.121,6.23e-06,0.169,0.964,162.825
-3DaC3oRpGInTU0x8DvdSGp,What I See,Black Flag,Damaged,0.467,0.738,1,-13.983,0,0.104,0.0279,0.00384,0.0697,0.317,112.325
-2ynru6AE1AXIW8euFhEMat,Thirsty And Miserable,Black Flag,Damaged,0.287,0.9,5,-13.156,1,0.0906,0.0419,0.972,0.842,0.0358,104.282
-52M96UxJzKkHFSHGNiu8Du,Police Story,Black Flag,Damaged,0.285,0.914,5,-13.901,1,0.109,0.106,0.353,0.961,0.144,110.078
-7EZlzu01NzbR1jWEIDSk5T,Room 13,Black Flag,Damaged,0.362,0.961,11,-14.711,0,0.108,0.331,0.00187,0.623,0.137,101.931
-6D69DWilPEsY2TqayoB7x5,Padded Cell,Black Flag,Damaged,0.261,0.908,1,-13.069,1,0.082,0.17,0.901,0.498,0.276,119.51
-1NYiFG8cdKEVDO0ZowYi3j,Life of Pain,Black Flag,Damaged,0.188,0.807,9,-14.537,1,0.109,0.296,0.984,0.946,0.285,109.682
-4DA95pyBe6QORPGvTEuMWQ,TV Party,Black Flag,Damaged,0.308,0.926,1,-12.683,1,0.15,0.184,0.0,0.0782,0.193,96.17
-483eDfrfcxgwm27u8L3mds,Media Blitz,Germs,20th Century Women (Original Motion Picture Soundtrack),0.364,0.873,10,-11.793,0,0.135,8.23e-05,0.00223,0.768,0.673,125.186
-6ScAlBuFHOiiGrM35QJntK,Lexicon Devil,Germs,I F*#ed Your Mom - Live '78-'79,0.316,0.72,2,-12.17,1,0.0689,0.00208,0.49,0.306,0.563,118.095
-4BZLAm5rqqChHZlBlHuSMV,Wild in the Streets,Circle Jerks,Wild in the Streets,0.459,0.966,4,-8.814,1,0.0302,0.0061,0.0,0.146,0.38,103.421
-79FD1Ej7Zob1k4UgRvMWBo,Live Fast Die Young,Circle Jerks,Group Sex (TRUST Edition),0.482,0.952,4,-4.759,0,0.0584,0.134,1.8e-05,0.0836,0.79,108.254
-2NbT1rAPxrBS1Dr0YLSFDt,Don't Care,Circle Jerks,Group Sex (TRUST Edition),0.298,0.837,11,-3.529,0,0.092,0.0632,0.0,0.807,0.61,144.393
-0y9fOgbU1qPFmWMp1NpxBb,Beverly Hills,Circle Jerks,Group Sex (TRUST Edition),0.572,0.797,1,-5.242,1,0.036,0.262,0.000564,0.14,0.935,148.789
-4fh3XDJxS7gD0iCMCBInP9,World up My Ass,Circle Jerks,Group Sex (TRUST Edition),0.439,0.903,0,-3.461,1,0.0411,0.126,0.0,0.335,0.722,106.363
-2IHmR8p2poiSaS3cgBKmOt,Arcarsenal,At the Drive-In,Relationship Of Command,0.352,0.985,2,-2.555,1,0.22,0.00747,0.00102,0.367,0.241,129.973
-1lg8iruuIfdRL20TMmHRzJ,One Armed Scissor,At the Drive-In,Relationship Of Command,0.251,0.932,4,-4.167,0,0.159,0.0511,3.29e-05,0.642,0.229,165.253
-7nCONy10IHp7XD3oYZ0lcx,I've Seen Footage,Death Grips,The Money Store,0.603,0.944,11,-3.626,0,0.347,0.0481,0.0,0.342,0.418,130.035
-42PZuYX40mFZGEB15G8wNJ,The Queen of Hearts,Duster,Stratosphere,0.558,0.202,9,-11.846,0,0.0826,0.0411,0.868,0.106,0.0395,98.207
-3RGbN1kPvlcckj9tMvb09l,If Reagan Played Disco,Minutemen,Introducing the Minutemen,0.574,0.91,2,-9.172,1,0.0708,0.00645,0.506,0.283,0.367,146.351
-2LUVo82IKIpCuBNSaqF0G8,Corona,Minutemen,Double Nickels on the Dime,0.47,0.913,7,-10.196,1,0.0343,6.59e-05,0.267,0.222,0.977,130.425
-7MfEDP2TL40OPiUDwZiyVk,Blew,Nirvana,Bleach (Deluxe Edition),0.411,0.882,1,-6.618,1,0.0556,5.65e-06,0.0147,0.298,0.531,129.848
-0nH4OFO4PasjNGvQv1Z36s,About A Girl,Nirvana,Bleach (Deluxe Edition),0.413,0.875,6,-7.48,0,0.031,5.13e-06,0.00058,0.209,0.575,131.951
-1vEgrHo24l50BHDse4NoOu,School,Nirvana,Bleach (Deluxe Edition),0.21,0.943,4,-7.656,1,0.0785,1.15e-05,0.493,0.0739,0.13,164.844
-4AkFvW4VdNDNmVXehylmrr,Love Buzz,Nirvana,Bleach (Deluxe Edition),0.479,0.865,5,-8.281,0,0.0339,3.1e-05,0.228,0.182,0.77,137.902
-16eGbARhfnJ2gdfwXjlC0c,Scoff,Nirvana,Bleach (Deluxe Edition),0.442,0.915,11,-7.751,0,0.0403,6.47e-06,0.865,0.114,0.735,145.27
-4xmKa5V3AahswhMWGK0bFE,Swap Meet,Nirvana,Bleach (Deluxe Edition),0.387,0.953,2,-7.143,1,0.0557,5.28e-05,2.45e-05,0.189,0.709,146.313
-0Coz1qPuvT860fwTCAFga2,Downer,Nirvana,Bleach (Deluxe Edition),0.345,0.932,4,-6.109,0,0.112,0.000401,0.546,0.185,0.508,100.961
-30HCB1FoE77IfGRyNv4eFq,In Bloom,Nirvana,Nevermind (Remastered),0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044
-4P5KoWXOxwuobLmHXLMobV,Come As You Are,Nirvana,Nevermind (Remastered),0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125
-5mJGLBNJM0GULqAoL5mb9C,Breed,Nirvana,Nevermind (Remastered),0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433
-2jmVGWe4MYY1zAAzpFHHcC,Territorial Pissings,Nirvana,Nevermind (Remastered),0.285,0.979,2,-4.428,1,0.175,0.000144,0.0,0.334,0.108,182.7
-5Ddlk6C2JVxb1SReZ6O1wk,Drain You,Nirvana,Nevermind (Remastered),0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358
-2YodwKJnbPyNKe8XXSE9V7,Lithium,Nirvana,Nevermind (Remastered),0.678,0.656,7,-6.41,1,0.0381,0.00174,0.0,0.0631,0.485,123.207
-7glld4kxYHp61zIPtSVHNk,Lounge Act,Nirvana,Nevermind (Remastered),0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192
-4l012k8ZcAdVbUvZ4kae5Q,Stay Away,Nirvana,Nevermind (Remastered),0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21
-651koV4RRMMX6NDbW1ElwP,On A Plain,Nirvana,Nevermind (Remastered),0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26
-1nFtiJxYdhtFfFtfXBv06s,Something In The Way,Nirvana,Nevermind (Remastered),0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218
-0vNHCXmNzVa8h54SE3JDm7,"Endless, Nameless",Nirvana,Nevermind (Remastered),0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846
-01S0r3t4tcHPkNyll414mT,Even In His Youth - B-Side,Nirvana,Nevermind (Super Deluxe Edition),0.443,0.975,7,-4.082,1,0.0751,4.21e-05,0.0106,0.358,0.33,142.763
-4H9fsMhr1wLk3xb2o9BNm7,Aneurysm,Nirvana,Nevermind (Super Deluxe Edition),0.317,0.874,11,-4.991,0,0.094,0.000327,0.751,0.209,0.17,130.992
-79VG6XhwYMOXWnik0sec1N,D-7 - Live At The BBC,Nirvana,Nevermind (Super Deluxe Edition),0.259,0.931,4,-5.834,1,0.15,0.0092,0.863,0.102,0.151,60.553
-4IryVI254hGj0J8ND5r8gZ,Stain,Nirvana,Incesticide,0.546,0.901,4,-11.778,0,0.0599,0.000203,2.2e-05,0.133,0.532,148.341
-0brL7VMo7onJJTGMSdajic,Molly's Lips - BBC John Peel Session 1990,Nirvana,Incesticide,0.311,0.895,7,-9.401,1,0.0476,1.91e-05,0.195,0.0584,0.681,167.107
-76sVqjHYyW99EpeQLDkPME,Son Of A Gun - BBC John Peel Session 1990,Nirvana,Incesticide,0.33,0.868,7,-9.346,1,0.0303,7.42e-06,0.758,0.0744,0.886,169.346
-0k9tUFpXZg7TvMZk4l6OTa,(New Wave) Polly - BBC Mark Goodier Session,Nirvana,Incesticide,0.333,0.926,0,-11.385,1,0.185,6.8e-06,9.07e-05,0.144,0.482,194.839
-5X2Z78KBrHKkzcjdZZs5UN,Hairspray Queen,Nirvana,Incesticide,0.473,0.856,4,-8.258,0,0.0549,0.00182,0.00936,0.0745,0.558,143.099
-4Z79ArOZZjYYaq4CGbBxa1,Hot Head,Death Grips,Bottomless Pit,0.408,0.97,1,-5.142,1,0.384,0.00963,0.0,0.236,0.384,126.361
-4wRFgC67NaJfAYN2ZV46Qd,Serve The Servants,Nirvana,In Utero (Super Deluxe Edition),0.435,0.895,10,-8.7,1,0.0421,1.13e-05,0.0318,0.19,0.668,119.659
-3pqjXnDi8Nux88e4zv49Fc,Scentless Apprentice,Nirvana,In Utero (Super Deluxe Edition),0.31,0.83,1,-8.527,1,0.0482,1.53e-06,0.146,0.137,0.617,170.568
-144IMbY4x1EeUnjYr2uDcB,Heart-Shaped Box,Nirvana,In Utero (Super Deluxe Edition),0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006
-7qIW8MsqBUsSP2KlZhWP06,Rape Me,Nirvana,In Utero (Super Deluxe Edition),0.42,0.746,8,-10.628,1,0.0467,0.0141,0.0,0.0661,0.229,111.886
-4Zawb6nn8bBG7PhR7JrUen,Dumb,Nirvana,In Utero (Super Deluxe Edition),0.697,0.395,6,-13.58,1,0.0281,0.428,0.653,0.173,0.876,113.589
-1dpD3wS9fP60ssHOLMkVE2,Pennyroyal Tea,Nirvana,In Utero (Super Deluxe Edition),0.428,0.449,1,-12.114,0,0.0342,0.000351,0.000498,0.253,0.196,113.308
-2xAiwGGuaqdEklu33zEXr9,All Apologies,Nirvana,In Utero (Super Deluxe Edition),0.446,0.632,1,-12.197,1,0.034,0.0793,0.000266,0.0853,0.359,113.176
-2S2NiCF7sa1tQkCZB9FvzX,Tourette's,Nirvana,In Utero (Super Deluxe Edition),0.277,0.908,10,-11.029,0,0.0463,0.000198,9.2e-05,0.132,0.351,173.713
-6G87XHKZ2G7vMYvWsnQ6OD,Gallons Of Rubbing Alcohol Flow Through The Strip,Nirvana,In Utero (Super Deluxe Edition),0.471,0.374,4,-12.334,1,0.0305,0.000656,0.391,0.119,0.44,106.005
-48YkpE5enOln5c7jXSTuHL,About A Girl - Live,Nirvana,MTV Unplugged In New York,0.606,0.769,3,-9.215,0,0.0713,0.14,1.64e-05,0.841,0.593,121.042
-3sYWyVGfPuit80szWXhrRA,Come As You Are - Live,Nirvana,MTV Unplugged In New York,0.683,0.766,5,-8.733,0,0.041,0.554,0.00346,0.0815,0.568,119.19
-7oBazz4xCO7Ul3MJHhKy0Q,Jesus Doesn't Want Me For A Sunbeam - Live,Nirvana,MTV Unplugged In New York,0.51,0.641,8,-10.312,1,0.0812,0.0638,3.65e-06,0.272,0.295,113.646
-15VRO9CQwMpbqUYA7e6Hwg,The Man Who Sold The World - Live,Nirvana,MTV Unplugged In New York,0.483,0.753,1,-8.937,0,0.0832,0.425,0.000142,0.257,0.42,115.102
-725QAOexNLmGZiFMN7U8pF,Dumb - Live,Nirvana,MTV Unplugged In New York,0.69,0.542,6,-9.119,1,0.0367,0.567,0.000779,0.853,0.673,109.449
-1tlTFxB34VorrZnJNfRWcs,Something In The Way - Live,Nirvana,MTV Unplugged In New York,0.547,0.335,1,-13.304,1,0.0501,0.656,0.000161,0.115,0.109,106.099
-2vfCSwToh0Am0O4zgHXfn7,Oh Me - Live,Nirvana,MTV Unplugged In New York,0.538,0.51,8,-13.192,1,0.102,0.726,0.0187,0.205,0.262,72.471
-0wHAqXzMjoAeOC2aAFNVAS,What's Important,Beat Happening,Beat Happening,0.324,0.95,4,-5.213,1,0.0731,0.168,0.0341,0.324,0.76,68.63
-1TMqBU1BnvZcFsBvTjYkuV,Virginia Reel Around The Fountain,The Halo Benders,The Rebels Not In,0.396,0.895,4,-4.879,1,0.0435,4.6e-05,0.384,0.167,0.621,84.955
-1kA18VzKnonKCUPAaU7AeB,I Love You,Beat Happening,Beat Happening,0.479,0.936,6,-7.771,0,0.127,0.196,0.226,0.128,0.712,156.861
-3ZP4DVUDzC2oGJAqd1vhsy,Anything,Suburban Lawns,Suburban Lawns,0.643,0.803,7,-7.703,1,0.0414,0.0358,1.16e-05,0.229,0.966,123.283
-6MEAQnIS71j4BGkyRhz7dA,New Year,The Breeders,Last Splash,0.209,0.655,4,-10.467,1,0.0375,0.0066,0.654,0.139,0.321,146.832
-3bluNnCa66Tfhix35wSehs,Invisible Man,The Breeders,Last Splash,0.429,0.718,6,-11.46,1,0.0293,0.1,0.463,0.0657,0.765,104.781
-7izTc9bk8wT1RRz4giRHFW,No Aloha,The Breeders,Last Splash,0.291,0.536,10,-9.166,1,0.0321,0.0798,0.269,0.1,0.448,107.41
-6mI1t5Q6egSw7mTAApiD68,Do You Love Me Now_,The Breeders,Last Splash,0.47,0.226,2,-11.578,1,0.0351,0.0363,0.134,0.103,0.318,134.55
-041M2yTQ2Tk4As8O63kF2T,Flipside,The Breeders,Last Splash,0.0952,0.767,6,-7.232,1,0.0472,0.0132,0.82,0.117,0.489,164.801
-2ttMDab19hqmnEzmP4GUEH,I Just Wanna Get Along,The Breeders,Last Splash,0.481,0.715,8,-10.103,1,0.0396,0.00356,0.00263,0.0569,0.736,145.554
-34X9XeLp4NNtOQZXJIEfmx,Divine Hammer,The Breeders,Last Splash,0.344,0.561,3,-13.642,1,0.032,0.089,0.814,0.132,0.632,143.698
-4gxKVUQyfkIbO6WuET4HlW,Drivin' on 9,The Breeders,Last Splash,0.63,0.392,7,-13.652,1,0.0295,0.487,0.534,0.264,0.537,120.799
-0vlD6vTcdjXOt2eBwBFhRm,Identity,X-Ray Spex,Germ Free Adolescents,0.458,0.944,2,-4.607,1,0.0366,0.0181,4.46e-06,0.0764,0.797,154.855
-06QU2gNnrfU6PaGu2Hiji8,Doe,The Breeders,Pod,0.691,0.434,0,-19.263,1,0.0392,0.058,0.85,0.0815,0.436,136.711
-4blAmRSLbvMrzUn5WSGZFW,Happiness Is A Warm Gun,The Breeders,Pod,0.369,0.255,7,-17.418,1,0.0459,0.03,0.376,0.0983,0.159,143.34
-0E6AHfUAXz6ZqWvVN3AMxU,Fortunately Gone,The Breeders,Pod,0.769,0.379,4,-19.204,1,0.0406,0.0604,0.109,0.128,0.735,136.432
-6nIEHGbxwL5qJI61up1NiU,Silver Lizard,Tumbleweed,Return To Earth,0.534,0.79,9,-7.646,0,0.0309,7.84e-06,0.917,0.108,0.97,135.661
-2EoKhQD4Qz5Ghs02WX4sDA,Berlin Chair - Remastered 2013,You Am I,Sound As Ever (Superunreal Edition),0.256,0.94,7,-4.396,1,0.0675,0.032,0.00116,0.0774,0.437,143.209
-4TMIi2pweQzuxG1UDFjGXk,Dont It Get You Down,Deadstar,Milk,0.44,0.88,7,-6.484,1,0.0435,0.0372,7.33e-05,0.23,0.477,124.331
-376QwtHvmpIQ27yQVEEoLz,You're Not The Only One Who Feels This Way,Ammonia,Eleventh Avenue,0.332,0.659,5,-8.211,0,0.0455,0.00334,0.00329,0.063,0.307,123.196
-6qWG7dpOSs5dfgJ7d35am5,Calypso,Spiderbait,Ivy & The Big Apples,0.383,0.739,9,-6.841,1,0.0345,0.0034,0.218,0.1,0.306,92.879
-2WheuVAKcZsQOZREbYtMvm,Apartment,Custard,Wisenheimer,0.454,0.93,0,-5.986,1,0.0472,8.65e-05,0.054,0.0843,0.932,169.648
-2vmsqXnxL8UTx5s79sJr5C,Just Ace,Grinspoon,Guide To Better Living,0.586,0.858,2,-6.83,1,0.0254,6.77e-05,0.00894,0.318,0.82,100.244
-6Rz6yXr3RWpYdGst26tSYF,Pub Feed,The Chats,High Risk Behaviour,0.549,0.953,11,-6.29,1,0.0423,0.00639,2.15e-05,0.328,0.836,96.901
-5fJlYjcplmCPOvXIVWQ8ML,Yeah Nah,The Chats,The Chats,0.395,0.954,4,-1.968,1,0.18,0.0738,0.0,0.359,0.622,115.988
-4lAQC39rjYZzynk7DvNTmM,I'm the Best Person in the World,The Chats,The Chats,0.256,0.906,2,-5.69,1,0.0573,0.0305,0.237,0.253,0.841,167.333
-4pBmZCsqv3BYdzigzlknSB,I Feel Good,The Chats,The Chats,0.245,0.871,2,-1.631,1,0.0407,0.132,0.00813,0.066,0.829,158.281
-6Mr4T5TGGz1JQmZaz9dojh,VB Anthem,The Chats,The Chats,0.383,0.689,0,-4.975,1,0.0285,0.164,0.00437,0.129,0.339,76.077
-3P1xzYd6oH5PweQzdJCcB9,Nambored,The Chats,Get This In Ya,0.383,0.725,0,-9.383,1,0.0525,0.019,0.00998,0.379,0.487,90.466
-0p6zIp0G0Or5QSdJX7cLhk,Temperature,The Chats,Get This In Ya,0.441,0.678,2,-7.935,1,0.141,0.103,0.00011,0.11,0.188,175.753
 01E4LxSBkicxbOlPQKu98Z,Stinker,The Chats,High Risk Behaviour,0.279,0.92,11,-5.847,0,0.167,0.00296,2.12e-06,0.327,0.762,188.91
-4NyQwUbqvKp9RQAdhqAHX0,Drunk n Disorderly,The Chats,High Risk Behaviour,0.509,0.733,9,-5.909,1,0.126,0.0165,0.0,0.404,0.676,109.736
-6XBVxi3Nqbrq3jpxIegjVW,The Clap,The Chats,High Risk Behaviour,0.651,0.693,2,-6.15,1,0.0929,0.0177,5.93e-06,0.0411,0.967,91.035
-5GJhtKP7EgUVhDjrHGbF4P,Identity Theft,The Chats,High Risk Behaviour,0.316,0.905,0,-4.888,1,0.0455,0.00381,2.55e-05,0.0691,0.901,184.75
-2OtT9HoHPGUsiDzCB420NI,The Kids Need Guns,The Chats,High Risk Behaviour,0.459,0.737,1,-5.748,0,0.0407,0.0115,0.000329,0.113,0.974,118.156
-6l0tiSPSYRwKrxR50ws9H9,Dine N Dash,The Chats,High Risk Behaviour,0.503,0.786,11,-5.388,1,0.0334,0.211,0.0,0.227,0.968,102.666
-27qY1ae3jfgfNZz8wDx3hH,Billy Backwash's Day,The Chats,High Risk Behaviour,0.376,0.787,0,-6.316,1,0.0452,0.00731,5.52e-05,0.0786,0.571,97.947
-5qBanJS9VIUPY6Dj3WvvoM,Do What I Want,The Chats,High Risk Behaviour,0.48,0.865,4,-5.56,1,0.046,0.00938,0.00187,0.293,0.84,92.266
+01S0r3t4tcHPkNyll414mT,Even In His Youth - B-Side,Nirvana,Nevermind (Super Deluxe Edition),0.443,0.975,7,-4.082,1,0.0751,4.21e-05,0.0106,0.358,0.33,142.763
+041M2yTQ2Tk4As8O63kF2T,Flipside,The Breeders,Last Splash,0.0952,0.767,6,-7.232,1,0.0472,0.0132,0.82,0.117,0.489,164.801
+06QU2gNnrfU6PaGu2Hiji8,Doe,The Breeders,Pod,0.691,0.434,0,-19.263,1,0.0392,0.058,0.85,0.0815,0.436,136.711
+07aj67H7LBe0oRakh3YBeh,Guilty Of Being White,Minor Threat,First Two Seven Inches,0.338,0.98,2,-5.693,1,0.0677,0.155,2.59e-06,0.257,0.35,92.894
+0Coz1qPuvT860fwTCAFga2,Downer,Nirvana,Bleach (Deluxe Edition),0.345,0.932,4,-6.109,0,0.112,0.000401,0.546,0.185,0.508,100.961
+0DSzVr2600Pc0TLXwF48wB,Words Come Back,The Hated,The Best Piece of Shit Vol. 3,0.227,0.993,0,-4.213,1,0.0912,0.000112,0.00391,0.224,0.113,142.273
+0DwE47YiqMWvReTPtbEaQK,Tell Me So,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0E6AHfUAXz6ZqWvVN3AMxU,Fortunately Gone,The Breeders,Pod,0.769,0.379,4,-19.204,1,0.0406,0.0604,0.109,0.128,0.735,136.432
 0KqJ382ViEljiCYchfGwlK,Panic Attack,The Chats,Get Fucked,0.674,0.897,0,-4.37,1,0.116,0.0275,0.00206,0.0603,0.627,120.524
-5b10YgbraRyefVi5DcvacM,The Price Of Smokes,The Chats,Get Fucked,0.316,0.948,2,-5.254,1,0.164,0.00156,0.00223,0.103,0.517,198.117
-7Do1J8qmhM94tNSwD3ejxR,I've Been Drunk In Every Pub In Brisbane,The Chats,Get Fucked,0.367,0.964,11,-3.648,0,0.078,0.0276,0.0,0.169,0.663,115.94
-4GOX4AU9b2wtyq9r9MXOWq,Getting Better,The Chats,Get Fucked,0.275,0.953,5,-4.707,1,0.116,0.00819,9.63e-06,0.37,0.277,111.697
-7BTIJhmLUVywM30TEc3GCl,Mum Stole My Darts,The Chats,The Chats,0.362,0.939,4,-2.18,1,0.0527,0.613,2.95e-05,0.175,0.749,165.387
-4UEQ45wYDdFCvCDhRk6AbC,I Saw Your Mommy...,Suicidal Tendencies,Suicidal Tendencies,0.32,0.715,4,-8.86,1,0.0536,0.00704,0.0,0.338,0.771,95.547
-3vZ84no8PX2XSVvSKjJkRn,Paranoia,C.C.T.V.,EP,0.34,0.836,11,-1.782,1,0.0607,0.315,0.89,0.241,0.358,100.822
-7FQbU1bWmyzWl755eLgG6f,Gang Control,Leftöver Crack,Fuck World Trade,0.406,0.949,1,-4.97,0,0.112,0.00394,2.97e-05,0.17,0.51,104.373
-2OEaDUMy7y35mk78ZWcwTC,Code Blue,T.S.O.L.,Dance With Me,0.192,0.983,7,-2.85,1,0.097,0.00601,0.0,0.397,0.339,136.36
-5A8p0P89C6lSGxwcj3JYgX,The Old You,Looch,The Old You,0.492,0.924,9,-6.501,1,0.0392,0.00462,0.000215,0.163,0.518,138.016
-5tLcsd5k2IcHQBc00f8gxi,Cartoons,Looch,Cartoons,0.281,0.594,5,-13.912,1,0.0359,1.37e-05,0.706,0.875,0.561,153.456
-23hV9GZNx6mIL8LorMW7Lz,I Can't Help It (If I'm Still In Love With You),The Breeders,Divine Hammer,0.424,0.0902,0,-15.702,1,0.0386,0.609,0.0,0.127,0.216,107.573
-7qr3EzjE7YbLkq04lXaDE7,AMPM Truck,The Garden,Kiss My Super Bowl Ring,0.501,0.831,6,-5.382,0,0.143,0.00782,1.59e-05,0.0668,0.59,183.088
-6DL44bNYvHzr1E58BAx5zx,Horseshit on Route 66,The Garden,HORSESHIT ON ROUTE 66,0.498,0.978,1,-5.115,1,0.142,0.0283,0.000191,0.345,0.435,112.328
-7x4b0UccXSKBWxWmjcrG2T,And I Love Her,Kurt Cobain,Montage Of Heck: The Home Recordings,0.616,0.282,1,-15.317,1,0.0331,0.983,0.833,0.13,0.435,96.638
-5JzEpgQlv9TuDW510njH6n,I'm Frank,The Fall,Extricate (Expanded Edition),0.587,0.71,11,-11.287,0,0.0412,0.000393,0.785,0.576,0.713,148.428
-5ziTj3HGli0fqGevKgThlE,Victoria,The Fall,The Frenz Experiment,0.494,0.79,7,-9.131,1,0.0295,0.025,0.166,0.185,0.901,148.083
-3kMTqc2WNl8ufebsOU2RCb,Bill Is Dead,The Fall,Extricate (Expanded Edition),0.392,0.619,7,-10.963,0,0.0364,3.66e-05,0.792,0.087,0.278,78.933
-5rkucEklOzy4EoHWBRfDma,Lay Of The Land,The Fall,The Wonderful And Frightening World Of....,0.413,0.822,9,-11.211,1,0.0398,0.174,0.0109,0.0777,0.604,110.854
-3mVDEFsbVMqfvhssxr5We4,All My Ghosts,Frank Black & The Catholics,Frank Black & The Catholics,0.495,0.827,3,-5.393,1,0.0538,0.00239,0.0,0.354,0.504,113.485
-1pNlZQeoPnlxqf1Mjgm0H2,Ruby Soho,Rancid,...And Out Come The Wolves,0.505,0.938,7,-5.381,1,0.0432,0.0201,0.00218,0.177,0.961,161.842
-0jmKzJmUEKNbC7eU8YfOiA,Mayonaise - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.482,0.528,10,-10.426,1,0.0272,0.000107,0.543,0.0839,0.0882,146.043
-2hMmSD4bqTqoPwMaOaNzI7,I Am Nietzche,Orchid,Dance Tonight! Revolution Tomorrow!,0.281,0.979,8,-3.939,1,0.116,5.15e-05,0.733,0.111,0.157,81.511
-5cZqsjVs6MevCnAkasbEOX,Break Stuff,Limp Bizkit,Significant Other,0.432,0.884,8,-6.657,1,0.128,0.0128,0.000457,0.166,0.619,108.835
-2o7Nv0HXtjBZ8crA3RMism,Divine Mascis,The Breeders,Last Splash (30th Anniversary Edition),0.433,0.686,4,-10.525,1,0.0305,0.00025,0.701,0.0964,0.64,131.917
-3H1kgO8VnxZr2FHnJxqhHc,Social Medicine - Remastered,Sebadoh,Bakesale: Deluxe Edition,0.322,0.327,3,-11.816,1,0.0441,0.277,1.01e-05,0.0887,0.23,208.512
+0MLliNQoGVuYmjkrLVORhC,Halloween 3.5,Rozwell Kid,Too Shabby,0.151,0.723,10,-5.826,1,0.0638,0.00163,0.000188,0.133,0.254,92.265
+0PFRTA04YOjj4VT3O6MpgP,Old World,The Modern Lovers,The Modern Lovers (Expanded Version),0.528,0.796,9,-8.668,0,0.0294,0.0104,0.00251,0.115,0.889,136.418
+0QVOp4pk3QuADsg1Atroe2,Cut,The Cure,Wish,0.427,0.866,4,-10.822,0,0.051,0.0402,0.0,0.482,0.498,134.134
+0R0m9mTXa81zp1qtcU3dSR,Regular John,Queens of the Stone Age,Queens of the Stone Age,0.342,0.938,5,-6.368,1,0.0325,0.0187,0.125,0.272,0.757,145.547
+0R4l2uRfvKmalvsl6XJtrm,Kracked,Dinosaur Jr.,You're Living All Over Me,0.166,0.969,0,-5.324,1,0.096,0.0598,0.0201,0.947,0.312,164.24
+0TxnjSeZXBJkojjHV9GEhq,She Cracked,The Modern Lovers,The Modern Lovers (Expanded Version),0.518,0.831,2,-6.823,1,0.0292,0.000149,2.96e-05,0.202,0.506,146.322
+0UQHlRhFOUsoCzh2BqpLvk,Cabaret,FRAUD,FRAUD,0.0691,0.953,1,-3.394,1,0.0871,0.0,0.899,0.212,0.147,183.262
+0WIbzDVEpmOyBnqqdtqIL9,Teen Age Riot (Album Version),Sonic Youth,Daydream Nation (Deluxe Edition),0.286,0.907,7,-9.67,1,0.0374,0.000277,0.202,0.0837,0.746,156.395
+0WtFmCcUzJwfz0xpwziODV,Graveyard,Dead Moon,In the Graveyard,0.358,0.956,4,-5.782,0,0.0826,0.00111,8.53e-06,0.25,0.251,150.165
+0YJ9FWWHn9EfnN0lHwbzvV,Jigsaw Falling Into Place,Radiohead,In Rainbows,0.462,0.832,11,-6.085,0,0.0479,0.108,0.00416,0.0741,0.807,165.653
 0YvYEHmWryyMRoCznrkm9p,So Ya Wanna Be a Cop_,Leftöver Crack,Leftöver Leftöver Crack,0.331,0.956,9,-7.324,1,0.168,0.00298,7.68e-06,0.373,0.233,105.12
+0aHSNMugqIGHxc1G1haX8B,No Life Singed Her,Pavement,Slanted & Enchanted,0.403,0.902,7,-5.209,1,0.0728,0.000907,0.0854,0.297,0.0731,131.766
+0brL7VMo7onJJTGMSdajic,Molly's Lips - BBC John Peel Session 1990,Nirvana,Incesticide,0.311,0.895,7,-9.401,1,0.0476,1.91e-05,0.195,0.0584,0.681,167.107
+0gql41c0VDulEy6oRGtnuc,Foolish Americans,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.479,0.939,2,-13.127,1,0.0607,0.0103,1.02e-06,0.291,0.156,123.54
+0jmKzJmUEKNbC7eU8YfOiA,Mayonaise - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.482,0.528,10,-10.426,1,0.0272,0.000107,0.543,0.0839,0.0882,146.043
+0k9tUFpXZg7TvMZk4l6OTa,(New Wave) Polly - BBC Mark Goodier Session,Nirvana,Incesticide,0.333,0.926,0,-11.385,1,0.185,6.8e-06,9.07e-05,0.144,0.482,194.839
+0kbYm57pZ3V3VEjcXQzHAq,I Ran Away,Dinosaur Jr.,Sweep It Into Space,0.366,0.887,7,-6.592,1,0.102,0.0692,1.48e-05,0.136,0.669,152.601
+0lBO2VOhlNNx879Fjd9XY3,Velouria,Pixies,Bossanova,0.488,0.634,6,-12.596,1,0.0329,0.00181,0.245,0.0819,0.508,124.624
+0lDoG5fQ9cmpvpenwR7Jln,Incinerate,Sonic Youth,Rather Ripped,0.446,0.866,8,-8.016,1,0.0342,0.0794,0.543,0.137,0.455,152.172
+0lWSwb3y9pqMQ4AcaMbs7x,Forget The Swan,Dinosaur Jr.,Dinosaur,0.346,0.944,9,-3.733,0,0.0934,0.0022,0.00922,0.0548,0.709,75.872
+0nH4OFO4PasjNGvQv1Z36s,About A Girl,Nirvana,Bleach (Deluxe Edition),0.413,0.875,6,-7.48,0,0.031,5.13e-06,0.00058,0.209,0.575,131.951
+0oPnyCLqcn2ZNzwy5pLKDR,"Holy Fucking Shit: 40,000",Have A Nice Life,Deathconsciousness,0.427,0.388,0,-11.005,0,0.0332,0.89,0.96,0.268,0.139,122.274
+0p6zIp0G0Or5QSdJX7cLhk,Temperature,The Chats,Get This In Ya,0.441,0.678,2,-7.935,1,0.141,0.103,0.00011,0.11,0.188,175.753
+0rcLhYRihks3t4lFPtHhQV,She's Lost Control - 2007 Remaster,Joy Division,Unknown Pleasures (Collector's Edition),0.485,0.846,11,-7.63,0,0.0528,0.0157,0.0287,0.0766,0.743,144.246
+0s3HklFRJdU1HgxQbLOo2k,"Small Man, Big Mouth",Minor Threat,First Two Seven Inches,0.41,0.9,0,-7.486,1,0.0566,0.00941,0.00268,0.353,0.875,98.437
+0u5aO1GYsIhAWCPuXdwnak,Today - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.456,0.826,8,-7.611,1,0.0268,3.35e-05,0.57,0.0548,0.415,82.539
+0vNHCXmNzVa8h54SE3JDm7,"Endless, Nameless",Nirvana,Nevermind (Remastered),0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846
+0vlD6vTcdjXOt2eBwBFhRm,Identity,X-Ray Spex,Germ Free Adolescents,0.458,0.944,2,-4.607,1,0.0366,0.0181,4.46e-06,0.0764,0.797,154.855
+0wHAqXzMjoAeOC2aAFNVAS,What's Important,Beat Happening,Beat Happening,0.324,0.95,4,-5.213,1,0.0731,0.168,0.0341,0.324,0.76,68.63
+0xr5ZFyC1SssS1dBHfrP5i,Another the Letter - 2006 Remastered Version,Wire,Chairs Missing (2006 Remastered Version),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0y9fOgbU1qPFmWMp1NpxBb,Beverly Hills,Circle Jerks,Group Sex (TRUST Edition),0.572,0.797,1,-5.242,1,0.036,0.262,0.000564,0.14,0.935,148.789
+0yqqYhd983z1qTU9yAU5Rv,Stand Up,Minor Threat,First Two Seven Inches,0.277,0.975,4,-6.416,1,0.162,0.00279,4.64e-05,0.0882,0.731,184.308
+0z1o5L7HJx562xZSATcIpY,Exit Music (For A Film),Radiohead,OK Computer,0.293,0.276,4,-11.357,0,0.0349,0.224,0.122,0.167,0.195,121.603
+0zClrkFd5UQuUFys243KjP,Caribou,Pixies,Come On Pilgrim,0.432,0.643,0,-10.678,1,0.0398,0.0643,0.00738,0.361,0.277,115.043
+10w9aorg0Evm4K9jI8c8Zj,Roll with the Wind - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.547,0.81,2,-5.884,1,0.0382,0.024,0.0128,0.187,0.803,130.263
+11Jn1q1hKzfrSCy6bjaOYs,Cats In a Bowl,Dinosaur Jr.,Dinosaur,0.304,0.991,0,-3.206,1,0.218,8.28e-05,0.377,0.303,0.395,78.62
+13OggkoCanZSYFiovWltzn,On the Brink,Dinosaur Jr.,Without a Sound,0.242,0.888,7,-7.214,0,0.0663,0.00286,0.00516,0.197,0.612,109.807
+144IMbY4x1EeUnjYr2uDcB,Heart-Shaped Box,Nirvana,In Utero (Super Deluxe Edition),0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006
+14sjvL99735m1roUUrSbPY,Lose,Dinosaur Jr.,You're Living All Over Me,0.0922,0.98,11,-3.022,0,0.153,0.00166,0.144,0.308,0.249,170.076
+14xj58ZexBaEaHARb11Cqs,Lucky,Radiohead,OK Computer,0.213,0.4,11,-9.813,0,0.0324,0.053,0.612,0.111,0.195,133.369
+150NSrON3DeZM1aLyz3MoM,Born to Lose,Johnny Thunders & The Heartbreakers,L.A.M.F. - The Lost '77 Mixes,0.395,0.892,11,-8.07,1,0.0537,0.0797,0.0,0.706,0.67,148.43
+15VRO9CQwMpbqUYA7e6Hwg,The Man Who Sold The World - Live,Nirvana,MTV Unplugged In New York,0.483,0.753,1,-8.937,0,0.0832,0.425,0.000142,0.257,0.42,115.102
+15ryA6NGMbP51thG1V2Dd9,The Gravy,Japanther,Yer Living Grave,0.551,0.859,2,-5.364,1,0.0552,0.503,0.832,0.0911,0.889,92.92
+16eGbARhfnJ2gdfwXjlC0c,Scoff,Nirvana,Bleach (Deluxe Edition),0.442,0.915,11,-7.751,0,0.0403,6.47e-06,0.865,0.114,0.735,145.27
+16xuW1EznfNaJT343lUb2G,12XU,Minor Threat,First Two Seven Inches,0.354,0.924,4,-8.342,0,0.0904,0.00019,0.855,0.0887,0.802,181.885
+1783hGvOoFRkxtW8QxjGWS,Little League,Cap'n Jazz,Analphabetapolothology,0.299,0.913,9,-7.645,1,0.0598,0.00158,0.00331,0.122,0.156,101.059
+17GMg1ZyQJtm3HkXQFZ31f,Lola,The Raincoats,The Raincoats,0.523,0.854,9,-8.27,1,0.0954,0.478,0.000939,0.271,0.83,146.688
+18DlbpndqmCBHdjNbUgUzs,Super Bee,The Demonics,Formaldehyde Injection,0.302,0.963,11,-4.908,1,0.0573,1.68e-06,0.000422,0.212,0.745,105.956
+19diA2wKSfi1AlAFOfErGi,Big Sleep,FRAUD,FRAUD,0.147,0.994,7,-3.239,1,0.0974,1.16e-06,0.293,0.237,0.0398,91.179
+1D9HqfQrkUc5Ru0C9KCDHp,Loretta's Scars,Pavement,Slanted & Enchanted,0.255,0.91,5,-5.644,0,0.045,5.73e-06,0.907,0.328,0.635,109.261
+1DKTXW8RFn6c1yYRQAPlGP,Little Fury Things,Dinosaur Jr.,You're Living All Over Me,0.211,0.952,6,-4.169,0,0.0972,0.069,0.03,0.262,0.395,128.376
+1EGa3uFmvkGChrZeIKxGwB,Soma - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.291,0.281,7,-11.798,1,0.0324,0.0241,0.83,0.115,0.0981,134.683
+1Eo0C0r1jBGeJIpQuqQ3cI,Water - 2019 Remaster,Dinosaur Jr.,Green Mind,0.296,0.935,7,-7.651,1,0.112,0.00348,0.000818,0.11,0.474,137.708
+1Ew5unNIz1c0Pswkg6en0r,Speed Heart,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1JDMLfTob9Uq84a6JqBbOC,Stereo,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.718,0.659,2,-7.392,1,0.0528,0.175,4.45e-05,0.139,0.429,109.099
+1KAbkJk4wblIcS4zTNJox0,Adventures Close to Home,The Raincoats,The Raincoats,0.875,0.676,6,-9.637,0,0.157,0.77,0.35,0.322,0.962,116.743
+1KdwPeY1WRWQGHCmRJTveb,Cannonball,The Breeders,Last Splash,0.502,0.758,3,-9.76,1,0.0407,0.00915,0.783,0.284,0.729,112.499
+1MCn5yASakJJoz2llobeMP,Goin Home - 2019 Remaster,Dinosaur Jr.,Where You Been,0.518,0.617,0,-11.513,1,0.0341,0.0049,0.134,0.116,0.468,139.198
+1MkqBhP5byDttRYtZsDC6p,Bad Mouth,Fugazi,13 Songs,0.456,0.649,9,-8.315,1,0.036,0.000593,0.564,0.321,0.64,91.173
+1N5XVGv55JPk5BioDU8Fu5,How'd You Pin That One On Me - 2019 Remaster,Dinosaur Jr.,Green Mind,0.207,0.99,1,-5.383,0,0.105,3.15e-05,0.00141,0.109,0.289,99.359
+1N9jgehBjc3XVjxMv7Eiue,Puddle Splashers,Cap'n Jazz,Analphabetapolothology,0.451,0.846,9,-7.01,1,0.0332,0.00977,2.05e-06,0.0923,0.436,97.711
+1NYiFG8cdKEVDO0ZowYi3j,Life of Pain,Black Flag,Damaged,0.188,0.807,9,-14.537,1,0.109,0.296,0.984,0.946,0.285,109.682
+1TMqBU1BnvZcFsBvTjYkuV,Virginia Reel Around The Fountain,The Halo Benders,The Rebels Not In,0.396,0.895,4,-4.879,1,0.0435,4.6e-05,0.384,0.167,0.621,84.955
+1UWRqfZoYYONXB1Azj9OKv,Spray Paint,Black Flag,Damaged,0.269,0.846,2,-13.391,0,0.0386,0.243,0.0,0.906,0.278,85.115
+1UWbBFaZNksb3AmgldkprR,Isolation - 2007 Remaster,Joy Division,Closer (Collector's Edition),0.544,0.783,0,-8.12,1,0.054,0.048,0.00734,0.0917,0.697,151.522
+1VpenLkKxrcdjYX0tKV4Es,"The Killing Moon - BBC Evening Session January 15, 1997",Pavement,Brighten the Corners: Nicene Creedence Ed.,0.427,0.818,0,-6.392,1,0.0308,7.24e-06,0.00711,0.0903,0.171,101.91
+1XFG00rEeHaDIPOQv9LTYs,I'm Not a Loser,Descendents,Milo Goes to College,0.33,0.883,6,-8.22,0,0.0533,0.0013,0.0,0.359,0.832,100.842
+1XIVotuRVgzRgVPBbmAPSh,Steppin' Stone,Minor Threat,First Two Seven Inches,0.233,0.925,0,-8.347,1,0.147,0.0549,0.0943,0.91,0.294,178.942
+1YAvNI0QfzHhIucLv5nezB,Regan,The Demonics,Formaldehyde Injection,0.424,0.905,9,-5.945,1,0.0503,0.000207,0.00113,0.287,0.403,106.253
+1ZozGivTAYsOwhy6LVHsPX,Kool Thing,Sonic Youth,Goo,0.262,0.82,7,-11.621,1,0.0428,0.0103,0.0914,0.101,0.254,155.197
+1acjIzGS1YUrx6nSuktnqU,Safe In Your Skin,Title Fight,Shed,0.437,0.252,0,-11.114,1,0.0787,0.664,0.908,0.181,0.255,108.881
+1biYwMzMvAWwZnqsJ3wPAl,"Oddity - From ""God Save The Clean""",Pavement,Brighten the Corners: Nicene Creedence Ed.,0.543,0.919,4,-6.302,1,0.0478,0.0871,0.000275,0.214,0.517,125.857
+1dpD3wS9fP60ssHOLMkVE2,Pennyroyal Tea,Nirvana,In Utero (Super Deluxe Edition),0.428,0.449,1,-12.114,0,0.0342,0.000351,0.000498,0.253,0.196,113.308
+1iQ9wn7X6X9MRJVpVqLPC1,Modern World,The Modern Lovers,The Modern Lovers (Expanded Version),0.569,0.862,11,-7.437,0,0.0358,0.000604,0.000183,0.0967,0.828,143.771
+1jZKqbGJL62N2SeUyx2RYm,Fuck Me Blind,Turnstile,Move Thru Me,0.382,0.938,7,-4.051,1,0.0429,0.000141,0.816,0.187,0.929,132.541
+1kA18VzKnonKCUPAaU7AeB,I Love You,Beat Happening,Beat Happening,0.479,0.936,6,-7.771,0,0.127,0.196,0.226,0.128,0.712,156.861
+1kV1258EHwYDPeTi5BlE3O,Theme To 90210,Cap'n Jazz,Analphabetapolothology,0.669,0.442,7,-13.881,1,0.0396,0.885,0.872,0.109,0.439,120.284
+1lg8iruuIfdRL20TMmHRzJ,One Armed Scissor,At the Drive-In,Relationship Of Command,0.251,0.932,4,-4.167,0,0.159,0.0511,3.29e-05,0.642,0.229,165.253
+1mNlVIYiDrriumuXZ7Jy7M,No Bones,Dinosaur Jr.,Bug,0.166,0.98,9,-3.185,0,0.115,0.0189,0.521,0.112,0.237,111.379
+1nFtiJxYdhtFfFtfXBv06s,Something In The Way,Nirvana,Nevermind (Remastered),0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218
+1pNlZQeoPnlxqf1Mjgm0H2,Ruby Soho,Rancid,...And Out Come The Wolves,0.505,0.938,7,-5.381,1,0.0432,0.0201,0.00218,0.177,0.961,161.842
+1qgltMSZa5UpbHK4U2reI3,Pick Me Up,Dinosaur Jr.,Beyond,0.206,0.918,5,-4.088,1,0.0754,0.00999,0.258,0.109,0.359,113.339
+1qxkzHlZBXFv5HfyYqJ8cy,Depression,Black Flag,Damaged,0.147,0.958,1,-13.427,1,0.107,0.0957,0.972,0.893,0.0368,137.829
+1qyAlCzezPlmBJ1VAtcs2b,Blow Up The Embassy,Fearless Iranians From Hell,Fearless Iranians From Hell,0.422,0.787,7,-10.159,1,0.056,0.00253,7.32e-06,0.682,0.569,113.512
+1rANkGdRoHdiZYcOG63TuW,No Looking,The Raincoats,The Raincoats,0.47,0.671,7,-7.021,1,0.0959,0.218,2.95e-06,0.0909,0.586,94.202
+1tZcw7GtIqviL32bzaKdSo,(Nice Dream),Radiohead,The Bends,0.263,0.566,9,-11.075,1,0.0344,0.163,0.261,0.225,0.375,172.851
+1tZeHEchoo62G0xpEcjbAj,Devotion,Weezer,Pinkerton - Deluxe Edition,0.315,0.636,10,-4.271,1,0.0348,0.000305,6.1e-05,0.144,0.471,127.65
+1tlTFxB34VorrZnJNfRWcs,Something In The Way - Live,Nirvana,MTV Unplugged In New York,0.547,0.335,1,-13.304,1,0.0501,0.656,0.000161,0.115,0.109,106.099
+1vEgrHo24l50BHDse4NoOu,School,Nirvana,Bleach (Deluxe Edition),0.21,0.943,4,-7.656,1,0.0785,1.15e-05,0.493,0.0739,0.13,164.844
+1vnKvlb6cj5NLpd1BMJ2jD,Summer Babe - Winter Version,Pavement,Slanted & Enchanted,0.371,0.854,2,-5.91,1,0.0288,4.84e-06,0.845,0.0617,0.568,97.517
+1x8N5sNHdQtY328uP5DxIp,Straight Edge,Minor Threat,First Two Seven Inches,0.258,0.96,5,-6.44,1,0.0602,0.000658,0.0192,0.339,0.789,188.899
+1z9qvZfQZAAZwdPjDMZwPo,Chicago New York,The Aislers Set,The Last Match,0.639,0.45,7,-11.758,1,0.0287,0.193,0.000847,0.0974,0.561,136.054
+20A08NCQknognYF4i9EyGu,Eyes Of A Panther,Steel Panther,Feel The Steel,0.392,0.961,5,-3.323,0,0.127,0.000744,0.0,0.0924,0.576,88.627
+20I8RduZC2PWMWTDCZuuAN,Take Me Out,Franz Ferdinand,Franz Ferdinand,0.277,0.663,4,-8.821,0,0.0377,0.000409,0.00051,0.136,0.527,104.561
+21wOSmPAIfOcM0Uv2oJi9P,Government Center,The Modern Lovers,The Modern Lovers (Expanded Version),0.592,0.601,9,-6.946,1,0.0341,0.192,0.0,0.0825,0.959,143.473
+22t3vCXfjQhIiXzGVSZNOz,Schizophrenia,Sonic Youth,Sister,0.356,0.696,2,-11.461,1,0.0366,0.19,0.867,0.104,0.562,134.66
+23hV9GZNx6mIL8LorMW7Lz,I Can't Help It (If I'm Still In Love With You),The Breeders,Divine Hammer,0.424,0.0902,0,-15.702,1,0.0386,0.609,0.0,0.127,0.216,107.573
+23oUaizFBFVFI5PxJrkiO5,Anyone Can Play Guitar,Radiohead,Pablo Honey,0.293,0.812,4,-10.772,0,0.0546,0.000101,0.000756,0.332,0.555,150.743
+243FAlEz4Ac3EdxdXPGbY1,Type Slowly,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.49,0.495,7,-7.131,1,0.0282,0.0382,0.00335,0.108,0.187,143.8
+263aNAQCeFSWipk896byo6,Friday I'm in Love,The Cure,Wish,0.526,0.762,0,-12.437,0,0.0342,0.000972,0.000116,0.338,0.505,136.203
+27qY1ae3jfgfNZz8wDx3hH,Billy Backwash's Day,The Chats,High Risk Behaviour,0.376,0.787,0,-6.316,1,0.0452,0.00731,5.52e-05,0.0786,0.571,97.947
+28c4nfBHdb3xviamRCEsIe,Feel the Pain,Dinosaur Jr.,Without a Sound,0.34,0.804,0,-8.355,1,0.0516,0.00331,0.0191,0.0727,0.854,131.5
+29Nv2tMZ6NuVwGpQkgz51x,Bare Feet on Wet Griptape,Chad VanGaalen,Soft Airplane,0.642,0.914,0,-6.079,1,0.0394,0.249,0.368,0.0948,0.673,130.385
+2A2ep0i1wPwhdz6LtKbWLd,Wendy Time,The Cure,Wish,0.568,0.589,9,-12.683,0,0.0288,0.497,0.00355,0.234,0.656,108.219
+2CVV8PtUYYsux8XOzWkCP0,Subterranean Homesick Alien,Radiohead,OK Computer,0.312,0.595,0,-8.919,1,0.0298,0.0484,0.00139,0.103,0.337,150.502
+2DBlfjL5chsdeULzhTp5K8,Waiting Room,Fugazi,13 Songs,0.618,0.716,6,-8.224,0,0.0367,0.00473,0.822,0.179,0.545,92.174
+2EoKhQD4Qz5Ghs02WX4sDA,Berlin Chair - Remastered 2013,You Am I,Sound As Ever (Superunreal Edition),0.256,0.94,7,-4.396,1,0.0675,0.032,0.00116,0.0774,0.437,143.209
+2GuPGJfqHFVQysmw90IeVR,Shoot The Singer (1 Sick Verse),Pavement,"Watery, Domestic",0.557,0.736,7,-7.091,1,0.0261,0.00118,0.84,0.286,0.288,132.17
+2GzxSkpCsg7DfpbmzUcTCF,Tiny,Dinosaur Jr.,Tiny,0.26,0.92,9,-5.096,1,0.0891,0.0234,0.00309,0.112,0.494,157.085
+2IHmR8p2poiSaS3cgBKmOt,Arcarsenal,At the Drive-In,Relationship Of Command,0.352,0.985,2,-2.555,1,0.22,0.00747,0.00102,0.367,0.241,129.973
+2JAxHyZt1UUNV5fZpnnGaR,They Always come,Dinosaur Jr.,Bug,0.0993,0.955,2,-4.113,1,0.0948,0.0446,0.00136,0.163,0.166,161.024
+2JEu7iASb118tsMC53yQ3t,Bulbs of Passion,Dinosaur Jr.,Dinosaur,0.122,0.947,2,-4.735,1,0.195,0.00578,0.848,0.158,0.28,85.668
+2LUVo82IKIpCuBNSaqF0G8,Corona,Minutemen,Double Nickels on the Dime,0.47,0.913,7,-10.196,1,0.0343,6.59e-05,0.267,0.222,0.977,130.425
+2NFaqSPtrm5HKNKFmOitxP,Iranian Klan,Fearless Iranians From Hell,Fearless Iranians From Hell,0.442,0.796,0,-12.136,0,0.0457,0.00227,6.88e-05,0.294,0.329,105.009
+2NbT1rAPxrBS1Dr0YLSFDt,Don't Care,Circle Jerks,Group Sex (TRUST Edition),0.298,0.837,11,-3.529,0,0.092,0.0632,0.0,0.807,0.61,144.393
+2OEaDUMy7y35mk78ZWcwTC,Code Blue,T.S.O.L.,Dance With Me,0.192,0.983,7,-2.85,1,0.097,0.00601,0.0,0.397,0.339,136.36
+2OQS3xvoKKSayJMJT8dVuZ,Trash,New York Dolls,New York Dolls,0.478,0.698,7,-9.255,1,0.0321,0.00114,0.0,0.191,0.85,112.99
+2OtT9HoHPGUsiDzCB420NI,The Kids Need Guns,The Chats,High Risk Behaviour,0.459,0.737,1,-5.748,0,0.0407,0.0115,0.000329,0.113,0.974,118.156
+2QJFqtEhJynY6ZY1KNeDQF,Out There - 2019 Remaster,Dinosaur Jr.,Where You Been,0.18,0.921,5,-8.126,0,0.139,0.00048,0.362,0.227,0.248,139.067
+2S2NiCF7sa1tQkCZB9FvzX,Tourette's,Nirvana,In Utero (Super Deluxe Edition),0.277,0.908,10,-11.029,0,0.0463,0.000198,9.2e-05,0.132,0.351,173.713
+2UajC10rDdG4sFuNWLmUgD,Nigel - Unreleased Song,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.48,0.63,0,-7.748,1,0.0318,0.0971,0.804,0.115,0.237,100.998
+2W9pPwFusM5smB8iG4ZA18,Alien She,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2WheuVAKcZsQOZREbYtMvm,Apartment,Custard,Wisenheimer,0.454,0.93,0,-5.986,1,0.0472,8.65e-05,0.054,0.0843,0.932,169.648
+2WrvnCyorYRG26bjLrjo8C,We Own the World,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.37,0.68,4,-12.413,1,0.0816,0.000808,0.000214,0.0872,0.224,106.982
+2YM0kfevj552icN9DisbT9,I'm Straight,The Modern Lovers,The Modern Lovers (Expanded Version),0.559,0.444,9,-9.664,1,0.0876,0.378,0.0,0.149,0.493,138.435
+2YodwKJnbPyNKe8XXSE9V7,Lithium,Nirvana,Nevermind (Remastered),0.678,0.656,7,-6.41,1,0.0381,0.00174,0.0,0.0631,0.485,123.207
+2a1iMaoWQ5MnvLFBDv4qkf,High and Dry,Radiohead,The Bends,0.419,0.383,4,-11.782,1,0.0256,0.0724,0.0176,0.0896,0.35,87.568
+2aYjIiRV11yjsGr9Pywlrz,Embassy Row,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.464,0.75,9,-5.513,0,0.0346,0.0143,0.0,0.0793,0.292,136.43
+2auixWUJgcIGsiI94GwRzU,Dignified and Old,The Modern Lovers,The Modern Lovers (Expanded Version),0.527,0.856,4,-7.339,0,0.0676,0.0192,0.0,0.0567,0.899,144.619
+2bkMizvDbij4FMel1cgIB6,Sideways,Dinosaur Jr.,Whatever's Cool With Me,0.442,0.284,9,-14.962,1,0.0377,0.551,0.0671,0.0366,0.239,139.686
+2dN4SyvKiCvoU5RAcIU53a,We're Not Alone,Dinosaur Jr.,Beyond,0.21,0.936,5,-3.617,1,0.113,0.102,0.587,0.335,0.326,148.118
+2fWxcJeDQiLStdAdwF4ms6,No Side to Fall In,The Raincoats,The Raincoats,0.434,0.614,6,-8.334,1,0.0525,0.486,0.000196,0.394,0.787,147.681
+2fuYa3Lx06QQJAm0MjztKr,Let Down,Radiohead,OK Computer,0.351,0.676,9,-9.017,1,0.0313,0.000121,0.113,0.18,0.143,102.46
+2g0SftYdRnQVZw8qEdC0Ut,Diamonds in the Rough,Dead Moon,Nervous Sooner Changes,0.323,0.715,9,-6.722,1,0.0451,0.00146,0.565,0.0895,0.71,174.787
+2hMmSD4bqTqoPwMaOaNzI7,I Am Nietzche,Orchid,Dance Tonight! Revolution Tomorrow!,0.281,0.979,8,-3.939,1,0.116,5.15e-05,0.733,0.111,0.157,81.511
+2iVtt0mYIL26IGAgRkhHT5,High,The Cure,Wish,0.618,0.717,9,-12.107,1,0.03,0.0164,0.000339,0.0594,0.761,114.802
+2jmVGWe4MYY1zAAzpFHHcC,Territorial Pissings,Nirvana,Nevermind (Remastered),0.285,0.979,2,-4.428,1,0.175,0.000144,0.0,0.334,0.108,182.7
+2mgBdz0PWtEq6nVtddnauR,Seeing Red,Minor Threat,First Two Seven Inches,0.319,0.836,2,-6.999,1,0.137,0.00787,0.00805,0.527,0.643,168.764
+2o7Nv0HXtjBZ8crA3RMism,Divine Mascis,The Breeders,Last Splash (30th Anniversary Edition),0.433,0.686,4,-10.525,1,0.0305,0.00025,0.701,0.0964,0.64,131.917
+2pYqOHeENOQgroTumpIOkr,Filler,Minor Threat,First Two Seven Inches,0.171,0.977,1,-6.716,0,0.101,0.000181,0.00405,0.0636,0.571,184.916
+2tRI6j8RxFwrxoRKs7dnV8,Double Dare Ya,Bikini Kill,The First Two Records,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+2ttMDab19hqmnEzmP4GUEH,I Just Wanna Get Along,The Breeders,Last Splash,0.481,0.715,8,-10.103,1,0.0396,0.00356,0.00263,0.0569,0.736,145.554
+2vVHf461WNqqZsfr5mXIFr,Living For The Depression,Flipper,Album - Generic Flipper,0.184,0.985,9,-5.98,1,0.114,0.311,3.31e-05,0.926,0.344,196.365
+2vfCSwToh0Am0O4zgHXfn7,Oh Me - Live,Nirvana,MTV Unplugged In New York,0.538,0.51,8,-13.192,1,0.102,0.726,0.0187,0.205,0.262,72.471
+2vmsqXnxL8UTx5s79sJr5C,Just Ace,Grinspoon,Guide To Better Living,0.586,0.858,2,-6.83,1,0.0254,6.77e-05,0.00894,0.318,0.82,100.244
+2vwBL9RVyr0vA4Og5VH0i3,From the Edge of the Deep Green Sea,The Cure,Wish,0.467,0.678,4,-10.581,0,0.0313,0.0135,0.000569,0.174,0.345,111.106
+2wOvYLilnDJfuPXGHGFAWZ,Ripcord,Radiohead,Pablo Honey,0.255,0.906,2,-10.436,1,0.0548,1.98e-05,0.358,0.322,0.256,137.951
+2xAiwGGuaqdEklu33zEXr9,All Apologies,Nirvana,In Utero (Super Deluxe Edition),0.446,0.632,1,-12.197,1,0.034,0.0793,0.000266,0.0853,0.359,113.176
+2ynru6AE1AXIW8euFhEMat,Thirsty And Miserable,Black Flag,Damaged,0.287,0.9,5,-13.156,1,0.0906,0.0419,0.972,0.842,0.0358,104.282
+2z5LG9pXrouLrzhdhqrVwl,White Boy,Bikini Kill,The First Two Records,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+30HCB1FoE77IfGRyNv4eFq,In Bloom,Nirvana,Nevermind (Remastered),0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044
+34X9XeLp4NNtOQZXJIEfmx,Divine Hammer,The Breeders,Last Splash,0.344,0.561,3,-13.642,1,0.032,0.089,0.814,0.132,0.632,143.698
+35iszqjgLhqZZ6Rk9TjIdf,Nazi Punks Fuck Off,Dead Kennedys,"Plastic Surgery Disasters/In God We Trust, Inc.",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+375v3z9j4hGuhyzuaveTXK,Not You Again,Dinosaur Jr.,Whatever's Cool With Me,0.25,0.782,2,-7.308,1,0.0562,0.0015,9.96e-05,0.129,0.739,160.774
+376QwtHvmpIQ27yQVEEoLz,You're Not The Only One Who Feels This Way,Ammonia,Eleventh Avenue,0.332,0.659,5,-8.211,0,0.0455,0.00334,0.00329,0.063,0.307,123.196
+37hmXRRWd9cM1jBy5QHOw8,Tarpit,Dinosaur Jr.,You're Living All Over Me,0.172,0.871,0,-3.131,1,0.0748,0.000338,0.071,0.0766,0.42,122.457
+38gZfTSpU9M60STTmkmkNh,Two States,Pavement,Slanted & Enchanted,0.605,0.736,2,-6.168,1,0.0431,0.000595,7.27e-05,0.275,0.866,130.103
+39Govw9YdNxaFgAqM4DBp0,Que Suerte!,Cap'n Jazz,Analphabetapolothology,0.279,0.92,9,-6.031,1,0.104,0.0106,0.00156,0.122,0.179,126.831
+39wTY67FQ9UBbhXJMECw89,Basil's Kite,Cap'n Jazz,Analphabetapolothology,0.258,0.825,4,-6.065,1,0.035,0.0301,0.067,0.0725,0.318,107.92
+3CbAW3GjkBKfErt4LLbSzr,Stop Whispering,Radiohead,Pablo Honey,0.212,0.696,2,-10.059,1,0.0472,0.000849,0.0165,0.129,0.298,122.35
+3CpIyCfgCI2JQrCoyRsU2m,Over It,Dinosaur Jr.,Farm,0.103,0.987,0,-4.76,0,0.117,0.00914,0.0773,0.145,0.0947,158.15
+3DaC3oRpGInTU0x8DvdSGp,What I See,Black Flag,Damaged,0.467,0.738,1,-13.983,0,0.104,0.0279,0.00384,0.0697,0.317,112.325
+3FzKPS0oVknVlCW3PhxIHl,Debaser,Pixies,Doolittle,0.487,0.885,5,-12.005,1,0.0427,0.000397,0.347,0.0973,0.579,135.516
+3H1kgO8VnxZr2FHnJxqhHc,Social Medicine - Remastered,Sebadoh,Bakesale: Deluxe Edition,0.322,0.327,3,-11.816,1,0.0441,0.277,1.01e-05,0.0887,0.23,208.512
+3H7lUDRaFAXi5hcEzd2GsU,Bikeage,Descendents,Milo Goes to College,0.251,0.86,5,-8.505,1,0.0517,0.00121,0.0,0.356,0.749,194.06
+3L0chLc9b4GvsLg59nHTIL,Blood One,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3LI4MmibTkXH5cGpCGZgyw,Teenage Dirtbag,Wheatus,"Songs From Dawson's Creek, Vol. II",0.617,0.84,4,-4.063,1,0.0512,0.36,8.85e-05,0.179,0.57,94.676
+3NoOwvxhI2yMYknxqnFUVx,Nervous Breakdown,Black Flag,Nervous Breakdown,0.401,0.907,11,-11.422,0,0.0679,0.524,0.0,0.48,0.317,90.302
+3OJVrGpVbq0KD6j0NMOrlA,Sugar,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3P1xzYd6oH5PweQzdJCcB9,Nambored,The Chats,Get This In Ya,0.383,0.725,0,-9.383,1,0.0525,0.019,0.00998,0.379,0.487,90.466
+3QVtDnXU5zqGWxWDFBMiDj,Gold Soundz,Pavement,"Crooked Rain, Crooked Rain",0.448,0.614,9,-9.357,1,0.031,0.0675,0.0,0.14,0.479,126.459
+3RGbN1kPvlcckj9tMvb09l,If Reagan Played Disco,Minutemen,Introducing the Minutemen,0.574,0.91,2,-9.172,1,0.0708,0.00645,0.506,0.283,0.367,146.351
+3TtILP6ufeAsUQ6eH41ILA,Repulsion,Dinosaur Jr.,Dinosaur,0.379,0.967,11,-3.953,0,0.0821,0.000347,0.00678,0.0688,0.798,145.744
+3UjkBG3I1rs4GKvbqcJ8YP,Sludgefeast,Dinosaur Jr.,You're Living All Over Me,0.131,0.961,9,-3.582,1,0.0618,0.019,0.0436,0.207,0.573,165.976
+3VFpxTDq4UR5jeZCuq50Nm,Girlfriend,The Modern Lovers,The Modern Lovers (Expanded Version),0.625,0.394,7,-10.876,1,0.0361,0.171,0.000308,0.137,0.414,128.235
+3WS9ak7rsRENV3cV9VRf2D,Flashpoint: Catheter,Cap'n Jazz,Analphabetapolothology,0.335,0.568,2,-9.642,1,0.0313,0.000947,8.01e-05,0.245,0.126,148.592
+3Wr6nJVfrxS165lPFhw4OT,Crumble,Dinosaur Jr.,Beyond,0.31,0.949,5,-5.125,1,0.0677,0.0214,0.363,0.126,0.341,139.736
+3X2rGQn3sPi57la0N6TDkP,Quicksand,Dinosaur Jr.,Whatever's Cool With Me,0.466,0.44,7,-12.196,1,0.032,0.749,0.0,0.0803,0.544,72.398
+3ZP4DVUDzC2oGJAqd1vhsy,Anything,Suburban Lawns,Suburban Lawns,0.643,0.803,7,-7.703,1,0.0414,0.0358,1.16e-05,0.229,0.966,123.283
+3ZkURqO753fN0SgtzqMmIs,Garden,Dinosaur Jr.,Sweep It Into Space,0.541,0.672,4,-7.364,1,0.027,0.00834,0.0759,0.147,0.542,134.337
+3bg0C4y3BvpaB0TPj5sQlf,Bus Money,The Chats,Get This In Ya,0.47,0.62,0,-9.26,1,0.195,0.0772,0.00449,0.0999,0.656,175.385
+3bluNnCa66Tfhix35wSehs,Invisible Man,The Breeders,Last Splash,0.429,0.718,6,-11.46,1,0.0293,0.1,0.463,0.0657,0.765,104.781
+3gEgqQth1OY9XkDmYX1U9F,Ooh Do I Love You,Cap'n Jazz,Analphabetapolothology,0.32,0.877,9,-6.26,1,0.0757,0.0014,0.0378,0.302,0.349,114.095
+3gnECjoda7OKT4qD18rKfa,The Leper,Dinosaur Jr.,Dinosaur,0.261,0.99,9,-3.432,1,0.167,0.00221,0.165,0.0854,0.39,90.243
+3hQJXPHlkBitMU1RXiK6Du,Frontwards,Pavement,"Watery, Domestic",0.34,0.783,2,-7.158,1,0.0359,3.56e-05,0.411,0.0809,0.541,114.76
+3hplBjBmQqR49L8THyjTdb,London Dungeon,Misfits,Collection,0.344,0.912,0,-11.219,1,0.164,0.109,0.0973,0.19,0.273,170.842
+3kMTqc2WNl8ufebsOU2RCb,Bill Is Dead,The Fall,Extricate (Expanded Edition),0.392,0.619,7,-10.963,0,0.0364,3.66e-05,0.792,0.087,0.278,78.933
+3mVDEFsbVMqfvhssxr5We4,All My Ghosts,Frank Black & The Catholics,Frank Black & The Catholics,0.495,0.827,3,-5.393,1,0.0538,0.00239,0.0,0.354,0.504,113.485
+3n0zZ1V9PXLsxtyTiqDhuQ,Rebel Girl,Bikini Kill,The Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3nwJe1e5fmuEW0grAYVo5v,A Martyr in Every Home,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.442,0.673,2,-13.896,1,0.0482,0.000114,0.00732,0.0812,0.309,125.969
+3ow0TQVttXQF8rLckmXgRx,Cherub Rock - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.382,0.867,9,-7.426,1,0.0399,5.91e-06,0.581,0.196,0.453,87.309
+3pHShv6bWLfUWrgDFFVd0X,The Wagon - 2019 Remaster,Dinosaur Jr.,Green Mind,0.254,0.984,7,-6.369,1,0.0954,4.09e-05,0.000447,0.38,0.21,171.787
+3pkmP2kzsMImhKYyVac3ux,Land Of The Free,Fearless Iranians From Hell,Fearless Iranians From Hell,0.463,0.552,6,-10.71,1,0.0942,0.0141,1.97e-05,0.316,0.636,119.38
+3pqjXnDi8Nux88e4zv49Fc,Scentless Apprentice,Nirvana,In Utero (Super Deluxe Edition),0.31,0.83,1,-8.527,1,0.0482,1.53e-06,0.146,0.137,0.617,170.568
+3sYWyVGfPuit80szWXhrRA,Come As You Are - Live,Nirvana,MTV Unplugged In New York,0.683,0.766,5,-8.733,0,0.041,0.554,0.00346,0.0815,0.568,119.19
+3tc5tmcnmuZ2xTdHCqhfSe,The Holiday Song,Pixies,Come On Pilgrim,0.314,0.846,0,-10.787,1,0.0524,0.175,0.0,0.0972,0.604,161.323
+3vZ84no8PX2XSVvSKjJkRn,Paranoia,C.C.T.V.,EP,0.34,0.836,11,-1.782,1,0.0607,0.315,0.89,0.241,0.358,100.822
+3wJ0BJkhldu9GKRAEZHZ1V,Pond Song,Dinosaur Jr.,Bug,0.225,0.952,7,-7.284,1,0.0599,0.032,0.000207,0.0453,0.862,157.512
+3yKUkABUurP8i3z69b3hnO,Battling Against the Police,Disability,Public Service,0.343,0.978,7,-3.29,1,0.0491,0.0025,0.0146,0.0722,0.738,128.095
+3zvyEX9xo3IJiXrXdeQnCX,Violent Closure,GEL,Violent Closure,0.379,0.979,6,-2.829,0,0.0718,2.25e-06,0.938,0.0917,0.214,102.897
+41SzLFCZfaoDD3TPtuGBIv,Star Fish,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+41mVbwPB5Gq9yfMdM9zPbb,A Pillar Of Salt,The Thermals,"The Body, The Blood, The Machine",0.218,0.982,11,-3.067,1,0.161,0.0015,0.0,0.42,0.224,171.099
+42PZuYX40mFZGEB15G8wNJ,The Queen of Hearts,Duster,Stratosphere,0.558,0.202,9,-11.846,0,0.0826,0.0411,0.868,0.106,0.0395,98.207
+45uN41QTl8pitqs8f9FhAp,I've Been Tired,Pixies,Come On Pilgrim,0.603,0.62,7,-12.109,1,0.0315,0.0101,8.04e-05,0.374,0.769,148.305
+482cObBzbfgI4i00PDolDY,Room 200,Title Fight,The Last Thing You Forget,0.434,0.978,7,-5.839,1,0.106,8.77e-05,3.97e-06,0.206,0.298,103.537
+483eDfrfcxgwm27u8L3mds,Media Blitz,Germs,20th Century Women (Original Motion Picture Soundtrack),0.364,0.873,10,-11.793,0,0.135,8.23e-05,0.00223,0.768,0.673,125.186
+48IBmfaCUQaXP4JGdjSuBI,On The Way - 2019 Remaster,Dinosaur Jr.,Where You Been,0.265,0.871,1,-8.827,0,0.0653,7.47e-05,0.0134,0.0483,0.278,95.237
+48YkpE5enOln5c7jXSTuHL,About A Girl - Live,Nirvana,MTV Unplugged In New York,0.606,0.769,3,-9.215,0,0.0713,0.14,1.64e-05,0.841,0.593,121.042
+4AXlzJXXEdmNoCBgLosO9q,Perfume-V,Pavement,Slanted & Enchanted,0.472,0.793,0,-6.095,1,0.0333,1.63e-05,0.742,0.135,0.442,126.345
+4AkFvW4VdNDNmVXehylmrr,Love Buzz,Nirvana,Bleach (Deluxe Edition),0.479,0.865,5,-8.281,0,0.0339,3.1e-05,0.228,0.182,0.77,137.902
+4BZLAm5rqqChHZlBlHuSMV,Wild in the Streets,Circle Jerks,Wild in the Streets,0.459,0.966,4,-8.814,1,0.0302,0.0061,0.0,0.146,0.38,103.421
+4BwKxKoTqpwyQ4zOXXvp6T,Whatever's Cool With Me,Dinosaur Jr.,Whatever's Cool With Me,0.177,0.98,0,-7.963,1,0.0876,0.0246,0.000116,0.736,0.0562,151.386
+4DA95pyBe6QORPGvTEuMWQ,TV Party,Black Flag,Damaged,0.308,0.926,1,-12.683,1,0.15,0.184,0.0,0.0782,0.193,96.17
+4DdXOLc1VMAY34ourCn1Xa,A Letter to Elise,The Cure,Wish,0.528,0.592,9,-13.59,1,0.0321,0.16,0.000916,0.223,0.728,150.187
+4DgsvJNNGvV5WPQ40qR3R8,New Radio,Bikini Kill,The Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4FTPM7xbjGcGEuTgFoal8h,Special Delivery,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.49,0.713,2,-13.758,1,0.0448,0.000869,0.131,0.308,0.545,106.57
+4GOX4AU9b2wtyq9r9MXOWq,Getting Better,The Chats,Get Fucked,0.275,0.953,5,-4.707,1,0.116,0.00819,9.63e-06,0.37,0.277,111.697
+4GpfNpkzSwYfATmZJhVuJB,The Lung,Dinosaur Jr.,You're Living All Over Me,0.122,0.996,0,-3.929,1,0.156,0.00136,0.361,0.204,0.181,177.865
+4H9fsMhr1wLk3xb2o9BNm7,Aneurysm,Nirvana,Nevermind (Super Deluxe Edition),0.317,0.874,11,-4.991,0,0.094,0.000327,0.751,0.209,0.17,130.992
+4HNE2vvso4Eaz7FOz8suQu,Grab It,Dinosaur Jr.,Without a Sound,0.0887,0.902,5,-7.4,1,0.0669,8.24e-05,2.23e-05,0.238,0.29,184.311
+4HVJbdy5mP3OiOLmcN8zeg,In The Mouth A Desert,Pavement,Slanted & Enchanted,0.454,0.749,0,-4.201,1,0.0335,0.00397,0.0045,0.0942,0.443,105.399
+4IAIa6Ugyn5AUFOjYQZ5SJ,Green Mind - 2019 Remaster,Dinosaur Jr.,Green Mind,0.379,0.911,1,-7.463,0,0.0568,5.89e-05,0.0,0.369,0.618,134.244
+4IIPo1lJY4IfdGBC0UsnKt,Wanna Mess You Around - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.399,0.976,11,-4.379,0,0.229,0.0156,0.0,0.308,0.123,115.458
+4IryVI254hGj0J8ND5r8gZ,Stain,Nirvana,Incesticide,0.546,0.901,4,-11.778,0,0.0599,0.000203,2.2e-05,0.133,0.532,148.341
+4IvZLDtwBHmBmwgDIUbuwa,Here Comes Your Man,Pixies,Doolittle,0.669,0.795,2,-10.865,1,0.0285,0.00772,0.0781,0.401,0.882,124.594
+4KcH1ZRV2W1q7Flq0QqC76,Blitzkrieg Bop - 2016 Remaster,Ramones,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),0.385,0.783,9,-2.533,1,0.233,0.000269,0.47,0.108,0.902,176.701
+4Ktcqm6ipx09fyJRUKJFTS,21st Dead Rats - 2021 Remaster,Joyce Manor,Joyce Manor (2021 Remaster),0.359,0.848,9,-4.636,1,0.157,0.00225,0.0,0.128,0.668,151.366
+4NyQwUbqvKp9RQAdhqAHX0,Drunk n Disorderly,The Chats,High Risk Behaviour,0.509,0.733,9,-5.909,1,0.126,0.0165,0.0,0.404,0.676,109.736
+4OHVCeQYPncEwZOtNAJZZx,Beetlebum - 2012 Remaster,Blur,Blur (Special Edition),0.542,0.627,0,-7.105,1,0.0243,0.0794,0.000517,0.277,0.814,89.734
+4Oowss1JKwLSd1aL9Bf9vs,Jesus Chrysler Super Stock,The Demonics,Formaldehyde Injection,0.402,0.96,6,-5.695,1,0.0647,0.000118,1.51e-05,0.299,0.462,103.424
+4P5KoWXOxwuobLmHXLMobV,Come As You Are,Nirvana,Nevermind (Remastered),0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125
+4QTWogucT9i3DJPBVt6AkN,Transport Is Arranged,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.394,0.556,6,-5.495,1,0.0292,0.333,0.00227,0.129,0.137,140.159
+4RzI4cQpnS5rQH8ZeFRlgr,Doing the Unstuck,The Cure,Wish,0.553,0.784,6,-12.679,0,0.0424,0.212,0.0654,0.0897,0.53,128.195
+4TMIi2pweQzuxG1UDFjGXk,Dont It Get You Down,Deadstar,Milk,0.44,0.88,7,-6.484,1,0.0435,0.0372,7.33e-05,0.23,0.477,124.331
+4UEQ45wYDdFCvCDhRk6AbC,I Saw Your Mommy...,Suicidal Tendencies,Suicidal Tendencies,0.32,0.715,4,-8.86,1,0.0536,0.00704,0.0,0.338,0.771,95.547
+4YHBwHr2hKkE5GzrEm7sgh,Wanna Be Manor,The Vandals,Peace Thru Vandalism,0.336,0.891,4,-9.563,1,0.0488,0.000274,3.43e-06,0.101,0.458,123.947
+4YbslGpDoOgJgH8wqSdfaP,Garbage Truck,Sex Bob-Omb,Scott Pilgrim vs. the World (Original Motion Picture Soundtrack),0.494,0.839,2,-4.458,1,0.127,0.299,0.0,0.467,0.668,133.481
+4Z79ArOZZjYYaq4CGbBxa1,Hot Head,Death Grips,Bottomless Pit,0.408,0.97,1,-5.142,1,0.384,0.00963,0.0,0.236,0.384,126.361
+4ZUXkfD2kOXpbMAPCQrhSq,I Live For That Look - 2019 Remaster,Dinosaur Jr.,Green Mind,0.296,0.947,0,-5.777,1,0.0649,2.5e-05,0.0,0.129,0.351,146.074
+4Zawb6nn8bBG7PhR7JrUen,Dumb,Nirvana,In Utero (Super Deluxe Edition),0.697,0.395,6,-13.58,1,0.0281,0.428,0.653,0.173,0.876,113.589
+4ZuC5MfGjRQs3pZtPxqMYP,Shadowplay - 2007 Remaster,Joy Division,Unknown Pleasures (Collector's Edition),0.433,0.756,9,-7.855,1,0.0565,0.000997,0.761,0.124,0.117,145.443
+4blAmRSLbvMrzUn5WSGZFW,Happiness Is A Warm Gun,The Breeders,Pod,0.369,0.255,7,-17.418,1,0.0459,0.03,0.376,0.0983,0.159,143.34
+4ddNGtvMcrfnz4o8bT20n1,Hamster Baby,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4dneV7C1yDt9UtyxrQY375,Boys Don't Cry - Single Version,The Cure,Three Imaginary Boys (Deluxe Edition),0.465,0.841,11,-5.767,0,0.0633,0.00486,0.0,0.109,0.689,168.743
+4fh3XDJxS7gD0iCMCBInP9,World up My Ass,Circle Jerks,Group Sex (TRUST Edition),0.439,0.903,0,-3.461,1,0.0411,0.126,0.0,0.335,0.722,106.363
+4gJMBum76QqDnYbkQCOTrm,Decade,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.35,0.48,6,-16.318,1,0.0468,5.89e-05,0.819,0.0593,0.414,108.33
+4gqNhC8zmLjfoWb2DqIF6J,Punching Goodbye Out Front,Kinski,Down Below It's Chaos,0.244,0.804,0,-7.072,1,0.0343,2.22e-05,0.769,0.397,0.45,82.479
+4gxKVUQyfkIbO6WuET4HlW,Drivin' on 9,The Breeders,Last Splash,0.63,0.392,7,-13.652,1,0.0295,0.487,0.534,0.264,0.537,120.799
+4hjMwtr7tPmU62d32Hwia5,License to Confuse - Remastered,Sebadoh,Bakesale: Deluxe Edition,0.333,0.871,8,-5.805,0,0.0375,0.000204,0.128,0.349,0.881,136.479
+4iDydJhc5O3koTOCur9kqK,Fireman,Jawbreaker,Dear You,0.392,0.886,10,-6.549,1,0.0617,0.013,0.0808,0.12,0.655,165.39
+4kFfFe38CRVnTsakUTL4E4,Rise Above,Black Flag,Damaged,0.374,0.816,2,-13.88,1,0.0578,0.119,8.01e-06,0.0808,0.138,104.56
+4l012k8ZcAdVbUvZ4kae5Q,Stay Away,Nirvana,Nevermind (Remastered),0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21
+4l27J9YJWlSnwRYR1m2Oxa,Flame,Sebadoh,The Sebadoh,0.488,0.962,6,-6.737,1,0.063,0.0397,0.429,0.178,0.486,130.341
+4lAQC39rjYZzynk7DvNTmM,I'm the Best Person in the World,The Chats,The Chats,0.256,0.906,2,-5.69,1,0.0573,0.0305,0.237,0.253,0.841,167.333
+4m2jfBoZ62ne75683ujxmu,Let It Ride,Dinosaur Jr.,Bug,0.31,0.99,11,-4.671,0,0.119,0.00839,0.164,0.317,0.177,91.395
+4pBmZCsqv3BYdzigzlknSB,I Feel Good,The Chats,The Chats,0.245,0.871,2,-1.631,1,0.0407,0.132,0.00813,0.066,0.829,158.281
+4rrbptVnZifk4wC5mvNDPm,My War,Black Flag,My War,0.215,0.503,1,-16.318,0,0.0463,0.65,0.0283,0.098,0.35,186.866
+4tBl1xhBg5PETpBvFnQmGl,Cut Your Hair,Pavement,"Crooked Rain, Crooked Rain",0.472,0.735,4,-9.822,0,0.0305,0.00596,0.00124,0.166,0.643,110.809
+4tjrhez9Jz2euetdgNqS7W,Seer,Witch,Witch,0.182,0.869,4,-5.173,0,0.0713,0.0187,0.881,0.287,0.161,150.778
+4vsoWZcvtvSsE0OiVvDDvX,Harness Your Hopes - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.604,0.573,2,-7.804,1,0.037,0.289,0.0406,0.133,0.581,107.862
+4wRFgC67NaJfAYN2ZV46Qd,Serve The Servants,Nirvana,In Utero (Super Deluxe Edition),0.435,0.895,10,-8.7,1,0.0421,1.13e-05,0.0318,0.19,0.668,119.659
+4xmKa5V3AahswhMWGK0bFE,Swap Meet,Nirvana,Bleach (Deluxe Edition),0.387,0.953,2,-7.143,1,0.0557,5.28e-05,2.45e-05,0.189,0.709,146.313
+4y15tYrvSv1c0HxFEJR3wl,What Happened,Sublime,40oz. To Freedom,0.515,0.718,7,-7.241,1,0.228,0.000112,0.0027,0.162,0.687,100.71
+51Z2IzJvLCnZaIpBV0IYRr,Wave Of Mutilation,Pixies,Doolittle,0.587,0.811,5,-10.824,1,0.0328,0.000135,0.472,0.0901,0.75,132.727
+52M96UxJzKkHFSHGNiu8Du,Police Story,Black Flag,Damaged,0.285,0.914,5,-13.901,1,0.109,0.106,0.353,0.961,0.144,110.078
+52N5LDX2m2NUcfChskyeRw,The Sands've Turned Purple,Cap'n Jazz,Analphabetapolothology,0.325,0.914,7,-6.285,1,0.159,0.0394,0.000307,0.119,0.187,147.241
+532GcM2m0edyHHLHNtMRpr,She's Calling You,Bad Brains,I Against I,0.725,0.64,2,-12.948,1,0.0431,0.00915,0.000734,0.106,0.835,127.406
+536z8B5w6EtvjvRgeCaE5s,Want,The High Curbs,Empty Bottles / Want,0.175,0.971,9,-3.934,1,0.1,6.54e-05,0.000898,0.344,0.224,91.779
+54aFuAQ048II4Trz9ZwhLP,Zurich Is Stained,Pavement,Slanted & Enchanted,0.624,0.676,0,-8.134,1,0.0291,0.235,0.00301,0.0957,0.377,128.537
+55Uj19sHmOFYccIbTPE3gV,Ed Is Dead,Pixies,Come On Pilgrim,0.574,0.716,9,-11.664,0,0.0392,0.0119,3.54e-05,0.277,0.688,127.014
+55oE1XL7HceNY7VR7Nz4yu,Sweet '69,Babes In Toyland ,Nemesisters,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+56Q8GaEPssuYI7VyqxPzxh,Skull - Remastered,Sebadoh,Bakesale: Deluxe Edition,0.281,0.635,6,-9.885,1,0.0315,8.87e-05,0.495,0.111,0.386,138.551
+56VEsTg2eYBhSrBp85HUWo,The Other Side,Love City,Love City EP,0.212,0.927,11,-2.993,0,0.174,0.0769,0.00251,0.0352,0.327,164.204
+59d0TRQ1IlsRQfBEtGmj5N,Rocket - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.195,0.665,0,-9.097,1,0.0345,2.8e-06,0.928,0.0723,0.358,89.005
+5A8p0P89C6lSGxwcj3JYgX,The Old You,Looch,The Old You,0.492,0.924,9,-6.501,1,0.0392,0.00462,0.000215,0.163,0.518,138.016
+5ADKQyUHRleVWuzMLkFS8x,I Don't Wanna Hear It,Minor Threat,First Two Seven Inches,0.202,0.97,11,-6.301,1,0.0826,0.00225,0.00155,0.283,0.803,190.059
+5ALCHMO9Fmvn1Ly18Q3apL,Last Caress - C.I. Recording 1978,Misfits,The Misfits Box Set,0.33,0.906,0,-9.607,1,0.0513,0.533,0.0208,0.15,0.418,91.186
+5Aux6GnqPx1vmo7lxQfzhd,I Am a Poseur,X-Ray Spex,Germ Free Adolescents,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5ByJlcDmUzK69tpub789AB,Dead End Friends,Them Crooked Vultures,Them Crooked Vultures,0.343,0.963,6,-3.354,1,0.106,0.00338,0.0136,0.72,0.55,151.496
+5D6e2eR7ibXaeYCM9SkLts,Not Too Amused - Remastered,Sebadoh,Bakesale: Deluxe Edition,0.367,0.824,6,-7.783,1,0.0619,0.399,0.0255,0.107,0.446,105.756
+5Ddlk6C2JVxb1SReZ6O1wk,Drain You,Nirvana,Nevermind (Remastered),0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358
+5E5HYgxGMp3BPakHGfKfIB,Roadrunner,The Modern Lovers,The Modern Lovers (Expanded Version),0.462,0.84,2,-6.666,1,0.0346,4.98e-05,6.47e-05,0.0893,0.804,75.54
+5ERGhYZH1fqdhF7H5ZXNoK,Mind Glow,Dinosaur Jr.,Without a Sound,0.247,0.72,11,-9.231,1,0.042,0.194,0.00046,0.177,0.489,150.772
+5Ext9ObPEi7wIcv5AiQWJy,Superstar,Sonic Youth,If I Were A Carpenter,0.317,0.498,5,-9.137,0,0.0315,0.0515,0.306,0.121,0.141,84.563
+5FQ1ZPkIyYss4XhhDBvnC5,(David Bowie I Love You) Since I Was Six,The Brian Jonestown Massacre,Take It From The Man,0.201,0.647,10,-6.842,1,0.0363,0.000926,7.9e-05,0.176,0.32,115.609
+5G2g1EbEtFSMkMbAnhl7FV,Gigantic - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.39,0.694,7,-11.783,1,0.0399,0.00299,0.304,0.0757,0.795,115.197
+5GJhtKP7EgUVhDjrHGbF4P,Identity Theft,The Chats,High Risk Behaviour,0.316,0.905,0,-4.888,1,0.0455,0.00381,2.55e-05,0.0691,0.901,184.75
+5JhZWM8gnhG3FywK8mckZX,Bottled Violence,Minor Threat,First Two Seven Inches,0.423,0.948,2,-6.558,1,0.107,0.00122,0.0128,0.126,0.615,93.476
+5JzEpgQlv9TuDW510njH6n,I'm Frank,The Fall,Extricate (Expanded Edition),0.587,0.71,11,-11.287,0,0.0412,0.000393,0.785,0.576,0.713,148.428
+5Kf86o9j8foGuExTJVoejE,Here,Pavement,Slanted & Enchanted,0.521,0.401,9,-6.699,1,0.0349,0.84,0.0137,0.113,0.294,92.465
+5NoQvINZLBV1wMYPdNmReL,I Wanna Be Sedated,Ramones,Road to Ruin (40th Anniversary Deluxe Edition),0.56,0.965,11,-2.341,1,0.0409,0.121,6.23e-06,0.169,0.964,162.825
+5Og9VyCOfxmZCuv1UhIyxE,Six Pack,Black Flag,Damaged,0.33,0.784,2,-15.285,1,0.19,0.157,2.08e-05,0.58,0.196,115.402
+5PFaM9JXG92xm6mQ2cAN3K,Back To Your Heart,Dinosaur Jr.,Beyond,0.206,0.864,9,-4.772,0,0.0622,0.00349,0.703,0.15,0.299,115.289
+5QLHGv0DfpeXLNFo7SFEy1,1979 - Remastered 2012,The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),0.767,0.787,3,-9.897,1,0.0331,0.0163,0.583,0.0513,0.964,126.879
+5UGOuPyoMT5XHNA75LJlQE,Oh Messy Life,Cap'n Jazz,Analphabetapolothology,0.472,0.907,7,-6.386,1,0.0545,0.000691,0.000532,0.102,0.376,107.294
+5VCmFl6YgKZqSnyxwYGQGj,Ooh Do I Love You,Cap'n Jazz,Analphabetapolothology,0.386,0.34,11,-13.195,1,0.0394,0.929,0.0689,0.11,0.145,94.19
+5X2Z78KBrHKkzcjdZZs5UN,Hairspray Queen,Nirvana,Incesticide,0.473,0.856,4,-8.258,0,0.0549,0.00182,0.00936,0.0745,0.558,143.099
+5X9c0LL84kJN8Ok2UC6B6w,Dirty Boots,Sonic Youth,Goo,0.314,0.665,11,-13.868,0,0.039,0.208,0.216,0.0751,0.182,141.906
+5YriQ8D6opAfaw32Ox3oIG,Suicidal Failure,Suicidal Tendencies,Suicidal Tendencies,0.454,0.711,0,-8.327,1,0.033,0.00585,0.0,0.114,0.642,97.566
+5ZNdRdZ2inm4ksA8keadDs,Sunday,Sonic Youth,A Thousand Leaves,0.619,0.888,1,-6.983,1,0.0301,0.00457,0.623,0.119,0.424,130.1
 5a4bYjlqimbie2eQRXAFRx,Jams Runs Free,Sonic Youth,Rather Ripped,0.447,0.852,10,-6.855,0,0.0292,0.0032,0.647,0.0943,0.568,135.594
+5b10YgbraRyefVi5DcvacM,The Price Of Smokes,The Chats,Get Fucked,0.316,0.948,2,-5.254,1,0.164,0.00156,0.00223,0.103,0.517,198.117
+5cZqsjVs6MevCnAkasbEOX,Break Stuff,Limp Bizkit,Significant Other,0.432,0.884,8,-6.657,1,0.128,0.0128,0.000457,0.166,0.619,108.835
+5euU7XkSz3QoOrkEOBGHZs,"Jackals, False Grails: The Lonesome Era",Pavement,Slanted & Enchanted,0.416,0.973,2,-5.836,0,0.0401,0.000435,0.828,0.148,0.866,98.961
+5fJlYjcplmCPOvXIVWQ8ML,Yeah Nah,The Chats,The Chats,0.395,0.954,4,-1.968,1,0.18,0.0738,0.0,0.359,0.622,115.988
+5fbQCQt91LsVgXusFS0CCD,Disorder - 2007 Remaster,Joy Division,Unknown Pleasures (Collector's Edition),0.32,0.798,10,-7.078,0,0.124,0.00033,0.692,0.176,0.74,84.696
+5iBdOv97ozQXJFxcG3CMro,Shady Lane/J Vs. S,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.482,0.646,0,-6.746,1,0.0419,0.301,0.000532,0.193,0.119,110.852
+5mJGLBNJM0GULqAoL5mb9C,Breed,Nirvana,Nevermind (Remastered),0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433
+5nw2rQXAjfpZNaMzAJ8qTX,Smoko,The Chats,Get This In Ya,0.675,0.615,11,-10.674,1,0.0538,0.00395,0.0041,0.166,0.25,86.703
 5o81YT6wRnn4MMX5umK0xn,I Wanna Sleep In Your Arms,The Modern Lovers,The Modern Lovers (Expanded Version),0.667,0.686,4,-6.659,0,0.0316,0.00665,0.301,0.0763,0.663,124.234
+5oXm58OdnsRPy2wyz3ES5u,Fairytale in the Supermarket,The Raincoats,The Raincoats,0.506,0.94,4,-5.973,1,0.0843,0.0356,0.424,0.0516,0.633,144.704
+5po4iBu6pAOAy8I6TM4a0e,Watch the Corners,Dinosaur Jr.,I Bet On Sky,0.259,0.943,4,-4.215,1,0.0816,0.0997,0.00357,0.102,0.353,97.917
+5qBanJS9VIUPY6Dj3WvvoM,Do What I Want,The Chats,High Risk Behaviour,0.48,0.865,4,-5.56,1,0.046,0.00938,0.00187,0.293,0.84,92.266
+5qZ4c1EBVWpmz1GBaks8Uq,Bloodhail,Have A Nice Life,Deathconsciousness,0.182,0.607,8,-9.543,0,0.0349,0.0332,0.00786,0.166,0.41,75.562
+5qsgK2wcodYCEbgbdCpYOG,How Do You_,Radiohead,Pablo Honey,0.185,0.964,9,-8.316,1,0.084,0.000659,0.879,0.107,0.238,147.351
+5rkucEklOzy4EoHWBRfDma,Lay Of The Land,The Fall,The Wonderful And Frightening World Of....,0.413,0.822,9,-11.211,1,0.0398,0.174,0.0109,0.0777,0.604,110.854
+5tLcsd5k2IcHQBc00f8gxi,Cartoons,Looch,Cartoons,0.281,0.594,5,-13.912,1,0.0359,1.37e-05,0.706,0.875,0.561,153.456
+5vjBTqxTkT94GiXq3DtqGD,Budge,Dinosaur Jr.,Bug,0.174,0.987,2,-5.031,1,0.088,0.00139,0.22,0.226,0.26,168.853
+5xH7X05cbp7vtwFSdOUPEb,Raisans,Dinosaur Jr.,You're Living All Over Me,0.112,0.982,7,-3.46,1,0.0881,0.00593,0.43,0.344,0.144,167.136
+5xgxbzWzlEPz04ZlGm0pKl,Narcissus,FRAUD,FRAUD,0.261,0.847,5,-3.252,0,0.0659,1.18e-06,0.837,0.137,0.218,85.386
+5yNbprUaJXG7SPppQeNEMR,Call From You,Anxious,Little Green House,0.31,0.991,9,-4.088,1,0.102,3.32e-05,0.00557,0.454,0.316,189.838
+5ziTj3HGli0fqGevKgThlE,Victoria,The Fall,The Frenz Experiment,0.494,0.79,7,-9.131,1,0.0295,0.025,0.166,0.185,0.901,148.083
+63OQupATfueTdZMWTxW03A,Karma Police,Radiohead,OK Computer,0.36,0.501,7,-9.129,1,0.0258,0.0638,9.32e-05,0.172,0.324,74.807
+651koV4RRMMX6NDbW1ElwP,On A Plain,Nirvana,Nevermind (Remastered),0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26
+660s5fvZVVupYoxBPzS9Ze,Magnet,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+660u9agQuREtEDmETVWSts,Three Imaginary Boys - 2005 Remaster,The Cure,Three Imaginary Boys (Deluxe Edition),0.601,0.631,11,-8.472,0,0.0557,0.0828,0.00119,0.0854,0.477,169.552
+66mSbRh4bsb6oLyJbpa2tn,Winner Of The - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.358,0.744,7,-5.61,1,0.0329,0.00585,0.312,0.536,0.357,113.062
+69YhLz5ooQkgSXRElQbkd6,750-4,The Demonics,Formaldehyde Injection,0.427,0.929,9,-5.512,1,0.0862,1.73e-05,1.36e-05,0.472,0.736,113.321
+69u4YVuqKoVp3nZmpyxC8I,Just Like Heaven,Dinosaur Jr.,You're Living All Over Me,0.223,0.962,7,-4.963,1,0.0993,0.103,0.0289,0.24,0.518,162.51
+6BT7qiDY4A5tOyklohjQuW,Monkey Gone to Heaven,Pixies,Doolittle,0.654,0.39,6,-10.638,0,0.0307,0.00418,0.0069,0.271,0.566,116.572
+6D69DWilPEsY2TqayoB7x5,Padded Cell,Black Flag,Damaged,0.261,0.908,1,-13.069,1,0.082,0.17,0.901,0.498,0.276,119.51
+6DBF8s9LClcwi7TBY2kPpR,In My Eyes,Minor Threat,First Two Seven Inches,0.276,0.959,7,-5.86,1,0.143,0.0343,0.0094,0.0554,0.449,161.114
+6DL44bNYvHzr1E58BAx5zx,Horseshit on Route 66,The Garden,HORSESHIT ON ROUTE 66,0.498,0.978,1,-5.115,1,0.142,0.0283,0.000191,0.345,0.435,112.328
+6DOJgDuUVDaJ98GQxwyLTh,What You Do To Me,Teenage Fanclub,Bandwagonesque,0.507,0.595,2,-12.754,1,0.0314,0.00055,0.156,0.264,0.785,115.013
+6EMAoUEgfk2WtfwiBRG8hd,Politicians In My Eyes,Death,…For The Whole World To See,0.437,0.81,1,-7.329,1,0.234,0.0035,0.0624,0.204,0.198,97.22
+6G87XHKZ2G7vMYvWsnQ6OD,Gallons Of Rubbing Alcohol Flow Through The Strip,Nirvana,In Utero (Super Deluxe Edition),0.471,0.374,4,-12.334,1,0.0305,0.000656,0.391,0.119,0.44,106.005
+6HbWoyinLdXPZmk6xONuKw,Vegetable,Radiohead,Pablo Honey,0.382,0.717,6,-8.868,1,0.0339,0.00281,0.569,0.187,0.419,105.82
+6IS6LHFGa3Et5XRD78F4Ow,AOK,Cap'n Jazz,Analphabetapolothology,0.292,0.887,2,-6.949,1,0.0583,0.00033,8.64e-06,0.184,0.496,100.447
+6JSUd8Xqzfiopc31BL6bqL,Levitate Me,Pixies,Come On Pilgrim,0.484,0.66,4,-10.049,1,0.0581,0.0717,0.0,0.0807,0.544,121.914
+6LE2zfgso6qF1jVdEHGBKl,Blue Hawaiian,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.651,0.561,9,-7.963,0,0.0256,0.275,0.000365,0.0959,0.324,110.673
+6LgJvl0Xdtc73RJ1mmpotq,Paranoid Android,Radiohead,OK Computer,0.251,0.848,5,-6.501,1,0.0579,0.0377,0.00591,0.0545,0.207,163.709
+6MEAQnIS71j4BGkyRhz7dA,New Year,The Breeders,Last Splash,0.209,0.655,4,-10.467,1,0.0375,0.0066,0.654,0.139,0.321,146.832
+6Mr4T5TGGz1JQmZaz9dojh,VB Anthem,The Chats,The Chats,0.383,0.689,0,-4.975,1,0.0285,0.164,0.00437,0.129,0.339,76.077
+6PZ7dOM7QOPhPPaC4JJP7K,Trigger Cut/Wounded-Kite At :17,Pavement,Slanted & Enchanted,0.543,0.849,0,-5.76,1,0.0543,0.271,7.76e-05,0.0708,0.2,122.367
+6PvAGVrBOBlVNdvdi0A7Xt,Heart Tattoo,Joyce Manor,Never Hungover Again,0.474,0.992,11,-0.902,1,0.0912,0.0017,0.0,0.258,0.438,115.69
+6RYIEWGlQYQhxsBhcfxhQt,Someone I Care About - Alternative Version,The Modern Lovers,The Modern Lovers (Expanded Version),0.486,0.81,2,-7.172,1,0.0442,0.0773,0.000445,0.128,0.752,143.493
+6Ri0iTsHP898Ax2m18thgX,Roll With The Wind (Roxy) - Alternate Mix,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.563,0.822,2,-7.332,1,0.0378,0.00534,3.23e-05,0.321,0.834,130.427
+6Rl7bI0f22xipMeYxZaSU7,Start Choppin - 2019 Remaster,Dinosaur Jr.,Where You Been,0.387,0.675,2,-9.761,1,0.0852,0.00314,0.00119,0.0839,0.541,111.84
+6Rz6yXr3RWpYdGst26tSYF,Pub Feed,The Chats,High Risk Behaviour,0.549,0.953,11,-6.29,1,0.0423,0.00639,2.15e-05,0.328,0.836,96.901
+6S8OFyUelocGsCK27jmDfg,Are You Sure_,Glitterer,Life Is Not A Lesson,0.414,0.427,4,-6.456,1,0.041,0.0158,0.565,0.224,0.372,219.91
+6ScAlBuFHOiiGrM35QJntK,Lexicon Devil,Germs,I F*#ed Your Mom - Live '78-'79,0.316,0.72,2,-12.17,1,0.0689,0.00208,0.49,0.306,0.563,118.095
+6TRKBro6YKjOLNpN0ULx9O,Lil Red,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6UO72VSXEONxdfLyABihs9,Black Star,Radiohead,The Bends,0.289,0.555,7,-7.434,1,0.0402,0.00312,0.0496,0.27,0.306,158.671
+6WhnZL1squnpYrJfhdLGak,In Love,The Raincoats,The Raincoats,0.369,0.795,4,-8.838,1,0.185,0.0398,0.792,0.122,0.39,103.331
+6X3EFIbzweumLGvqxRBxQK,Cut My Teeth,FRAUD,FRAUD,0.285,0.969,1,-3.307,1,0.0823,1.06e-06,0.95,0.481,0.135,124.857
+6XBVxi3Nqbrq3jpxIegjVW,The Clap,The Chats,High Risk Behaviour,0.651,0.693,2,-6.15,1,0.0929,0.0177,5.93e-06,0.0411,0.967,91.035
+6YIggUJW3ttAAPRdnki8RM,Disarm - 2011 Remaster,The Smashing Pumpkins,Siamese Dream (Deluxe Edition),0.527,0.418,4,-10.205,0,0.0277,0.142,0.775,0.139,0.218,129.516
+6YhMbOm0HwrGvnAyu4b6dL,I Bleed,Pixies,Doolittle,0.487,0.518,11,-13.004,0,0.0361,0.000421,0.0251,0.11,0.762,170.856
+6ZbVg3ouIacMZxNigTMbyE,Outta Hand,Dinosaur Jr.,Without a Sound,0.206,0.601,3,-10.9,1,0.0342,0.525,0.396,0.115,0.422,175.49
+6aqg7Pu0GUFjK5z2zfLoW7,Big Crime '89,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.602,0.832,7,-12.725,1,0.0528,0.00436,0.0,0.276,0.522,134.283
+6exaLl7ZooHc7JlxMoEGxD,For Tammy Rae,Bikini Kill,Pussy Whipped,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6jR6FMCEoWGdEpFVRlMZM7,Range Life,Pavement,"Crooked Rain, Crooked Rain",0.557,0.735,9,-9.43,1,0.0295,0.0405,1.31e-05,0.102,0.702,112.805
+6kkNs6XdyUSIWZ4piwxxYS,Take On Me,Cap'n Jazz,Analphabetapolothology,0.437,0.703,6,-6.958,0,0.0376,0.00104,0.000719,0.0857,0.524,93.134
+6l0tiSPSYRwKrxR50ws9H9,Dine N Dash,The Chats,High Risk Behaviour,0.503,0.786,11,-5.388,1,0.0334,0.211,0.0,0.227,0.968,102.666
+6mI1t5Q6egSw7mTAApiD68,Do You Love Me Now_,The Breeders,Last Splash,0.47,0.226,2,-11.578,1,0.0351,0.0363,0.134,0.103,0.318,134.55
+6mfy4Q8P3fVXMeuD5d19oi,Ballad Of Big Nothing,Elliott Smith,Either/Or,0.655,0.517,0,-10.261,1,0.0302,0.36,0.00629,0.144,0.636,109.242
+6nIEHGbxwL5qJI61up1NiU,Silver Lizard,Tumbleweed,Return To Earth,0.534,0.79,9,-7.646,0,0.0309,7.84e-06,0.917,0.108,0.97,135.661
+6oo6VQtCWER0Havn92qyvY,Keep the Glove,Dinosaur Jr.,Bug,0.308,0.928,7,-5.11,1,0.095,0.00857,0.000421,0.0812,0.37,129.266
+6ptzEN5p1hdSxFiLfArq3G,Tony's Theme - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.479,0.692,2,-11.988,1,0.179,0.0206,0.0,0.231,0.584,165.307
+6qWG7dpOSs5dfgJ7d35am5,Calypso,Spiderbait,Ivy & The Big Apples,0.383,0.739,9,-6.841,1,0.0345,0.0034,0.218,0.1,0.306,92.879
+6qmFqZpBMbPEDw4vniOdMv,Spit on a Stranger,Pavement,Terror Twilight,0.275,0.529,2,-11.084,1,0.0377,0.187,0.238,0.116,0.445,164.896
+6rtYb4BGOlLvcy76N8yFbw,Teenage Lobotomy - 2017 Remaster,Ramones,Rocket to Russia (40th Anniversary Deluxe Edition),0.494,0.849,9,-2.306,1,0.0397,0.00092,0.0043,0.0598,0.97,184.666
+6sG5MO9zvARtdeti8zPd3t,Blowing It - 2019 Remaster,Dinosaur Jr.,Green Mind,0.496,0.881,7,-8.687,1,0.0457,0.000346,8.38e-05,0.0947,0.783,145.67
+6uaj6U0RWkjtXnk5550ZTC,Brick Is Red - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.573,0.524,7,-14.983,1,0.0332,0.0615,0.0104,0.259,0.74,120.842
+6wyGIeHqYgfJrqrmaR7EKj,Symmetry,Title Fight,The Last Thing You Forget,0.425,0.967,6,-6.053,1,0.102,4.07e-06,0.00451,0.206,0.511,95.123
+6x0cOqPP07gTXusQfK9COQ,La La Love You,Pixies,Doolittle,0.702,0.653,2,-12.886,1,0.0376,0.00089,0.178,0.11,0.597,124.499
+706yOGnWFkzW3XvMefTkCn,Someone I Care About,The Modern Lovers,The Modern Lovers (Expanded Version),0.419,0.938,9,-7.189,0,0.0681,5.2e-05,0.000541,0.0533,0.811,150.631
+709jSf28wullbohwDoGP3k,Rocky Rococo,Cap'n Jazz,Analphabetapolothology,0.255,0.674,2,-9.865,1,0.0379,0.286,0.0461,0.258,0.389,171.432
+725QAOexNLmGZiFMN7U8pF,Dumb - Live,Nirvana,MTV Unplugged In New York,0.69,0.542,6,-9.119,1,0.0367,0.567,0.000779,0.853,0.673,109.449
+72Qah3a1mle94iArhw6P63,Pablo Picasso,The Modern Lovers,The Modern Lovers (Expanded Version),0.617,0.729,2,-9.174,1,0.0306,0.00269,0.131,0.109,0.835,109.639
+72WzLBoSQggMZ0S5hm95VH,Soul And Fire,Sebadoh,Bubble & Scrape,0.431,0.618,8,-9.404,1,0.0266,0.0257,0.000697,0.0837,0.325,99.329
+73CKjW3vsUXRpy3NnX4H7F,Fake Plastic Trees,Radiohead,The Bends,0.463,0.229,2,-12.592,1,0.0297,0.167,0.0997,0.202,0.135,73.543
+76GlO5H5RT6g7y0gev86Nk,Just like Heaven,The Cure,"Kiss Me, Kiss Me, Kiss Me",0.43,0.971,9,-3.845,1,0.0524,0.0271,2.16e-05,0.185,0.764,151.219
+76HbcynjAd321EQGFqgLIQ,Almost ready,Dinosaur Jr.,Beyond,0.188,0.97,7,-4.135,1,0.106,0.0767,0.00153,0.367,0.224,159.604
+76sVqjHYyW99EpeQLDkPME,Son Of A Gun - BBC John Peel Session 1990,Nirvana,Incesticide,0.33,0.868,7,-9.346,1,0.0303,7.42e-06,0.758,0.0744,0.886,169.346
+77EIe4Q2YYU3JPhIMBcCDl,Black and White,The Raincoats,The Raincoats,0.563,0.786,2,-8.15,1,0.0554,0.0122,0.299,0.122,0.965,150.148
+79FD1Ej7Zob1k4UgRvMWBo,Live Fast Die Young,Circle Jerks,Group Sex (TRUST Edition),0.482,0.952,4,-4.759,0,0.0584,0.134,1.8e-05,0.0836,0.79,108.254
+79VG6XhwYMOXWnik0sec1N,D-7 - Live At The BBC,Nirvana,Nevermind (Super Deluxe Edition),0.259,0.931,4,-5.834,1,0.15,0.0092,0.863,0.102,0.151,60.553
+7BHWcnkpDKdRtGGw1brrjg,No Tan Lines - B-side,Pavement,Brighten the Corners: Nicene Creedence Ed.,0.469,0.662,4,-4.97,1,0.0295,0.312,0.000667,0.0911,0.954,142.518
+7BTIJhmLUVywM30TEc3GCl,Mum Stole My Darts,The Chats,The Chats,0.362,0.939,4,-2.18,1,0.0527,0.613,2.95e-05,0.175,0.749,165.387
+7CGCtE7X2QNH2jeBroGqDq,In a Jar,Dinosaur Jr.,You're Living All Over Me,0.317,0.941,2,-5.632,1,0.0729,0.000825,0.000651,0.1,0.625,157.958
+7CcCSfZqsW7UkYn8ms2V8R,Get Out of This,Dinosaur Jr.,Without a Sound,0.252,0.853,5,-6.703,1,0.0493,0.000648,0.00245,0.141,0.611,81.323
+7Do1J8qmhM94tNSwD3ejxR,I've Been Drunk In Every Pub In Brisbane,The Chats,Get Fucked,0.367,0.964,11,-3.648,0,0.078,0.0276,0.0,0.169,0.663,115.94
+7EZlzu01NzbR1jWEIDSk5T,Room 13,Black Flag,Damaged,0.362,0.961,11,-14.711,0,0.108,0.331,0.00187,0.623,0.137,101.931
+7FIhuHZUdUxWX2hDMGdIbF,Freak Scene,Dinosaur Jr.,Bug,0.241,0.94,9,-3.519,1,0.0706,0.00749,0.00266,0.327,0.199,154.133
+7FQbU1bWmyzWl755eLgG6f,Gang Control,Leftöver Crack,Fuck World Trade,0.406,0.949,1,-4.97,0,0.112,0.00394,2.97e-05,0.17,0.51,104.373
+7GbTJsrNPXCoOWJ5vu2vSe,There Goes My Gun,Pixies,Doolittle,0.572,0.843,11,-12.046,0,0.0458,0.0122,0.737,0.0992,0.717,126.322
+7HHle8A6urSZT4RxkDQIiz,Good Good Things,Descendents,I Don't Want to Grow Up,0.317,0.7,0,-11.784,1,0.0367,0.0929,3.2e-06,0.109,0.519,175.646
+7I5eQZFdlPV8LZWH2FeqaW,Goodbye Horses,Q Lazzarus,Goodbye Horses - Single,0.772,0.409,5,-15.061,1,0.0355,0.0896,0.252,0.0522,0.495,125.476
+7LagVPEBG2Gu7Qwiqz0W8P,I Don't Think So,Dinosaur Jr.,Without a Sound,0.191,0.936,0,-6.727,1,0.0716,0.00795,4.52e-06,0.0736,0.629,159.11
+7MfEDP2TL40OPiUDwZiyVk,Blew,Nirvana,Bleach (Deluxe Edition),0.411,0.882,1,-6.618,1,0.0556,5.65e-06,0.0147,0.298,0.531,129.848
+7ap5NaoYRB6TJdrhX5Fej8,Hybrid Moments - C.I. Recording 1978,Misfits,The Misfits Box Set,0.17,0.81,2,-9.339,1,0.0521,0.27,0.0445,0.104,0.547,193.791
+7cGwqXXVav9Tg0XNoONPlo,Up on the Sun,Meat Puppets,Up on the Sun,0.477,0.697,4,-9.277,1,0.0273,0.198,0.308,0.127,0.774,111.855
+7cJpBiryQKfKtQW97Swofi,Die for Allah,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.242,0.821,4,-12.755,1,0.0571,0.00179,0.207,0.0916,0.516,167.841
+7dQlzKNAbQPfeYFLmBRiuM,Puke _ Cry - 2019 Remaster,Dinosaur Jr.,Green Mind,0.382,0.934,0,-7.122,1,0.0452,0.000384,4.83e-06,0.143,0.642,103.044
+7glld4kxYHp61zIPtSVHNk,Lounge Act,Nirvana,Nevermind (Remastered),0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192
+7izTc9bk8wT1RRz4giRHFW,No Aloha,The Breeders,Last Splash,0.291,0.536,10,-9.166,1,0.0321,0.0798,0.269,0.1,0.448,107.41
+7kojIqSTAcUqx3HPShLgv2,Bye Bye Kitty Cat,The Mice,For Almost Ever,0.191,0.937,7,-5.857,0,0.0946,0.000158,0.000362,0.332,0.456,147.471
+7nCONy10IHp7XD3oYZ0lcx,I've Seen Footage,Death Grips,The Money Store,0.603,0.944,11,-3.626,0,0.347,0.0481,0.0,0.342,0.418,130.035
+7nvr4fAv279XAQ7flKOiuT,Carnival,Bikini Kill,The First Two Records,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7oBazz4xCO7Ul3MJHhKy0Q,Jesus Doesn't Want Me For A Sunbeam - Live,Nirvana,MTV Unplugged In New York,0.51,0.641,8,-10.312,1,0.0812,0.0638,3.65e-06,0.272,0.295,113.646
+7oDDV1cal0M0RIjr4HuuJ9,Gouge Away,Pixies,Doolittle,0.658,0.475,4,-12.688,1,0.033,0.000892,0.0194,0.105,0.461,125.747
+7oDFvnqXkXuiZa1sACXobj,The Bends,Radiohead,The Bends,0.23,0.755,7,-8.065,1,0.0658,0.0115,0.141,0.363,0.312,91.608
+7pADnbKBmN6bY2YfLXCIgU,Minor Threat,Minor Threat,First Two Seven Inches,0.272,0.909,2,-7.476,1,0.0529,0.00145,0.00221,0.207,0.947,166.453
+7qIW8MsqBUsSP2KlZhWP06,Rape Me,Nirvana,In Utero (Super Deluxe Edition),0.42,0.746,8,-10.628,1,0.0467,0.0141,0.0,0.0661,0.229,111.886
+7qr3EzjE7YbLkq04lXaDE7,AMPM Truck,The Garden,Kiss My Super Bowl Ring,0.501,0.831,6,-5.382,0,0.143,0.00782,1.59e-05,0.0668,0.59,183.088
+7r1ns5TjJTdj0mVs4cKEat,"Sex Bomb - 7""",Flipper,Sex Bomb Baby,0.192,0.932,2,-6.494,1,0.152,9.33e-06,0.289,0.0756,0.268,127.952
+7t7fyzErmZ6jabxiZLQvlg,Even You,Dinosaur Jr.,Without a Sound,0.123,0.921,5,-5.642,1,0.0763,0.00455,0.0724,0.108,0.281,163.191
+7uwUumUJamXEWQHhYysd1y,New Gods,Fearless Iranians From Hell,Die For Allah/Foolish Americans,0.459,0.806,7,-12.033,1,0.0885,0.00152,6.68e-05,0.508,0.494,122.482
+7wCmS9TTVUcIhRalDYFgPy,Where Is My Mind_ - 2007 Remaster,Pixies,Surfer Rosa (2007 Remaster),0.519,0.441,4,-14.178,1,0.0353,0.0204,0.000453,0.076,0.25,81.334
+7x4b0UccXSKBWxWmjcrG2T,And I Love Her,Kurt Cobain,Montage Of Heck: The Home Recordings,0.616,0.282,1,-15.317,1,0.0331,0.983,0.833,0.13,0.435,96.638
+7xGxYR5TH0yaftnppHmOPy,Open,The Cure,Wish,0.482,0.787,7,-11.485,0,0.0481,0.0232,0.399,0.0831,0.39,112.108
+7yHKJKvbi5xfHj0QTWUdDT,Mildred Pierce,Sonic Youth,Goo,0.324,0.925,9,-10.644,0,0.0612,3.85e-05,0.652,0.695,0.502,159.519
+7yYxp3imvEcS6I6nOcVDVz,This Is All I Came To Do,Dinosaur Jr.,Beyond,0.342,0.973,5,-3.875,1,0.11,0.0176,0.102,0.102,0.317,136.031
