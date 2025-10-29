@@ -41,6 +41,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1IxDBsZdVMhfkLqrZjARpk,Fernando,ABBA,Arrival,0.353,0.526,9,-8.868,1,0.0299,0.583,2.17e-06,0.0762,0.467,110.517
 1KGi9sZVMeszgZOWivFpxs,No Scrubs,TLC,Fanmail,0.743,0.675,8,-4.267,0,0.0953,0.0251,0.000717,0.0685,0.59,92.909
 1KdwPeY1WRWQGHCmRJTveb,Cannonball,The Breeders,Last Splash,0.502,0.758,3,-9.76,1,0.0407,0.00915,0.783,0.284,0.729,112.499
+1LzvuqP3L5Q7G61kUBgfCJ,VYZEE,SOPHIE,VYZEE,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1NGLHDwIwoQ3YMDItLWdLP,Foggy Mountain Breakdown - 2001 Earl Scruggs & Friends Version,"Earl Scruggs, Glenn Duncan, Randy Scruggs",Earl Scruggs And Friends,0.464,0.883,7,-7.451,1,0.0347,0.0428,0.885,0.21,0.87,160.015
 1OOtq8tRnDM8kG2gqUPjAj,Beat It,Michael Jackson,Thriller 25 Super Deluxe Edition,0.776,0.867,3,-3.704,0,0.0479,0.0495,7.92e-06,0.197,0.918,138.827
 1RG1Pz45nlYNHka7JioyOT,Uncontrollable Urge,DEVO,Q: Are We Not Men? A: We Are Devo!,0.571,0.858,2,-7.066,1,0.0326,0.0551,0.665,0.0943,0.716,92.523
@@ -240,6 +241,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7oGwQOTkMB9Sk3DIKJLd5F,Baby I'm Yours - feat. Irfrane,Breakbot,By Your Side,0.831,0.794,2,-3.701,0,0.0752,0.705,3.4e-05,0.0978,0.735,118.075
 7oK9VyNzrYvRFo7nQEYkWN,Mr. Brightside,The Killers,Hot Fuss,0.356,0.924,1,-3.74,1,0.0808,0.00101,0.0,0.0953,0.232,148.017
 7sC9FifCXZHgjTAjFO1ykA,Bellbottoms,The Jon Spencer Blues Explosion,Dirty Shirt Rock 'N' Roll: The First Ten Years,0.353,0.865,2,-4.598,1,0.233,0.00991,0.147,0.314,0.46,164.042
+7ub14NqqyR1MDUTXyFBTzO,Immaterial,SOPHIE,OIL OF EVERY PEARL'S UN-INSIDES,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7vgTNTaEz3CsBZ1N4YQalM,Ghost Town,"Kanye West, PARTYNEXTDOOR",ye,0.573,0.545,7,-4.247,0,0.0288,0.0969,0.0,0.329,0.297,83.378
 7w87IxuO7BDcJ3YUqCyMTT,Pumped Up Kicks,Foster The People,Torches,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975
 7z85Sqa3JrNebHK8sDtcRG,Crocodile Rock,Elton John,Elton John's Greatest Hits,0.625,0.665,4,-11.681,0,0.0375,0.0786,1.37e-05,0.047,0.97,150.275
