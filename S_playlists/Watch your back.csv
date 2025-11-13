@@ -5,6 +5,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0YX1KQpkI2Y2jFbYhhkASg,Fiddle About,The Who,Tommy,0.577,0.391,0.0,-10.81,1.0,0.05,0.778,0.0,0.0837,0.907,112.968
 0xxZY5C9xxij3D1HkzbnfC,Monster Mash,"Bobby ""Boris"" Pickett, The Crypt-Kickers",The Original Monster Mash,0.541,0.504,11.0,-14.191,0.0,0.457,0.375,0.0,0.421,0.707,68.482
 1AyfLdcECHCAThbj46yF3i,Beep! Beep!,"Louis Prima, Sam Butera & The Witnesses",The Call Of The Wildest (Expanded Edition),0.636,0.489,0.0,-11.162,1.0,0.0974,0.526,0.0,0.122,0.864,79.045
+1EY2havDjRd1RW7Q5SZEfl,Why,Yoko Ono,Plastic Ono Band,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1IWR45a70faZVTduyIRpG9,Put On Your Sunday Clothes,"Jerry Herman, Michael Crawford, Barbra Streisand, Ernest Lehman, Lionel Newman","Hello, Dolly!",0.509,0.368,0.0,-9.836,1.0,0.0454,0.773,0.0,0.261,0.655,94.166
 1P8T5xYdASwK4Sfibni85p,Beedle Um Bum,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1QFPI3slA71XOdiBV5qti1,The Cruel Angel's Thesis,Yoko Takahashi,Evangelion Finally,0.682,0.793,0.0,-4.388,0.0,0.0527,0.0221,0.000497,0.12,0.464,128.137
@@ -36,7 +37,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6Jub05dvpbF4Im83NqMCUg,United States Of Whatever,Liam Lynch,Fake Songs,0.452,0.817,7.0,-2.27,1.0,0.273,0.00383,0.0,0.138,0.867,161.362
 6WvbMOjKf5y3CAHn4ubwlp,"Yummy, Yummy, Yummy",Ohio Express,The Best of the Ohio Express,0.7,0.718,0.0,-6.967,1.0,0.0296,0.592,0.0022,0.0999,0.967,131.48
 6WxcOtGXQ6tWgTbpX6pVKS,Walking on the Moon,Lucia Pamela,Into Outer Space with Lucia Pamela,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-6XS1ZQRraiXCIvpE62MibU,Anniversary of World War III,The West Coast Pop Art Experimental Band,A Child's Guide To Good And Evil,--,--,--,--,--,--,--,--,--,--,--
+6XS1ZQRraiXCIvpE62MibU,Anniversary of World War III,The West Coast Pop Art Experimental Band,A Child's Guide To Good And Evil,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
 6nUJnuKvGXf1UDk79zSNsq,The Big Apple,"Tommy Dorsey & His Clambake Seven, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6vGhb95Ef6uce35WDiYFSH,Darkroom - Remastered 2011,Paul McCartney,McCartney II (Archive Edition),0.627,0.495,1.0,-12.327,1.0,0.14,0.0241,0.041,0.416,0.796,75.186
 7Hr2XoaGpIMKbNXCZDZ3le,Awful Things,"Lil Peep, Lil Tracy","Come Over When You're Sober, Pt. 1",0.366,0.797,1.0,-4.923,0.0,0.0812,0.0157,0.0,0.0694,0.181,169.986
