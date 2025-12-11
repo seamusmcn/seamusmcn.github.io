@@ -10,6 +10,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0HFWS5C6ThNeuOr10Xz21U,Polka Dots and Moonbeams,"Tommy Dorsey, Frank Sinatra",The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0IHFglyHKyEDgbiufcNhmi,War Declaration,Wilmoth Houdini,The Calypso Way,0.602,0.546,2,-7.502,0,0.165,0.987,0.000934,0.33,0.936,102.896
 0JTMckIuqdT0KwMa2FVDHZ,There Are Such Things,"Tommy Dorsey, Frank Sinatra, The Pied Pipers",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0Kj0b8eZdzIdk0MvgLmHrJ,Hecate,"Dirty Rotten Vipers, Johanna Rose",Hecate,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0RBxCZ9JiJ3FRmLFnTjzMI,Honey I'm Bound to Go,"Wilmoth Houdini, Gerald Clark's Night Owls",Calypso Legends - Wilmoth Houdini (1929 - 1940),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0ZykyOOqAPdp2P2XrDEFyG,If I Had To Do It All Over Again I'd Do It All Over You,"Dave Van Ronk, The Red Onion Jazz Band",In The Tradition,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0bKewqEAZeQkFqWd3XW3CK,The Ragtime Dance,"Scott Joplin, Joshua Rifkin",Scott Joplin Piano Rags,0.46,0.137,3,-26.688,1,0.046,0.98,0.919,0.156,0.485,92.139
@@ -61,6 +62,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3XW8d2ofHbNdkUB1w7SEXc,I Ain't Gonna Give Nobody None of This Jelly Roll,"Alvin Alcorn, Albert Burbank, Irving Verret, Octave Crosby, Jimmy Davis, Chester Jones",Southland Sessions,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3Xg7xWr1me7QgfcVUtbMnN,Dolores,"Tommy Dorsey, Frank Sinatra, The Pied Pipers",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3g6Nk4C6HDpwVjDO20rz4N,Livin' in the Sunlight (Lovin' in the Moonlight),Geoff Muldaur,Is Having A Wonderful Time,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3kLAlFoNpxHKoEK7DNSde4,Frenchmen Street,"Dirty Rotten Vipers, Johanna Rose",Frenchmen Street,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3mWcoPBHsrmcs1lj6uBfvz,Georgia Grind,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.73,0.213,8,-14.635,1,0.0554,0.897,0.0,0.152,0.706,140.34
 3qaDdnyJPvQgrAIbSQPi2z,Anita,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3si7Ne23ehkWCHB83XgcYA,Willow Tree,Mildred Bailey & Her Alley Cats,The Rockin' Chair Lady,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -70,6 +72,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 495frOi0oyFWB6WE5Nwen2,Showboat Shuffle,Duke Ellington,The Duke: The Columbia Years (1927-1962),0.715,0.706,0,-8.607,1,0.374,0.92,0.777,0.779,0.882,104.746
 4AE032Y0x1WPOi5CsmggnU,Maple Leaf Rag,"Scott Joplin, Alexander Peskanov","Joplin: Piano Rags, Vol. 1",0.406,0.226,8,-22.866,1,0.0477,0.991,0.882,0.245,0.937,116.267
 4BEEGXGduGnD6D02FSyM4u,"Music, Maestro, Please","Tommy Dorsey, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4CnErsRLua1zDupdhYI97y,Blow Your Blues Away,Dirty Rotten Vipers,Blow Your Blues Away,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4Cz5b86PJbP581TqfoNtvN,Low Down Blues,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4HLYTkGtaXGcozWywPlBZP,My Happiness,The Pied Pipers,What is This Thing Called Love?,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4Oykg2FfhKRkDyrKaBc9Gu,Battery Bounce,Art Tatum,Art's Way of Piano,0.501,0.27,5,-14.238,1,0.0939,0.982,0.904,0.234,0.873,213.628
@@ -129,3 +132,4 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7s74E5JefyqDNweUh5uj9Z,The Sheik of Araby,Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7vFAgXW6On2kjvcirKHKfz,"In the Year 2,000!!!",Lucia Pamela,Into Outer Space with Lucia Pamela,0.597,0.473,0,-13.916,1,0.116,0.966,7.79e-06,0.438,0.815,107.877
 7w1PzGJdjrcKdZRxBHKW9y,Satan Takes a Holiday,Tommy Dorsey,The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7wTMsjG5CGuAVTCaCXIAdq,The Stuff Is Here,Dirty Rotten Vipers,The Stuff Is Here,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
