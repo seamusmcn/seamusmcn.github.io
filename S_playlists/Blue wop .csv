@@ -18,6 +18,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0oo4keuQavD0b9JgR71x7C,It Happened Once Before,The Four Freshmen,Blue World,0.608,0.129,0,-11.593,1,0.0279,0.936,3.73e-06,0.102,0.36,82.947
 0pyKvtmrfUuCpErZnSC4jc,Nobody Knows You When You're Down And Out,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0rEP2CDOuvUm4zbhIPZAkK,Gut Bucket Blues,Louis Armstrong & His Hot Five,The Complete Hot Five And Hot Seven Recordings Volume 1,0.573,0.295,5,-10.096,1,0.0525,0.988,0.000139,0.0784,0.678,146.336
+0sT0w1OlNwy5GJVdrgLN7p,Shangrila,The Faux Freshmen,Scratchin' the Surface,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0sjxRg1VlYfx4YG7uxurrq,I Put A Spell On You,Nina Simone,I Put A Spell On You,0.428,0.398,6,-9.13,0,0.0295,0.755,0.000537,0.172,0.365,88.886
 0ubuFo0j8jD6zuPAf5yFUk,I'll Never Smile Again,The Pied Pipers,What is This Thing Called Love?,0.46,0.0961,0,-15.639,1,0.0271,0.972,0.208,0.228,0.0731,69.263
 11XR0tRT4g5ov4u8M92wbF,Earth Angel (Will You Be Mine),The Penguins,The Best Of The Penguins,0.524,0.177,8,-12.306,1,0.0302,0.865,0.0,0.21,0.466,69.125
@@ -45,6 +46,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 25PRJaqKr4IEp9KVIu8FGB,How Can I Tell Her,The Four Freshmen,Blue World,0.248,0.26,9,-11.099,1,0.0274,0.767,0.0,0.0568,0.261,100.411
 29R1sVUoQnAMyZITR5Q7X1,Gimme Some,Nina Simone,I Put A Spell On You,0.441,0.582,0,-8.427,1,0.0626,0.741,0.0,0.122,0.757,174.108
 2D1c80s1UfhDgriG89Fhms,Dreaming,"Cosmic Rays, Sun Ra Arkestra, Sun Ra",Singles,0.545,0.43,3,-9.916,1,0.0325,0.872,0.0,0.154,0.772,121.896
+2L7lIjYAZzzj8xhVHPv0n0,A Young Man Is Gone - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2UWHpbnRVsH7s9CpY8X5yA,All Night Long,"George Shearing Quintet, Nancy Wilson",The Swingin's Mutual! (Expanded Edition),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2X1TSIrhRQedpsayv0e2Np,Canal Street Blues,King Oliver,Papa Joe,0.656,0.443,5,-9.989,1,0.047,0.936,0.469,0.136,0.893,94.119
 2aHI6YjUUME3rg0XL13Bgz,He's My Guy,"Sarah Vaughan, Clifford Brown",Jazz Love,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -78,11 +80,13 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4HLYTkGtaXGcozWywPlBZP,My Happiness,The Pied Pipers,What is This Thing Called Love?,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4KJW2PyNAW1GASy75C57Ql,Bless You,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4LGTaHEGnEoXGkXGroCttg,Love Turns Winter To Spring,The Four Freshmen,"Merry Christmas, Baby: Romance And Reindeer From Capitol",0.478,0.253,10,-13.507,0,0.0324,0.797,1.94e-06,0.325,0.366,86.949
+4Y91lMTC4h0w6BuiXKyK9N,Their Hearts Were Full Of Spring - Mono Mix _ Live _ 1967,The Beach Boys,1967 - Sunshine Tomorrow,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4apDKupCu7oqynDhkO67HZ,I'd Rather Go Blind (Live - Montreux Jazz Festival 1975),Etta James,Etta James: The Montreux Years (Live),0.38,0.141,11,-19.577,0,0.238,0.857,0.000558,0.968,0.413,86.918
 4cVbVRcFZZlDZhSlrN6V01,You Stepped Out Of A Dream,The Four Freshmen,Four Freshmen And 5 Trombones,0.424,0.263,8,-13.523,1,0.0417,0.78,0.0,0.106,0.309,130.943
 4dZdUaWKR0w9PAbF8YExsp,It's A Pity To Say Goodnight,The Four Freshmen,Great Gentlemen Of Song / Spotlight On The Four Freshmen,0.56,0.238,0,-16.166,1,0.0445,0.615,0.0,0.117,0.629,147.71
 4evsnNyj6uFphmVlTYVw2v,Our Love Is Here To Stay,The Four Freshmen,Blue World,0.35,0.122,0,-12.053,1,0.03,0.916,0.0,0.0861,0.115,73.185
 4ijN2nWMuwH3BAUeHMl7Jv,Out of the Blue,Esther Phillips,And I Love Him,0.0,0.24,8,-11.041,1,0.0,0.514,0.0,0.155,0.0,0.0
+4qX58LAfNQotlkvo7BZtuz,"For You, For Me, Forevermore","Mel Tormé, Artie Shaw, The Meltones",Mel Torme with the Meltones and Artie Shaw,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4r1HXgQRdMk9sNLoGebC1O,Goodbye,The Four Freshmen,Graduation Day,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4u3RCc3fqZgsC7xXjElHhJ,Mam'selle,The Pied Pipers,What is This Thing Called Love?,0.31,0.198,3,-12.179,1,0.0289,0.903,2.55e-05,0.322,0.199,82.646
 4vMbOAxNQjqMQzJZ9DvV26,The Glory Of Love,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -112,8 +116,11 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6illsnZ2rn1lCzXY9gBC28,Ne Me Quitte Pas,Nina Simone,I Put A Spell On You,0.413,0.243,4,-11.578,0,0.0433,0.941,4.65e-05,0.156,0.25,97.784
 6nLTEE7AW97ECxq5WQxyXW,I Told Myself A Lie,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6o9vjQPWUwoLcyhrVPfxjD,Stormy Weather,The Four Freshmen,Blue World,0.483,0.157,5,-13.42,1,0.0521,0.792,1.3e-06,0.217,0.534,80.314
+6qShSdrUl0YDJ5QOvvx0P8,They Can't Convince Me,"Mel Tormé, Artie Shaw, The Meltones",Mel Torme with the Meltones and Artie Shaw,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6rqrN2bLrxW5ZB7OmWUwQe,Don't You Think I Love You,King Oliver,Papa Joe,0.675,0.541,10,-4.257,1,0.0528,0.947,0.93,0.14,0.951,176.958
 777zXDJpBufzttU4AJ2dGO,I Don't Want To Set The World On Fire,The Ink Spots,The Anthology,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+78Hyyqj44JskUoYEWwTRy7,Changing My Tune,"Mel Tormé, Artie Shaw, The Meltones",Mel Torme with the Meltones and Artie Shaw,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+7A34Ks4v4y6DcaGnmvOgOt,Estate,The Faux Freshmen,Scratchin' the Surface,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7ByqcF6qaOqWHE7HjGuUIB,Why Should I Be Sorry,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7K0EOXrr9E0bR70LQlr8KA,Lazy Afternoon,Irene Kral,The Band And I,0.0,0.0379,5,-17.819,0,0.0,0.908,0.0,0.108,0.0,0.0
 7dY8rGcdOeo2RFj0OJbuJ9,Little White Lies,Dick Haymes,Rain Or Shine,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
