@@ -1,136 +1,138 @@
 Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating,Loudness Rating,Mode Rating,Speechiness Rating,Acousticness Rating,Instrumentalness Rating,Liveness Rating,Valence Rating,Tempo Rating
-06MI30ZipOyf7xXk1tFCrE,In the Moon Mist,The Pied Pipers,What is This Thing Called Love?,0.258,0.23,8.0,nan,1.0,0.028,0.821,nan,0.094,0.299,91.944
-06UkYE0SZ3Y8zGRFOuWGAe,It's Always You - Vocal Version,Chet Baker,Chet Baker Sings,0.499,0.0341,8.0,nan,1.0,0.0417,0.923,nan,0.131,0.31,81.735
+06MI30ZipOyf7xXk1tFCrE,In the Moon Mist,The Pied Pipers,What is This Thing Called Love?,0.258,0.23,8.0,--,1.0,0.028,0.821,--,0.094,0.299,91.944
+06UkYE0SZ3Y8zGRFOuWGAe,It's Always You - Vocal Version,Chet Baker,Chet Baker Sings,0.499,0.0341,8.0,--,1.0,0.0417,0.923,--,0.131,0.31,81.735
 0AM2MKAQQeQefAPgRG0A2X,I Can't Give You Anything But Love,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-0AtVA7axXKVFnjQsN4xBIy,Dream,The Pied Pipers,What is This Thing Called Love?,0.198,0.276,7.0,nan,1.0,0.0289,0.919,0.00261,0.21,0.0692,88.422
+0AtVA7axXKVFnjQsN4xBIy,Dream,The Pied Pipers,What is This Thing Called Love?,0.198,0.276,7.0,--,1.0,0.0289,0.919,0.00261,0.21,0.0692,88.422
 0BRvjLhMa3Qie8LMnRtY4f,I'm Beginning To See The Light,The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-0HBc7nSv7tT4KXktKAaNYx,September Song,Willie Nelson,Stardust,0.295,0.114,8.0,nan,1.0,0.0333,0.916,0.0336,0.163,0.0684,69.427
-0NhQTMDVgspRfwgJ59kmc6,Effendi - Live,Ahmad Jamal,Live in Paris (1971),0.4,0.356,9.0,nan,0.0,0.0382,0.65,0.918,0.789,0.382,137.831
-0OFzGWNvMR7qvRsD14dxIT,'Tis Autumn,Nat King Cole Trio,The Complete Capitol Recordings Of The Nat King Cole Trio,0.403,0.0728,7.0,nan,0.0,0.0603,0.966,nan,0.106,0.152,178.645
-0QGwOFQChzflLAmPq5NwKo,A Teenager In Love,Dion & The Belmonts,Presenting Dion And The Belmonts,0.555,0.377,1.0,nan,1.0,0.0295,0.671,0.0,0.128,0.619,78.986
-0Yh4igccFHplz0oP2NnujS,Christmas Time Is Here,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.427,0.12,5.0,nan,1.0,0.0315,0.976,0.771,0.154,0.0772,74.769
+0Ffhk7o19DQC3eU4nPxiJe,I've Got My Love To Keep Me Warm,"Ella Fitzgerald, Louis Armstrong",Louis Wishes You a Cool Yule,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0HBc7nSv7tT4KXktKAaNYx,September Song,Willie Nelson,Stardust,0.295,0.114,8.0,--,1.0,0.0333,0.916,0.0336,0.163,0.0684,69.427
+0NhQTMDVgspRfwgJ59kmc6,Effendi - Live,Ahmad Jamal,Live in Paris (1971),0.4,0.356,9.0,--,0.0,0.0382,0.65,0.918,0.789,0.382,137.831
+0OFzGWNvMR7qvRsD14dxIT,'Tis Autumn,Nat King Cole Trio,The Complete Capitol Recordings Of The Nat King Cole Trio,0.403,0.0728,7.0,--,0.0,0.0603,0.966,--,0.106,0.152,178.645
+0QGwOFQChzflLAmPq5NwKo,A Teenager In Love,Dion & The Belmonts,Presenting Dion And The Belmonts,0.555,0.377,1.0,--,1.0,0.0295,0.671,0.0,0.128,0.619,78.986
+0Yh4igccFHplz0oP2NnujS,Christmas Time Is Here,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.427,0.12,5.0,--,1.0,0.0315,0.976,0.771,0.154,0.0772,74.769
 0aFGcKZEC8vS7DXRluUUC7,Wait Till You See Her - Remastered,George Shearing Quintet,The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0cNc2tivyPqzgp13BSM7St,Chloe,Joe Pass,Intercontinental,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-0hdNrtu4z3lHfP4YQOZUny,Old Devil Moon,Chet Baker,Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster),nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+0hdNrtu4z3lHfP4YQOZUny,Old Devil Moon,Chet Baker,Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster),--,--,--,--,--,--,--,--,--,--,--
 0iRfMzuIZweQSHkYlJT59P,I Wonder Who's Kissing Her Now,Ray Charles,The Complete Swing Time and Down Beat Recordings 1949-1952,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-0s2h4GBGC4rcdSQhJX80Mv,Samba De Orpheus,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.581,0.428,2.0,nan,0.0,0.0486,0.889,0.845,0.173,0.606,126.033
+0s2h4GBGC4rcdSQhJX80Mv,Samba De Orpheus,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.581,0.428,2.0,--,0.0,0.0486,0.889,0.845,0.173,0.606,126.033
 0vtXD4PfsCvaEqpgqabRBs,Midnight In The Air,George Shearing Quintet,The Shearing Spell,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 14gEDPQtsTcbZOWs7EXg4V,Pick Yourself Up,"Nat King Cole, George Shearing",Nat King Cole Sings George Shearing Plays,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-18Psr6uiBMT6KTGt7s82Rd,Bogota - Live,Ahmad Jamal,Live in Paris (1971),0.301,0.439,9.0,nan,0.0,0.0332,0.597,0.314,0.742,0.403,79.274
+18Psr6uiBMT6KTGt7s82Rd,Bogota - Live,Ahmad Jamal,Live in Paris (1971),0.301,0.439,9.0,--,0.0,0.0332,0.597,0.314,0.742,0.403,79.274
 19RQazIT04qugNWgnnkAxU,Imagination,Slim Gaillard,"Slim Gaillard At Birdland, 1951",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-1Bek8fB7OeWTqNghvNqCrf,You Grow Sweeter as the Years Go By,The Pied Pipers,What is This Thing Called Love?,0.276,0.258,0.0,nan,1.0,0.0278,0.88,nan,0.155,0.305,88.781
-1FdulvpRiLgkseCz7RrNOR,Quiet Nights of Quiet Stars (Corcovado),"Antônio Carlos Jobim, Frank Sinatra",Sinatra/Jobim: The Complete Reprise Recordings,0.388,0.255,0.0,nan,1.0,0.0332,0.77,0.0737,0.0838,0.25,107.426
-1GJrFcbu6BVsEnPhDmGfdE,Cast Your Fate To The Wind,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.467,0.225,8.0,nan,1.0,0.0383,0.774,0.151,0.107,0.303,124.791
-1H5IfYyIIAlgDX8zguUzns,Suspicious Minds,Elvis Presley,From Elvis in Memphis,0.487,0.382,7.0,nan,1.0,0.0309,0.0422,nan,0.411,0.714,116.557
+1Bek8fB7OeWTqNghvNqCrf,You Grow Sweeter as the Years Go By,The Pied Pipers,What is This Thing Called Love?,0.276,0.258,0.0,--,1.0,0.0278,0.88,--,0.155,0.305,88.781
+1FdulvpRiLgkseCz7RrNOR,Quiet Nights of Quiet Stars (Corcovado),"Antônio Carlos Jobim, Frank Sinatra",Sinatra/Jobim: The Complete Reprise Recordings,0.388,0.255,0.0,--,1.0,0.0332,0.77,0.0737,0.0838,0.25,107.426
+1GJrFcbu6BVsEnPhDmGfdE,Cast Your Fate To The Wind,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.467,0.225,8.0,--,1.0,0.0383,0.774,0.151,0.107,0.303,124.791
+1H5IfYyIIAlgDX8zguUzns,Suspicious Minds,Elvis Presley,From Elvis in Memphis,0.487,0.382,7.0,--,1.0,0.0309,0.0422,--,0.411,0.714,116.557
 1JWg5bnTaIUfntn4KhdPoS,Is You Is Or Is You Ain't My Baby,Joe Bourne,Remembering Mr. Cole ( A tribute to the Nat King Cole Trio),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-1OQBzVlstoCo6oI2O8dVML,Fascinating Rhythm,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.518,0.293,0.0,nan,1.0,0.0797,0.957,0.89,0.0957,0.728,150.826
-1QX55tmWOC2OSxI1WaLHk1,There Are Such Things,The Pied Pipers,What is This Thing Called Love?,0.258,0.181,10.0,nan,1.0,0.0265,0.886,0.00013,0.177,0.155,78.776
-1eRznw1ZY1WsR4imR48oCX,Their Hearts Were Full Of Spring - Remastered,The Four Freshmen,Capitol Collectors Series,0.24,0.0317,8.0,nan,1.0,0.0403,0.94,nan,0.114,0.178,163.883
-1lYSHGzePmuhPnyLbO2TA6,Charlie Brown Theme,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.631,0.198,10.0,nan,0.0,0.0423,0.157,0.00247,0.223,0.08,61.624
-1owGm6QDclYTJ40SMz97rW,No Moon At All - Remastered,Julie London,Julie Is Her Name,0.703,0.161,7.0,nan,1.0,0.129,0.927,nan,0.102,0.269,62.561
+1OQBzVlstoCo6oI2O8dVML,Fascinating Rhythm,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.518,0.293,0.0,--,1.0,0.0797,0.957,0.89,0.0957,0.728,150.826
+1QX55tmWOC2OSxI1WaLHk1,There Are Such Things,The Pied Pipers,What is This Thing Called Love?,0.258,0.181,10.0,--,1.0,0.0265,0.886,0.00013,0.177,0.155,78.776
+1eRznw1ZY1WsR4imR48oCX,Their Hearts Were Full Of Spring - Remastered,The Four Freshmen,Capitol Collectors Series,0.24,0.0317,8.0,--,1.0,0.0403,0.94,--,0.114,0.178,163.883
+1lYSHGzePmuhPnyLbO2TA6,Charlie Brown Theme,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.631,0.198,10.0,--,0.0,0.0423,0.157,0.00247,0.223,0.08,61.624
+1owGm6QDclYTJ40SMz97rW,No Moon At All - Remastered,Julie London,Julie Is Her Name,0.703,0.161,7.0,--,1.0,0.129,0.927,--,0.102,0.269,62.561
 1pxZv38gonFC85c1N0Af8d,I Love You for Sentimental Reasons,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-1rGZUPEI3iq6HYmI0V6a98,Skating,Vince Guaraldi,The Definitive Vince Guaraldi,0.406,0.301,0.0,nan,1.0,0.0378,0.824,0.83,0.128,0.655,64.481
-1rvXymShkt4ClhiWEsn4ad,It Never Occurred To Me,The Four Freshmen,Blue World,0.275,0.219,0.0,nan,0.0,0.027,0.753,0.0,0.161,0.236,90.935
+1rGZUPEI3iq6HYmI0V6a98,Skating,Vince Guaraldi,The Definitive Vince Guaraldi,0.406,0.301,0.0,--,1.0,0.0378,0.824,0.83,0.128,0.655,64.481
+1rvXymShkt4ClhiWEsn4ad,It Never Occurred To Me,The Four Freshmen,Blue World,0.275,0.219,0.0,--,0.0,0.027,0.753,0.0,0.161,0.236,90.935
 1s7f8sQi1FRKnqhsMTJ06b,The Things We Did Last Summer - Remastered,"George Shearing Quintet, Nancy Wilson",The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-1smChL3Aq1U9DZA83LuDtp,I Wanna Be Around...,Tony Bennett,I Wanna Be Around,0.498,0.266,10.0,nan,1.0,0.0348,0.768,0.0,0.0828,0.376,69.601
-1twS3AKB6npXZaTlZUCChm,Somebody Loves Me,The Four Freshmen,Blue World,0.475,0.342,0.0,nan,1.0,0.0681,0.709,0.0,0.357,0.653,159.476
-1xsY8IFXUrxeet1Fcmk4oC,In the Mood,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.624,0.304,8.0,nan,1.0,0.0822,0.929,0.173,0.0693,0.874,80.582
-22M3T4C7IegXSrDNqFQ1gU,Sure Gonna Miss Her,"The Mariachi Brass, Chet Baker",Hats Off,0.0,0.502,5.0,nan,1.0,0.0,0.676,0.248,0.513,0.0,0.0
-286RkRWuFjPZD252MW334r,September Song,Eartha Kitt,The Collection,0.286,0.15,3.0,nan,1.0,0.0421,0.891,0.0536,0.144,0.105,134.931
+1smChL3Aq1U9DZA83LuDtp,I Wanna Be Around...,Tony Bennett,I Wanna Be Around,0.498,0.266,10.0,--,1.0,0.0348,0.768,0.0,0.0828,0.376,69.601
+1twS3AKB6npXZaTlZUCChm,Somebody Loves Me,The Four Freshmen,Blue World,0.475,0.342,0.0,--,1.0,0.0681,0.709,0.0,0.357,0.653,159.476
+1xsY8IFXUrxeet1Fcmk4oC,In the Mood,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.624,0.304,8.0,--,1.0,0.0822,0.929,0.173,0.0693,0.874,80.582
+22M3T4C7IegXSrDNqFQ1gU,Sure Gonna Miss Her,"The Mariachi Brass, Chet Baker",Hats Off,0.0,0.502,5.0,--,1.0,0.0,0.676,0.248,0.513,0.0,0.0
+286RkRWuFjPZD252MW334r,September Song,Eartha Kitt,The Collection,0.286,0.15,3.0,--,1.0,0.0421,0.891,0.0536,0.144,0.105,134.931
 2BMorWMRsJPc1hEstsFKRU,I'll Remember April,George Shearing,September In The Rain,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-2JEDACLvBw4Tw7AaNaQGlj,Autumn Leaves,Vince Guaraldi,The Definitive Vince Guaraldi,0.414,0.241,0.0,nan,0.0,0.0336,0.847,0.533,0.187,0.222,99.386
+2JEDACLvBw4Tw7AaNaQGlj,Autumn Leaves,Vince Guaraldi,The Definitive Vince Guaraldi,0.414,0.241,0.0,--,0.0,0.0336,0.847,0.533,0.187,0.222,99.386
 2Pi0rY9FcbaecqO0AyhXbu,I'll Never Smile Again,"Tommy Dorsey, Frank Sinatra, The Pied Pipers",The Seventeen Number Ones,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2UWHpbnRVsH7s9CpY8X5yA,All Night Long,"George Shearing Quintet, Nancy Wilson",The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-2f0GJdDxkHllLSIAIzrWIh,Rain,The Four Freshmen,Live From Las Vegas,0.493,0.444,10.0,nan,1.0,0.0397,0.142,nan,0.962,0.481,83.428
+2f0GJdDxkHllLSIAIzrWIh,Rain,The Four Freshmen,Live From Las Vegas,0.493,0.444,10.0,--,1.0,0.0397,0.142,--,0.962,0.481,83.428
 2ktNcamVv0XK1rxbTuxnVc,Friendly Persuasion (Thee I Love),George Shearing,The Shearing Piano,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-2qXsuj2z9Y27LP8W07a2XY,Candy,The Pied Pipers,What is This Thing Called Love?,0.383,0.186,9.0,nan,0.0,0.0264,0.848,0.0,0.296,0.327,83.537
-2uyySHlUXP9AkOKaVWOqHS,Moonglow,"Eddy De Lange, Irving Mills, Will Hudson, Dick Hyman",Moonstruck - Original Motion Picture Soundtrack,0.681,0.217,5.0,nan,1.0,0.0476,0.772,0.484,0.12,0.438,131.361
+2qXsuj2z9Y27LP8W07a2XY,Candy,The Pied Pipers,What is This Thing Called Love?,0.383,0.186,9.0,--,0.0,0.0264,0.848,0.0,0.296,0.327,83.537
+2uyySHlUXP9AkOKaVWOqHS,Moonglow,"Eddy De Lange, Irving Mills, Will Hudson, Dick Hyman",Moonstruck - Original Motion Picture Soundtrack,0.681,0.217,5.0,--,1.0,0.0476,0.772,0.484,0.12,0.438,131.361
 2waiAcLQiqlX5bzvLtNUA0,Fly Me To The Moon (In Other Words),"Nat King Cole, George Shearing",Nat King Cole Sings George Shearing Plays,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-2zPANzQTt5Nbkg0eBPb7HI,There Will Never Be Another You - Vocal Version,Chet Baker,Chet Baker Sings,0.513,0.112,3.0,nan,1.0,0.0574,0.949,0.0018,0.0721,0.577,168.754
-33LQxf2T3Jbgw3XQ1H3LMY,Blue Skies,Willie Nelson,Stardust,0.381,0.335,2.0,nan,1.0,0.0362,0.207,0.088,0.1,0.259,83.792
+2zPANzQTt5Nbkg0eBPb7HI,There Will Never Be Another You - Vocal Version,Chet Baker,Chet Baker Sings,0.513,0.112,3.0,--,1.0,0.0574,0.949,0.0018,0.0721,0.577,168.754
+33LQxf2T3Jbgw3XQ1H3LMY,Blue Skies,Willie Nelson,Stardust,0.381,0.335,2.0,--,1.0,0.0362,0.207,0.088,0.1,0.259,83.792
 33xO3w8E1a9mlFQdnWcT3x,I Remember Clifford - Remastered,George Shearing Quintet,The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-3AgqQbQWYLGsemeBHk1U1d,Autumn Leaves - Remastered 1987,Nat King Cole,Sings For Two In Love,0.211,0.348,2.0,nan,0.0,0.0326,0.939,0.00052,0.384,0.0981,86.868
-3BFRqZFLSrqtQr6cjHbAxU,Ain't Misbehavin',Fats Waller,"If You Got To Ask, You Ain't Got It!",0.515,0.222,0.0,nan,0.0,0.0575,0.821,0.00193,0.19,0.35,98.358
-3E5ndyOfO6vFDEIE42HA8o,Mack the Knife,Bobby Darin,That's All,0.549,0.529,3.0,nan,0.0,0.108,0.76,0.0,0.206,0.464,82.755
-3KzgdYUlqV6TOG7JCmx2Wg,Beyond the Sea,Bobby Darin,That's All,0.521,0.516,2.0,nan,0.0,0.0369,0.723,0.0,0.257,0.569,136.483
-3OifdbdBdgVGtns8uQbZO3,This October,The Four Freshmen,Angel Eyes,0.662,0.33,5.0,nan,0.0,0.0579,0.611,nan,0.283,0.683,89.022
-3TwEglf5aSCf3mf45sDn2t,Thanksgiving Theme,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.522,0.322,0.0,nan,1.0,0.0272,0.985,0.921,0.32,0.286,96.36
+3AgqQbQWYLGsemeBHk1U1d,Autumn Leaves - Remastered 1987,Nat King Cole,Sings For Two In Love,0.211,0.348,2.0,--,0.0,0.0326,0.939,0.00052,0.384,0.0981,86.868
+3BFRqZFLSrqtQr6cjHbAxU,Ain't Misbehavin',Fats Waller,"If You Got To Ask, You Ain't Got It!",0.515,0.222,0.0,--,0.0,0.0575,0.821,0.00193,0.19,0.35,98.358
+3E5ndyOfO6vFDEIE42HA8o,Mack the Knife,Bobby Darin,That's All,0.549,0.529,3.0,--,0.0,0.108,0.76,0.0,0.206,0.464,82.755
+3KzgdYUlqV6TOG7JCmx2Wg,Beyond the Sea,Bobby Darin,That's All,0.521,0.516,2.0,--,0.0,0.0369,0.723,0.0,0.257,0.569,136.483
+3OifdbdBdgVGtns8uQbZO3,This October,The Four Freshmen,Angel Eyes,0.662,0.33,5.0,--,0.0,0.0579,0.611,--,0.283,0.683,89.022
+3TwEglf5aSCf3mf45sDn2t,Thanksgiving Theme,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.522,0.322,0.0,--,1.0,0.0272,0.985,0.921,0.32,0.286,96.36
 3nuBkpDZWcZyRg8DI4Ol5w,Please (with Anson Weeks & His Orchestra),"Bing Crosby, Anson Weeks, His Orchestra",The Essential Bing Crosby,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3qZCqVg91I59UMhIek6ErM,On The Sunny Side Of The Street,The Pied Pipers,A Tribute to Tommy Dorsey,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-3spdoTYpuCpmq19tuD0bOe,My Way,Frank Sinatra,My Way (Expanded Edition),0.401,0.381,2.0,nan,1.0,0.0274,0.7,0.0,0.122,0.229,75.454
+3spdoTYpuCpmq19tuD0bOe,My Way,Frank Sinatra,My Way (Expanded Edition),0.401,0.381,2.0,--,1.0,0.0274,0.7,0.0,0.122,0.229,75.454
 3v0F4czdzZdsUlurnp8zvG,Stardust I May Be Wrong,Hoagy Carmichael,Gonna Get a Girl,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-3ziJFd6JeioC8Xfct0UXpJ,Moonlight Serenade,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.342,0.126,3.0,nan,1.0,0.0265,0.862,0.0998,0.146,0.147,77.873
-40dkGkXlOnvj75cbXGvjRf,A Flower Is A Lovesome Thing,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.501,0.0907,7.0,nan,1.0,0.0432,0.987,0.936,0.0974,0.0395,118.618
-40wB4dL1rMNaBFIX5nyTCI,Graduation Day,The Four Freshmen,Graduation Day,0.434,0.122,8.0,nan,1.0,0.0273,0.857,0.0,0.133,0.342,74.277
+3ziJFd6JeioC8Xfct0UXpJ,Moonlight Serenade,Glenn Miller,Ultimate Big Band Collection: Glenn Miller,0.342,0.126,3.0,--,1.0,0.0265,0.862,0.0998,0.146,0.147,77.873
+40dkGkXlOnvj75cbXGvjRf,A Flower Is A Lovesome Thing,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.501,0.0907,7.0,--,1.0,0.0432,0.987,0.936,0.0974,0.0395,118.618
+40wB4dL1rMNaBFIX5nyTCI,Graduation Day,The Four Freshmen,Graduation Day,0.434,0.122,8.0,--,1.0,0.0273,0.857,0.0,0.133,0.342,74.277
 43a4zqUZL1vHH93EKBFkLj,"We Three (My Echo, My Shadow, And Me)",The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-44JGGWZwWXNgnEiOQQ8ByI,The Good Times,Nat King Cole,Ramblin Rose,0.512,0.632,7.0,nan,0.0,0.0329,0.549,0.0,0.595,0.753,128.152
-44t2D1xsAwPRPrcfOQz5yL,Easy living,"Billie Holiday, Billie Holliday and her orchestra",Simply ... Lady Day! (2019 Remaster),0.656,0.106,8.0,nan,1.0,0.0492,0.989,0.0302,0.19,0.641,89.085
-47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2.0,nan,0.0,0.0472,0.792,nan,0.125,0.817,83.729
-47v2cVYhIrpLKrInKyVjuU,Autumn Rain - Live,Ahmad Jamal,"Live at the Olympia - June 27, 2012",0.538,0.537,7.0,nan,1.0,0.0633,0.483,0.563,0.976,0.449,83.131
-49LHJe8RmY5ViMMQj0aMdb,(What Did I Do To Be So) Black And Blue,Louis Armstrong,This Is Jazz Louis Armstrong Sings,0.414,0.105,0.0,nan,1.0,0.0549,0.826,0.0119,0.269,0.223,72.332
+44JGGWZwWXNgnEiOQQ8ByI,The Good Times,Nat King Cole,Ramblin Rose,0.512,0.632,7.0,--,0.0,0.0329,0.549,0.0,0.595,0.753,128.152
+44t2D1xsAwPRPrcfOQz5yL,Easy living,"Billie Holiday, Billie Holliday and her orchestra",Simply ... Lady Day! (2019 Remaster),0.656,0.106,8.0,--,1.0,0.0492,0.989,0.0302,0.19,0.641,89.085
+47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2.0,--,0.0,0.0472,0.792,--,0.125,0.817,83.729
+47v2cVYhIrpLKrInKyVjuU,Autumn Rain - Live,Ahmad Jamal,"Live at the Olympia - June 27, 2012",0.538,0.537,7.0,--,1.0,0.0633,0.483,0.563,0.976,0.449,83.131
+49LHJe8RmY5ViMMQj0aMdb,(What Did I Do To Be So) Black And Blue,Louis Armstrong,This Is Jazz Louis Armstrong Sings,0.414,0.105,0.0,--,1.0,0.0549,0.826,0.0119,0.269,0.223,72.332
 4HLYTkGtaXGcozWywPlBZP,My Happiness,The Pied Pipers,What is This Thing Called Love?,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-4JW7GB5ekciDSTSLnuO0W7,New Year's Eve,Elizabeth Cotten,"Elizabeth Cotten, Volume 3: When I'm Gone",0.351,0.243,11.0,nan,1.0,0.0319,0.964,0.893,0.116,0.812,97.907
-4LGTaHEGnEoXGkXGroCttg,Love Turns Winter To Spring,The Four Freshmen,"Merry Christmas, Baby: Romance And Reindeer From Capitol",0.478,0.253,10.0,nan,0.0,0.0324,0.797,nan,0.325,0.366,86.949
-4QxDOjgpYtQDxxbWPuEJOy,L-O-V-E,Nat King Cole,L-O-V-E,0.425,0.373,4.0,nan,1.0,0.0801,0.686,0.0,0.077,0.663,78.231
-4V4hfhAK4RKXVWkQz0CQO8,A Dreamer's Holiday,Perry Como,Perry Como with the Fontane Sisters (with The Fontane Sisters),0.58,0.128,9.0,nan,1.0,0.0704,0.966,0.0,0.376,0.414,84.375
+4JW7GB5ekciDSTSLnuO0W7,New Year's Eve,Elizabeth Cotten,"Elizabeth Cotten, Volume 3: When I'm Gone",0.351,0.243,11.0,--,1.0,0.0319,0.964,0.893,0.116,0.812,97.907
+4LGTaHEGnEoXGkXGroCttg,Love Turns Winter To Spring,The Four Freshmen,"Merry Christmas, Baby: Romance And Reindeer From Capitol",0.478,0.253,10.0,--,0.0,0.0324,0.797,--,0.325,0.366,86.949
+4QxDOjgpYtQDxxbWPuEJOy,L-O-V-E,Nat King Cole,L-O-V-E,0.425,0.373,4.0,--,1.0,0.0801,0.686,0.0,0.077,0.663,78.231
+4V4hfhAK4RKXVWkQz0CQO8,A Dreamer's Holiday,Perry Como,Perry Como with the Fontane Sisters (with The Fontane Sisters),0.58,0.128,9.0,--,1.0,0.0704,0.966,0.0,0.376,0.414,84.375
 4bdxGRCBgwnkt42IgWYLwq,I'm Beginning To See The Light,"Ella Fitzgerald, Duke Ellington",Ella Fitzgerald Sings The Duke Ellington Song Book,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-4dZdUaWKR0w9PAbF8YExsp,It's A Pity To Say Goodnight,The Four Freshmen,Great Gentlemen Of Song / Spotlight On The Four Freshmen,0.56,0.238,0.0,nan,1.0,0.0445,0.615,0.0,0.117,0.629,147.71
+4dZdUaWKR0w9PAbF8YExsp,It's A Pity To Say Goodnight,The Four Freshmen,Great Gentlemen Of Song / Spotlight On The Four Freshmen,0.56,0.238,0.0,--,1.0,0.0445,0.615,0.0,0.117,0.629,147.71
 4iFsfGF3pQKFdpeE1HIght,Goody Goody - Live Recording,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-4l9hml2UCnxoNI3yCdL1BW,My Funny Valentine,Chet Baker,Chet Baker Sings,0.438,0.00756,0.0,nan,0.0,0.0382,0.941,0.00643,0.109,0.277,133.32
+4l9hml2UCnxoNI3yCdL1BW,My Funny Valentine,Chet Baker,Chet Baker Sings,0.438,0.00756,0.0,--,0.0,0.0382,0.941,0.00643,0.109,0.277,133.32
 4r1HXgQRdMk9sNLoGebC1O,Goodbye,The Four Freshmen,Graduation Day,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4yVZchc86Mkwe04eE3tsEq,Charmaine - Remastered,The Four Freshmen,Capitol Collectors Series,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4yv8XcG09EeFphrdfFH9FV,Autumn In New York,George Shearing Quintet,The Shearing Spell,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-4zPDjRgceGrR0Sm54YDTTf,Autumn Nocturne,Lou Donaldson,Blues Walk,0.539,0.0678,0.0,nan,1.0,0.0468,0.967,0.168,0.114,0.263,124.105
+4zPDjRgceGrR0Sm54YDTTf,Autumn Nocturne,Lou Donaldson,Blues Walk,0.539,0.0678,0.0,--,1.0,0.0468,0.967,0.168,0.114,0.263,124.105
 52QqyuqnNuYtlSWqxubc8s,There's Frost On The Moon,Artie Shaw,In The Beginning,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-52XDumqYDUXX16R7FM5fpV,"It's Been a Long, Long Time (with Harry James & His Orchestra)","Kitty Kallen, Harry James",Best Of The Big Bands,0.272,0.219,0.0,nan,1.0,0.0305,0.938,0.00086,0.263,0.374,74.697
-54TTy0pWx7UGYJnCjScJIE,The Girl From Ipanema - Remastered,Nat King Cole,L-O-V-E,0.514,0.372,7.0,nan,1.0,0.0506,0.665,0.0,0.381,0.413,118.864
-59CJWG0sOr2Fd3L2GHn1mw,Autumn Leaves (Kareha) - Japanese Version,Nat King Cole,Autumn,0.26,0.364,2.0,nan,0.0,0.0337,0.675,0.000584,0.238,0.191,119.792
-5EJ9MfO86fEG7ICjhciyd1,The Enchanted Sea,Martin Denny,The Enchanted Sea,0.443,0.293,9.0,nan,0.0,0.0311,0.783,0.31,0.212,0.27,84.062
+52XDumqYDUXX16R7FM5fpV,"It's Been a Long, Long Time (with Harry James & His Orchestra)","Kitty Kallen, Harry James",Best Of The Big Bands,0.272,0.219,0.0,--,1.0,0.0305,0.938,0.00086,0.263,0.374,74.697
+54TTy0pWx7UGYJnCjScJIE,The Girl From Ipanema - Remastered,Nat King Cole,L-O-V-E,0.514,0.372,7.0,--,1.0,0.0506,0.665,0.0,0.381,0.413,118.864
+59CJWG0sOr2Fd3L2GHn1mw,Autumn Leaves (Kareha) - Japanese Version,Nat King Cole,Autumn,0.26,0.364,2.0,--,0.0,0.0337,0.675,0.000584,0.238,0.191,119.792
+5EJ9MfO86fEG7ICjhciyd1,The Enchanted Sea,Martin Denny,The Enchanted Sea,0.443,0.293,9.0,--,0.0,0.0311,0.783,0.31,0.212,0.27,84.062
 5EQfcSb929cWIeLJPIZoby,We'll Meet Again,The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-5GOFil3Umfp4yB75U2Ah4e,Georgia On My Mind,Willie Nelson,Stardust,0.533,0.215,1.0,nan,1.0,0.0396,0.8,0.0336,0.14,0.106,67.985
-5K0hy2QGGliIiiWatRq9ld,Linus And Lucy,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.457,0.471,8.0,nan,1.0,0.036,0.814,0.93,0.21,0.74,81.502
-5LMDR9OJOVfRAB99Vr96zn,Change Partners,"Antônio Carlos Jobim, Frank Sinatra",Sinatra/Jobim: The Complete Reprise Recordings,0.454,0.319,7.0,nan,1.0,0.0337,0.7,0.00196,0.32,0.308,132.336
-5LXU0Oa1nV8ZCrSNNk8CAF,"Oh, Lonely Winter",The Faux Freshmen,Scratchin' the Surface,0.331,0.267,0.0,nan,1.0,0.0275,0.926,nan,0.281,0.17,135.656
-5WOEu7bI9bgozY0OiLPHlq,Graveyard Theme,Vince Guaraldi,"It's The Great Pumpkin, Charlie Brown (Original Soundtrack Recording)",0.533,0.257,9.0,nan,1.0,0.0494,0.94,0.884,0.177,0.281,137.186
-5WPuFqw1PR4KKg2rSFzxry,"Oh, Look at Me Now",The Pied Pipers,What is This Thing Called Love?,0.806,0.167,2.0,nan,0.0,0.0441,0.843,0.0,0.413,0.675,115.419
-5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1.0,nan,1.0,0.035,0.968,nan,0.127,0.305,78.056
+5GOFil3Umfp4yB75U2Ah4e,Georgia On My Mind,Willie Nelson,Stardust,0.533,0.215,1.0,--,1.0,0.0396,0.8,0.0336,0.14,0.106,67.985
+5K0hy2QGGliIiiWatRq9ld,Linus And Lucy,Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.457,0.471,8.0,--,1.0,0.036,0.814,0.93,0.21,0.74,81.502
+5LMDR9OJOVfRAB99Vr96zn,Change Partners,"Antônio Carlos Jobim, Frank Sinatra",Sinatra/Jobim: The Complete Reprise Recordings,0.454,0.319,7.0,--,1.0,0.0337,0.7,0.00196,0.32,0.308,132.336
+5LXU0Oa1nV8ZCrSNNk8CAF,"Oh, Lonely Winter",The Faux Freshmen,Scratchin' the Surface,0.331,0.267,0.0,--,1.0,0.0275,0.926,--,0.281,0.17,135.656
+5WOEu7bI9bgozY0OiLPHlq,Graveyard Theme,Vince Guaraldi,"It's The Great Pumpkin, Charlie Brown (Original Soundtrack Recording)",0.533,0.257,9.0,--,1.0,0.0494,0.94,0.884,0.177,0.281,137.186
+5WPuFqw1PR4KKg2rSFzxry,"Oh, Look at Me Now",The Pied Pipers,What is This Thing Called Love?,0.806,0.167,2.0,--,0.0,0.0441,0.843,0.0,0.413,0.675,115.419
+5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1.0,--,1.0,0.035,0.968,--,0.127,0.305,78.056
 5bqw1jBy6gacBpxsn8xFuF,Guilty,George Shearing,The Shearing Piano,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5jZBn6jnhdZUGnpooAMnwF,I've Got My Love To Keep Me Warm,Billie Holiday,Stay With Me,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5l9c6bJmzvftumhz4TMPgk,Harvest Moon,Neil Young,Harvest Moon,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-5nQ9snGTl5OBTHVFmT5QsF,Stardust,The Pied Pipers,What is This Thing Called Love?,0.472,0.0569,8.0,nan,1.0,0.0307,0.979,0.000449,0.175,0.261,66.976
-5wHTAt05hXx9Gp5WvdrVhk,"Softly, As In A Morning Sunrise",Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.626,0.199,0.0,nan,0.0,0.0486,0.978,0.932,0.0975,0.601,88.198
+5nQ9snGTl5OBTHVFmT5QsF,Stardust,The Pied Pipers,What is This Thing Called Love?,0.472,0.0569,8.0,--,1.0,0.0307,0.979,0.000449,0.175,0.261,66.976
+5wHTAt05hXx9Gp5WvdrVhk,"Softly, As In A Morning Sunrise",Vince Guaraldi Trio,The Definitive Vince Guaraldi,0.626,0.199,0.0,--,0.0,0.0486,0.978,0.932,0.0975,0.601,88.198
 5zv0eKOJTblfnL3V9mSqhG,Cheek to Cheek,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-6115ks6fGkf7KYRDAi8lNK,Almost Like Being In Love - Remastered,Nat King Cole,Sings For Two In Love,0.447,0.487,7.0,nan,1.0,0.062,0.843,0.0,0.177,0.696,182.515
+6115ks6fGkf7KYRDAi8lNK,Almost Like Being In Love - Remastered,Nat King Cole,Sings For Two In Love,0.447,0.487,7.0,--,1.0,0.062,0.843,0.0,0.177,0.696,182.515
 69SlyKc3sdj9WW3J5A4LuX,On The Street Where You Live,George Shearing,The Shearing Piano,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-6CeajvxcjyZ46cGbrKwq9n,Souvenir d'Italie,Lelio Luttazzi,Le mie preferite,0.0,0.439,7.0,nan,1.0,0.0,0.686,0.95,0.307,0.0,0.0
+6CeajvxcjyZ46cGbrKwq9n,Souvenir d'Italie,Lelio Luttazzi,Le mie preferite,0.0,0.439,7.0,--,1.0,0.0,0.686,0.95,0.307,0.0,0.0
 6DvaFqrsKpvg5yNXWlAAOQ,Because of You,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-6FYeRy9LuMYTEMXOVCRCJ5,I Remember You - Remastered 2004,Chet Baker,Chet Baker Sings And Plays (Remastered 2004),0.448,0.281,8.0,nan,1.0,0.0401,0.935,0.000675,0.162,0.461,187.075
-6FfxBy2B7s65v7IR15Xr0T,When Winter Comes,Artie Shaw,When Winter Comes,0.569,0.435,5.0,nan,0.0,0.171,0.924,0.11,0.808,0.752,167.101
-6FmvWOxXKBgeD0hkS8vjaL,The Great Pumpkin Waltz,Vince Guaraldi,"It's The Great Pumpkin, Charlie Brown (Original Soundtrack Recording)",0.274,0.263,0.0,nan,0.0,0.049,0.95,0.956,0.147,0.52,214.655
-6JU470jR3GKd1Eal3YwqfO,When I Fall In Love,Nat King Cole,Autumn,0.19,0.215,1.0,nan,1.0,0.0339,0.676,0.00134,0.112,0.115,81.538
-6MUHAvKGAmKXojn8wdFB71,The Windmills of Your Mind,Dusty Springfield,Dusty In Memphis [Deluxe Edition],0.281,0.276,0.0,nan,0.0,0.038,0.51,0.0,0.135,0.238,154.097
+6FYeRy9LuMYTEMXOVCRCJ5,I Remember You - Remastered 2004,Chet Baker,Chet Baker Sings And Plays (Remastered 2004),0.448,0.281,8.0,--,1.0,0.0401,0.935,0.000675,0.162,0.461,187.075
+6FfxBy2B7s65v7IR15Xr0T,When Winter Comes,Artie Shaw,When Winter Comes,0.569,0.435,5.0,--,0.0,0.171,0.924,0.11,0.808,0.752,167.101
+6FmvWOxXKBgeD0hkS8vjaL,The Great Pumpkin Waltz,Vince Guaraldi,"It's The Great Pumpkin, Charlie Brown (Original Soundtrack Recording)",0.274,0.263,0.0,--,0.0,0.049,0.95,0.956,0.147,0.52,214.655
+6JU470jR3GKd1Eal3YwqfO,When I Fall In Love,Nat King Cole,Autumn,0.19,0.215,1.0,--,1.0,0.0339,0.676,0.00134,0.112,0.115,81.538
+6MUHAvKGAmKXojn8wdFB71,The Windmills of Your Mind,Dusty Springfield,Dusty In Memphis [Deluxe Edition],0.281,0.276,0.0,--,0.0,0.038,0.51,0.0,0.135,0.238,154.097
 6NbZ5kqm6owWO0Ccw1HPVu,How Deep Is the Ocean,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 1",-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-6QgoqQs8PjtKCGuahX310I,Manhattan Reflections - Live,Ahmad Jamal,Live in Paris (1971),0.439,0.359,10.0,nan,0.0,0.0329,0.77,0.898,0.142,0.27,94.164
-6QlkHjQmo2YncQN5MQXgPZ,It Never Entered My Mind,Miles Davis Quintet,Workin' With The Miles Davis Quintet,0.476,0.217,8.0,nan,1.0,0.0308,0.892,nan,0.0966,0.121,116.079
+6QgoqQs8PjtKCGuahX310I,Manhattan Reflections - Live,Ahmad Jamal,Live in Paris (1971),0.439,0.359,10.0,--,0.0,0.0329,0.77,0.898,0.142,0.27,94.164
+6QlkHjQmo2YncQN5MQXgPZ,It Never Entered My Mind,Miles Davis Quintet,Workin' With The Miles Davis Quintet,0.476,0.217,8.0,--,1.0,0.0308,0.892,--,0.0966,0.121,116.079
 6UyFhMPqpg95EDBtSP7IRm,Whisper Not - Remastered,George Shearing Quintet,The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6VD3TRB8HCGcVVUDlADGJP,Sleepy Time Gal,Hoagy Carmichael,Gonna Get a Girl,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-6g82W4awZ4ZqSs2jUT5goS,Tis Autumn,Chet Baker,Chet (Keepnews Collection),0.56,0.0641,0.0,nan,0.0,0.0374,0.97,0.898,0.0694,0.257,107.802
+6g82W4awZ4ZqSs2jUT5goS,Tis Autumn,Chet Baker,Chet (Keepnews Collection),0.56,0.0641,0.0,--,0.0,0.0374,0.97,0.898,0.0694,0.257,107.802
 6jSOQzZ92aPKN0p2m09y2n,Maybe,The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6onxtdIaUHiO2Uqm5PnG1l,Love Thy Neighbor - 1954 Version _ With Spoken Introduction,"Bing Crosby, Buddy Cole Trio",Bing: A Musical Autobiography,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-6zK83IKs3vP6Uxm2UpYYpo,Moonlight In Vermont,"Ella Fitzgerald, Louis Armstrong",The Complete Ella And Louis On Verve,0.362,0.0387,0.0,nan,1.0,0.0448,0.974,0.000171,0.0902,0.139,170.937
+6zK83IKs3vP6Uxm2UpYYpo,Moonlight In Vermont,"Ella Fitzgerald, Louis Armstrong",The Complete Ella And Louis On Verve,0.362,0.0387,0.0,--,1.0,0.0448,0.974,0.000171,0.0902,0.139,170.937
 70Hl6QYIJGmrR7NBl666Y6,Into Each Life Some Rain Must Fall - Single Version,"The Ink Spots, Ella Fitzgerald",20th Century Masters: The Millennium Collection: Best Of The Ink Spots,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 777zXDJpBufzttU4AJ2dGO,I Don't Want To Set The World On Fire,The Ink Spots,The Anthology,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-77fcHU89KRyKKRDskWKOoY,On The Sunny Side Of The Street - 1993 Digital Remaster,Nat King Cole Trio,The Nat King Cole Trio - The Complete Capitol Transcription Sessions,0.87,0.0993,5.0,nan,0.0,0.0544,0.994,0.142,0.0879,0.482,125.725
-78MI7mu1LV1k4IA2HzKmHe,Dream A Little Dream Of Me - Single Version,"Ella Fitzgerald, Louis Armstrong","Love, Ella",0.443,0.104,0.0,nan,1.0,0.101,0.913,0.0,0.191,0.394,76.474
-7B21ssHl04pc9TsHtvt3aA,Orange Colored Sky,Nat King Cole,Autumn,0.524,0.361,7.0,nan,0.0,0.0779,0.793,0.0,0.105,0.541,129.805
-7CfcWWFD3PijcMjBSLso8q,Autumn In New York,Billie Holiday,Recital,0.564,0.105,10.0,nan,0.0,0.0647,0.962,nan,0.112,0.285,71.594
+77fcHU89KRyKKRDskWKOoY,On The Sunny Side Of The Street - 1993 Digital Remaster,Nat King Cole Trio,The Nat King Cole Trio - The Complete Capitol Transcription Sessions,0.87,0.0993,5.0,--,0.0,0.0544,0.994,0.142,0.0879,0.482,125.725
+78MI7mu1LV1k4IA2HzKmHe,Dream A Little Dream Of Me - Single Version,"Ella Fitzgerald, Louis Armstrong","Love, Ella",0.443,0.104,0.0,--,1.0,0.101,0.913,0.0,0.191,0.394,76.474
+7B21ssHl04pc9TsHtvt3aA,Orange Colored Sky,Nat King Cole,Autumn,0.524,0.361,7.0,--,0.0,0.0779,0.793,0.0,0.105,0.541,129.805
+7CfcWWFD3PijcMjBSLso8q,Autumn In New York,Billie Holiday,Recital,0.564,0.105,10.0,--,0.0,0.0647,0.962,--,0.112,0.285,71.594
 7EnTL86j0jXu2IHEw14piE,'Tis Autumn,"Ella Fitzgerald, Joe Pass",Fitzgerald & Pass...Again,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7HaMDVyHbbmhtRwfrpzw5B,Moonray,George Shearing Quintet,The Shearing Spell,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-7Kqk5EpwqiukPkDutSFFZk,Did I Remember,Catherine Russell,Send For Me,0.677,0.264,8.0,nan,1.0,0.0357,0.904,0.00601,0.0825,0.438,120.974
+7Kqk5EpwqiukPkDutSFFZk,Did I Remember,Catherine Russell,Send For Me,0.677,0.264,8.0,--,1.0,0.0357,0.904,0.00601,0.0825,0.438,120.974
 7aXKEVn57uSQoJ3dQnOIkF,"Goodnight, My Love",George Shearing Quintet,The Shearing Spell,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7dY8rGcdOeo2RFj0OJbuJ9,Little White Lies,Dick Haymes,Rain Or Shine,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-7gxW8hMXEUkc1G3m7z9vei,More - Remastered 2004,Bobby Darin,The Legendary Bobby Darin,0.498,0.484,5.0,nan,0.0,0.0315,0.481,0.0,0.243,0.691,152.498
-7iyd0aOJ2J54hENgLeGxCk,Stardust,Willie Nelson,Stardust,0.549,0.267,9.0,nan,0.0,0.0416,0.881,0.0209,0.137,0.0993,144.546
+7gxW8hMXEUkc1G3m7z9vei,More - Remastered 2004,Bobby Darin,The Legendary Bobby Darin,0.498,0.484,5.0,--,0.0,0.0315,0.481,0.0,0.243,0.691,152.498
+7iyd0aOJ2J54hENgLeGxCk,Stardust,Willie Nelson,Stardust,0.549,0.267,9.0,--,0.0,0.0416,0.881,0.0209,0.137,0.0993,144.546
 7yCEzOAfijmD88IA1DHgSo,The Nearness Of You,"George Shearing Quintet, Nancy Wilson",The Swingin's Mutual (Expanded Edition / Remastered),-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
-<<<<<<< HEAD,--,--,--,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
-=======,--,--,--,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
->>>>>>> origin/main,--,--,--,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+<<<<<<< HEAD,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+=======,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+>>>>>>> origin/main,--,--,--,--,--,--,--,--,--,--,--,--,--,--
