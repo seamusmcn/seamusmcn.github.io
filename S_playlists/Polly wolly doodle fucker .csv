@@ -16,6 +16,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0bKewqEAZeQkFqWd3XW3CK,The Ragtime Dance,"Scott Joplin, Joshua Rifkin",Scott Joplin Piano Rags,0.46,0.137,3,-26.688,1,0.046,0.98,0.919,0.156,0.485,92.139
 0cWDkXcvOmftNxOUWQjAwv,"You Break It, You Buy It",Annie and the Fur Trappers,Muskrat Ramble,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0fkAuAYfIGalY8Cx1OL7uZ,12th Street Rag,Pee Wee Hunt,Jazz Collection,0.66,0.55,10,-10.395,1,0.055,0.654,0.852,0.143,0.905,105.629
+0j4ry184XB9OjNf12aMW8y,Too Many Tears,Billy Cotton & His Band,Sleepy Time Down South 1931 - 1932,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0j6AbJTM0Cp00rfvDSH0wf,Shine,"Billy Hults, Johnnie Ward, John D, Turtle Vandemarr, Teddy Deane, Richard Tyler",Billy Hults...The Anthology,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0jjlZkgW74WnLxZVaCAqTk,1919 March,"Michael White, Old Time Jazz Band",Old Time Jazz Band,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0x42aUKYoG96TfvKWqDZJr,Nobody's Fault but Mine,"Michael White, Michael White's Original New Orleans Liberty Street 3",'Taint Nobody's Business,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -88,6 +89,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 575F747gQWkmowDG5QiOLs,Old Grand Dad,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 575YbMmlqCnLT0AUzHEbXG,Jimmie's Mean Mama Blues,Jimmie Rodgers,RCA Country Legends,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5HwUwDJk51mWphH96lXuaL,That's When I'll Come Back To You,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+5I8587RwD0CdKIprw6a6Ky,"Smile, Darn Ya, Smile",Billy Cotton & His Band,Sleepy Time Down South 1931 - 1932,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5Kf5aY2wUqtrD0StRprgLh,Ich Nehme Alle Hurden _ Pauker Gehen in Die Luft - Live Recording,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 1",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5LHzQRQpnxXeKMn3pmusSK,Doctor Jazz,Jelly Roll Morton,Doctor Jazz,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5THB5UExa5XTrm2s2MpfdU,Alone,"Tommy Dorsey, Cliff Weston",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -114,11 +116,13 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6VvB8qLHXSrQ5hcqdIJl1U,When I Move to the Sky,"Michael White, Michael White's Original New Orleans Liberty Street 3",'Taint Nobody's Business,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6WxcOtGXQ6tWgTbpX6pVKS,Walking on the Moon,Lucia Pamela,Into Outer Space with Lucia Pamela,0.426,0.834,5,-8.749,0,0.148,0.929,7.43e-05,0.364,0.572,171.705
 6X5Viwfm2gWYjaEuEdKelA,Lost Love,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6ZA7IRp85w30nVET8SK1CE,I'm Just Wild About Harry,Billy Cotton & His Band,I'm Just Wild About Harry,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6bV2G27ckS4VC08CXaNWrX,L'Onorevole Bricolle,Clara Jaione con Orchestra Armando Fragna,Le Canzoni Dei Ricordi - Arrivano I Nostri!...,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6eBH8hP9nhP0tw3MD9BHcv,He's My Soft-Shelled Crab on Toast (Edison Wax Cylinder 499) [Recorded 1910],Marie Dressler,"Comic Vaudeville Rarities, Vol. 3 (Edison & Victor) [Recorded 1909 - 1917]",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6jS5q1bqJSa8vmRubSPJ9v,Glorious Centenary,Wilmoth Houdini,The Calypso Way,0.628,0.338,2,-11.789,1,0.131,0.987,0.000411,0.0644,0.89,103.958
 6kQlfgcEkPQjDSlkDXmR9J,Walking In The Park With Eloise - Remastered 2014,Wings,Venus And Mars (Archive Collection),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6ksv3rnq44sVUe3RKTXHR0,Bobby Sox Idol (Frank Sinatra),Wilmoth Houdini,The Calypso Way,0.723,0.417,0,-10.9,0,0.0854,0.577,0.0,0.414,0.946,82.249
+6l5RlCNYGg5iiDucdthQFO,Whistle and Blow Your Blues Away,Billy Cotton & His Band,Sleepy Time Down South 1931 - 1932,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6nUJnuKvGXf1UDk79zSNsq,The Big Apple,"Tommy Dorsey & His Clambake Seven, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6rqrN2bLrxW5ZB7OmWUwQe,Don't You Think I Love You,King Oliver,Papa Joe,0.675,0.541,10,-4.257,1,0.0528,0.947,0.93,0.14,0.951,176.958
 6sopJT570BxVowIaKxnNhL,Desperate Man Blues,Daniel Johnston,Hi How Are You,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
