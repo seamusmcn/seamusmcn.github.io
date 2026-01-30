@@ -7,6 +7,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 05TKmLLXQUOyA82oLR2XDi,Blues And Trouble,Muddy Waters,After The Rain,0.458,0.742,7,-6.539,1,0.083,0.114,0.0113,0.132,0.768,174.533
 05oMNN5Rbv6rVqyFFG9uTl,Baby What You Want Me To Do,Jimmy Reed,The Very Best of Jimmy Reed,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 081r6Uze95Mx8JkvH8c4m5,Goin' To Sit Down On The Banks Of The River,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+09LxmaGIr252DSO8J2S4J3,Ain't Goin' Down To The Well No Mo' _ Go Down Old Hannah,Lead Belly,Leadbelly Vol. 1 1939-1940,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0AeV81qPB9ZJzNC8L0rNLq,The Midnight Special,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0B0hrGGPeT8db0YLXM4U1D,Let Me Squeeze Your Lemon,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0CDbCahovsgZPNumyO7aD2,Cool Drink of Water Blues,Tommy Johnson,Tommy Johnson 1928 - 1929,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -101,11 +102,13 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2txRs0wxjGE1uzOhcBxN7L,Good Morning Little School Girl,Muddy Waters,Folk Singer (Expanded Edition),0.626,0.307,9,-14.645,1,0.0836,0.689,0.00663,0.0843,0.62,173.652
 2uoOm55gLvLMALwXmKrwXc,Death Don't Have No Mercy,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2wPHe2ecCdkT0ly0km12g4,Sweet Home Chicago,Robert Johnson,King Of The Delta Blues,0.691,0.0958,1,-13.9,0,0.143,0.98,1.61e-05,0.0931,0.519,101.574
+2xhxFAowgYvGu32nXTCD5w,I Got A Woman 'Way Cross Town,Pink Anderson,Medicine Show Man,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2xyA4n0bCLCQzXYskm4EZV,Samson And Delilah,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3459Q2FfCTHjK4TnmQCNRx,It's Just Too Bad,Barbecue Bob,Presenting Barbecue Bob,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 34GhkJ4ojkhO7n7ty4jhQH,Mississippi Heavy Water Blues,Barbecue Bob,Presenting Barbecue Bob,0.754,0.236,4,-13.204,0,0.0617,0.963,0.0,0.561,0.657,117.783
 35ipJ2lNpruiJPIzVyYgdU,Mama Let Me Lay It on You,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",0.464,0.366,2,-11.758,0,0.0357,0.978,0.00403,0.365,0.752,170.357
 36ccrof5DFicLrejE4hEye,Walking By Myself,Jimmy Rogers,Chicago Bound,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+39Un4kvz5wjGujFnDWruaY,Rise And Fall Of Jimmy Stokes,Link Wray,Link Wray,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3C3RJZiZyu5CpzO2UrEvNJ,Trucking My Blues Away No. 2 (Take 2),Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3DNzrn8JZXJNTCK0biKRHX,Mean Old Southern,The Blues Project,Anthology,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3ELtG6Hexzy9zRhSPbEVgk,(I Got A Woman Crazy For Me) She's Funny That Way,Blind Boy Fuller,Blind Boy Fuller Vol. 1 1935 - 1936,0.538,0.287,7,-13.842,0,0.0478,0.989,0.408,0.198,0.831,186.772
@@ -155,6 +158,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4V55hRKN6zVCcGLgB475k4,Cloudy Sky Blues,Barbecue Bob,Presenting Barbecue Bob,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4VWlYHwHZkBQbyV7wWeaDe,Crow Jane,Skip James,Skip James Live Vol. 2 Bloomington 1968 Part 1,0.444,0.331,11,-15.307,0,0.225,0.931,0.00253,0.0695,0.876,81.155
 4YhTqX6X4eeofrFsul2PNv,Trouble In Mind,Richard M. Jones,Richard M. Jones Vol. 2 (1927-1936),0.604,0.132,5,-12.034,1,0.0441,0.993,0.324,0.0776,0.385,85.722
+4Z03DQTYjNEEH86oNL0yn0,"Happy New Year, Darling",Lonnie Johnson,Blues Stay Away From Me - Selected Singles 1947-1953,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4Z3cfr5fhjMQbZ9UglTbIA,Stranger Blues (I'm a Stranger Here) - 1,"Willie Thomas, Butch Cage","The Folk Music of the Newport Folk Festival 1959-60, Vol. 1",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4ZtOHSSsUeF1pXaihGDZqx,She Shook Her Gin,Barbecue Bob,Cold Wave Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4Zxwfh1VnKinuUvEu5p03U,Yo Yo Blues,Barbecue Bob,Presenting Barbecue Bob,0.666,0.477,3,-10.455,0,0.0337,0.951,0.0015,0.146,0.695,130.56
@@ -205,9 +209,11 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5iODDVUYTpE7u8Hbz0bAl0,In the Pines,Dave Van Ronk,"Ballads, Blues, and a Spiritual",0.457,0.00485,5,-22.97,1,0.0586,0.99,0.000108,0.104,0.589,122.048
 5ikazVGbRe8cpXvEtNN3Ry,Ziplock Bag,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5kIsf3MFDFpGvQSrsp2P5j,Special Agent (Railroad Police Blues),Sleepy John Estes,Presenting Sleepy John Estes,0.547,0.244,0,-10.995,1,0.043,0.984,0.00249,0.152,0.689,169.695
+5nMBv74odr43XioNsthJbn,Little Delia,Blind Willie McTell,Atlanta Twelve String,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5oh9VZzYQcr1DW5cAOFZjV,Little Laura Blues,Sleepy John Estes,Presenting Sleepy John Estes,0.819,0.27,8,-10.017,1,0.0483,0.985,8.15e-05,0.133,0.723,124.781
 5qylsbB3j9ITlwPhs56fsU,Christmas & New Year's Blues - Remastered,Tampa Red,Death Might Be Your Santa Claus,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5tDx3DmAvMfB5dPHiTbtse,The Same Thing,Muddy Waters,Folk Singer (Expanded Edition),0.637,0.324,7,-12.8,0,0.034,0.703,0.0,0.0599,0.686,85.347
+5vnJkwzao540hZEu47zkBm,What Makes You Act Like That,Lonnie Johnson,Tin Can Alley Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5zOnSGZVDludQdHbBbe0Za,The Sun Went Down,T-Bone Walker,"The Complete Imperial Recordings, 1950-1954",0.642,0.148,2,-14.387,0,0.0442,0.972,0.0888,0.185,0.41,67.281
 60EHmfePZK7tlGbzSbF3oy,Bye Bye Baby Blues,Blind Boy Fuller,Blind Boy Fuller Vol. 3 1937,0.584,0.256,7,-12.906,1,0.0398,0.985,0.0655,0.23,0.564,131.632
 61jqhIAyuxQarayIki3Ko4,Rollin' And Tumblin',Muddy Waters,After The Rain,0.52,0.659,0,-7.464,0,0.0358,0.0109,0.108,0.169,0.783,114.722
@@ -236,7 +242,9 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6pERdwFIbXyh2zdI2TlWC3,Don't Tear My Clothes,Washboard Sam,Washboard Sam Vol. 1 (1935-1936),0.691,0.413,3,-13.974,0,0.123,0.986,0.888,0.134,0.844,168.874
 6pOu443SehImfJ8pJCFALA,Corn Likker Blues,Papa John Kolstad,Beans Taste Fine,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6r0ZMslFYegGxLVAaIKHKk,Nobody Knows The Way I Feel This Morning,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6wQLUfIT7UPrX69GVz2vML,New Years Blues - Remastered 1991,Lonnie Johnson,Losing Game (Remastered 1991),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6wrEYf9IyrjaLccRBhrsCO,Highway 51 Blues,Bob Dylan,Bob Dylan,0.634,0.505,4,-9.703,1,0.0471,0.841,0.00554,0.0887,0.62,132.521
+6xhDyuhqX7n1Q2ey8a8Unp,You Got to Die,Blind Willie McTell,Atlanta Twelve String,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6zN4GO7LbjLqRjqedn2d2w,Mississippi River Blues,Leon Redbone,Double Time,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 718xQ9jnYPzjwux2VVDTdQ,Lucille - Live At Soledad Prison_1972,John Lee Hooker,Live At Soledad Prison,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 71nC4Zrt2PXVusjhv23tBQ,Sonny's Blue,"Sonny Terry, Brownie McGhee",Folk Songs Of Sonny Terry & Brownie McGhee,0.629,0.415,5,-4.403,1,0.0328,0.991,0.042,0.0686,0.494,71.87
