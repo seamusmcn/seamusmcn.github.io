@@ -82,6 +82,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2XDa735AJ6wHbFjqEIJOPJ,Easy Rider Blues,Blind Lemon Jefferson,Presenting Blind Lemon Jefferson,0.392,0.118,7,-15.158,1,0.054,0.996,0.00016,0.184,0.55,84.515
 2XY56zOd7JDf9pUaSB4X1H,Hoochie Coochie Man,The Blues Project,Anthology,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2aJFzJ2YDsQDzKclgK2y7w,Look on Yonder Wall,Elmore James,Shake Your Money Maker: The Best of the Fire Sessions,0.545,0.73,4,-4.6,1,0.086,0.741,0.00261,0.278,0.86,161.229
+2ae0xMc9qJ2lJqvmVhcsBa,Mindin' My Own Business,Big Bill Broonzy,The Big Bill Broonzy Story,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2anoyhd8D1GUnNOqH8PXgC,Bull Doze Blues,Henry Thomas,Lovin' Babe,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2b8oJE7QHHYLYubHQm9sTp,Ramblin' Mind,Muddy Waters,After The Rain,0.488,0.828,0,-7.769,1,0.0342,0.0012,0.122,0.28,0.699,89.133
 2bgliphGH1jvRjb9TRShaX,My Bleeding Heart,Elmore James,Shake Your Money Maker: The Best of the Fire Sessions,0.307,0.691,2,-5.308,1,0.0366,0.0983,0.000174,0.114,0.754,187.393
@@ -120,6 +121,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3JgvbYNd3vxBKDbxDcI9r1,Untrue Blues,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3JiWaXexTU6polANzr439v,She's A Truckin' Little Baby,Blind Boy Fuller,Blind Boy Fuller Vol. 4 1937 - 1938,0.55,0.285,2,-15.468,1,0.11,0.985,3.01e-05,0.134,0.85,89.68
 3PF87qVFmM98nlei7bCdXz,"Who's Been Telling You, Buddy Brown",Sleepy John Estes,The Legend Of Sleepy John Estes [Audiophile Edition],0.511,0.103,2,-20.687,1,0.0347,0.888,1.29e-05,0.0991,0.751,135.642
+3Qf5DODEmA28msJi0tG4sv,Key To The Highway,Big Bill Broonzy,The Big Bill Broonzy Story,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3R8jEWbqIexfbDteE3jlOz,You Can't Lose What You Ain't Never Had,Muddy Waters,Folk Singer (Expanded Edition),0.537,0.387,5,-9.924,1,0.0304,0.617,0.000163,0.0671,0.61,108.67
 3U5nO6CCeLHDHblTLoCbwQ,Bus Rider Blues,Blind Boy Fuller,Blind Boy Fuller Vol. 6 1940,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3YROTILzpPbedQXDgeU9mb,Sinner's Prayer,Ray Charles,"Ray Charles (aka: Hallelujah, I Love Her So)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -146,6 +148,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4CTBsOx0rH1AZvkxFSGCpc,Homesick And Lonesome Blues,Blind Boy Fuller,Blind Boy Fuller Vol. 1 1935 - 1936,0.642,0.262,8,-13.698,1,0.0416,0.986,0.00339,0.167,0.477,111.146
 4CjmUjah8ozLF2WIXDxcA0,Good Moanin' Blues,Big Walter Horton,The Soul Of Blues Harmonica,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4Ej0SKqNpCVshBdMYD7qCT,Motherless Chile Blues,Barbecue Bob,Presenting Barbecue Bob,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4FrejfssB9wwZmIlaEdvXN,Saturday Evening Blues,Big Bill Broonzy,The Big Bill Broonzy Story,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4JCdMleSXMACR55yjHxs0R,I'm So Glad,Skip James,Blues From The Delta,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4JjcjkUvtgf4qwOCaqbqoF,Let's Go Out Tonight,John Lee Hooker,The Real Folk Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4L16SV48BXE9LSACyiChqS,Drop Down (I Don't Feel Welcome Here),Sleepy John Estes,Presenting Sleepy John Estes,0.769,0.301,7,-10.576,1,0.0827,0.987,0.00268,0.111,0.404,109.555
@@ -239,6 +242,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6hJqobCBH4TqF6Q9SjuOYY,Little Boy Blue,"Big Walter Horton, Carey Bell",Big Walter Horton With Carey Bell,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6hu9c0NhEhSJqtH4b1KDK8,Goodbye Newport Blues - Live At Newport Jazz Festival_1960,Muddy Waters,Muddy Waters At Newport 1960,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6kRTy94pmVhiVGfDOz0MUY,Diving Duck Blues,Sleepy John Estes,The Legend Of Sleepy John Estes [Audiophile Edition],0.6,0.1,9,-20.801,1,0.0361,0.852,8.73e-06,0.138,0.561,77.356
+6oJv2Y9kt4HmrgnhM4rEFD,Harmonica Solo,Peter Ivers,Nirvana Peter,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6pERdwFIbXyh2zdI2TlWC3,Don't Tear My Clothes,Washboard Sam,Washboard Sam Vol. 1 (1935-1936),0.691,0.413,3,-13.974,0,0.123,0.986,0.888,0.134,0.844,168.874
 6pOu443SehImfJ8pJCFALA,Corn Likker Blues,Papa John Kolstad,Beans Taste Fine,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6r0ZMslFYegGxLVAaIKHKk,Nobody Knows The Way I Feel This Morning,Dave Van Ronk,Sunday Street,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
