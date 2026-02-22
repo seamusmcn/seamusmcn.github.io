@@ -76,6 +76,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2BY7ALEWdloFHgQZG6VMLA,Brandy (You're a Fine Girl),Looking Glass,Looking Glass,0.716,0.625,1,-11.369,0,0.0601,0.396,1.97e-05,0.134,0.826,125.276
 2FC82Ws0t43Qrv5cX0KlfS,Haschenparty (feat. Michael Wendler) - Single Version,"Schnuffel, Michael Wendler",Unbesiegt,0.782,0.784,0,-5.371,0,0.0419,0.398,2.63e-05,0.306,0.897,132.014
 2Foc5Q5nqNiosCNqttzHof,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],"Daft Punk, Pharrell Williams, Nile Rodgers",Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047
+2Fz9vX7cqy9TRgsgGo5r9l,Eighteen and Dreaming,Peter Ivers,Nirvana Peter,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2IHaGyfxNoFPLJnaEg4GTs,"What Is Love - 7"" Mix",Haddaway,The Album,0.683,0.772,7,-7.907,0,0.0311,0.0222,0.0149,0.203,0.737,123.871
 2IvetNzSZMH5gwjInoyr18,It's Raining Men,The Weather Girls,Success,0.69,0.744,1,-12.721,1,0.0613,0.034,0.598,0.453,0.56,136.918
 2K22nUTdyr48JDwI5t906t,Relax,Frankie Goes To Hollywood,Welcome To The Pleasuredome,0.676,0.693,11,-13.396,0,0.0394,0.327,1.08e-05,0.0462,0.688,114.934
@@ -212,6 +213,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6DsxePZXexaZgZKEdgXOh8,All Summer Long,Kid Rock,All Summer Long,0.702,0.875,7,-3.588,1,0.0283,0.014,0.0,0.0872,0.905,103.003
 6Ep2XErOa5SCBGzARBpCr4,My Life,Billy Joel,The Essential Billy Joel,0.726,0.857,2,-6.107,1,0.0359,0.136,0.000252,0.0919,0.704,131.082
 6I9VzXrHxO9rA9A5euc8Ak,Toxic,Britney Spears,In The Zone,0.774,0.838,5,-3.914,0,0.114,0.0249,0.025,0.242,0.924,143.04
+6Jub05dvpbF4Im83NqMCUg,United States Of Whatever,Liam Lynch,Fake Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6JyEh4kl9DLwmSAoNDRn5b,4th Dimension,"KIDS SEE GHOSTS, Louis Prima",KIDS SEE GHOSTS,0.765,0.542,1,-6.755,1,0.39,0.278,1.87e-05,0.609,0.734,171.945
 6M14BiCN00nOsba4JaYsHW,Ocean Man,Ween,The Mollusk,0.72,0.912,4,-6.13,1,0.0363,0.551,0.00122,0.0982,0.973,122.782
 6OHXQMrMRIulIu0DDZR7JZ,Split Myself in Two,Meat Puppets,II,0.273,0.858,1,-8.972,0,0.111,5.46e-05,4.59e-05,0.126,0.73,128.024
