@@ -19,11 +19,13 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0j4ry184XB9OjNf12aMW8y,Too Many Tears,Billy Cotton & His Band,Sleepy Time Down South 1931 - 1932,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0j6AbJTM0Cp00rfvDSH0wf,Shine,"Billy Hults, Johnnie Ward, John D, Turtle Vandemarr, Teddy Deane, Richard Tyler",Billy Hults...The Anthology,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0jjlZkgW74WnLxZVaCAqTk,1919 March,"Michael White, Old Time Jazz Band",Old Time Jazz Band,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0olIp9E24PNicyEuwbTwGN,Big Chief - Complete Version,Professor Longhair,Ultimate New Orleans,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0x42aUKYoG96TfvKWqDZJr,Nobody's Fault but Mine,"Michael White, Michael White's Original New Orleans Liberty Street 3",'Taint Nobody's Business,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 19x73dknMZ0PJFNhDjRWkz,Mr. Jelly Roll Baker,Leon Redbone,Double Time,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1C9J0ABRPNKWzIN4dMXLCH,16 Tons,Dirty Rotten Vipers,16 Tons,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1JIBpBfVipDJ15b402jOjB,Alexander's Ragtime Band,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Mul7pn6F4LwQv3Qtlm9cG,Basin Street Blues,Bunk Johnson,Low Down Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1O0nWcqmCj32qmFmiu3nGL,Go To The Mardi Gras,Professor Longhair,Meet Me At Mardi Gras,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1TATJn6M4aQBt8GYBt90qV,Never Swat A Fly,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1UWn5VNaRozTLLk66UGgbO,Ducks Yas Yas,"Jim Kweskin, Annie Linders",Doing Things Right,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1UgjUBwaTMxPutMY4CQlV6,You,"Tommy Dorsey, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -93,6 +95,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 54KdnduEWo7AhHjw8vz8JE,"Rum and Coca-Cola, Pt. 2",Wilmoth Houdini,The Calypso Way,0.661,0.26,11,-13.268,1,0.039,0.986,0.00252,0.162,0.764,145.78
 575F747gQWkmowDG5QiOLs,Old Grand Dad,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 575YbMmlqCnLT0AUzHEbXG,Jimmie's Mean Mama Blues,Jimmie Rodgers,RCA Country Legends,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+57QAgp0YVwOP4XuPdtN3wh,Chasin' Rainbows,R. Crumb And His Cheap Suit Serenaders,Chasin' Rainbows,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5HwUwDJk51mWphH96lXuaL,That's When I'll Come Back To You,"Jim Kweskin, Maria Muldaur",Acoustic Swing And Jug,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5I8587RwD0CdKIprw6a6Ky,"Smile, Darn Ya, Smile",Billy Cotton & His Band,Sleepy Time Down South 1931 - 1932,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5Kf5aY2wUqtrD0StRprgLh,Ich Nehme Alle Hurden _ Pauker Gehen in Die Luft - Live Recording,Fritz Schulz-Reichel (Crazy Otto),"The Honky - Tonk Piano / Crazy Otto, Vol. 1",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -131,6 +134,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6nUJnuKvGXf1UDk79zSNsq,The Big Apple,"Tommy Dorsey & His Clambake Seven, Edythe Wright",The Seventeen Number Ones,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6rqrN2bLrxW5ZB7OmWUwQe,Don't You Think I Love You,King Oliver,Papa Joe,0.675,0.541,10,-4.257,1,0.0528,0.947,0.93,0.14,0.951,176.958
 6sopJT570BxVowIaKxnNhL,Desperate Man Blues,Daniel Johnston,Hi How Are You,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6xL16ZzSz4eRzxwByWvrH4,Stealin' Stealin',Memphis Jug Band,Memphis Jug Band,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 78Hyyqj44JskUoYEWwTRy7,Changing My Tune,"Mel Tormé, Artie Shaw, The Meltones",Mel Torme with the Meltones and Artie Shaw,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7FwTP9tlB7L0fzXOnJYTXk,Cash for Your Trash,Fats Waller,"If You Got To Ask, You Ain't Got It!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7Gr4VaB5iIN8gzu3pKHwel,After You've Gone (vocal),Louis Armstrong,Vol. V: Louis In New York,0.736,0.26,9,-13.202,0,0.166,0.981,0.0542,0.146,0.459,96.611
