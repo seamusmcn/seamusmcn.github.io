@@ -113,6 +113,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3FtYbEfBqAlGO46NUDQSAt,Electric Feel,MGMT,Oracular Spectacular,0.763,0.803,1,-3.713,1,0.0351,0.0709,0.285,0.348,0.561,103.04
 3FzKPS0oVknVlCW3PhxIHl,Debaser,Pixies,Doolittle,0.487,0.885,5,-12.005,1,0.0427,0.000397,0.347,0.0973,0.579,135.516
 3G7tRC24Uh09Hmp1KZ7LQ2,I'm a Believer - 2006 Remaster,The Monkees,More of The Monkees (Deluxe Edition),0.526,0.775,0,-6.05,1,0.0352,0.707,2.05e-05,0.217,0.962,80.106
+3ISBcXgK3fWM6VdVHK4SOm,Most Drunk Guy Ever,American Ninja Warriorz,The Simpsons: American Gothic,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3LI4MmibTkXH5cGpCGZgyw,Teenage Dirtbag,Wheatus,"Songs From Dawson's Creek, Vol. II",0.617,0.84,4,-4.063,1,0.0512,0.36,8.85e-05,0.179,0.57,94.676
 3MrWxJaD2AT0W9DjWF64Vm,Come On Eileen,Dexys Midnight Runners,Too Rye Ay,0.45,0.656,2,-7.049,1,0.0472,0.664,3.02e-06,0.259,0.782,106.61
 3UDmHZcBTQp8Iu8droNtUl,Revolution - Remastered 2009,The Beatles,The Beatles 1967 - 1970 (Remastered),0.408,0.831,6,-9.226,1,0.208,0.0733,0.000205,0.241,0.72,121.38
@@ -154,6 +155,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4jDmJ51x1o9NZB5Nxxc7gY,Careless Whisper,George Michael,Ladies And Gentlemen... The Best Of George Michael,0.574,0.628,2,-8.815,0,0.036,0.13,0.0,0.271,0.803,153.119
 4jbmgIyjGoXjY01XxatOx6,Dark Horse,"Katy Perry, Juicy J",PRISM,0.647,0.585,6,-6.123,1,0.0512,0.00314,0.0,0.165,0.353,131.934
 4kXxEhuatrvwrTQycA7s9B,BIZCOCHITO,ROSALÍA,MOTOMAMI,0.93,0.774,1,-4.203,1,0.0744,0.605,0.0238,0.12,0.781,116.972
+4odDR4DjhIYZyeE3sE8xI5,That's Life - Live At Dallas Memorial Auditorium _ 1968,James Brown,Say It Live And Loud: Live In Dallas 08.26.68 (Expanded Edition),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4rwpZEcnalkuhPyGkEdhu0,Scary Monsters and Nice Sprites,Skrillex,Scary Monsters and Nice Sprites EP,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4s6LhHAV5SEsOV0lC2tjvJ,California Dreamin' - Single Version,The Mamas & The Papas,If You Can Believe Your Eyes & Ears,0.552,0.608,1,-9.786,0,0.0345,0.352,0.0,0.0533,0.637,112.367
 4sPIIyPhVdsQeG0g3HQcjc,Sooner Or Later,The Grass Roots,Temptation Eyes,0.65,0.769,0,-9.117,1,0.0335,0.53,0.000177,0.0623,0.964,125.559
@@ -178,6 +180,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5E5HYgxGMp3BPakHGfKfIB,Roadrunner,The Modern Lovers,The Modern Lovers (Expanded Version),0.462,0.84,2,-6.666,1,0.0346,4.98e-05,6.47e-05,0.0893,0.804,75.54
 5EYi2rH4LYs6M21ZLOyQTx,Loving Is Easy (feat. Benny Sings),"Rex Orange County, Benny Sings",Loving Is Easy (feat. Benny Sings),0.756,0.609,3,-7.927,1,0.0544,0.217,0.00482,0.0959,0.537,117.024
 5FEXPoPnzueFJQCPRIrC3c,Day 'N' Nite (nightmare),Kid Cudi,Man On The Moon: The End Of Day,0.871,0.44,11,-6.25,0,0.0762,0.499,4.14e-06,0.114,0.798,137.996
+5HfYFLJZ5skU4JO92ICUvS,Ned Flanders,American Ninja Warriorz,The Simpsons: American Gothic,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5NLuC70kZQv8q34QyQa1DP,Fight For Your Right,Beastie Boys,Licensed To Ill,0.503,0.858,8,-6.296,1,0.0657,0.00757,0.00234,0.0803,0.419,133.615
 5O4erNlJ74PIF6kGol1ZrC,Could You Be Loved,Bob Marley & The Wailers,Uprising,0.916,0.72,0,-8.548,1,0.1,0.36,0.00016,0.0958,0.761,103.314
 5OiLJ8tjUPFiPX2gVM8fxJ,Imma Be,Black Eyed Peas,THE E.N.D. (THE ENERGY NEVER DIES),0.597,0.517,0,-6.963,1,0.365,0.179,0.0,0.307,0.412,92.035

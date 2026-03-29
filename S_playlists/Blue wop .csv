@@ -36,6 +36,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1eRznw1ZY1WsR4imR48oCX,Their Hearts Were Full Of Spring - Remastered,The Four Freshmen,Capitol Collectors Series,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1iyHSMjQabRL06FeCPokei,Atomic Cocktail,Slim Gaillard,"Beat Scene: Jack Kerouac, His Contemporaries and Influences",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1owGm6QDclYTJ40SMz97rW,No Moon At All - Remastered,Julie London,Julie Is Her Name,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1pZn8AX1WulW8IO338hE5D,Blue Moon,Billie Holiday,Solitude,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1psE4PGPMQbYcIS0PrqjhB,The Way I Feel (with Clyde McPhatter),"The Drifters, Clyde McPhatter",Let the Boogie-Woogie Roll: Greatest Hits 1953-1958,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1rvXymShkt4ClhiWEsn4ad,It Never Occurred To Me,The Four Freshmen,Blue World,0.275,0.219,0,-9.164,0,0.027,0.753,0.0,0.161,0.236,90.935
 1tFIcrCl8ps1zyuXfWHvaI,We'll Be Together Again,The Four Freshmen,Blue World,0.282,0.0756,2,-15.441,1,0.0316,0.936,2.01e-06,0.143,0.0729,75.653
@@ -108,6 +109,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5VjD8Hw3mWX46bSAi2DwvX,Livin' With The Blues,Odetta,Best Of The Vanguard Years,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5WPuFqw1PR4KKg2rSFzxry,"Oh, Look at Me Now",The Pied Pipers,What is This Thing Called Love?,0.806,0.167,2,-10.929,0,0.0441,0.843,0.0,0.413,0.675,115.419
 5X0M16GjlZYN1WjPNzerb5,As Time Goes By,Dooley Wilson,Casablanca (Original Motion Picture Soundtrack),0.427,0.24,1,-15.485,1,0.035,0.968,1.55e-05,0.127,0.305,78.056
+5cAwEKmadsW4nCYe9QUvgU,Naima - Mono,John Coltrane,Giant Steps (Mono),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5g7kIVNpOOOzRtRdH0JvHM,"As Time Goes By (with Percy Faith & His Orchestra) - From ""Casablanca""","Johnnie Ray, Percy Faith & His Orchestra",16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5jZBn6jnhdZUGnpooAMnwF,I've Got My Love To Keep Me Warm,Billie Holiday,Stay With Me,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5n07Qq7XrGE3w9OAnd871P,"Please, Mr. Sun",Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -125,6 +127,8 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6illsnZ2rn1lCzXY9gBC28,Ne Me Quitte Pas,Nina Simone,I Put A Spell On You,0.413,0.243,4,-11.578,0,0.0433,0.941,4.65e-05,0.156,0.25,97.784
 6nLTEE7AW97ECxq5WQxyXW,I Told Myself A Lie,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6o9vjQPWUwoLcyhrVPfxjD,Stormy Weather,The Four Freshmen,Blue World,0.483,0.157,5,-13.42,1,0.0521,0.792,1.3e-06,0.217,0.534,80.314
+6oSm3mBWFxJHEnjE2IqhmA,There Will Never Be Another You,"Lester Young, Oscar Peterson Trio",The President Plays With The Oscar Peterson Trio,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6oanIhkNbxXnX19RTtkpEL,Misty,Erroll Garner,Plays Misty,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6qShSdrUl0YDJ5QOvvx0P8,They Can't Convince Me,"Mel Tormé, Artie Shaw, The Meltones",Mel Torme with the Meltones and Artie Shaw,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6rqrN2bLrxW5ZB7OmWUwQe,Don't You Think I Love You,King Oliver,Papa Joe,0.675,0.541,10,-4.257,1,0.0528,0.947,0.93,0.14,0.951,176.958
 70qOfeGhLz3MqTfdd15JVB,Song for a Summer Night,Jack Nitzsche,The Reprise Singles 1963-1965,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -134,6 +138,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7ByqcF6qaOqWHE7HjGuUIB,Why Should I Be Sorry,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7E8nKMtXMqIQbvl1Ta9Ucw,Walkin' After Midnight,Patsy Cline,Patsy Cline,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7K0EOXrr9E0bR70LQlr8KA,Lazy Afternoon,Irene Kral,The Band And I,0.0,0.0379,5,-17.819,0,0.0,0.908,0.0,0.108,0.0,0.0
+7caj6X6NMX3tlhWnu1du6V,We Belong Together,Ritchie Valens,Ritchie Valens,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7dY8rGcdOeo2RFj0OJbuJ9,Little White Lies,Dick Haymes,Rain Or Shine,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7haEgYJODsinfED0SAdtzy,Nobody Knows the Way I Feel This Morning,Dinah Washington,"Blues, Soul & Ballads",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7qD2NFCwPPrXJdzPadE2lF,It's A Blue World,The Four Freshmen,Blue World,0.324,0.0387,3,-14.596,1,0.0287,0.961,1.35e-05,0.0927,0.127,77.966
