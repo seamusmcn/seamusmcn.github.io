@@ -29,6 +29,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0mJQlCl9YgxW7kyeltNiVk,Touch of Grey - 2013 Remaster,Grateful Dead,In the Dark,0.612,0.696,11,-11.34,1,0.0353,0.0785,9.4e-06,0.14,0.849,159.829
 0pJ0yOsZotlBWXYuL8lou9,The Prophet,The Lovin' Spoonful,Revelation: Revolution '69,0.522,0.675,10,-7.445,1,0.0328,0.47,0.00569,0.41,0.704,130.241
 0pPvu1AGxIj7pvESvSg4wi,"Deal - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",Grateful Dead,Cornell 5/8/77 (Live),0.657,0.649,2,-11.577,1,0.049,0.385,0.00418,0.706,0.568,128.833
+0pSVLwQsNkIWXRqzOLqYJU,Younger Generation - 2003 Remaster,The Lovin' Spoonful,Everything Playing,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0qJ6owHt00MMZTpNmNsPHC,Eyes of the World,Grateful Dead,The Very Best of the Grateful Dead,0.671,0.737,9,-5.947,1,0.0374,0.422,8.91e-05,0.16,0.614,106.921
 0qSITuCPLxjoDtESBy70WO,Flowers Never Bend with the Rainfall,Simon & Garfunkel,"Parsley, Sage, Rosemary And Thyme",0.425,0.34,9,-14.176,1,0.0357,0.656,0.0,0.127,0.488,110.208
 0sLfxEt1uo2Q0qCNC3CwRp,Cousin Kevin,The Who,Tommy,0.559,0.635,1,-10.103,1,0.0606,0.208,0.0,0.178,0.214,112.934
@@ -94,6 +95,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 36sjPlvhAdfLHKCO3y1rdh,Revelation: Revolution '69,The Lovin' Spoonful,Revelation: Revolution '69,0.597,0.746,0,-6.065,1,0.0273,0.00846,0.0,0.107,0.646,97.801
 39D9gUDLS9zEFxtAXqSEhx,Only Yesterday,The Lovin' Spoonful,Revelation: Revolution '69,0.442,0.444,5,-11.658,1,0.0251,0.0177,0.0117,0.152,0.516,93.637
 3DI8C3OSwuXd8E947MWiSi,Estimated Prophet - 2014 Remaster,Grateful Dead,Terrapin Station (2014 Remaster),0.655,0.398,11,-13.822,0,0.051,0.456,0.00099,0.0814,0.659,130.722
+3DrlHWCoFqHQYGwE8MWsuv,Reach Out Of The Darkness,Friend & Lover,Reach Out Of The Darkness,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3HiuoQAEagnHrXfIjt0tIU,Welcome,The Who,Tommy,0.391,0.329,4,-13.756,0,0.0354,0.449,4.12e-06,0.0608,0.342,90.001
 3Kj1FUd1N1E7whESUWEuKI,Never Going Back,The Lovin' Spoonful,Revelation: Revolution '69,0.5,0.585,7,-9.213,1,0.037,0.468,0.000166,0.142,0.709,135.051
 3P0VltjBDpzJeFFHVpF0nK,Overture,The Who,Tommy,0.483,0.617,0,-10.488,1,0.0349,0.0557,0.691,0.143,0.185,118.105

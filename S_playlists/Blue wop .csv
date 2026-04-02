@@ -31,6 +31,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1Htz4yfV19sV5xYFkbtpcQ,Don't Blame Me,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1Hxjhn358s6bqj75grk9q1,Speak Low,The Four Freshmen,Blue World,0.403,0.375,7,-11.905,0,0.0461,0.814,0.0,0.135,0.637,133.858
 1NMjdhoAQ0QXQ9NBC1taD1,"Gee Baby, Ain't I Good to You",Jim Kweskin,Garden Of Joy,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1NUsfMhehXWB7uSw0gCmJS,"It's Been A Long, Long Time","Les Paul, Bing Crosby",20th Century Masters: The Millennium Collection: Best Of Les Paul,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1QX55tmWOC2OSxI1WaLHk1,There Are Such Things,The Pied Pipers,What is This Thing Called Love?,0.258,0.181,10,-10.456,1,0.0265,0.886,0.00013,0.177,0.155,78.776
 1UVETAQbq7tKLdfrSjeWST,I'll Never Smile Again,The Pied Pipers,I'll Never Smile Again,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1eRznw1ZY1WsR4imR48oCX,Their Hearts Were Full Of Spring - Remastered,The Four Freshmen,Capitol Collectors Series,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -49,6 +50,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 25PRJaqKr4IEp9KVIu8FGB,How Can I Tell Her,The Four Freshmen,Blue World,0.248,0.26,9,-11.099,1,0.0274,0.767,0.0,0.0568,0.261,100.411
 29R1sVUoQnAMyZITR5Q7X1,Gimme Some,Nina Simone,I Put A Spell On You,0.441,0.582,0,-8.427,1,0.0626,0.741,0.0,0.122,0.757,174.108
 2D1c80s1UfhDgriG89Fhms,Dreaming,"Cosmic Rays, Sun Ra Arkestra, Sun Ra",Singles,0.545,0.43,3,-9.916,1,0.0325,0.872,0.0,0.154,0.772,121.896
+2H7VbIlKJefU5BTsHhYxuO,You Always Hurt The One You Love - 1958 version,The Mills Brothers,Great Hits,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2IdwQxhJn9ZE4zIotcCefR,Stormy Weather,Etta James,At Last!,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2L7lIjYAZzzj8xhVHPv0n0,A Young Man Is Gone - Remastered 2001,The Beach Boys,Little Deuce Coupe (Remastered),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2NDMLabAjx4oL7ezx2PNxS,You Belong To Me,Jo Stafford,The Ultimate,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -69,6 +71,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3Dd3FK9DSaoMoUKA5ZPVgw,In the Still of the Night,The Five Satins,Presenting The 5 Satins,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3DgXc9eIP0JSg46lV0Jd2t,Street of Dreams,The Four Freshmen,Voices In Modern,0.433,0.0875,5,-13.742,1,0.0282,0.974,0.0,0.103,0.157,142.797
 3FzBRKgDtjtv0Xu0diOzib,On a Clear Day You Can See Forever,The Peddlers,Part One,0.527,0.323,2,-18.418,0,0.0312,0.264,0.000168,0.296,0.439,90.711
+3HiRsjdVw09ZX8dxxf9RPX,In the Still of the Night,The Five Satins,Sing,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3OifdbdBdgVGtns8uQbZO3,This October,The Four Freshmen,Angel Eyes,0.662,0.33,5,-13.589,0,0.0579,0.611,2.15e-05,0.283,0.683,89.022
 3Z0PGLxK7iNftaG0qlhW4V,The Little White Cloud That Cried,Johnnie Ray,16 Most Requested Songs,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3axzERaSp7ZLPzZTiIOT7x,Polly Wolly Doodle All the Day,The Pied Pipers,What is This Thing Called Love?,0.842,0.487,0,-8.689,1,0.0391,0.849,3.36e-06,0.36,0.845,97.897
@@ -80,6 +83,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3xpB9FWoqfMaKr0uqckkXC,Mood Indigo,The Four Freshmen,Blue World,0.583,0.157,7,-12.073,1,0.0265,0.913,0.0,0.114,0.31,75.511
 3zUNElWju6YpcM7mDMqgDs,Ivy,Frankie Valli,Solo,0.31,0.482,3,-6.356,1,0.03,0.687,4.39e-06,0.349,0.264,78.915
 40wB4dL1rMNaBFIX5nyTCI,Graduation Day,The Four Freshmen,Graduation Day,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+43sOr5Up9U9XPfq5QfKeRX,Old Cape Cod,Patti Page,Golden Hits,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 47fFJtLo7t2C1v6efdjbK8,Day By Day,The Four Freshmen,Blue World,0.461,0.579,2,-9.885,0,0.0472,0.792,1.19e-06,0.125,0.817,83.729
 49LHJe8RmY5ViMMQj0aMdb,(What Did I Do To Be So) Black And Blue,Louis Armstrong,This Is Jazz Louis Armstrong Sings,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4Cd4NGdUjQV2TVDx95fh8M,I'll Be Seeing You,The Four Freshmen,Blue World,0.525,0.0646,9,-15.706,1,0.0288,0.88,0.0,0.148,0.195,85.887
@@ -125,6 +129,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6QSKajtpdZMhtcvBsrqvqE,Moments To Remember,"Louis Armstrong, Benny Carter",Louis Wishes You a Cool Yule,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6Rqn2GFlmvmV4w9Ala0I1e,Feeling Good,Nina Simone,I Put A Spell On You,0.451,0.326,7,-9.239,0,0.0372,0.863,0.0,0.192,0.55,81.726
 6illsnZ2rn1lCzXY9gBC28,Ne Me Quitte Pas,Nina Simone,I Put A Spell On You,0.413,0.243,4,-11.578,0,0.0433,0.941,4.65e-05,0.156,0.25,97.784
+6jSOQzZ92aPKN0p2m09y2n,Maybe,The Ink Spots,The Anthology,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6nLTEE7AW97ECxq5WQxyXW,I Told Myself A Lie,Clyde McPhatter,Lover Please/The Complete MGM & Mercury Singles,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6o9vjQPWUwoLcyhrVPfxjD,Stormy Weather,The Four Freshmen,Blue World,0.483,0.157,5,-13.42,1,0.0521,0.792,1.3e-06,0.217,0.534,80.314
 6oSm3mBWFxJHEnjE2IqhmA,There Will Never Be Another You,"Lester Young, Oscar Peterson Trio",The President Plays With The Oscar Peterson Trio,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
