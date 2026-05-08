@@ -11,6 +11,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0AeV81qPB9ZJzNC8L0rNLq,The Midnight Special,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0B0hrGGPeT8db0YLXM4U1D,Let Me Squeeze Your Lemon,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0CDbCahovsgZPNumyO7aD2,Cool Drink of Water Blues,Tommy Johnson,Tommy Johnson 1928 - 1929,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+0D1S1rK4M8D3kJDFN50u0G,Ball N' Chain,Big Mama Thornton,Ball N' Chain,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0DSzSnUcIFJ7DRYzMxcCh9,Dust Bowl Blues,Woody Guthrie,Dust Bowl Ballads,0.673,0.181,9,-13.041,1,0.0357,0.792,1.29e-05,0.085,0.412,95.593
 0GsTd1EQgxpMv8N5pzMYjQ,44 Blues,"Willie Thomas, Butch Cage","The Folk Music of the Newport Folk Festival 1959-60, Vol. 1",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 0HBB3IsqrRDwPkXFcN3Ko0,You Shouldn't Do That,Sleepy John Estes,Presenting Sleepy John Estes,0.749,0.663,8,-5.503,1,0.102,0.952,4.06e-06,0.334,0.8,96.658
@@ -112,6 +113,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2wPHe2ecCdkT0ly0km12g4,Sweet Home Chicago,Robert Johnson,King Of The Delta Blues,0.691,0.0958,1,-13.9,0,0.143,0.98,1.61e-05,0.0931,0.519,101.574
 2xhxFAowgYvGu32nXTCD5w,I Got A Woman 'Way Cross Town,Pink Anderson,Medicine Show Man,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 2xyA4n0bCLCQzXYskm4EZV,Samson And Delilah,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+31GIhpOQpKCzlnuPn03pBQ,Junker's Blues,Champion Jack Dupree,Blues From The Gutter,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3459Q2FfCTHjK4TnmQCNRx,It's Just Too Bad,Barbecue Bob,Presenting Barbecue Bob,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 34GhkJ4ojkhO7n7ty4jhQH,Mississippi Heavy Water Blues,Barbecue Bob,Presenting Barbecue Bob,0.754,0.236,4,-13.204,0,0.0617,0.963,0.0,0.561,0.657,117.783
 35ipJ2lNpruiJPIzVyYgdU,Mama Let Me Lay It on You,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",0.464,0.366,2,-11.758,0,0.0357,0.978,0.00403,0.365,0.752,170.357
