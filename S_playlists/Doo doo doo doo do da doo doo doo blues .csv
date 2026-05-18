@@ -39,6 +39,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1AamIZhVIGxqC7ymapmIai,"Baby, You Gotta Change Your Mind",Blind Boy Fuller,Blind Boy Fuller Vol. 1 1935 - 1936,0.661,0.303,0,-12.922,1,0.194,0.964,0.0661,0.0882,0.725,102.164
 1HRWOJe6emPhXfkyuenK20,Walking My Troubles Away (Take 2),Blind Boy Fuller,Blind Boy Fuller Vol. 1 1935 - 1936,0.687,0.202,6,-13.36,1,0.0421,0.989,0.0132,0.133,0.385,101.064
 1KAfnNuo40llz3P2YxOHTI,Cat Man Blues (Take 1),Blind Boy Fuller,Blind Boy Fuller Vol. 1 1935 - 1936,0.658,0.343,0,-11.499,1,0.041,0.984,0.0333,0.0642,0.597,113.531
+1KHk7kN2xvNMzoTgSYtjZ7,Haunted House - Remastered 2025,"Lonnie Johnson, Elmer Snowden",Blues & Ballads (Remastered 2025),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1KfveVr5YrDlKwH1kVsJZO,Have You Ever Had The Blues_,The Blues Project,Anthology,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1PRnkU9Ic6up4w6KOkSY8x,Jean Harlow,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1QlFEG3aamJXBpwLq3SsKq,Big Chief Blues,Furry Lewis,Shake 'Em On Down,0.447,0.0564,10,-20.645,1,0.0326,0.894,9e-06,0.0839,0.313,104.467
@@ -191,6 +192,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 4otYbKWx0vECdHZ76141GM,Key to the Highway,"Big Bill Broonzy, Sonny Terry, and Brownie McGhee","This Is the Blues with Big Bill Broonzy, Sonny Terry and Brownie McGhee",0.623,0.289,4,-17.096,1,0.0386,0.818,0.00118,0.374,0.687,95.574
 4q1G3atblBlTyHWAKMzKr2,"Looky, Looky, Yonder / Black Betty / Yellow Women's Doorbells",Lead Belly,Tradition Masters Series,0.715,0.0966,1,-16.655,1,0.448,0.993,0.0106,0.228,0.223,107.176
 4rhaDfV9y5UvGZ67BT8U35,The Bourgeois Blues,Lead Belly,Lead Belly: The Smithsonian Folkways Collection,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+4s7SuacWWvDUm7DY05Crjk,Blues For Chris - Remastered 2025,"Lonnie Johnson, Elmer Snowden",Blues & Ballads (Remastered 2025),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 4shFK9xkCbLkOlAQN6LV71,Something Inside of Me,Elmore James,Shake Your Money Maker: The Best of the Fire Sessions,0.278,0.683,2,-5.753,1,0.0398,0.77,0.00442,0.295,0.387,171.919
 4wldWowH1VqeV4qrV3ZEtR,Roberta,Lead Belly,Tradition Masters Series,0.621,0.318,0,-9.316,1,0.0409,0.992,0.0124,0.124,0.693,128.444
 4xBdBFqfdZAeCRLmQpXTYb,When The Levee Breaks,Memphis Minnie,Queen Of The Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -231,6 +233,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5tDx3DmAvMfB5dPHiTbtse,The Same Thing,Muddy Waters,Folk Singer (Expanded Edition),0.637,0.324,7,-12.8,0,0.034,0.703,0.0,0.0599,0.686,85.347
 5vnJkwzao540hZEu47zkBm,What Makes You Act Like That,Lonnie Johnson,Tin Can Alley Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 5zOnSGZVDludQdHbBbe0Za,The Sun Went Down,T-Bone Walker,"The Complete Imperial Recordings, 1950-1954",0.642,0.148,2,-14.387,0,0.0442,0.972,0.0888,0.185,0.41,67.281
+5zxJDNwJEjfM37Xt8V27Xr,Elmer's Blues - Remastered 2025,"Lonnie Johnson, Elmer Snowden",Blues & Ballads (Remastered 2025),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 60EHmfePZK7tlGbzSbF3oy,Bye Bye Baby Blues,Blind Boy Fuller,Blind Boy Fuller Vol. 3 1937,0.584,0.256,7,-12.906,1,0.0398,0.985,0.0655,0.23,0.564,131.632
 61jqhIAyuxQarayIki3Ko4,Rollin' And Tumblin',Muddy Waters,After The Rain,0.52,0.659,0,-7.464,0,0.0358,0.0109,0.108,0.169,0.783,114.722
 61lrv5IscRxhZ2GVvcrNVE,Fine Little Mama,Elmore James,Shake Your Money Maker: The Best of the Fire Sessions,0.487,0.746,2,-6.658,1,0.0368,0.271,0.00164,0.18,0.966,116.549
@@ -239,12 +242,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6CuEbG5b94Uz79J37rXYHZ,Custard Pie Blues,Sonny Terry,Sonny Terry's Washboard Band,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6Dhiyp0fBaEUCRNFPAbZMo,Irene (Goodnight Irene),Lead Belly,Tradition Masters Series,0.464,0.225,10,-12.818,1,0.0309,0.951,0.000176,0.319,0.657,130.584
 6EWlDhm43G9irf26LcERBK,Sonny's Jump,Sonny Terry,Sonny Terry's Washboard Band,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6FBSEdjMRivgiw6gmnR0zi,Savoy Blues - Remastered 2025,"Lonnie Johnson, Elmer Snowden",Blues & Ballads (Remastered 2025),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6GVtQ5wsOTKEofAGJOwRYK,Papa Blues,"Papa John Creach, The Bernie Pearl Blues Band",Papa Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6IAoFEE0yrZiRiOyMFA3R4,Trouble in Mind,Cisco Houston,Cowboy Ballads,0.41,0.0423,5,-18.768,1,0.0373,0.994,0.0558,0.121,0.113,82.986
 6K2Aqpm2Eiux0eKoC3Rj5C,Jailhouse Blues,Sleepy John Estes,Presenting Sleepy John Estes,0.679,0.233,0,-8.747,1,0.0974,0.983,0.000621,0.111,0.517,126.67
 6Lx9nyLQIVtgWV7JLX36GU,Whose Muddy Shoes,Elmore James,Whose Muddy Shoes,0.461,0.224,2,-14.378,1,0.0423,0.581,2.44e-05,0.167,0.62,81.407
 6Nv8dfTm2qMjJeP7OL3hO7,John the Revelator,Son House,Father Of The Delta Blues: The Complete 1965 Sessions,0.668,0.0423,2,-16.374,1,0.369,0.805,0.0,0.433,0.564,129.482
 6PehQky9DfUxsYFRatTvSg,Twistin' That Stuff,Barbecue Bob,Presenting Barbecue Bob,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+6QflH6WnpbtlPGnpzTb7se,Back Water Blues - Remastered 2025,"Lonnie Johnson, Elmer Snowden",Blues & Ballads (Remastered 2025),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6SwOeFiJTEF3bUIi2QHfV1,Fourteen Rivers Fourteen Floods,Beck,One Foot in the Grave (Deluxe Reissue),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6VPDybo2KPOV9r7nqCxDiV,My Captain,Muddy Waters,Folk Singer (Expanded Edition),0.559,0.0309,4,-26.644,1,0.0396,0.791,0.0101,0.109,0.11,94.892
 6VhYbFu0awTAtouzcbl8v2,Blue And Lonesome - Single Version,Little Walter,Hate To See You Go,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -276,6 +281,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 7BrQ37bes7Anv4pEIGdbJt,Hesitation Blues,Dave Van Ronk,Van Ronk Sings,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7CviZOg1GotsImZjY4nrET,See That My Grave Is Kept Clean,Bob Dylan,Bob Dylan,0.639,0.237,7,-11.157,1,0.0473,0.855,2.05e-06,0.0617,0.676,107.67
 7FwE3eDX5QMKStc8i1tc9S,Goodnight Irene,Lead Belly,The Authorized Leadbelly Collection,0.587,0.316,8,-13.264,1,0.0343,0.995,0.00648,0.104,0.672,128.933
+7HacSOw9jkNiOlOUOQwvAj,Jelly Roll Baker - Remastered 2025,"Lonnie Johnson, Elmer Snowden",Blues & Ballads (Remastered 2025),-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7ILRpnLw9RImVTjjmi1vlC,When Your Gal Packs up and Leaves,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 7Jmqh8npM2YegSeUyCPnTU,Screamin' And Cryin',Muddy Waters,After The Rain,0.396,0.729,9,-8.994,1,0.103,0.0504,0.189,0.344,0.616,185.248
 7LhYCokNBDYsVF0A0x95Pc,Big Boss Man,Jimmy Reed,Found Love,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
