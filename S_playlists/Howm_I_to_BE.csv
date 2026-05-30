@@ -16,6 +16,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 0uLI1jac8ZJSSRG4QJDo3J,Still Ill - 2011 Remaster,The Smiths,The Smiths,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 0w5BsLPRnBpyTIgYsx1m23,You Are Mine,ARTHUR,Hair of the Dog,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 0wZLSNv0Ysy0aO2kKTaaKE,Veronika Mpenzi,John Nzenze,Angelike Twist,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+0x5BKBAcia1th7UzcoHnD1,"I Do, I Do, I Do, I Do, I Do",ABBA,Abba,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 11bRuQUrxZkPdiYIxAS1X9,You Made E... Steak,Scotty Malcolm,Corn: To the Fire and Flames,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 12AMoZHyBYQ50C37xdAopN,No New GF,American Ninja Warriorz,Truly We Have Risen,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 14CGCcA5NoPaT266sLR64g,Feel Good,ARTHUR,Hair of the Dog,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
@@ -71,6 +72,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 2zpRUlOz0opOXvPDZqojND,On The Hunt (For Love),American Ninja Warriorz,Truly We Have Risen,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 30CWW0G4o9bkAWY1cp91OK,Goodnight Ladies,Lou Reed,Transformer,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 33wrvvpayAUKPPSVkcib2D,Shine on Harvest Moon,Leon Redbone,Double Time,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+3F2sMDeuhueiBpDqEbRhCF,I've Been Waiting For You,ABBA,Abba,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 3Mw0EG6riCMnLd2LYe7NmB,St. Louis Blues - Remastered 2025,"Lonnie Johnson, Elmer Snowden",Blues & Ballads (Remastered 2025),-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 3OOMcAHLQaH1EZUIkD4Wve,Our time in monochrome,gingerbee,Our Skies Smile,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 3PtmCb2kQYekdoh3HB81yU,Talkin' Like You (Two Tall Mountains),Connie Converse,"How Sad, How Lovely",-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
@@ -123,12 +125,14 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 5eZXhHH9yLBZf4KiCCEGpM,You Are Mine,Scotty Malcolm,The Rise and Fall of Planet Scotty,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5hT5rvGPfYGqwu4HlJDgYs,Laurie,Daniel Johnston,Artistic Vice,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5ikQy8JYbRamUG8QLIFLQf,Tenanatena Rmx Csso,"Dogo Niga aka Bobani, Csso",Sounds of Sisso,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+5jfZEsdQMAaoeDLib5rLu4,Bang-A-Boomerang,ABBA,Abba,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5lHMIdRPOPUZHnugk9lqqj,The Clover Saloon,Connie Converse,"How Sad, How Lovely",-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5lsy34LBfFKNe1czDL8E8K,Stop And Smell The Roses,Television Personalities,The Painted Word,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5nI6OqNwFmGQfp6bH2MpHq,The Right,Scotty Malcolm,The Rise and Fall of Planet Scotty,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5nrpIB2dVUvhRUs5R9YJ3W,Nobody Knows You When You're Down and Out,Bessie Smith,"The Complete Recordings, Vol. 4",-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 5s5uy4gguOtt5DZcsqxVsu,Snowstorm,Galaxie 500,On Fire,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 65E3ajL0Yz7kljk89Qdm6Q,What Difference Does It Make_ - John Peel Session 18_05_83,The Smiths,Hatful of Hollow,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+6GwEXzeLKORRKjmKDHfyUp,So Long,ABBA,Abba,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6IBYr9q0teYqneiJZWkCsu,Big Fun,The Guppies,The Answers To Which We Do Not Know The Questions,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6M7bA3wfkTGgRHHUdqvKRC,Our sky's smile,gingerbee,Our Skies Smile,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6SwqPZs0XuSnyqkbnkkAjQ,"William, It Was Really Nothing - 2011 Remaster",The Smiths,Hatful of Hollow,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
@@ -144,6 +148,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6ocIpoOGrRF92FhUXF7IXW,Oh Daddy Blues,Bessie Smith,Midnight Blues,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6ocZyFGPtQNkseWf3g3anS,L.O.V.E.,SOPHIE,L.O.V.E.,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6wlOl6tQDgKJbvGP9319rg,Hei! Man,Ave Sangria,Ave Sangria,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
+6yZv0Nl6BXABbXoPVpfF5y,SOS,ABBA,Abba,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 6zQWCKCrn599wwGQmeP0Gx,John Brady,Connie Converse,"How Sad, How Lovely",-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 74mu9oiZFwHFqBmeHW38EU,Cover Girl,Snooks Eaglin,The Imperial Recordings,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
 76NA2xco2znZkXCdV1FrS7,Lock and Key,American Ninja Warriorz,Truly We Have Risen,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99,-99
