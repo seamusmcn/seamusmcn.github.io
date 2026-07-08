@@ -45,6 +45,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 1QlFEG3aamJXBpwLq3SsKq,Big Chief Blues,Furry Lewis,Shake 'Em On Down,0.447,0.0564,10,-20.645,1,0.0326,0.894,9e-06,0.0839,0.313,104.467
 1SLyI8xAEdpbiu2ypls49B,Down By The Riverside,"Brownie McGhee, Sonny Terry",Blues Hoot - Live Recording At The Ash Grove,0.399,0.313,5,-13.833,1,0.0534,0.895,0.057,0.697,0.646,199.159
 1VMD7cvDZqnnoQIBOoljOf,Shake It Baby,Blind Boy Fuller,Blind Boy Fuller Vol. 6 1940,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+1Vwps16qDFOknPcYkYgesX,Charmin' Betsy,Henry Thomas,"Come On, Run!",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1aHR9fHIvmcNQ9oOVqQExT,Bring It On Home,Sonny Boy Williamson II,The Real Folk Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1ayfBCPk1WtaelzZWGyYti,Twelve Gates To The City,Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 1bDU6d9WsnTrKceeCvISfI,Going up the Country,Barbecue Bob,Presenting Barbecue Bob,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -128,6 +129,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3HYK9Xzx0heUh5pG2HgCGX,Blues With A Whoop,"Brownie McGhee, Sonny Terry",Wizard Of The Harmonica,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3HhrM4dWxksCy4lwOnacb4,Better Day,"Sonny Terry, Brownie McGhee",Preachin' the Blues,0.484,0.315,11,-14.509,0,0.0392,0.882,8.04e-05,0.245,0.467,86.568
 3HjXAm6BWRyhzTYC1PrWxX,C.C. Rider,Snooks Eaglin,The Imperial Recordings,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
+3JVAkOCKYaXFVmim9qOsMe,Haunted House,Leon Redbone,On The Track,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3JYRH0o4SKbsOfhKmwMOFM,What's Gonna Become of Me,Jerron Paxton,Things Done Changed,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3JgvbYNd3vxBKDbxDcI9r1,Untrue Blues,Blind Boy Fuller,"Blind Boy Fuller, Vol 2 (1936 - 1937)",-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3JiWaXexTU6polANzr439v,She's A Truckin' Little Baby,Blind Boy Fuller,Blind Boy Fuller Vol. 4 1937 - 1938,0.55,0.285,2,-15.468,1,0.11,0.985,3.01e-05,0.134,0.85,89.68
@@ -144,6 +146,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 3gdOwcqtYHUyw1FuU0hIxG,What's Gonna Become of Me,Jerron Paxton,What's Gonna Become of Me,0.49,0.355,7,-11.751,1,0.0762,0.962,0.0043,0.109,0.606,70.902
 3iJ7zN5gMrIoL5Q3oVpe5g,Painting the Clouds with Sunshine,Jerron Paxton,"Jalopy Records 7"" Series: Jerron Paxton",0.508,0.227,0,-13.303,1,0.0562,0.917,0.00143,0.367,0.577,115.491
 3l7W8J8p5fZfE9DxdgliwC,Washington Blues,Elizabeth Cotten,Shake Sugaree,0.52,0.161,10,-18.448,1,0.0587,0.955,0.891,0.101,0.637,155.509
+3mnVKIBaWgtDB5lw2ywiFY,Blue Drag,"Harmonicas Of The World, Mariano Massolo, Federico Linari, Konstantin Reinfeld, Howard Levy, Carlos Del Junco, Billy Branch, Rick Estrin, Babak Safarnejad, Franco Luciani, Indiara Sfair, Rachelle Plas, Antonio Serrano",Blue Drag,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3mxe51ad3T4BFdguwAyp6Z,Jivin' The Blues,Sonny Boy Williamson,Blues Classics 3,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3qn1XvK2qV4fVzqUHo3anX,Go Down Sunshine,Odetta,Odetta And The Blues,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 3ris8TaqMl6ZwmlClJ59VG,"Lo, I Be With You Always",Rev. Gary Davis,Harlem Street Singer,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
@@ -262,6 +265,7 @@ Track ID,Track Name,Artist(s),Album,Danceability Rating,Energy Rating,Key Rating
 6hJqobCBH4TqF6Q9SjuOYY,Little Boy Blue,"Big Walter Horton, Carey Bell",Big Walter Horton With Carey Bell,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6hu9c0NhEhSJqtH4b1KDK8,Goodbye Newport Blues - Live At Newport Jazz Festival_1960,Muddy Waters,Muddy Waters At Newport 1960,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6kRTy94pmVhiVGfDOz0MUY,Diving Duck Blues,Sleepy John Estes,The Legend Of Sleepy John Estes [Audiophile Edition],0.6,0.1,9,-20.801,1,0.0361,0.852,8.73e-06,0.138,0.561,77.356
+6loNqWRhatIRg7LDehYCT1,Improvisation in Cm,Indiara Sfair,INTO THE WIND,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6oJv2Y9kt4HmrgnhM4rEFD,Harmonica Solo,Peter Ivers,Nirvana Peter,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
 6pERdwFIbXyh2zdI2TlWC3,Don't Tear My Clothes,Washboard Sam,Washboard Sam Vol. 1 (1935-1936),0.691,0.413,3,-13.974,0,0.123,0.986,0.888,0.134,0.844,168.874
 6pOu443SehImfJ8pJCFALA,Corn Likker Blues,Papa John Kolstad,Beans Taste Fine,-99.0,-99.0,-99,-99.0,-99,-99.0,-99.0,-99.0,-99.0,-99.0,-99.0
